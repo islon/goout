@@ -1,3687 +1,2229 @@
 [
   {
-    "name": "南山博物馆一层一号展厅",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "深圳博物馆（古代艺术馆）",
-    "city": "shenzhen",
-    "source": "深圳博物馆官网"
-  },
-  {
-    "name": "深圳博物馆（改革开放展览馆）",
-    "city": "shenzhen",
-    "source": "深圳博物馆官网"
-  },
-  {
-    "name": "深圳博物馆（历史民俗馆）",
-    "city": "shenzhen",
-    "source": "深圳博物馆官网"
-  },
-  {
-    "name": "深圳宝安·湾区之眼（湾区书城）",
-    "city": "shenzhen",
-    "source": "凤凰网深圳（宝安区）"
-  },
-  {
-    "name": "南山博物馆二层三号展厅",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "南山博物馆二层二号展厅",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "光明区文化馆",
-    "city": "shenzhen",
-    "source": "光明区文化馆"
-  },
-  {
-    "name": "宝安体育馆",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "光明区马田街道综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "光明区马田街道综合性文化服务中心"
-  },
-  {
-    "name": "观澜古墟",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "南山区深圳美术馆",
-    "city": "shenzhen",
-    "source": "深圳美术馆"
-  },
-  {
-    "name": "罗湖区深圳美术馆",
-    "city": "shenzhen",
-    "source": "深圳美术馆（罗湖区）"
-  },
-  {
-    "name": "南山博物馆一层一号专题展厅",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "南山博物馆",
-    "city": "shenzhen",
-    "source": "南山博物馆官网"
-  },
-  {
-    "name": "深圳美术馆（新馆）8号厅",
-    "city": "shenzhen",
-    "source": "深圳美术馆"
-  },
-  {
-    "name": "深圳美术馆（新馆）9号厅",
-    "city": "shenzhen",
-    "source": "深圳美术馆"
-  },
-  {
-    "name": "深圳美术馆（新馆）12、13号厅",
-    "city": "shenzhen",
-    "source": "深圳美术馆"
-  },
-  {
-    "name": "深圳万象天地北区L4层 MXTR GALLERY",
-    "city": "shenzhen",
-    "source": "万象天地"
-  },
-  {
-    "name": "深圳世界之窗（罗马假日广场）",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "迳口社区综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "迳口社区综合性文化服务中心"
-  },
-  {
-    "name": "深圳世界之窗",
-    "city": "shenzhen",
-    "source": "深圳梦/搜狐"
-  },
-  {
-    "name": "深圳美术馆（新馆）",
-    "city": "shenzhen",
-    "source": "深圳美术馆"
-  },
-  {
-    "name": "何香凝美术馆 |",
-    "city": "shenzhen",
-    "source": "南山融媒体中心"
-  },
-  {
-    "name": "深圳科学技术馆（光明新馆）",
-    "city": "shenzhen",
-    "source": "深圳科学技术馆（光明新馆）官网"
-  },
-  {
-    "name": "何香凝美术馆",
-    "city": "shenzhen",
-    "source": "南山融媒体中心"
-  },
-  {
-    "name": "深圳国际美术馆",
-    "city": "shenzhen",
-    "source": "深圳国际美术馆"
-  },
-  {
-    "name": "南山区深圳人才公园潮汐广场",
-    "city": "shenzhen",
-    "source": "南山融媒体中心"
-  },
-  {
-    "name": "深圳人才公园潮汐广场",
-    "city": "shenzhen",
-    "source": "深圳人才公园潮汐广场"
-  },
-  {
-    "name": "吉华街道文化站",
-    "city": "shenzhen",
-    "source": "吉华街道文化站"
-  },
-  {
-    "name": "龙城街道文化站",
-    "city": "shenzhen",
-    "source": "龙城街道文化站"
-  },
-  {
-    "name": "光明区公明街道综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "光明区公明街道综合性文化服务中心"
-  },
-  {
-    "name": "横岗街道文化站",
-    "city": "shenzhen",
-    "source": "横岗街道文化站"
-  },
-  {
-    "name": "园岭街道综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "园岭街道综合性文化服务中心"
-  },
-  {
-    "name": "深圳博物馆",
-    "city": "shenzhen",
-    "source": "深圳博物馆官网"
-  },
-  {
     "name": "深圳图书馆",
+    "source": "szlib",
     "city": "shenzhen",
-    "source": "深圳图书馆官网"
-  },
-  {
-    "name": "龙岗区博物馆",
-    "city": "shenzhen",
-    "source": "龙岗区博物馆"
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区福中一路2001号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳中心图书馆，含中心馆和北馆，常设阅览、展览、讲座等活动。",
+    "official_url": "https://www.szlib.org.cn",
+    "highlights": [
+      "阅读推广",
+      "讲座展览",
+      "暑期缤纷季"
+    ]
   },
   {
     "name": "深圳少年儿童图书馆",
+    "source": "sz_children_lib",
     "city": "shenzhen",
-    "source": "深圳少年儿童图书馆官网"
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区红荔路1011号",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "专为少年儿童服务的公共图书馆，定期举办绘本故事会、阅读推广等活动。",
+    "official_url": "",
+    "highlights": [
+      "儿童阅读",
+      "绘本故事",
+      "暑期活动"
+    ]
   },
   {
-    "name": "深圳市少年宫",
+    "name": "深圳博物馆",
+    "source": "szmuseum",
     "city": "shenzhen",
-    "source": "深圳市少年宫官网"
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区福中路市民中心A区",
+    "transport": "地铁2/4号线市民中心站",
+    "fee": "免费",
+    "description": "深圳综合性博物馆，常设古代深圳、近代深圳、深圳民俗等展览。",
+    "official_url": "https://www.shenzhenmuseum.com",
+    "highlights": [
+      "深圳历史",
+      "古代深圳",
+      "民俗文化"
+    ]
   },
   {
-    "name": "深圳音乐厅",
+    "name": "深圳科学技术馆",
+    "source": "szstm",
     "city": "shenzhen",
-    "source": "深圳音乐厅官网"
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区光明街道",
+    "transport": "地铁6号线光明站",
+    "fee": "免费",
+    "description": "深圳新建科技馆，含互动体验展区、科学实验区等。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验",
+      "科普教育"
+    ]
   },
   {
     "name": "深圳滨海艺术中心",
+    "source": "szbo",
     "city": "shenzhen",
-    "source": "深圳滨海艺术中心官网"
+    "district": "宝安区",
+    "type": "演出场馆",
+    "address": "宝安区宝兴路8号",
+    "transport": "地铁5号线宝华站",
+    "fee": "收费",
+    "description": "宝安滨海文化公园内的大型演艺中心，定期举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "滨海演艺",
+      "音乐剧",
+      "交响乐"
+    ]
   },
   {
-    "name": "深圳图书馆（中心馆+北馆）",
+    "name": "深圳音乐厅",
+    "source": "szconcert",
     "city": "shenzhen",
-    "source": "深圳新闻网"
+    "district": "福田区",
+    "type": "演出场馆",
+    "address": "福田区福中一路2016号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "收费",
+    "description": "深圳专业音乐演出场馆，定期举办交响乐、室内乐等音乐会。",
+    "official_url": "",
+    "highlights": [
+      "古典音乐",
+      "交响乐"
+    ]
   },
   {
-    "name": "光明文化艺术中心美术馆",
+    "name": "深圳市当代艺术与城市规划馆",
+    "source": "szmocap",
     "city": "shenzhen",
-    "source": "光明文化艺术中心"
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区福中路184号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "集当代艺术展览与城市规划展示于一体的综合性场馆。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "城市规划"
+    ]
   },
   {
-    "name": "深圳会展中心（福田）",
+    "name": "深圳市体育中心",
+    "source": "szsports",
     "city": "shenzhen",
-    "source": "深圳食博会官网"
-  },
-  {
-    "name": "光明文化艺术中心美术馆 |",
-    "city": "shenzhen",
-    "source": "光明文化艺术中心/今日头条"
-  },
-  {
-    "name": "南湾街道文化站",
-    "city": "shenzhen",
-    "source": "南湾街道文化站"
-  },
-  {
-    "name": "深圳欢乐谷",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "锦绣中华民俗村",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "深圳欢乐谷 |",
-    "city": "shenzhen",
-    "source": "深圳梦/搜狐"
-  },
-  {
-    "name": "深圳欢乐海岸",
-    "city": "shenzhen",
-    "source": "深圳梦/搜狐"
-  },
-  {
-    "name": "宝安大仟里",
-    "city": "shenzhen",
-    "source": "凤凰网深圳（宝安区）"
-  },
-  {
-    "name": "福田美术馆 |",
-    "city": "shenzhen",
-    "source": "南方都市报"
-  },
-  {
-    "name": "坪地街道文化站",
-    "city": "shenzhen",
-    "source": "坪地街道文化站"
-  },
-  {
-    "name": "光明区图书馆",
-    "city": "shenzhen",
-    "source": "光明区图书馆官网"
-  },
-  {
-    "name": "南山图书馆",
-    "city": "shenzhen",
-    "source": "南山图书馆"
-  },
-  {
-    "name": "宝安区文化馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆"
-  },
-  {
-    "name": "福田美术馆",
-    "city": "shenzhen",
-    "source": "南方都市报"
-  },
-  {
-    "name": "宝安区文化馆新桥街道分馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆新桥街道分馆"
-  },
-  {
-    "name": "宝安图书馆",
-    "city": "shenzhen",
-    "source": "宝安图书馆官网"
+    "district": "福田区",
+    "type": "体育中心",
+    "address": "福田区笋岗西路",
+    "transport": "地铁7号线黄木岗站",
+    "fee": "收费",
+    "description": "深圳市级体育中心，含体育馆、游泳馆等设施。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动健身"
+    ]
   },
   {
     "name": "深圳市文化馆",
+    "source": "szmassart",
     "city": "shenzhen",
-    "source": "深圳市文化馆官网"
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区燕南路",
+    "transport": "地铁2号线燕南站",
+    "fee": "免费",
+    "description": "深圳市级文化馆，举办各类公益文化活动。",
+    "official_url": "",
+    "highlights": [
+      "公益文化",
+      "艺术培训"
+    ]
   },
   {
-    "name": "盐田区图书馆",
+    "name": "深圳自然博物馆",
+    "source": "sznm",
     "city": "shenzhen",
-    "source": "盐田区图书馆官网"
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区石井街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "深圳新建自然博物馆，展示自然历史、生态环境等内容。",
+    "official_url": "",
+    "highlights": [
+      "自然科学",
+      "生态环境"
+    ]
   },
   {
-    "name": "罗湖区图书馆",
+    "name": "南山图书馆",
+    "source": "nslib",
     "city": "shenzhen",
-    "source": "罗湖区图书馆官网"
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区常兴路176号",
+    "transport": "地铁1号线桃园站",
+    "fee": "免费",
+    "description": "南山区公共图书馆，定期举办阅读推广、讲座等活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
   },
   {
-    "name": "宝安区青少年宫",
+    "name": "南山博物馆",
+    "source": "nsmuseum",
     "city": "shenzhen",
-    "source": "宝安区青少年宫"
-  },
-  {
-    "name": "深圳市青少年活动中心",
-    "city": "shenzhen",
-    "source": "深圳市青少年活动中心官网"
-  },
-  {
-    "name": "南山文体中心",
-    "city": "shenzhen",
-    "source": "南山文体中心"
-  },
-  {
-    "name": "南山区青少年活动中心",
-    "city": "shenzhen",
-    "source": "南山区青少年活动中心"
-  },
-  {
-    "name": "宝安区文化馆燕罗街道分馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆燕罗分馆"
-  },
-  {
-    "name": "龙华区图书馆",
-    "city": "shenzhen",
-    "source": "龙华区图书馆官网"
-  },
-  {
-    "name": "龙华区青少年宫",
-    "city": "shenzhen",
-    "source": "龙华区青少年宫"
-  },
-  {
-    "name": "福田区图书馆",
-    "city": "shenzhen",
-    "source": "福田区图书馆官网"
-  },
-  {
-    "name": "光明文化艺术中心·演艺中心·音乐厅 |",
-    "city": "shenzhen",
-    "source": "光明文化艺术中心"
-  },
-  {
-    "name": "坂田街道文化站",
-    "city": "shenzhen",
-    "source": "坂田街道文化站"
-  },
-  {
-    "name": "宝安科技馆",
-    "city": "shenzhen",
-    "source": "宝安科技馆"
-  },
-  {
-    "name": "深圳湾体育中心",
-    "city": "shenzhen",
-    "source": "深圳湾体育中心"
-  },
-  {
-    "name": "宝安体育中心",
-    "city": "shenzhen",
-    "source": "宝安体育中心"
-  },
-  {
-    "name": "桃源街道综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "桃源街道文化服务中心"
-  },
-  {
-    "name": "小梅沙",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "深圳六大书城（中心城/南山/罗湖/龙岗等）",
-    "city": "shenzhen",
-    "source": "深圳书城"
-  },
-  {
-    "name": "翠湖文体公园拾光草坪 |",
-    "city": "shenzhen",
-    "source": "罗湖发布"
-  },
-  {
-    "name": "深圳戏院 |",
-    "city": "shenzhen",
-    "source": "艺览无余/搜狐"
-  },
-  {
-    "name": "深圳会展中心",
-    "city": "shenzhen",
-    "source": "深圳会展中心"
-  },
-  {
-    "name": "坪山区图书馆",
-    "city": "shenzhen",
-    "source": "坪山区图书馆官网"
-  },
-  {
-    "name": "龙岗区青少年宫",
-    "city": "shenzhen",
-    "source": "龙岗区青少年宫"
-  },
-  {
-    "name": "茅洲河体育艺术中心剧场 |",
-    "city": "shenzhen",
-    "source": "荣艺文化/搜狐"
-  },
-  {
-    "name": "龙岗区图书馆",
-    "city": "shenzhen",
-    "source": "龙岗区图书馆官网"
-  },
-  {
-    "name": "大鹏地质公园博物馆",
-    "city": "shenzhen",
-    "source": "大鹏地质公园博物馆"
-  },
-  {
-    "name": "大鹏新区图书馆",
-    "city": "shenzhen",
-    "source": "大鹏新区图书馆官网"
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道2093号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南山区综合性博物馆，常设古代南山、近代南山展览，定期举办特展。",
+    "official_url": "",
+    "highlights": [
+      "南山历史",
+      "特色特展"
+    ]
   },
   {
     "name": "南山区文化馆",
+    "source": "nswhg",
     "city": "shenzhen",
-    "source": "南山区文化馆官网"
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
   },
   {
-    "name": "深圳市体育中心体育场",
+    "name": "南山区青少年活动中心",
+    "source": "nsqsng",
     "city": "shenzhen",
-    "source": "深圳市体育中心"
+    "district": "南山区",
+    "type": "青少年宫",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区青少年校外活动场所，开展各类兴趣培训。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
   },
   {
-    "name": "深圳音乐厅 |",
+    "name": "南山文体中心",
+    "source": "nswtzx",
     "city": "shenzhen",
-    "source": "深圳音乐厅官网"
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区南山大道",
+    "transport": "地铁1号线桃园站",
+    "fee": "收费",
+    "description": "南山文体中心，含大剧院、聚橙剧院等演出场馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "体育"
+    ]
   },
   {
-    "name": "大鹏办事处公共事业服务中心",
+    "name": "南山安全教育体验馆",
+    "source": "nsaqjy",
     "city": "shenzhen",
-    "source": "大鹏办事处公共事业服务中心"
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "安全主题沉浸式体验展，含消防、交通、自然灾害等互动体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ]
   },
   {
-    "name": "中轴云廊·顶上空间",
+    "name": "蛇口海洋科普馆",
+    "source": "skhykpg",
     "city": "shenzhen",
-    "source": "中轴云廊·顶上空间"
+    "district": "南山区",
+    "type": "科普馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "蛇口海洋科普馆，展示海洋生物标本、珊瑚等。",
+    "official_url": "",
+    "highlights": [
+      "海洋生物",
+      "标本展览"
+    ]
   },
   {
-    "name": "光明区光明街道综合性文化服务中心",
+    "name": "深爱人才馆",
+    "source": "sarc",
     "city": "shenzhen",
-    "source": "光明区光明街道综合性文化服务中心"
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示深圳人才政策和科技创新成果。",
+    "official_url": "",
+    "highlights": [
+      "人才政策",
+      "科技创新"
+    ]
   },
   {
-    "name": "龙岗街道文化站",
+    "name": "南头古城博物馆群",
+    "source": "ntgc",
     "city": "shenzhen",
-    "source": "龙岗街道文化站"
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区南山大道3109号",
+    "transport": "地铁12号线南头古城站",
+    "fee": "免费",
+    "description": "南头古城内多个主题博物馆群，展示深圳1700年城市历史。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "考古发现"
+    ]
   },
   {
-    "name": "江岭社区公共文化服务中心",
+    "name": "招商局历史博物馆",
+    "source": "zsjbwg",
     "city": "shenzhen",
-    "source": "江岭社区公共文化服务中心"
+    "district": "南山区",
+    "type": "博物馆",
+    "address": "南山区蛇口",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "展示招商局150年发展历程和中国近代航运史。",
+    "official_url": "",
+    "highlights": [
+      "招商局历史",
+      "航运史"
+    ]
   },
   {
-    "name": "深圳市坪山区石井街道公共文化服务中心",
+    "name": "南山书房",
+    "source": "nssxf",
     "city": "shenzhen",
-    "source": "深圳市坪山区石井街道公共文化服务中心"
-  },
-  {
-    "name": "凤凰街道综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "凤凰街道综合性文化服务中心"
-  },
-  {
-    "name": "盐田区文化馆",
-    "city": "shenzhen",
-    "source": "盐田区文化馆"
-  },
-  {
-    "name": "福田戏剧馆",
-    "city": "shenzhen",
-    "source": "福田戏剧馆"
-  },
-  {
-    "name": "大浪街道综合文化服务中心",
-    "city": "shenzhen",
-    "source": "大浪街道综合文化服务中心"
-  },
-  {
-    "name": "深圳图书馆 (深圳图书馆中心馆)",
-    "city": "shenzhen",
-    "source": "深圳图书馆"
-  },
-  {
-    "name": "深圳图书馆 (深圳图书馆北馆)",
-    "city": "shenzhen",
-    "source": "深圳图书馆"
-  },
-  {
-    "name": "光明文化艺术中心·演艺中心·大剧院",
-    "city": "shenzhen",
-    "source": "光明文化艺术中心"
-  },
-  {
-    "name": "光明农场大观园",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
+    "district": "南山区",
+    "type": "图书馆",
+    "address": "南山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区社区阅读空间，提供自助阅览服务。",
+    "official_url": "",
+    "highlights": [
+      "社区阅读",
+      "自助阅览"
+    ]
   },
   {
     "name": "华侨城湿地",
-    "city": "shenzhen",
-    "source": "深圳本地宝"
-  },
-  {
-    "name": "光明文化艺术中心·演艺中心·大剧场 |",
-    "city": "shenzhen",
-    "source": "光明文化艺术中心"
-  },
-  {
-    "name": "福田音乐馆",
-    "city": "shenzhen",
-    "source": "福田音乐馆"
-  },
-  {
-    "name": "海上世界滨海公园",
-    "city": "shenzhen",
-    "source": "蛇口文化"
-  },
-  {
-    "name": "塘朗山郊野公园（龙珠门）",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "塘朗山公园桃源入口",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "大沙河生态长廊（全线南山段）",
-    "city": "shenzhen",
-    "source": "南山区政府"
-  },
-  {
-    "name": "大沙河公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "深圳湾红树林生态公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "蛇口海滨公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "四海公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "松坪公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "西丽湖公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "石鼓山公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "丽湖公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "留仙洞公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "后海中心河公园",
-    "city": "shenzhen",
-    "source": "南山区政府"
-  },
-  {
-    "name": "前海石公园",
-    "city": "shenzhen",
-    "source": "前海管理局"
-  },
-  {
-    "name": "桂湾公园",
-    "city": "shenzhen",
-    "source": "前海管理局"
-  },
-  {
-    "name": "前海演艺公园",
-    "city": "shenzhen",
-    "source": "前海管理局"
-  },
-  {
-    "name": "深圳湾体育中心户外公园",
-    "city": "shenzhen",
-    "source": "华润体育"
-  },
-  {
-    "name": "华侨城生态广场",
-    "city": "shenzhen",
-    "source": "华侨城"
-  },
-  {
-    "name": "欢乐谷外围市政公园",
-    "city": "shenzhen",
-    "source": "华侨城"
-  },
-  {
-    "name": "世界之窗外围广场公园",
-    "city": "shenzhen",
-    "source": "华侨城"
-  },
-  {
-    "name": "锦绣中华外围绿地公园",
-    "city": "shenzhen",
-    "source": "华侨城"
-  },
-  {
-    "name": "深圳水土保持科技示范园",
-    "city": "shenzhen",
-    "source": "深圳水土保持"
-  },
-  {
-    "name": "蛇口渔港公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "蛇口渔人码头公园",
-    "city": "shenzhen",
-    "source": "南山新闻网"
-  },
-  {
-    "name": "南头古城文化街区全域",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "南头古城文创展示馆",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "南头古城城墙遗址公园",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "海上世界明华轮广场",
-    "city": "shenzhen",
-    "source": "蛇口文化"
-  },
-  {
-    "name": "南山文体中心户外广场",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "南山文体中心阅览区",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "深圳大学杜鹃山公园",
-    "city": "shenzhen",
-    "source": "深圳大学"
-  },
-  {
-    "name": "深圳大学文山湖公园",
-    "city": "shenzhen",
-    "source": "深圳大学"
-  },
-  {
-    "name": "粤海街道文体中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "沙河街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "西丽街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "桃源街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "招商街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "南山街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "南头街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "深圳湾公园运动乐园片区",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "深圳湾潮汐科普园区",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "大沙河长廊大学城段",
-    "city": "shenzhen",
-    "source": "南山区政府"
-  },
-  {
-    "name": "大沙河万象城段",
-    "city": "shenzhen",
-    "source": "南山区政府"
-  },
-  {
-    "name": "南山妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "南山区政府"
-  },
-  {
-    "name": "南山生态环境科普基地",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "学府社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "科技园社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "蛇口社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "西丽湖社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "前海社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "华侨城社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "赤湾天后博物馆",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "陈郁故居纪念馆",
-    "city": "shenzhen",
-    "source": "南山博物馆"
-  },
-  {
-    "name": "深圳博物馆（市民中心总馆）",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "深圳改革开放展览馆",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "关山月美术馆",
-    "city": "shenzhen",
-    "source": "光明文化艺术中心"
-  },
-  {
-    "name": "福田区科学馆",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "深圳市妇儿大厦儿童探索馆",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "福田区应急安全教育基地",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田香蜜公园垃圾分类科普馆",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "福田红树林生态公园科普展厅",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "福田区非物质文化遗产馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "深圳金融文化中心",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "福田区城市规划展览馆",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田区禁毒科普教育馆",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田河科普展厅（中心公园）",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "华强北电子博物馆",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "深圳当代艺术馆市民中心展区",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "东江游击队指挥部旧址纪念馆",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "福田青少年宫航天体验区",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田区中医药科普馆",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "会展中心地铁站科普长廊",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田绘本博物馆（香蜜分馆）",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "福田区图书馆总馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "香蜜公园儿童图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "中心公园海滨图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "梅林公园梅林书院",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "莲花山蓝书坊图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "莲花街道图书馆（莲花北社区）",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "华强北街道文化图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "沙头街道图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "南园街道非遗主题图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "福保街道图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "园岭街道图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "福华社区图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "竹子林街道图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "香蜜湖街道图书馆",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "华强书房（24 小时自助）",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "中心书房 24 小时阅读空间",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "下沙滨海书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "梅林半山书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "莲北亲子书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "福民港湾书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "园岭老街书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "竹林生态书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "香蜜艺术书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "南园非遗书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "少年星空书房",
-    "city": "shenzhen",
-    "source": "福田图书馆"
-  },
-  {
-    "name": "莲花山公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "福田红树林生态公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "深圳中心公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "香蜜公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "梅林公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "梅林后山",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "笔架山公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "福田河碧道（全线）",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福海河滨水公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "皇岗公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福保海滨休闲公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "园岭公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "荔园社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "莲花北社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "竹子林海滨公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "香蜜湖休闲公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "市民中心南广场公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "会展中心市政公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "华强北中心广场",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "下沙村社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "侨香路沿线绿道公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "安托山公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "景田社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "红荔路市政绿道",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "梅林一村社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "保税区中央公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "新洲河滨水公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "沙头文体公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "南园滨河公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "黄木岗社区公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "莲花街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "华强北街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "沙头街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "南园街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "福保街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "园岭街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "梅林街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "香蜜湖街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "竹子林街道文化中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "福田区青少年宫",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "福田区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "莲花北社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "华强北社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "下沙社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "南园社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "福保社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "园岭社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "梅林社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "香蜜湖社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "竹子林社区党群服务中心",
-    "city": "shenzhen",
-    "source": "南山文化艺术中心"
-  },
-  {
-    "name": "福田区党史教育馆（莲花山）",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "香蜜公园应急科普小屋",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "中心公园福田河科普驿站",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "市民中心地铁科普长廊",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "市民中心雕塑园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "东门老街自助书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "仙湖山林书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "洪湖荷韵24h书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "大芬美术24h书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "笋岗科创书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "莲塘生态书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "清水河环保书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "黄贝滨海书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "翠竹珠宝科普书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "南湖口岸双语书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "东湖山林书房",
-    "city": "shenzhen",
-    "source": "龙华图书馆"
-  },
-  {
-    "name": "仙湖植物园",
-    "city": "shenzhen",
-    "source": "深圳科技馆"
-  },
-  {
-    "name": "洪湖公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "大芬油画村公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "黄贝海滨公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "翠竹公园",
-    "city": "shenzhen",
-    "source": "福田区政府"
-  },
-  {
-    "name": "东湖公园（深圳水库）",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "清水河滨河公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东门文化广场公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "莲塘仙桐体育公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "南湖口岸休闲公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东晓公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "桂园滨河公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "笋岗中心公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "淘金山绿道公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "银湖山郊野公园（罗湖入口）",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "人民公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "荔枝公园（罗湖片区）",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "文锦渡滨河公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "草埔社区公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "莲塘口袋公园群",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东湖绿道科普驿站",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "仙桐登山绿道",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "黄贝社区口袋公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "大芬滨河绿道",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "清水河环保主题绿道",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "笋岗物流文化公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "南湖滨江观景平台",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "东晓花卉科普公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "桂园老城口袋公园",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "银湖绿道亲子段",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "人民公园月季园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "荔枝公园环湖步道",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "文锦渡滨河科普长廊",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "草埔滨河步道",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "莲塘花海休闲绿地",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东门街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "笋岗街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "莲塘街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "清水河街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "黄贝街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "翠竹街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "南湖街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东湖街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "东晓街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "桂园街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "罗湖区青少年宫",
-    "city": "shenzhen",
-    "source": "罗湖区政府"
-  },
-  {
-    "name": "罗湖区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "罗湖区政府"
-  },
-  {
-    "name": "东门社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "莲塘社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "清水河社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "深圳经济特区纪念馆红色课堂",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
+    "source": "oct_wetland",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区白石路",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费需预约",
+    "description": "华侨城湿地公园，开展自然教育、观鸟等亲子活动。",
+    "official_url": "",
+    "highlights": [
+      "湿地生态",
+      "观鸟",
+      "自然教育"
+    ]
+  },
+  {
+    "name": "深圳湾体育中心",
+    "source": "szwty",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "体育中心",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线后海站",
+    "fee": "收费",
+    "description": "深圳湾体育中心（春茧），含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "欢乐港湾",
+    "source": "hlgw",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区海天路",
+    "transport": "地铁5号线临海站",
+    "fee": "免费",
+    "description": "宝安滨海文化公园，含摩天轮、商业综合体等。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "摩天轮"
+    ]
+  },
+  {
+    "name": "福田区图书馆",
+    "source": "ftlib",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "图书馆",
+    "address": "福田区景田路70号",
+    "transport": "地铁2号线景田站",
+    "fee": "免费",
+    "description": "福田区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "福田区文化馆",
+    "source": "ftwhg",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "福田美术馆",
+    "source": "ftart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ]
+  },
+  {
+    "name": "深圳古生物博物馆",
+    "source": "lh_paleo",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "博物馆",
+    "address": "罗湖区仙湖植物园内",
+    "transport": "地铁2号线仙湖路站",
+    "fee": "免费",
+    "description": "展示恐龙化石、三叶虫等古生物标本，介绍地球生命演化历程。",
+    "official_url": "",
+    "highlights": [
+      "古生物化石",
+      "恐龙",
+      "生命演化"
+    ]
+  },
+  {
+    "name": "罗湖区图书馆",
+    "source": "lhlib",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "图书馆",
+    "address": "罗湖区怡景路1014号",
+    "transport": "地铁5号线怡景站",
+    "fee": "免费",
+    "description": "罗湖区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "罗湖区文化馆",
+    "source": "lhwhg2",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "文化馆",
+    "address": "罗湖区",
+    "transport": "",
+    "fee": "免费",
+    "description": "罗湖区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "深圳戏院",
+    "source": "lhtheatre",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区新园路1号",
+    "transport": "地铁1/3号线老街站F出口",
+    "fee": "需购票",
+    "description": "深圳老牌演出场馆，定期举办京剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "京剧",
+      "儿童剧",
+      "少儿演出季"
+    ]
+  },
+  {
+    "name": "深圳大剧院",
+    "source": "szdjy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "演出场馆",
+    "address": "罗湖区深南东路5018号",
+    "transport": "地铁1/2号线大剧院站",
+    "fee": "需购票",
+    "description": "深圳大剧院，举办音乐会、歌剧、芭蕾等高端演出。",
+    "official_url": "",
+    "highlights": [
+      "交响乐",
+      "歌剧",
+      "芭蕾"
+    ]
+  },
+  {
+    "name": "宝安图书馆",
+    "source": "balib",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "图书馆",
+    "address": "宝安区宝兴路1号",
+    "transport": "地铁5号线宝华站",
+    "fee": "免费",
+    "description": "宝安区公共图书馆，含总馆和多个街道分馆。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "宝安区博物馆",
+    "source": "bamuseum",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区博物馆，展示宝安历史文化。",
+    "official_url": "",
+    "highlights": [
+      "宝安历史",
+      "地方文化"
+    ]
+  },
+  {
+    "name": "宝安1990文化馆",
+    "source": "baoan_1990",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安1990文化馆，含文化馆、博物馆、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "展览"
+    ]
+  },
+  {
+    "name": "宝安科技馆",
+    "source": "baoan_kjg",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "科技馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区科技馆，含互动体验展区。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "宝安体育中心",
+    "source": "baoan_ty",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "体育中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "收费",
+    "description": "宝安区体育中心，含体育馆、游泳馆等。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "宝安区青少年宫",
+    "source": "baoan_qsng",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "青少年宫",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "宝安区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "name": "宝安城市规划展览馆",
+    "source": "baoan_guihua",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "博物馆",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示宝安区城市规划建设成就。",
+    "official_url": "",
+    "highlights": [
+      "城市规划",
+      "建设成就"
+    ]
+  },
+  {
+    "name": "湾区之眼",
+    "source": "bayarea_eye",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区",
+    "transport": "",
+    "fee": "免费",
+    "description": "湾区文化综合体，含图书馆、展览等。",
+    "official_url": "",
+    "highlights": [
+      "文化综合体",
+      "阅读空间"
+    ]
+  },
+  {
+    "name": "龙岗区图书馆",
+    "source": "lglib",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "图书馆",
+    "address": "龙岗区中心城",
+    "transport": "地铁3号线龙城广场站",
+    "fee": "免费",
+    "description": "龙岗区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "龙岗区博物馆",
+    "source": "lgmuseum",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区博物馆，展示龙岗历史文化。",
+    "official_url": "",
+    "highlights": [
+      "龙岗历史",
+      "地方文化"
+    ]
+  },
+  {
+    "name": "龙岗区文化馆",
+    "source": "lgwhg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "龙岗区青少年宫",
+    "source": "lgqsng",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "青少年宫",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "name": "龙岗客家民俗博物馆",
+    "source": "lg_hakka",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "博物馆",
+    "address": "龙岗区龙岗街道鹤湖新居",
+    "transport": "地铁3号线南联站",
+    "fee": "免费",
+    "description": "全国最大的客家围屋之一，展示客家迁徙历史和民俗文化。",
+    "official_url": "",
+    "highlights": [
+      "客家文化",
+      "鹤湖新居",
+      "民俗文物"
+    ]
+  },
+  {
+    "name": "龙岗体育中心",
+    "source": "lgtyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "深圳龙岗国际艺术中心",
+    "source": "lg_arts",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "演出场馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "收费",
+    "description": "龙岗区国际艺术中心，举办高端演出。",
+    "official_url": "",
+    "highlights": [
+      "国际演出",
+      "艺术交流"
+    ]
+  },
+  {
+    "name": "龙岗区科技馆",
+    "source": "lgkjg",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "科技馆",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区科技馆（红立方）。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "龙岗儿童公园",
+    "source": "lgpark",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区儿童主题公园，适合亲子游玩。",
+    "official_url": "",
+    "highlights": [
+      "亲子游乐",
+      "无动力乐园"
+    ]
+  },
+  {
+    "name": "龙华区图书馆",
+    "source": "lhxqlib",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "图书馆",
+    "address": "龙华区",
+    "transport": "地铁4号线",
+    "fee": "免费",
+    "description": "龙华区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "龙华区青少年宫",
+    "source": "lhqsng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "青少年宫",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "name": "龙华区文化馆",
+    "source": "lhwhg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "文化馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区文化馆，举办公益文化培训、演出等活动。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "中国版画博物馆",
+    "source": "lh_printmaking",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "美术馆",
+    "address": "龙华区观澜街道",
+    "transport": "地铁4号线牛湖站",
+    "fee": "免费需预约",
+    "description": "全国首个专业版画博物馆，紧邻观澜版画村。",
+    "official_url": "",
+    "highlights": [
+      "版画艺术",
+      "国际馆藏",
+      "观澜版画村"
+    ]
+  },
+  {
+    "name": "龙华生态文明展览馆",
+    "source": "lh_ecology",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科普馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示龙华区生态文明建设成果。",
+    "official_url": "",
+    "highlights": [
+      "生态文明",
+      "环保科技"
+    ]
+  },
+  {
+    "name": "龙华区科技馆",
+    "source": "lhkjg",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "科技馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "龙华白石龙纪念馆",
+    "source": "lhbljng",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "博物馆",
+    "address": "龙华区",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙华白石龙中国文化名人大营救纪念馆。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "历史纪念"
+    ]
+  },
+  {
+    "name": "光明区图书馆",
+    "source": "gmlib",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "图书馆",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "免费",
+    "description": "光明区公共图书馆，定期举办阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "社区文化"
+    ]
+  },
+  {
+    "name": "光明区科技馆",
+    "source": "gm_kjg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "科技馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "光明区科技馆，含互动科技体验展。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "光明区文化馆",
+    "source": "gmwhg",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "光明文化艺术中心",
+    "source": "gmarts",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区",
+    "transport": "地铁6号线",
+    "fee": "收费",
+    "description": "光明文化艺术中心，含大剧场、音乐厅、美术馆。",
+    "official_url": "",
+    "highlights": [
+      "演出",
+      "展览",
+      "艺术"
+    ]
+  },
+  {
+    "name": "光明区青少年活动中心",
+    "source": "gmqsng",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "青少年宫",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "name": "光明区群众体育中心",
+    "source": "gmtyzx",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "体育中心",
+    "address": "光明区",
+    "transport": "",
+    "fee": "收费",
+    "description": "光明区群众体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "光明虹桥公园",
+    "source": "gmhbgy",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区虹桥公园，以红色空中廊桥著称。",
+    "official_url": "",
+    "highlights": [
+      "虹桥步道",
+      "休闲健身"
+    ]
+  },
+  {
+    "name": "玉塘文体中心",
+    "source": "gmtysq",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化中心",
+    "address": "光明区玉塘街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区玉塘街道文体中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化",
+      "体育"
+    ]
+  },
+  {
+    "name": "坪山区图书馆",
+    "source": "pslib",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "图书馆",
+    "address": "坪山区坪山街道",
+    "transport": "地铁16号线",
+    "fee": "免费",
+    "description": "坪山区公共图书馆，定期举办阅读推广、暑期活动等。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "暑期活动",
+      "亲子活动"
+    ]
+  },
+  {
+    "name": "坪山美术馆",
+    "source": "psart",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "美术馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山美术馆，展示当代艺术作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "湾区艺术"
+    ]
+  },
+  {
+    "name": "坪山大剧院",
+    "source": "psthtr",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "演出场馆",
+    "address": "坪山区",
+    "transport": "地铁16号线",
+    "fee": "收费",
+    "description": "坪山大剧院，举办舞剧、音乐剧、儿童剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "舞剧",
+      "音乐剧",
+      "儿童剧"
+    ]
+  },
+  {
+    "name": "坪山区科技馆",
+    "source": "pskjg",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "科技馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "坪山区科技馆，含科普体验区。",
+    "official_url": "",
+    "highlights": [
+      "科普教育",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "坪山体育中心",
+    "source": "pstyzx",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "体育中心",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "收费",
+    "description": "坪山区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "坪山东江纵队纪念馆",
+    "source": "psdjng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "博物馆",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示东江纵队抗战历史。",
+    "official_url": "",
+    "highlights": [
+      "红色文化",
+      "抗战历史"
+    ]
+  },
+  {
+    "name": "坪山中心公园",
+    "source": "pszxgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山中心公园，含环湖步道、无动力乐园。",
+    "official_url": "",
+    "highlights": [
+      "环湖步道",
+      "无动力乐园",
+      "亲子"
+    ]
+  },
+  {
+    "name": "马峦山郊野公园",
+    "source": "mlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区马峦山",
+    "transport": "",
+    "fee": "免费",
+    "description": "马峦山郊野公园，可观瀑布、探访客家古村落。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "瀑布",
+      "客家村落"
+    ]
+  },
+  {
+    "name": "聚龙山生态公园",
+    "source": "jlsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区聚龙山",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "聚龙山生态公园，定期开展自然课堂。",
+    "official_url": "",
+    "highlights": [
+      "自然教育",
+      "植物识别",
+      "昆虫观察"
+    ]
+  },
+  {
+    "name": "燕子湖国际会展中心",
+    "source": "yhzgz",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "会展中心",
+    "address": "坪山区燕子湖",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山燕子湖国际会展中心，承办各类博览会。",
+    "official_url": "",
+    "highlights": [
+      "会展",
+      "博览"
+    ]
+  },
+  {
+    "name": "盐田区图书馆",
+    "source": "ytlib",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "图书馆",
+    "address": "盐田区",
+    "transport": "地铁8号线",
+    "fee": "免费",
+    "description": "盐田区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ]
+  },
+  {
+    "name": "盐田区文化馆",
+    "source": "ytwhg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "文化馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
   },
   {
     "name": "中英街历史博物馆",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "洪湖公园应急科普驿站",
-    "city": "shenzhen",
-    "source": "龙华区政府"
-  },
-  {
-    "name": "仙湖植物园种子科普屋",
-    "city": "shenzhen",
-    "source": "深圳科技馆"
-  },
-  {
-    "name": "大芬油画村公共美术馆广场",
-    "city": "shenzhen",
-    "source": "达芬美术馆"
-  },
-  {
-    "name": "盐田区博物馆（盐田美术馆）",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "小梅沙海洋科普馆（公益展厅）",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田港港口科普馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区应急安全教育基地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田滨海环保科普馆",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "中英街历史博物馆（盐田属地）",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区非遗展示中心",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "盐田区城市规划展览馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区禁毒科普馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田河治水科普馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田地质科普展厅",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田青少年宫航天体验区",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区中医药文化体验馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山地铁站科普通道",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田图书馆少儿绘本馆（总馆）",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "盐田古盐场文化展厅",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙候鸟科普展厅",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "盐田区少儿美术展厅",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角疍家民俗馆",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区图书馆总馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "大梅沙滨海图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "小梅沙海岸书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "三洲田森林图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "沙头角街道图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "盐田街道图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "梅沙街道图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "海山街道图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "北山街道图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "中英街社区图书馆",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "沙头角滨海24小时书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "大梅沙海岸24h书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "小梅沙滨海自助书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "三洲田森林24h书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "盐田港党群24h书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "北山社区24小时书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "中英街党群24h书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "海山美术24小时书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "沙头角疍家主题书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "梅沙湿地24小时书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "盐田街道党群24h阅读点",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "北山社区口袋书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "海山公园配套自助书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "沙头角老城社区书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "三洲田红色24h书房",
-    "city": "shenzhen",
-    "source": "盐田图书馆"
-  },
-  {
-    "name": "大梅沙海滨公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "小梅沙滨海公园（外围公益区）",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角海滨栈道公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "三洲田森林公园",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "海山公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙红树林湿地公园",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "盐田港中央绿地公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角河滨河公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角疍家风情公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田水库沿岸步道",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "小梅沙山体步道公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙后山绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田河两岸滨河绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山社区口袋公园群",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角老城休闲广场",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山花海休闲绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田港滨海观景平台",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "梅沙社区口袋公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田山间瀑布步道",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角体育公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山滨河绿道",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "中英街入口广场公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山人工湖环湖绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田街道文化广场绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙潮汐科普滩涂",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "小梅沙观景登山道",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田红色文化广场",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "沙头角湿地小公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山儿童游乐公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山滨海观景草坪",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "盐田河浅滩亲水区域",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "梅沙山顶观景公园",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角渔港休闲绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田四季花谷绿地",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "望野博物馆（龙华文化艺术中心）",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "中国文化名人大营救纪念馆",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "艺之卉百年时尚博物馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "深圳红木家具博物馆",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "龙华区应急安全教育基地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华垃圾分类科普教育馆",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "龙华区非物质文化遗产馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华区城市规划展览馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华区禁毒科普馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华河碧道科普展厅（龙华公园）",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华区中医药文化体验馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "中国·观澜版画博物馆",
-    "city": "shenzhen",
-    "source": "中国版画博物馆"
-  },
-  {
-    "name": "龙华美术馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "红山地铁站科普展示区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华图书馆总馆少儿绘本馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪时尚小镇科创展示厅",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜鳌湖老村客家民俗馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜河湿地候鸟科普屋",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "龙华青少年宫航天体验区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖东纵文化展示点",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "龙华区图书馆总馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华文化艺术中心图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "版画基地图书馆",
-    "city": "shenzhen",
-    "source": "中国版画博物馆"
-  },
-  {
-    "name": "民治文化中心图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华街道文化大楼图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪文化中心图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "福城文化中心图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖文化中心图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "民治北站社区图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鹭湖图书馆",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华图书馆24小时阅读区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "清湖艺术24小时书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "版画村自助阅读书房",
-    "city": "shenzhen",
-    "source": "中国版画博物馆"
-  },
-  {
-    "name": "白石龙红色主题自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华公园滨河自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪小镇24小时阅读点",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "福城环保科普自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖生态24小时书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "红山地铁科创自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鹭湖新城24小时阅读点",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "民治北站双语自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鳌湖古村客家自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华青少年宫24小时阅读区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华中医院自助阅读点",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖安全基地自助书房",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "清湖公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜版画村配套生态公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜河碧道全线",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "白石龙音乐公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪时尚小镇中央绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鹭湖国际住区中心公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖街道体育中心配套绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "茜坑水库公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华区民治银湖山脚",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "龙华街道沿河碧道",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "白石龙各社区小微绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪河两岸亲水步道",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "樟坑径田园休闲公园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "福城环保产业园配套绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "红山地铁站市政大草坪",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鳌湖艺术村河道两岸",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "清湖公园花海片区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "塘水围片区综合绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜河中段湿地片区",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "大浪羊台山山脚",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "文化艺术中心外围草坪",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "茜坑社区多处小微休闲绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "樟坑径水库沿岸绿道",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大营救纪念馆配套广场绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪时尚小镇沿河绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鹭湖新城全线慢行绿道",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华公园草坪安全小屋",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "版画基地农田配套草坪",
-    "city": "shenzhen",
-    "source": "中国版画博物馆"
-  },
-  {
-    "name": "沙吓片区山体休闲绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "樟坑径矿山遗址绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "茜坑水库节水科普长廊",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "红山片区产业园配套绿地",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "鳌湖古村果蔬种植休闲区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "清湖人工湖环湖全线",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "民治街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "福城街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖街道文化中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "深圳妇女联合会"
-  },
-  {
-    "name": "白石龙社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜版画社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "大浪时尚社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "福城茜坑社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖樟坑径社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "中国文化名人大营救纪念馆主展厅",
-    "city": "shenzhen",
-    "source": "深圳博物馆"
-  },
-  {
-    "name": "鳌湖客家民俗文化展厅",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观湖应急基地户外科普长廊",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "观澜河碧道科普展示廊",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "中国版画博物馆手工体验区",
-    "city": "shenzhen",
-    "source": "中国版画博物馆"
-  },
-  {
-    "name": "大浪时尚小镇公共展示厅",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华规划馆户外沙盘展示区",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "龙华文化中心户外雕塑园",
-    "city": "shenzhen",
-    "source": "龙华区文旅局"
-  },
-  {
-    "name": "光明文化艺术中心（图书馆 / 美术馆 / 规划馆）",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区城市规划展览馆",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "深圳科技馆（光明馆）",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "光明区应急科普教育基地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明低碳环保科普馆",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "光明区非物质文化遗产馆",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "惜物博物馆（红满庭红木馆）",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "光明国际中医药港科普馆",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区禁毒馆",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "茅洲河碧道科普展厅",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区青少年宫航天展厅",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明群众体育中心科普区",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "凤凰城地铁站科普长廊",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明少年儿童图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "光明农业科普馆",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明科学公园湿地科普驿站",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "光明革命历史展示点",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "光明时尚智造科普展示厅",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "虹桥公园地质科普休息站",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区图书馆总馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "光明街道图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "公明文化中心图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "新湖街道图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "凤凰街道图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "玉塘街道图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "马田街道图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "科学公园配套图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "虹桥公园书香图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "体育中心配套图书馆",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "光明图书馆24小时阅读区",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "凤凰城站书香亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "公明文化中心24h阅读点",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "新湖再生基地自助书房",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "科学公园24小时自助亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "虹桥公园24h书香亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "玉塘产业园24h阅读点",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "马田文化中心24h自助区",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "光明中医院24小时阅读点",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "群众体育中心24h自助亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "少儿图书馆夜间自助区",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "茅洲河碧道书香亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "公明革命展厅配套24h点",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "新湖田园综合体24h亭",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "光明美术馆24h阅读角",
-    "city": "shenzhen",
-    "source": "光明图书馆"
-  },
-  {
-    "name": "虹桥公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明科学公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明新城公园",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "光明群众体育中心户外绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "茅洲河光明段全线碧道",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "新湖田园综合体公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "公明公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "玉塘街道产业园中央绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "马田公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "凤凰社区小微休闲绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "深圳国际美术馆配套广场",
-    "city": "shenzhen",
-    "source": "深圳政府在线"
-  },
-  {
-    "name": "虹桥公园入口花海片区",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "新湖环保产业园配套公园",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "公明街道茅洲河岸绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "马田山间溪谷平缓路线",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "玉塘街道河道小微绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明水库环湖公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "科学公园北侧湿地观鸟点",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "光明文化艺术中心外围市政草坪",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "公明麒麟文化公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "新湖田园果蔬种植区休闲带",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "凤凰高新产业园中央草坪",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "马田居民区综合休闲公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "虹桥公园中段矿石展示绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明安全产业园配套绿地",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "玉塘街道茅洲河配套公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "科学公园本土果树种植区",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "公明小型水库沿岸绿道",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "新湖街道茅洲河浅滩区域",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "马田山间溪谷花海片区",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明新城茅洲河岸科普带",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "凤凰街道后山小型山体公园",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "科学公园南侧人工湿地",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "公明麒麟公园沿河亲水步道",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "公明街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "新湖街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "凤凰街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "玉塘街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "马田街道文化中心",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区青少年宫",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "深圳妇女联合会"
-  },
-  {
-    "name": "光明区党群服务中心",
-    "city": "shenzhen",
-    "source": "深圳水务局"
-  },
-  {
-    "name": "光明街道社区党群楼",
-    "city": "shenzhen",
-    "source": "深圳水务局"
-  },
-  {
-    "name": "公明老街区党群配套楼",
-    "city": "shenzhen",
-    "source": "深圳水务局"
-  },
-  {
-    "name": "新湖再生基地党群大楼",
-    "city": "shenzhen",
-    "source": "深圳水务局"
-  },
-  {
-    "name": "凤凰高新园区党群楼",
-    "city": "shenzhen",
-    "source": "深圳水务局"
-  },
-  {
-    "name": "光明革命历史展厅",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "深圳科技馆（光明馆）主展厅",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明安全产业园户外科普带",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "茅洲河碧道全线科普展示廊",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明美术馆手工创作区",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "光明规划馆外广场沙盘",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "虹桥公园入口艺术广场",
-    "city": "shenzhen",
-    "source": "光明区政府"
-  },
-  {
-    "name": "沙头角街道文化中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田街道文化中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "梅沙街道文化中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山街道文化中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山街道文化中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区青少年宫",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "深圳妇女联合会"
-  },
-  {
-    "name": "沙头角社区党群服务中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "盐田港社区党群服务中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙社区党群服务中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "北山社区党群服务中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "中英街社区党群服务中心",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田庚子首义纪念馆",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "中英街历史展厅配套馆",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "海山公园安全科普驿站",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "大梅沙红树林科普小屋",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "盐田港地铁站科普展示区",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "沙头角疍家文化广场",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "三洲田矿石科普驿站",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "海山艺术广场",
-    "city": "shenzhen",
-    "source": "盐田区政府"
-  },
-  {
-    "name": "龙岗客家民俗博物馆（鹤湖新居）",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "龙岗区城市规划展览馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗航天科普教育基地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区应急安全教育基地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗垃圾分类科普教育馆",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "东江纵队纪念馆",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "龙岗区非物质文化遗产馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗化石科普馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗河治水科普展厅",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区禁毒科普馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗中医药文化体验馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坂田华为终端科普展厅（公益区）",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗美术馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "大运中心体育科普展厅",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "茂盛世居客家民俗展厅",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "大运地铁站科普通道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗图书馆少儿绘本馆（总馆）",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗农业科普展厅",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗低碳海洋科普馆",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "山厦革命历史纪念馆",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "龙岗区图书馆总馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗街道图书馆",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙城街道文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "坂田文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "平湖文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "横岗文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "坪地文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "宝龙文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "吉华文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "园山文化中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "大运公园图书馆",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "龙城文化中心24小时阅读点",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "龙岗街道党群楼",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "平湖党群中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "坪地党群大楼",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "吉华党群中心",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "大运公园配套书房",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "新生安全产业园党群点",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "龙园公园内",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "东纵纪念馆配套书房",
-    "city": "shenzhen",
-    "source": "罗湖图书馆"
-  },
-  {
-    "name": "龙岗美术馆一楼24h点",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙城公园",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "龙园公园",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "大运中心城市公园",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "园山风景区（市政公益区）",
-    "city": "shenzhen",
-    "source": "深圳城管局"
-  },
-  {
-    "name": "龙岗河碧道全线",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "平湖生态园",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区雪象片区",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区横岗街道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区坪地街道富民路",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区宝龙街道产业园配套绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区甘坑古镇外围绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区新生安全产业园配套公园",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区文化中心外围草坪",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗街道南联社区小微公园",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "大运中心人工湖沿岸步道",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "平湖街道沿河碧道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区坂田黄金山片区",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "横岗街道四联社区茂盛世居旁",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坪地街道农田沿岸滨河绿道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "宝龙街道沿河绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "吉华街道水径片区",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "园山景区山间溪流全线",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "新生片区河道沿岸步道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗双龙地铁站旁社区绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙城公园花海片区",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "平湖生态园北侧湿地",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "坂田星河社区小微公园",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "横岗街道沿河碧道",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坪地街道小型水库沿岸",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "宝龙产业园中心广场",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "甘坑古镇河道两岸",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "吉华街道半山绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "园山山脚果蔬种植绿地",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙城公园旁龙岗河浅滩",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "大运中心北侧人工湿地",
-    "city": "shenzhen",
-    "source": "深圳生态环境局"
-  },
-  {
-    "name": "龙岗街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坂田街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "平湖街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "横岗街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坪地街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "宝龙街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "吉华街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "园山街道文化中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗区妇女儿童活动中心",
-    "city": "shenzhen",
-    "source": "深圳妇女联合会"
-  },
-  {
-    "name": "龙城社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "龙岗客家社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "坂田科创社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "平湖环保社区党群服务中心",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "鹤湖新居客家民俗展厅",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "龙城公园安全科普小屋",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "大运中心户外科普长廊",
-    "city": "shenzhen",
-    "source": "深圳文体旅游局"
-  },
-  {
-    "name": "坪地农业科普园体验点",
-    "city": "shenzhen",
-    "source": "龙岗区政府"
-  },
-  {
-    "name": "玉塘文体中心 |",
-    "city": "shenzhen",
-    "source": "荣艺文化/搜狐"
-  },
-  {
-    "name": "白花社区综合性文化服务中心",
-    "city": "shenzhen",
-    "source": "白花社区综合性文化服务中心"
-  },
-  {
-    "name": "宝安区文化馆航城街道分馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆航城街道分馆"
-  },
-  {
-    "name": "石岩文化艺术中心",
-    "city": "shenzhen",
-    "source": "石岩文化艺术中心"
-  },
-  {
-    "name": "园山街道文化站",
-    "city": "shenzhen",
-    "source": "园山街道文化站"
-  },
-  {
-    "name": "宝安区文化馆沙井分馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆沙井分馆"
-  },
-  {
-    "name": "福田梦工场",
-    "city": "shenzhen",
-    "source": "福田梦工场"
-  },
-  {
-    "name": "宝安区文化馆西乡街道分馆",
-    "city": "shenzhen",
-    "source": "宝安区文化馆西乡街道分馆"
+    "source": "yt_history",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区沙头角中英街",
+    "transport": "地铁8号线沙头角站",
+    "fee": "免费",
+    "description": "展示中英街百年沧桑历史和深港边境文化。",
+    "official_url": "",
+    "highlights": [
+      "中英街历史",
+      "深港文化"
+    ]
+  },
+  {
+    "name": "盐田科技馆",
+    "source": "ytkjg",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "科技馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田区科技馆。",
+    "official_url": "",
+    "highlights": [
+      "科学实验",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "盐田体育中心",
+    "source": "yttyzx",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "体育中心",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "收费",
+    "description": "盐田区体育中心。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "运动培训"
+    ]
+  },
+  {
+    "name": "盐田中央公园",
+    "source": "ytzgy",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "公园",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "盐田中央公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲散步"
+    ]
+  },
+  {
+    "name": "大鹏地质公园博物馆",
+    "source": "dpgeopark",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区南澳街道地质公园路7号",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏半岛国家地质公园博物馆，展示地质演化和古生物化石。",
+    "official_url": "",
+    "highlights": [
+      "地质科普",
+      "古生物化石",
+      "火山岩"
+    ]
+  },
+  {
+    "name": "大亚湾核能科技馆",
+    "source": "dp_nuclear",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区大亚湾核电基地",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大亚湾核能科技馆，展示核能发电原理和核安全知识。",
+    "official_url": "",
+    "highlights": [
+      "核能科普",
+      "清洁能源",
+      "核安全"
+    ]
+  },
+  {
+    "name": "大鹏新区图书馆",
+    "source": "dplib",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "图书馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区公共图书馆，定期举办海洋主题阅读推广活动。",
+    "official_url": "",
+    "highlights": [
+      "阅读推广",
+      "海洋主题"
+    ]
+  },
+  {
+    "name": "大鹏古城博物馆",
+    "source": "dpgcbwg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "博物馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏所城历史博物馆，展示海防文化。",
+    "official_url": "",
+    "highlights": [
+      "古城历史",
+      "海防文化"
+    ]
+  },
+  {
+    "name": "大鹏新区文化馆",
+    "source": "dpwhg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化馆",
+    "address": "大鹏新区大鹏街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "大鹏新区文化馆。",
+    "official_url": "",
+    "highlights": [
+      "公益培训",
+      "群众文化"
+    ]
+  },
+  {
+    "name": "深圳西涌天文台",
+    "source": "xcart",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科普馆",
+    "address": "大鹏新区南澳西涌",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳西涌天文台，定期对公众开放，可观星。",
+    "official_url": "",
+    "highlights": [
+      "天文观测",
+      "科普教育",
+      "观星"
+    ]
+  },
+  {
+    "name": "东涌红树林湿地公园",
+    "source": "dchss",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳东涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "东涌红树林湿地公园，开展红树林生态科普、观鸟等自然教育。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "自然教育"
+    ]
+  },
+  {
+    "name": "坝光红树林湿地公园",
+    "source": "bghsl",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌坝光",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳面积最大的红树林保护区，有观鸟平台和科普栈道。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟",
+      "生态保护"
+    ]
+  },
+  {
+    "name": "玫瑰海岸",
+    "source": "mgha",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区溪涌玫瑰海岸",
+    "transport": "",
+    "fee": "收费",
+    "description": "玫瑰海岸滨海度假区，举办沙滩嘉年华等活动。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "水上运动",
+      "滨海度假"
+    ]
+  },
+  {
+    "name": "杨梅坑",
+    "source": "ymk",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳杨梅坑",
+    "transport": "",
+    "fee": "免费",
+    "description": "杨梅坑海滨栈道，可徒步、骑行、探访鹿嘴山庄。",
+    "official_url": "",
+    "highlights": [
+      "滨海徒步",
+      "骑行",
+      "海景"
+    ]
+  },
+  {
+    "name": "七娘山",
+    "source": "qns",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区南澳七娘山",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳第二高峰，登山步道沿途有地质科普解说牌。",
+    "official_url": "",
+    "highlights": [
+      "登山",
+      "地质科普",
+      "海景"
+    ]
+  },
+  {
+    "name": "官湖村艺象艺术区",
+    "source": "ghysq",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "文化中心",
+    "address": "大鹏新区葵涌官湖村",
+    "transport": "",
+    "fee": "免费",
+    "description": "官湖村国际艺术园区，含海边画廊、儿童艺术工坊。",
+    "official_url": "",
+    "highlights": [
+      "艺术园区",
+      "海边画廊",
+      "亲子工坊"
+    ]
+  },
+  {
+    "name": "金沙湾国际乐园",
+    "source": "jsgjly",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区金沙湾",
+    "transport": "",
+    "fee": "收费",
+    "description": "金沙湾国际乐园，含水世界、冰雪世界等多个主题园区。",
+    "official_url": "",
+    "highlights": [
+      "水世界",
+      "冰雪世界",
+      "亲子乐园"
+    ]
+  },
+  {
+    "name": "大鹏新区科学馆",
+    "source": "dpkjg",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "科技馆",
+    "address": "大鹏新区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "大鹏新区科学馆，开展海洋科学、天文观测等科普活动。",
+    "official_url": "",
+    "highlights": [
+      "海洋科学",
+      "天文观测",
+      "科普"
+    ]
+  },
+  {
+    "name": "大鹏较场尾沙滩",
+    "source": "jcw",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区大鹏街道较场尾",
+    "transport": "",
+    "fee": "免费",
+    "description": "较场尾滨海度假村，有沙滩、民宿、海鲜等。",
+    "official_url": "",
+    "highlights": [
+      "沙滩",
+      "民宿",
+      "滨海度假"
+    ]
+  },
+  {
+    "name": "葵涌生态公园",
+    "source": "kcsigy",
+    "city": "shenzhen",
+    "district": "大鹏新区",
+    "type": "公园",
+    "address": "大鹏新区葵涌",
+    "transport": "",
+    "fee": "免费",
+    "description": "葵涌生态公园。",
+    "official_url": "",
+    "highlights": [
+      "生态",
+      "休闲"
+    ]
+  },
+  {
+    "name": "深圳市安全教育基地",
+    "source": "sz_safety",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "科普馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费需预约",
+    "description": "深圳市安全教育基地，含交通安全、消防安全等主题体验区。",
+    "official_url": "",
+    "highlights": [
+      "安全教育",
+      "互动体验"
+    ]
+  },
+  {
+    "name": "OPOWER文化艺术中心",
+    "source": "opower",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区华侨城",
+    "transport": "地铁1号线侨城东站",
+    "fee": "免费",
+    "description": "华侨城片区文化艺术综合体，集展览、市集、创意零售于一体。",
+    "official_url": "",
+    "highlights": [
+      "文艺市集",
+      "创意展览"
+    ]
+  },
+  {
+    "name": "坪山区青少年宫",
+    "source": "psqsng",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "青少年宫",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区青少年校外活动场所。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
+  },
+  {
+    "name": "何香凝美术馆",
+    "source": "hxngallery",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区深南大道9013号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "免费",
+    "description": "何香凝美术馆，展示何香凝书画作品及当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "何香凝书画",
+      "当代艺术"
+    ]
+  },
+  {
+    "name": "关山月美术馆",
+    "source": "gsyart",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "美术馆",
+    "address": "福田区红荔路6026号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "关山月美术馆，展示关山月画作及当代美术。",
+    "official_url": "",
+    "highlights": [
+      "关山月画作",
+      "当代美术"
+    ]
+  },
+  {
+    "name": "深圳美术馆",
+    "source": "szartm",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "美术馆",
+    "address": "罗湖区爱国路东湖公园内",
+    "transport": "地铁5号线太安站",
+    "fee": "免费",
+    "description": "深圳美术馆，展示当代艺术和本土艺术家作品。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "本土艺术"
+    ]
+  },
+  {
+    "name": "深圳保利剧院",
+    "source": "polytheatre",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "演出场馆",
+    "address": "南山区后海滨路",
+    "transport": "地铁2号线后海站",
+    "fee": "需购票",
+    "description": "深圳保利剧院，举办音乐会、音乐剧等演出。",
+    "official_url": "",
+    "highlights": [
+      "音乐会",
+      "音乐剧"
+    ]
+  },
+  {
+    "name": "深圳会展中心",
+    "source": "szcec",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "会展中心",
+    "address": "福田区福华三路",
+    "transport": "地铁1/4号线会展中心站",
+    "fee": "免费",
+    "description": "深圳会展中心，承办各类大型展览和博览会。",
+    "official_url": "",
+    "highlights": [
+      "展览",
+      "博览"
+    ]
   },
   {
     "name": "深圳国际会展中心",
+    "source": "shenzhen_world",
     "city": "shenzhen",
-    "source": "深圳国际会展中心"
+    "district": "宝安区",
+    "type": "会展中心",
+    "address": "宝安区福海街道",
+    "transport": "地铁12号线国展站",
+    "fee": "免费",
+    "description": "深圳国际会展中心（新馆），承办大型国际展览。",
+    "official_url": "",
+    "highlights": [
+      "国际展览",
+      "博览"
+    ]
   },
   {
-    "name": "深圳音乐厅五楼小剧场",
+    "name": "锦绣中华民俗村",
+    "source": "theme_park",
     "city": "shenzhen",
-    "source": "深圳音乐厅官网"
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1号线华侨城站",
+    "fee": "收费",
+    "description": "锦绣中华民俗村，含微缩景区和少数民族村寨。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "民俗文化",
+      "泼水节"
+    ]
   },
   {
-    "name": "塘家社区综合性文化服务中心",
+    "name": "深圳市少年宫",
+    "source": "szcp",
     "city": "shenzhen",
-    "source": "塘家社区综合性文化服务中心"
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区福中一路2006号",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳市少年宫，含科技展馆和培训课程。",
+    "official_url": "",
+    "highlights": [
+      "科技展馆",
+      "青少年培训"
+    ]
   },
   {
-    "name": "桂园街道综合文体中心(桂园街道分馆）",
+    "name": "深圳市青少年活动中心",
+    "source": "szaac",
     "city": "shenzhen",
-    "source": "桂园街道综合文体中心(桂园街道分馆）"
+    "district": "福田区",
+    "type": "青少年宫",
+    "address": "福田区红荔路",
+    "transport": "地铁3号线通新岭站",
+    "fee": "免费",
+    "description": "深圳市青少年活动中心。",
+    "official_url": "",
+    "highlights": [
+      "青少年培训",
+      "兴趣课程"
+    ]
   },
   {
-    "name": "玉塘街道综合性文化服务中心",
+    "name": "深圳书城",
+    "source": "szbook",
     "city": "shenzhen",
-    "source": "玉塘街道综合性文化服务中心"
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区福中一路",
+    "transport": "地铁3/4号线少年宫站",
+    "fee": "免费",
+    "description": "深圳书城中心城，大型图书零售和文化活动空间。",
+    "official_url": "",
+    "highlights": [
+      "图书",
+      "文化活动"
+    ]
   },
   {
-    "name": "布吉街道文化站",
+    "name": "深圳湾公园",
+    "source": "szhbgy",
     "city": "shenzhen",
-    "source": "布吉街道文化站"
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区滨海大道",
+    "transport": "地铁2号线湾厦站",
+    "fee": "免费",
+    "description": "深圳湾滨海休闲带，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "骑行"
+    ]
   },
   {
-    "name": "福田区深圳音乐厅五楼小剧场",
+    "name": "海上世界文化艺术中心",
+    "source": "hssjwh",
     "city": "shenzhen",
-    "source": "自动化发现"
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "南山区蛇口海上世界",
+    "transport": "地铁2号线蛇口港站",
+    "fee": "免费",
+    "description": "海上世界文化艺术中心，展示当代艺术。",
+    "official_url": "",
+    "highlights": [
+      "当代艺术",
+      "滨海文化"
+    ]
   },
   {
-    "name": "龙华街道综合性文化服务中心",
+    "name": "深圳中医药博物馆",
+    "source": "szzybwg",
     "city": "shenzhen",
-    "source": "龙华街道综合性文化服务中心"
+    "district": "福田区",
+    "type": "博物馆",
+    "address": "福田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示中医药文化和历史。",
+    "official_url": "",
+    "highlights": [
+      "中医药文化",
+      "健康科普"
+    ]
   },
   {
-    "name": "光明社区综合性文化服务中心",
+    "name": "深圳珠宝博物馆",
+    "source": "szjewg",
     "city": "shenzhen",
-    "source": "光明社区综合性文化服务中心"
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区",
+    "transport": "",
+    "fee": "免费",
+    "description": "展示珠宝首饰文化和工艺。",
+    "official_url": "",
+    "highlights": [
+      "珠宝",
+      "工艺"
+    ]
   },
   {
-    "name": "光明区光明文化艺术中心·演艺中心·大剧场",
+    "name": "深圳欢乐谷",
+    "source": "hlgj",
     "city": "shenzhen",
-    "source": "自动化发现"
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区华侨城",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "大型主题游乐园。",
+    "official_url": "",
+    "highlights": [
+      "主题游乐",
+      "刺激项目"
+    ]
   },
   {
-    "name": "深圳龙城国际艺术中心",
+    "name": "深圳欢乐海岸",
+    "source": "hoha",
     "city": "shenzhen",
-    "source": "深圳龙城国际艺术中心"
+    "district": "南山区",
+    "type": "文化中心",
+    "address": "南山区白石路",
+    "transport": "地铁9号线深圳湾公园站",
+    "fee": "免费",
+    "description": "华侨城欢乐海岸，集文化、商业、休闲于一体。",
+    "official_url": "",
+    "highlights": [
+      "滨海休闲",
+      "商业文化"
+    ]
   },
   {
-    "name": "龙岗区深圳龙岗国际艺术中心",
+    "name": "深圳世界之窗",
+    "source": "szworld",
     "city": "shenzhen",
-    "source": "自动化发现"
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区深南大道9003号",
+    "transport": "地铁1/2号线世界之窗站",
+    "fee": "收费",
+    "description": "世界微缩景观主题公园。",
+    "official_url": "",
+    "highlights": [
+      "微缩景观",
+      "世界文化"
+    ]
+  },
+  {
+    "name": "洪湖公园",
+    "source": "hhgy",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区文锦北路",
+    "transport": "地铁3号线草埔站",
+    "fee": "免费",
+    "description": "以荷花著称的公园。",
+    "official_url": "",
+    "highlights": [
+      "荷花",
+      "观鸟"
+    ]
+  },
+  {
+    "name": "大沙河生态长廊",
+    "source": "dshslc",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区大沙河",
+    "transport": "",
+    "fee": "免费",
+    "description": "大沙河沿河生态绿道。",
+    "official_url": "",
+    "highlights": [
+      "生态绿道",
+      "骑行"
+    ]
+  },
+  {
+    "name": "淘金山绿道",
+    "source": "tjsgd",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "公园",
+    "address": "罗湖区淘金山",
+    "transport": "",
+    "fee": "免费",
+    "description": "淘金山绿道，适合徒步。",
+    "official_url": "",
+    "highlights": [
+      "徒步",
+      "山林"
+    ]
+  },
+  {
+    "name": "西湾红树林公园",
+    "source": "xwhsl",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区西乡",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湾红树林湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "红树林",
+      "观鸟"
+    ]
+  },
+  {
+    "name": "茅洲河碧道",
+    "source": "mzohbd",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区茅洲河",
+    "transport": "",
+    "fee": "免费",
+    "description": "茅洲河碧道，适合散步骑行。",
+    "official_url": "",
+    "highlights": [
+      "碧道",
+      "生态"
+    ]
+  },
+  {
+    "name": "石岩湖湿地公园",
+    "source": "sysgy",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "公园",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩湖湿地公园。",
+    "official_url": "",
+    "highlights": [
+      "湿地",
+      "观鸟"
+    ]
+  },
+  {
+    "name": "石岩文化艺术中心",
+    "source": "sywhzx",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "type": "文化中心",
+    "address": "宝安区石岩",
+    "transport": "",
+    "fee": "免费",
+    "description": "石岩街道文化艺术中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "红花山公园",
+    "source": "hhsgy",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "公园",
+    "address": "坪山区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区红花山公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "登高"
+    ]
+  },
+  {
+    "name": "深圳大运中心",
+    "source": "dyzx",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "体育中心",
+    "address": "龙岗区龙城街道",
+    "transport": "地铁3号线大运站",
+    "fee": "收费",
+    "description": "深圳大运中心体育场和体育馆。",
+    "official_url": "",
+    "highlights": [
+      "体育赛事",
+      "大型活动"
+    ]
+  },
+  {
+    "name": "大运中心公园",
+    "source": "dzxgy",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "公园",
+    "address": "龙岗区大运中心",
+    "transport": "地铁3号线大运站",
+    "fee": "免费",
+    "description": "大运中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "运动"
+    ]
+  },
+  {
+    "name": "安托山公共文化中心",
+    "source": "atszx",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化中心",
+    "address": "福田区安托山",
+    "transport": "地铁2号线安托山站",
+    "fee": "免费",
+    "description": "安托山公共文化中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "北站中心公园",
+    "source": "bzgx",
+    "city": "shenzhen",
+    "district": "龙华区",
+    "type": "公园",
+    "address": "龙华区深圳北站",
+    "transport": "地铁4/5号线深圳北站",
+    "fee": "免费",
+    "description": "深圳北站中心公园。",
+    "official_url": "",
+    "highlights": [
+      "休闲",
+      "城市公园"
+    ]
+  },
+  {
+    "name": "深圳科学公园（南翼）",
+    "source": "kxgny",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "公园",
+    "address": "光明区",
+    "transport": "",
+    "fee": "免费",
+    "description": "深圳科学公园南翼。",
+    "official_url": "",
+    "highlights": [
+      "科学",
+      "休闲"
+    ]
+  },
+  {
+    "name": "人才公园",
+    "source": "rcgy",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "公园",
+    "address": "南山区科苑南路",
+    "transport": "地铁2号线后海站",
+    "fee": "免费",
+    "description": "深圳人才公园。",
+    "official_url": "",
+    "highlights": [
+      "人才主题",
+      "滨海休闲"
+    ]
+  },
+  {
+    "name": "吉华街道文化站",
+    "source": "jhwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区吉华街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区吉华街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "南湾街道文化站",
+    "source": "nwwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区南湾街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区南湾街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "坪地街道文化站",
+    "source": "pdwtz",
+    "city": "shenzhen",
+    "district": "龙岗区",
+    "type": "文化馆",
+    "address": "龙岗区坪地街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙岗区坪地街道文化站。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "园岭街道综合性文化服务中心",
+    "source": "ylwh",
+    "city": "shenzhen",
+    "district": "福田区",
+    "type": "文化馆",
+    "address": "福田区园岭街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "福田区园岭街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "桃源街道综合性文化服务中心",
+    "source": "tywh",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "文化馆",
+    "address": "南山区桃源街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "南山区桃源街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "凤凰街道综合性文化服务中心",
+    "source": "fhwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区凤凰街道",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区凤凰街道综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "江岭社区公共文化服务中心",
+    "source": "jlwh",
+    "city": "shenzhen",
+    "district": "坪山区",
+    "type": "文化馆",
+    "address": "坪山区江岭社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "坪山区江岭社区公共文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
+  },
+  {
+    "name": "迳口社区综合性文化服务中心",
+    "source": "jkwh",
+    "city": "shenzhen",
+    "district": "光明区",
+    "type": "文化馆",
+    "address": "光明区迳口社区",
+    "transport": "",
+    "fee": "免费",
+    "description": "光明区迳口社区综合性文化服务中心。",
+    "official_url": "",
+    "highlights": [
+      "社区文化"
+    ]
   }
 ]

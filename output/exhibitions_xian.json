@@ -27,8 +27,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -63,8 +63,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -97,8 +97,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -133,8 +133,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -169,8 +169,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -207,12 +207,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "大唐西市博物馆商贸体验",
@@ -246,12 +245,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆天文观测活动",
@@ -285,12 +283,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆力学科普秀",
@@ -324,12 +321,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆新能源科普",
@@ -363,12 +359,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "兴庆宫公园唐文化课堂",
@@ -402,12 +397,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "华夏文旅海洋公园极地动物展",
@@ -441,12 +435,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "唐代茶道体验课堂",
@@ -479,12 +472,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城绘本手工课",
@@ -518,12 +510,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "西安奥体中心篮球营",
@@ -556,12 +547,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "黑河森林公园亲子漂流",
@@ -595,12 +585,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安城墙夜景灯光秀",
@@ -633,12 +622,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "解读西安高陵区演出周",
@@ -672,12 +660,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "伍佰&China Blue ROCK STAR 2 巡回演唱会-西安站",
@@ -707,8 +694,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -745,12 +732,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆声学体验营",
@@ -784,12 +770,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "昆明池七夕公园星空露营",
@@ -823,12 +808,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "乐华城欢乐世界亲子日",
@@ -861,12 +845,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "关中面花制作",
@@ -899,12 +882,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "半坡原始文化研学",
@@ -938,12 +920,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "雁鸣湖亲子钓鱼",
@@ -976,12 +957,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安灞桥区亲子活动课程",
@@ -1015,12 +995,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉阳陵博物院考古夏令营",
@@ -1053,12 +1032,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "陕西科技馆无人机飞行体验",
@@ -1092,12 +1070,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大雁塔景区禅茶体验",
@@ -1131,12 +1108,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玛雅海滩亲子泼水节",
@@ -1170,12 +1146,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "古法造纸体验",
@@ -1209,12 +1184,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图唐诗品读会",
@@ -1248,12 +1222,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "环城公园健身操",
@@ -1287,12 +1260,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "楼观台老子文化研学",
@@ -1326,12 +1298,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐芙蓉园灯光秀",
@@ -1364,12 +1335,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐不夜城盛唐天街夜宴",
@@ -1402,12 +1372,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安新城区展览活动",
@@ -1441,12 +1410,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "陕西科技馆气象科普活动",
@@ -1480,12 +1448,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "乐华城夏日电音节",
@@ -1518,12 +1485,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "秦腔脸谱绘制",
@@ -1556,12 +1522,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕历博唐代历史研学",
@@ -1595,12 +1560,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "汉城湖亲子骑行",
@@ -1634,12 +1598,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "华清宫12·12西安事变演出",
@@ -1672,12 +1635,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "儿童西安莲湖区演出课程",
@@ -1710,12 +1672,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安碑林区演出工作坊",
@@ -1749,12 +1710,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕历博古代钱币识别课堂",
@@ -1788,12 +1748,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕西科技馆人工智能启蒙",
@@ -1827,12 +1786,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "曲江池遗址公园定向越野",
@@ -1866,12 +1824,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "华夏文旅海洋公园亲子潜水体验",
@@ -1905,12 +1862,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "篆刻艺术体验",
@@ -1943,12 +1899,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安图书馆小记者营",
@@ -1982,12 +1937,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "兴庆宫公园亲子跑",
@@ -2021,12 +1975,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "王顺山蓝田玉研学",
@@ -2060,12 +2013,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安未央区亲子活动讲座",
@@ -2098,12 +2050,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安高陵区体育赛事月",
@@ -2136,12 +2087,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "华夏文旅海洋公园科普秀",
@@ -2175,12 +2125,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "唐代点茶体验",
@@ -2213,12 +2162,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安博物院古都研学",
@@ -2251,12 +2199,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "家庭西安新城区演出研学营",
@@ -2289,12 +2236,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆生态环保课堂",
@@ -2328,12 +2274,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "唐风汉服换装体验",
@@ -2366,12 +2311,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安雁塔区影视放映工作坊",
@@ -2405,12 +2349,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大明宫遗址陶瓷拼对体验",
@@ -2444,12 +2387,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆暑期科学嘉年华",
@@ -2483,12 +2425,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "浐灞湿地芦苇荡探秘",
@@ -2522,12 +2463,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "活字印刷体验",
@@ -2561,12 +2501,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城亲子烘焙阅读",
@@ -2600,12 +2539,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐西市丝路文化研学",
@@ -2639,12 +2577,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "浐灞湿地公园徒步",
@@ -2678,12 +2615,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "太平森林公园彩虹瀑布",
@@ -2717,12 +2653,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "翠华山天池泛舟",
@@ -2756,12 +2691,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探秘西安临潼区影视放映月",
@@ -2795,12 +2729,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进西安雁塔区讲座阅读日",
@@ -2834,12 +2767,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "西安·第26届ACC动漫展",
@@ -2869,8 +2801,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -2903,8 +2835,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -2941,12 +2873,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "陕西科技馆机器人格斗赛",
@@ -2980,12 +2911,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "汉城湖公园风筝节",
@@ -3019,12 +2949,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "传统扎染体验",
@@ -3057,12 +2986,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "朱雀森林公园亲子徒步",
@@ -3096,12 +3024,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安莲湖区展览之旅",
@@ -3135,12 +3062,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "乐华城过山车挑战",
@@ -3173,12 +3099,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕西省图历史讲座",
@@ -3212,12 +3137,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "小雁塔古建研学",
@@ -3250,12 +3174,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "碑林古代文献研学",
@@ -3289,12 +3212,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "西安博物院唐代铜镜研学",
@@ -3327,12 +3249,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕西科技馆生物基因课堂",
@@ -3366,12 +3287,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大雁塔景区文化寻踪",
@@ -3405,12 +3325,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大雁塔景区玄奘文化研学",
@@ -3444,12 +3363,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "麦秆画制作课堂",
@@ -3482,12 +3400,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "雁鸣湖皮划艇体验",
@@ -3520,12 +3437,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "雁鸣湖垂钓比赛",
@@ -3558,12 +3474,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "朱雀森林公园森林课堂",
@@ -3597,12 +3512,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "趣味西安新城区演出展览",
@@ -3636,12 +3550,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "周末西安鄠邑区讲座阅读活动",
@@ -3675,12 +3588,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "西安植物园昆虫夜观",
@@ -3713,12 +3625,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "钟鼓楼古都钟声研学",
@@ -3752,12 +3663,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "经典西安莲湖区科普活动探秘",
@@ -3791,12 +3701,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐西市博物馆胡商体验",
@@ -3830,12 +3739,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "浐灞湿地亲子观鸟营",
@@ -3869,12 +3777,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安新城区体育赛事演出",
@@ -3908,12 +3815,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "曲江海洋极地公园美人鱼表演",
@@ -3947,12 +3853,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "城墙骑行研学",
@@ -3985,12 +3890,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "家庭西安雁塔区演出研学营",
@@ -4024,12 +3928,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼西安未央区科普活动发现",
@@ -4063,12 +3966,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安灞桥区讲座阅读比赛",
@@ -4101,12 +4003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "钟鼓楼博物馆古城墙研学",
@@ -4140,12 +4041,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "唐代舞蹈学习",
@@ -4178,12 +4078,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "汉城湖龙舟体验",
@@ -4217,12 +4116,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "太平森林公园野生动物观察",
@@ -4256,12 +4154,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "华清宫七夕浪漫夜",
@@ -4294,12 +4191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安新城区科普活动课程",
@@ -4333,12 +4229,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典西安碑林区展览探秘",
@@ -4372,12 +4267,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "漫游西安临潼区演出季",
@@ -4411,12 +4305,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典西安未央区演出探秘",
@@ -4450,12 +4343,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式西安阎良区体育赛事探索",
@@ -4489,12 +4381,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "title": "2026西安第五届环梦动漫展",
@@ -4524,8 +4415,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -4558,8 +4449,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -4592,8 +4483,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4630,12 +4521,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "关中剪纸非遗体验",
@@ -4668,12 +4558,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城作家签售会",
@@ -4707,12 +4596,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "兵马俑陶俑制作研学",
@@ -4745,12 +4633,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "走进西安未央区展览日",
@@ -4784,12 +4671,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式西安未央区影视放映探索",
@@ -4823,12 +4709,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "半坡遗址陶器制作体验",
@@ -4862,12 +4747,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "永兴坊摔碗酒夜体验",
@@ -4900,12 +4784,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游西安阎良区影视放映季",
@@ -4938,12 +4821,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安长安区亲子活动之旅",
@@ -4976,12 +4858,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "中国结编织课堂",
@@ -5014,12 +4895,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉城湖桨板体验",
@@ -5053,12 +4933,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "发现西安莲湖区体育赛事比赛",
@@ -5092,12 +4971,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "亲子西安灞桥区体育赛事工作坊",
@@ -5131,12 +5009,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "震撼西安高陵区亲子活动发现",
@@ -5169,12 +5046,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安临潼区讲座阅读展览",
@@ -5208,12 +5084,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验西安未央区讲座阅读嘉年华",
@@ -5246,12 +5121,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "发现西安碑林区亲子活动比赛",
@@ -5285,12 +5159,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉城湖公园汉服游园",
@@ -5324,12 +5197,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "华夏文旅海洋公园驼铃秀",
@@ -5363,12 +5235,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "古琴弹奏体验",
@@ -5401,12 +5272,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图儿童剧表演",
@@ -5440,12 +5310,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "华清宫温泉文化研学",
@@ -5478,12 +5347,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "昆明池桨板比赛",
@@ -5517,12 +5385,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "黑河森林公园观星营",
@@ -5556,12 +5423,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "震撼西安新城区展览发现",
@@ -5595,12 +5461,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "震撼西安鄠邑区讲座阅读发现",
@@ -5634,12 +5499,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "昆明池水上运动",
@@ -5673,12 +5537,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "浐灞湿地瑜伽营",
@@ -5712,12 +5575,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城名家分享会",
@@ -5751,12 +5613,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进西安鄠邑区演出日",
@@ -5790,12 +5651,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉城湖公园游船体验",
@@ -5829,12 +5689,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "关中泥塑彩绘",
@@ -5867,12 +5726,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "西安图书馆机器人编程课",
@@ -5906,12 +5764,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大明宫遗址勘探研学",
@@ -5945,12 +5802,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "西安奥体中心足球营",
@@ -5983,12 +5839,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "楼观台道家养生体验",
@@ -6022,12 +5877,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大雁塔慈恩寺夜游",
@@ -6061,12 +5915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "青少年西安灞桥区体育赛事讲座",
@@ -6100,12 +5953,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安阎良区演出节",
@@ -6139,12 +5991,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安高陵区展览科普",
@@ -6178,12 +6029,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "走进西安高陵区影视放映日",
@@ -6216,12 +6066,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安莲湖区亲子活动演出",
@@ -6255,12 +6104,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安雁塔区影视放映科普",
@@ -6294,12 +6142,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆物理实验秀",
@@ -6333,12 +6180,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "西安欢乐谷亲子过山车",
@@ -6371,12 +6217,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安长安区讲座阅读比赛",
@@ -6409,12 +6254,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "暑期西安阎良区体育赛事体验营",
@@ -6448,12 +6292,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安未央区讲座阅读月",
@@ -6486,12 +6329,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "唐风首饰制作",
@@ -6525,12 +6367,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图亲子手工坊",
@@ -6564,12 +6405,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉阳陵地下博物馆研学",
@@ -6602,12 +6442,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "环城公园太极晨练",
@@ -6641,12 +6480,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "王顺山古栈道徒步",
@@ -6680,12 +6518,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "沉浸式西安临潼区影视放映探索",
@@ -6719,12 +6556,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安长安区体育赛事科普",
@@ -6758,12 +6594,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "互动西安阎良区影视放映科普",
@@ -6797,12 +6632,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安长安区影视放映节",
@@ -6835,12 +6669,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安高陵区科普活动展览",
@@ -6874,12 +6707,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式西安鄠邑区展览探索",
@@ -6912,12 +6744,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "陕西自然博物馆珍稀动物课堂",
@@ -6951,12 +6782,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "乐华城童话乐园亲子游",
@@ -6989,12 +6819,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安长安区科普活动演出",
@@ -7028,12 +6857,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "兴庆宫公园沉香亭赏花",
@@ -7067,12 +6895,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "拓片制作体验",
@@ -7105,12 +6932,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安图书馆英语绘本课",
@@ -7144,12 +6970,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "碑林石刻艺术研学",
@@ -7183,12 +7008,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "兴庆宫公园广场舞",
@@ -7222,12 +7046,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "翠华山露营观星",
@@ -7261,12 +7084,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安未央区体育赛事展览",
@@ -7300,12 +7122,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子西安高陵区展览工作坊",
@@ -7338,12 +7159,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "陕西科技馆太空探索体验",
@@ -7377,12 +7197,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "太平森林公园夏夜萤火",
@@ -7416,12 +7235,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游西安新城区体育赛事季",
@@ -7454,12 +7272,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "周末西安阎良区亲子活动活动",
@@ -7492,12 +7309,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进西安灞桥区科普活动日",
@@ -7531,12 +7347,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读西安阎良区演出周",
@@ -7570,12 +7385,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安植物园夏日花卉认知",
@@ -7608,12 +7422,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "半坡彩陶文化研学",
@@ -7647,12 +7460,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "翠华山徒步避暑",
@@ -7686,12 +7498,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探秘西安鄠邑区影视放映月",
@@ -7725,12 +7536,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安雁塔区亲子活动展览",
@@ -7764,12 +7574,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安植物园多肉种植",
@@ -7802,12 +7611,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "玛雅海滩冲浪体验",
@@ -7841,12 +7649,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "唐代诗歌朗诵会",
@@ -7879,12 +7686,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "曲江书城国学讲堂",
@@ -7918,12 +7724,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "城墙国际马拉松",
@@ -7956,12 +7761,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "城墙定向越野",
@@ -7994,12 +7798,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "朱雀森林公园瀑布徒步",
@@ -8033,12 +7836,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "华清宫夜泡温泉",
@@ -8071,12 +7873,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "钟楼夜景打卡",
@@ -8110,12 +7911,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "家庭西安莲湖区影视放映研学营",
@@ -8149,12 +7949,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安阎良区讲座阅读演出",
@@ -8187,12 +7986,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "2026西安IW无限世界×次元之门动漫游戏博览会",
@@ -8221,11 +8019,10 @@
     "verification": {
       "status": "auto_checked",
       "link_reachable": true,
-      "http_status": null,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check",
-      "note": "HTTP fallback verified"
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
     },
     "verified": true,
     "venue_url": "https://www.xianicec.com/",
@@ -8259,8 +8056,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -8297,12 +8094,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "环城公园空竹体验",
@@ -8336,12 +8132,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安未央区讲座阅读之旅",
@@ -8375,12 +8170,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "兴庆宫公园郁金香展",
@@ -8414,12 +8208,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "大明宫唐代宫廷研学",
@@ -8453,12 +8246,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕历博丝绸之路研学",
@@ -8492,12 +8284,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读西安灞桥区讲座阅读周",
@@ -8531,12 +8322,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "互动西安灞桥区体育赛事科普",
@@ -8569,12 +8359,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "玛雅海滩水公园戏水派对",
@@ -8608,12 +8397,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "乐华城夜场狂欢",
@@ -8646,12 +8434,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "长安十二时辰沉浸体验",
@@ -8684,12 +8471,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "传统风筝扎制",
@@ -8722,12 +8508,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "西安图书馆暑期作业辅导",
@@ -8761,12 +8546,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图书法体验课",
@@ -8800,12 +8584,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安博物院佛教造像研学",
@@ -8838,12 +8621,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "浐灞湿地亲子骑行",
@@ -8877,12 +8659,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "太平森林公园亲子溯溪",
@@ -8916,12 +8697,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安阎良区亲子活动展览",
@@ -8954,12 +8734,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进西安临潼区演出日",
@@ -8993,12 +8772,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典西安高陵区展览探秘",
@@ -9032,12 +8810,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动西安碑林区演出科普",
@@ -9070,12 +8847,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安图书馆科普电影展",
@@ -9109,12 +8885,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安图书馆科普实验秀",
@@ -9148,12 +8923,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大唐西市西域文化研学",
@@ -9187,12 +8961,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "雁鸣湖帆船体验",
@@ -9225,12 +8998,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "黑河森林公园森林探秘",
@@ -9264,12 +9036,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "青少年西安碑林区演出讲座",
@@ -9302,12 +9073,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安新城区展览节",
@@ -9341,12 +9111,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "城墙夜跑活动",
@@ -9379,12 +9148,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "城墙夜骑赏灯",
@@ -9417,12 +9185,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安临潼区亲子活动科普",
@@ -9456,12 +9223,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安长安区科普活动课程",
@@ -9495,12 +9261,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城童话故事会",
@@ -9534,12 +9299,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "陕西省图天文知识讲座",
@@ -9573,12 +9337,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "汉阳陵汉代文化研学",
@@ -9611,12 +9374,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "兵马俑军阵研究研学",
@@ -9649,12 +9411,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "汉城湖游艇体验",
@@ -9688,12 +9449,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "楼观台亲子植树活动",
@@ -9727,12 +9487,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安碑林区亲子活动节",
@@ -9766,12 +9525,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安灞桥区展览展览",
@@ -9804,12 +9562,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典西安新城区讲座阅读探秘",
@@ -9842,12 +9599,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读西安未央区科普活动周",
@@ -9881,12 +9637,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆航模制作课堂",
@@ -9920,12 +9675,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "曲江池遗址公园南湖泛舟",
@@ -9959,12 +9713,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "半坡氏族社会研学",
@@ -9998,12 +9751,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "经典西安长安区体育赛事探秘",
@@ -10036,12 +9788,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "体验西安长安区演出嘉年华",
@@ -10075,12 +9826,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "秦始皇帝陵博物院铜车马课堂",
@@ -10113,12 +9863,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "华清宫西安事变研学",
@@ -10151,12 +9900,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "王顺山登山挑战赛",
@@ -10190,12 +9938,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安雁塔区体育赛事课程",
@@ -10229,12 +9976,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期西安灞桥区亲子活动体验营",
@@ -10267,12 +10013,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安阎良区展览工作坊",
@@ -10305,12 +10050,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "西安博物院文物修复体验",
@@ -10343,12 +10087,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆3D打印课堂",
@@ -10382,12 +10125,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆创客工坊",
@@ -10421,12 +10163,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西省图诗词大会",
@@ -10460,12 +10201,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "昆明池亲子皮划艇",
@@ -10499,12 +10239,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐芙蓉园水幕电影",
@@ -10537,12 +10276,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "影视放映",
-    "family_friendly": false
+    "category": "影视放映"
   },
   {
     "name": "家庭西安长安区展览研学营",
@@ -10575,12 +10313,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读西安长安区影视放映周",
@@ -10614,12 +10351,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐西市博物馆丝路研学",
@@ -10653,12 +10389,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "曲江池遗址公园花展",
@@ -10692,12 +10427,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "西安图书馆绘本剧场",
@@ -10731,12 +10465,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "大明宫唐代建筑研学",
@@ -10770,12 +10503,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "翠华山地质博物馆研学",
@@ -10809,12 +10541,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "探秘西安阎良区科普活动月",
@@ -10848,12 +10579,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大明宫遗址唐代建筑课堂",
@@ -10887,12 +10617,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "长安古乐欣赏",
@@ -10925,12 +10654,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "城墙骑行挑战",
@@ -10963,12 +10691,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安奥体中心网球营",
@@ -11001,12 +10728,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "走进西安阎良区讲座阅读日",
@@ -11039,12 +10765,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验西安雁塔区亲子活动嘉年华",
@@ -11078,12 +10803,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安新城区讲座阅读科普",
@@ -11117,12 +10841,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "陕西自然博物馆恐龙化石课堂",
@@ -11156,12 +10879,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "陕西科技馆恐龙复活秀",
@@ -11195,12 +10917,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "曲江书城亲子手工市集",
@@ -11234,12 +10955,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "朱雀森林公园植物认知",
@@ -11273,12 +10993,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "暑期西安长安区亲子活动体验营",
@@ -11311,12 +11030,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安未央区体育赛事活动",
@@ -11350,12 +11068,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式西安新城区科普活动探索",
@@ -11388,12 +11105,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "半坡遗址钻木取火体验",
@@ -11427,12 +11143,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "昆明池七夕公园浪漫夜游",
@@ -11466,12 +11181,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "奥体中心游泳培训",
@@ -11504,12 +11218,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "楼观台森林公园研学",
@@ -11543,12 +11256,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "解读西安新城区影视放映周",
@@ -11581,12 +11293,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "鼓楼夜景鼓乐表演",
@@ -11620,12 +11331,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "暑期西安碑林区讲座阅读体验营",
@@ -11659,12 +11369,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼西安莲湖区讲座阅读发现",
@@ -11697,12 +11406,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻西安碑林区讲座阅读之旅",
@@ -11736,12 +11444,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "家庭西安高陵区科普活动研学营",
@@ -11775,12 +11482,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安高陵区亲子活动节",
@@ -11814,12 +11520,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐不夜城不倒翁表演",
@@ -11852,12 +11557,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "沉浸式西安雁塔区科普活动探索",
@@ -11890,12 +11594,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "家庭西安未央区体育赛事研学营",
@@ -11929,12 +11632,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "陕历博模拟考古发掘体验",
@@ -11968,12 +11670,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安临潼区体育赛事活动",
@@ -12006,12 +11707,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "暑期西安高陵区讲座阅读体验营",
@@ -12045,12 +11745,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安高陵区体育赛事之旅",
@@ -12083,12 +11782,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "陕西科技馆航空体验营",
@@ -12122,12 +11820,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大雁塔北广场喷泉夜景",
@@ -12161,12 +11858,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "玛雅海滩儿童戏水区",
@@ -12200,12 +11896,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "兴庆宫公园轮滑",
@@ -12239,12 +11934,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "楼观台森林康养体验",
@@ -12278,12 +11972,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "大雁塔音乐喷泉夜场",
@@ -12317,12 +12010,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大雁塔玄奘广场夜游",
@@ -12356,12 +12048,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进西安长安区科普活动日",
@@ -12394,12 +12085,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安长安区演出月",
@@ -12433,12 +12123,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动西安莲湖区科普活动科普",
@@ -12471,12 +12160,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安临潼区展览课程",
@@ -12509,12 +12197,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安高陵区演出比赛",
@@ -12547,12 +12234,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭西安碑林区科普活动研学营",
@@ -12585,12 +12271,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安鄠邑区体育赛事节",
@@ -12624,12 +12309,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "陕西自然博物馆昆虫标本制作",
@@ -12663,12 +12347,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "陕西科技馆电与磁实验",
@@ -12702,12 +12385,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "曲江海洋极地公园海底隧道",
@@ -12741,12 +12423,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐芙蓉园梦回大唐演出",
@@ -12779,12 +12460,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "经典西安灞桥区科普活动探秘",
@@ -12817,12 +12497,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "钟鼓楼博物馆报时文化",
@@ -12856,12 +12535,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "黑河国家森林公园避暑",
@@ -12895,12 +12573,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "漫游西安雁塔区讲座阅读季",
@@ -12933,12 +12610,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验西安莲湖区展览嘉年华",
@@ -12972,12 +12648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆科学实验室",
@@ -13011,12 +12686,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "西安玛雅海滩造浪派对",
@@ -13050,12 +12724,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "太平国家森林公园瀑布游",
@@ -13089,12 +12762,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "朱雀森林公园野营",
@@ -13128,12 +12800,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "黑河森林公园亲子徒步",
@@ -13167,12 +12838,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "回民街夜市美食游",
@@ -13205,12 +12875,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末西安雁塔区演出活动",
@@ -13243,12 +12912,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典西安阎良区影视放映探秘",
@@ -13282,12 +12950,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "乐华城卡通巡游",
@@ -13320,12 +12987,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安图书馆少儿阅读营",
@@ -13359,12 +13025,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "漫游西安莲湖区亲子活动季",
@@ -13397,12 +13062,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验西安临潼区讲座阅读嘉年华",
@@ -13435,12 +13099,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "青少年西安长安区讲座阅读讲座",
@@ -13474,12 +13137,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "探索西安未央区展览演出",
@@ -13512,12 +13174,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味西安碑林区体育赛事展览",
@@ -13550,12 +13211,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "碑林博物馆碑帖拓印体验",
@@ -13589,12 +13249,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆地质科普课堂",
@@ -13628,12 +13287,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大唐不夜城音乐喷泉",
@@ -13666,12 +13324,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "亲子西安新城区讲座阅读工作坊",
@@ -13705,12 +13362,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "大雁塔音乐喷泉夜游",
@@ -13744,12 +13400,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "曲江池遗址公园亲子骑行",
@@ -13783,12 +13438,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图暑期缤纷季",
@@ -13822,12 +13476,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "汉阳陵汉代陶俑研学",
@@ -13860,12 +13513,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "震撼西安临潼区体育赛事发现",
@@ -13899,12 +13551,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "儿童西安碑林区影视放映课程",
@@ -13937,12 +13588,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼西安雁塔区演出发现",
@@ -13976,12 +13626,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城儿童读书会",
@@ -14015,12 +13664,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "陕西省图英语角",
@@ -14054,12 +13702,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安灞桥区亲子活动演出",
@@ -14093,12 +13740,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安碑林区科普活动活动",
@@ -14132,12 +13778,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游西安鄠邑区亲子活动季",
@@ -14171,12 +13816,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "华夏文旅海洋公园海狮互动",
@@ -14210,12 +13854,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "马勺脸谱绘制体验",
@@ -14248,12 +13891,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "家庭西安鄠邑区讲座阅读研学营",
@@ -14287,12 +13929,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "互动西安未央区演出科普",
@@ -14325,12 +13966,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读西安鄠邑区体育赛事周",
@@ -14363,12 +14003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "陕西科技馆仿生机器人展",
@@ -14402,12 +14041,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "西安欢乐谷奇幻灯光秀",
@@ -14440,12 +14078,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "凤翔泥塑制作体验",
@@ -14479,12 +14116,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "关中民歌学唱",
@@ -14517,12 +14153,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "翠华山山崩地质研学",
@@ -14556,12 +14191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "回民街美食文化夜游",
@@ -14594,12 +14228,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "精彩西安雁塔区展览节",
@@ -14633,12 +14266,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "环城公园城墙根漫步",
@@ -14672,12 +14304,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "西安欢乐谷亲子游乐",
@@ -14710,12 +14341,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西省图国学经典诵读",
@@ -14749,12 +14379,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "钟鼓楼夜景灯光秀",
@@ -14788,12 +14417,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐文化研学之旅",
@@ -14826,12 +14454,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大雁塔南广场夜景",
@@ -14865,12 +14492,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐芙蓉园唐诗灯光秀",
@@ -14903,12 +14529,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安雁塔区体育赛事演出",
@@ -14941,12 +14566,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "探索西安鄠邑区演出演出",
@@ -14980,12 +14604,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安临潼区影视放映之旅",
@@ -15019,12 +14642,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安阎良区展览讲座",
@@ -15058,12 +14680,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安灞桥区演出之旅",
@@ -15096,12 +14717,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式西安长安区亲子活动探索",
@@ -15134,12 +14754,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安欢乐谷旋转木马",
@@ -15172,12 +14791,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安莲湖区展览月",
@@ -15211,12 +14829,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "漫游西安碑林区展览季",
@@ -15250,12 +14867,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "西安博物院小雁塔研学",
@@ -15288,12 +14904,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "陕西省图科普讲座",
@@ -15327,12 +14942,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进西安新城区体育赛事日",
@@ -15365,12 +14979,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "兴庆宫公园荷花欣赏",
@@ -15404,12 +15017,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "浐灞湿地公园自然笔记",
@@ -15443,12 +15055,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "沉浸式西安碑林区讲座阅读探索",
@@ -15482,12 +15093,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻西安雁塔区科普活动之旅",
@@ -15520,12 +15130,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安高陵区演出讲座",
@@ -15559,12 +15168,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "关中皮影戏体验课堂",
@@ -15598,12 +15206,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安城墙研学徒步",
@@ -15636,12 +15243,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探索西安临潼区展览演出",
@@ -15674,12 +15280,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "华县皮影制作课堂",
@@ -15712,12 +15317,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现西安未央区亲子活动比赛",
@@ -15751,12 +15355,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "永兴坊夜景非遗体验",
@@ -15789,12 +15392,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式西安灞桥区演出探索",
@@ -15828,12 +15430,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验西安碑林区体育赛事嘉年华",
@@ -15867,12 +15468,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安临潼区科普活动比赛",
@@ -15906,12 +15506,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻西安鄠邑区展览之旅",
@@ -15945,12 +15544,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式西安莲湖区演出探索",
@@ -15983,12 +15581,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "浐灞生态湿地骑行",
@@ -16022,12 +15619,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "王顺山国家森林公园徒步",
@@ -16061,12 +15657,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐不夜城唐风巡游",
@@ -16099,12 +15694,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安长安区展览活动",
@@ -16138,12 +15732,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子西安鄠邑区科普活动工作坊",
@@ -16176,12 +15769,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安莲湖区体育赛事讲座",
@@ -16215,12 +15807,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕历博唐代壁画临摹",
@@ -16254,12 +15845,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕西科技馆光学探秘课堂",
@@ -16293,12 +15883,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "西安图书馆亲子共读",
@@ -16332,12 +15921,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验西安高陵区科普活动嘉年华",
@@ -16371,12 +15959,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩西安莲湖区讲座阅读节",
@@ -16410,12 +15997,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "唐文化礼仪体验营",
@@ -16448,12 +16034,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "唐代妆容体验",
@@ -16486,12 +16071,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安碑林区体育赛事月",
@@ -16524,12 +16108,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "漫游西安灞桥区科普活动季",
@@ -16562,12 +16145,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验西安鄠邑区影视放映嘉年华",
@@ -16600,12 +16182,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆VR虚拟体验",
@@ -16639,12 +16220,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "暑期西安新城区科普活动体验营",
@@ -16678,12 +16258,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安新城区亲子活动月",
@@ -16716,12 +16295,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游西安长安区体育赛事季",
@@ -16755,12 +16333,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "曲江海洋极地公园企鹅馆",
@@ -16794,12 +16371,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "华清宫长恨歌演出",
@@ -16832,12 +16408,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "经典西安雁塔区讲座阅读探秘",
@@ -16871,12 +16446,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "家庭西安阎良区亲子活动研学营",
@@ -16910,12 +16484,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼西安灞桥区影视放映发现",
@@ -16949,12 +16522,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭西安临潼区讲座阅读研学营",
@@ -16987,12 +16559,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "陕西科技馆数学乐园活动",
@@ -17026,12 +16597,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "王顺山自然笔记课堂",
@@ -17065,12 +16635,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现西安阎良区展览比赛",
@@ -17103,12 +16672,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梦幻西安新城区亲子活动之旅",
@@ -17142,12 +16710,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安鄠邑区科普活动讲座",
@@ -17181,12 +16748,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期西安临潼区展览体验营",
@@ -17219,12 +16785,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉服礼仪小课堂",
@@ -17257,12 +16822,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读西安临潼区科普活动周",
@@ -17296,12 +16860,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期西安未央区影视放映体验营",
@@ -17334,12 +16897,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼西安碑林区科普活动发现",
@@ -17372,12 +16934,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆编程一小时",
@@ -17411,12 +16972,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "大唐芙蓉园夜场游园",
@@ -17449,12 +17009,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "陕西科技馆化学反应实验",
@@ -17488,12 +17047,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "曲江海洋极地公园海豚表演",
@@ -17527,12 +17085,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "陕西省图绘本故事会",
@@ -17566,12 +17123,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "青少年西安雁塔区影视放映讲座",
@@ -17604,12 +17160,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游西安高陵区影视放映季",
@@ -17643,12 +17198,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童西安高陵区讲座阅读课程",
@@ -17681,12 +17235,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "儿童西安鄠邑区演出课程",
@@ -17719,12 +17272,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安雁塔区展览比赛",
@@ -17758,12 +17310,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "大明宫遗址考古勘探研学",
@@ -17797,12 +17348,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉城湖公园汉文化体验",
@@ -17836,12 +17386,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末西安灞桥区影视放映活动",
@@ -17875,12 +17424,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期西安莲湖区演出体验营",
@@ -17913,12 +17461,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安欢乐谷激流勇进",
@@ -17951,12 +17498,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "华清宫唐文化研学",
@@ -17989,12 +17535,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "震撼西安阎良区演出发现",
@@ -18028,12 +17573,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年西安新城区影视放映讲座",
@@ -18066,12 +17610,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "环城公园晨练太极体验",
@@ -18105,12 +17648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江书城读书打卡活动",
@@ -18144,12 +17686,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "周末西安高陵区亲子活动活动",
@@ -18183,12 +17724,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验西安灞桥区展览嘉年华",
@@ -18222,12 +17762,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现西安新城区影视放映比赛",
@@ -18261,12 +17800,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安莲湖区科普活动工作坊",
@@ -18300,12 +17838,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读西安雁塔区展览周",
@@ -18338,12 +17875,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "陕西科技馆海洋科普营",
@@ -18377,12 +17913,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玛雅海滩DJ音乐喷泉",
@@ -18416,12 +17951,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读西安碑林区亲子活动周",
@@ -18455,12 +17989,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验西安阎良区科普活动嘉年华",
@@ -18493,12 +18026,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘西安灞桥区演出月",
@@ -18532,12 +18064,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "汉阳陵博物院模拟考古",
@@ -18570,12 +18101,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "昆明池七夕公园亲子划船",
@@ -18609,12 +18139,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "西安植物园中草药识别",
@@ -18647,12 +18176,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "暑期西安鄠邑区展览体验营",
@@ -18686,12 +18214,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "半坡遗址原始人生活体验",
@@ -18725,12 +18252,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "钟鼓楼博物馆古钟表研学",
@@ -18764,12 +18290,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陕西科技馆4D影院科普",
@@ -18803,12 +18328,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "唐代投壶游戏",
@@ -18841,12 +18365,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "城墙南门迎宾夜景秀",
@@ -18879,12 +18402,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "趣味西安莲湖区影视放映展览",
@@ -18917,12 +18439,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "陕西科技馆机器人编程课",
@@ -18956,12 +18477,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "浐灞国家湿地公园观鸟",
@@ -18995,12 +18515,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "环城公园护城河泛舟",
@@ -19034,12 +18553,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大唐不夜城石头哥表演",
@@ -19072,12 +18590,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "儿童西安未央区影视放映课程",
@@ -19111,12 +18628,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安临潼区亲子活动工作坊",
@@ -19149,12 +18665,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索西安碑林区影视放映演出",
@@ -19187,12 +18702,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味西安鄠邑区影视放映展览",
@@ -19225,12 +18739,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "精彩西安未央区科普活动节",
@@ -19263,12 +18776,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "曲江海洋极地公园海洋科普营",
@@ -19302,12 +18814,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "城墙瑜伽晨练",
@@ -19340,12 +18851,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典西安鄠邑区亲子活动探秘",
@@ -19378,12 +18888,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进西安莲湖区亲子活动日",
@@ -19417,12 +18926,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子西安长安区讲座阅读工作坊",
@@ -19456,12 +18964,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "秦始皇帝陵博物院兵马俑研学",
@@ -19494,12 +19001,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "华夏文旅海洋公园水母宫",
@@ -19533,12 +19039,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "西安欢乐谷万圣主题夜",
@@ -19571,12 +19076,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "曲江海洋极地公园海豹喂食",
@@ -19610,12 +19114,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大唐不夜城夜游",
@@ -19648,12 +19151,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "精彩西安临潼区体育赛事节",
@@ -19686,12 +19188,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "陕历博小小讲解员夏令营",
@@ -19725,12 +19226,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "兵马俑考古研学营",
@@ -19763,11 +19263,10 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   }
 ]

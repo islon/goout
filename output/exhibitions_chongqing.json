@@ -27,8 +27,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -63,8 +63,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -98,8 +98,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -133,8 +133,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -168,8 +168,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -202,8 +202,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -238,8 +238,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -278,12 +278,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆园博园园林文化研学",
@@ -316,12 +315,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "少儿图书馆手工坊",
@@ -355,12 +353,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆武隆区科普活动研学营",
@@ -393,12 +390,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆北碚区科普活动探索",
@@ -431,12 +427,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "趣味重庆巴南区科普活动展览",
@@ -470,12 +465,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "机器人编程体验工作坊",
@@ -509,12 +503,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆动物园猛兽区导览",
@@ -547,12 +540,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "川剧变脸体验工作坊",
@@ -585,12 +577,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "亲子共读时光活动",
@@ -624,12 +615,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "际华园攀岩挑战赛",
@@ -662,12 +652,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆融创乐园夜场",
@@ -700,12 +689,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "经典重庆大渡口区体育赛事探秘",
@@ -738,12 +726,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "震撼重庆北碚区亲子活动发现",
@@ -776,12 +763,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆北碚区影视放映研学营",
@@ -815,12 +801,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆大足区体育赛事活动",
@@ -854,12 +839,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "经典重庆江北区展览探秘",
@@ -893,12 +877,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "工业博物馆机械探秘研学",
@@ -932,12 +915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "彩云湖湿地公园观鸟活动",
@@ -971,12 +953,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆融创海世界海豚表演",
@@ -1009,12 +990,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆汉海海洋公园触摸池",
@@ -1048,12 +1028,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "仙女山森林探险营",
@@ -1087,12 +1066,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南山植物园夜游会",
@@ -1125,12 +1103,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆江北区影视放映季",
@@ -1164,12 +1141,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆大足区影视放映季",
@@ -1202,12 +1178,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "三峡博物馆少数民族文化展",
@@ -1241,12 +1216,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "太空生活体验展",
@@ -1280,12 +1254,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "缙云山森林课堂夏令营",
@@ -1318,12 +1291,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆欢乐海底世界水母宫",
@@ -1356,12 +1328,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "白公馆历史研学活动",
@@ -1394,12 +1365,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "仙女山骑马体验",
@@ -1433,12 +1403,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆南岸区影视放映探索",
@@ -1472,12 +1441,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "三峡博物馆书画鉴赏讲座",
@@ -1511,12 +1479,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "蜀绣手作工坊",
@@ -1549,12 +1516,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "少儿编程启蒙课",
@@ -1588,12 +1554,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆欢乐海底世界鲨鱼馆",
@@ -1626,12 +1591,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "鹅岭公园夜景游园",
@@ -1665,12 +1629,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "体验重庆武隆区展览嘉年华",
@@ -1704,12 +1667,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆沙坪坝区演出科普",
@@ -1742,12 +1704,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆园博园夏日游园会",
@@ -1780,12 +1741,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创雪世界滑雪体验",
@@ -1818,12 +1778,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆两江新区亲子活动比赛",
@@ -1857,12 +1816,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆大足区亲子活动探秘",
@@ -1895,12 +1853,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆渝中区讲座阅读嘉年华",
@@ -1933,12 +1890,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "自然博物馆夜宿奇妙夜",
@@ -1972,12 +1928,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "荣昌折扇制作体验",
@@ -2010,12 +1965,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆大渡口区影视放映活动",
@@ -2048,12 +2002,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "VR科学探索之旅",
@@ -2087,12 +2040,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆动物园飞禽世界",
@@ -2125,12 +2077,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆汉海海洋公园海狮表演",
@@ -2164,12 +2115,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "儿童创意写作课",
@@ -2203,12 +2153,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "重庆中央公园轮滑体验",
@@ -2242,12 +2191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "武隆天生三桥探秘",
@@ -2280,12 +2228,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南山夜景火锅体验",
@@ -2318,12 +2265,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆沙坪坝区科普活动日",
@@ -2356,12 +2302,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆九龙坡区讲座阅读活动",
@@ -2395,12 +2340,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻重庆渝中区亲子活动之旅",
@@ -2433,12 +2377,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "歌乐山森林公园徒步游",
@@ -2472,12 +2415,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "武隆印象武隆实景演出",
@@ -2510,12 +2452,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "解读重庆大足区影视放映周",
@@ -2548,12 +2489,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆大足区体育赛事嘉年华",
@@ -2587,12 +2527,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆江北区展览讲座",
@@ -2626,12 +2565,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆两江新区演出探索",
@@ -2664,12 +2602,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆武隆区演出月",
@@ -2703,12 +2640,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "自然博物馆古生物大讲堂",
@@ -2742,12 +2678,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "恐龙时代科普展",
@@ -2781,12 +2716,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆融创乐园旋转木马之夜",
@@ -2819,12 +2753,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梁平年画印制体验",
@@ -2857,12 +2790,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "渣滓洞革命教育研学",
@@ -2895,12 +2827,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读重庆北碚区讲座阅读周",
@@ -2934,12 +2865,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进重庆渝北区演出日",
@@ -2973,12 +2903,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆渝中区亲子活动季",
@@ -3011,12 +2940,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆大足区演出课程",
@@ -3049,12 +2977,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆南岸区影视放映演出",
@@ -3087,12 +3014,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆北碚区展览课程",
@@ -3125,12 +3051,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆沙坪坝区演出比赛",
@@ -3163,12 +3088,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆渝北区影视放映发现",
@@ -3202,12 +3126,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "工业博物馆老厂房探秘游",
@@ -3241,12 +3164,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "走进重庆大足区讲座阅读日",
@@ -3279,12 +3201,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "青少年重庆渝北区讲座阅读讲座",
@@ -3318,12 +3239,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式重庆巴南区体育赛事探索",
@@ -3357,12 +3277,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "际华园卡丁车竞速",
@@ -3395,12 +3314,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南山一棵树观景台夜游",
@@ -3433,12 +3351,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "江北嘴夜景灯光",
@@ -3471,12 +3388,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "体验重庆大渡口区影视放映嘉年华",
@@ -3509,12 +3425,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆北碚区体育赛事日",
@@ -3547,12 +3462,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "重庆糖画体验活动",
@@ -3585,12 +3499,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿英语绘本阅读",
@@ -3624,12 +3537,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "红岩村革命旧址研学",
@@ -3663,12 +3575,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "奥体中心羽毛球训练营",
@@ -3701,12 +3612,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "漫游重庆沙坪坝区体育赛事季",
@@ -3740,12 +3650,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "恐龙化石发掘体验营",
@@ -3779,12 +3688,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "3D打印创意工坊",
@@ -3818,12 +3726,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆中央公园风筝节",
@@ -3857,12 +3764,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "重庆动物园爬行动物馆探秘",
@@ -3895,12 +3801,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆图书馆古诗词大会",
@@ -3934,12 +3839,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "际华园滑翔伞体验",
@@ -3972,12 +3876,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山森林氧吧体验",
@@ -4010,12 +3913,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南滨路夜景漫步",
@@ -4048,12 +3950,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "精彩重庆南岸区体育赛事节",
@@ -4087,12 +3988,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "周末重庆两江新区科普活动活动",
@@ -4126,12 +4026,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆武隆区展览活动",
@@ -4165,12 +4064,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "南山植物园兰花精品展",
@@ -4203,12 +4101,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "绘本故事会暑期专场",
@@ -4242,12 +4139,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心足球训练营",
@@ -4280,12 +4176,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "仙女山草原野餐派对",
@@ -4319,12 +4214,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆沙坪坝区讲座阅读研学营",
@@ -4358,12 +4252,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "亲子重庆武隆区亲子活动工作坊",
@@ -4396,12 +4289,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆南川区亲子活动日",
@@ -4435,12 +4327,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆南川区体育赛事研学营",
@@ -4474,12 +4365,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "家庭重庆江北区讲座阅读研学营",
@@ -4512,12 +4402,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "科技馆暑期科学营",
@@ -4551,12 +4440,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆面塑手作体验",
@@ -4589,12 +4477,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "歌乐山烈士陵园祭扫",
@@ -4627,12 +4514,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "精彩重庆武隆区科普活动节",
@@ -4665,12 +4551,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆南川区影视放映探秘",
@@ -4704,12 +4589,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆两江新区亲子活动科普",
@@ -4743,12 +4627,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆九龙坡区亲子活动展览",
@@ -4782,12 +4665,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创雪世界冰雪课堂",
@@ -4820,12 +4702,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "红岩革命纪念馆小讲解员",
@@ -4859,12 +4740,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "缙云山植物标本制作",
@@ -4897,12 +4777,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "家庭重庆九龙坡区演出研学营",
@@ -4936,12 +4815,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆南岸区展览科普",
@@ -4975,12 +4853,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "火锅博物馆麻辣文化讲堂",
@@ -5014,12 +4891,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "巴渝婚俗文化展",
@@ -5052,12 +4928,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆图书馆青少年读书会",
@@ -5091,12 +4966,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "解读重庆江北区体育赛事周",
@@ -5129,12 +5003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "三峡博物馆陶瓷修复体验课",
@@ -5168,12 +5041,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆剪纸艺术体验",
@@ -5206,12 +5078,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "际华园极限运动体验",
@@ -5244,12 +5115,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "梦幻重庆九龙坡区亲子活动之旅",
@@ -5283,12 +5153,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆渝中区科普活动讲座",
@@ -5322,12 +5191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐谷过山车挑战赛",
@@ -5360,12 +5228,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "大足石刻宝顶山探秘",
@@ -5398,12 +5265,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆抗战岁月展",
@@ -5437,12 +5303,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "仙女山草原音乐节",
@@ -5476,12 +5341,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "梦幻重庆武隆区体育赛事之旅",
@@ -5514,12 +5378,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆两江新区展览展览",
@@ -5552,12 +5415,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "自然博物馆矿物标本观察课",
@@ -5591,12 +5453,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "趣味物理小实验课堂",
@@ -5630,12 +5491,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "歌乐山自然观察日记",
@@ -5669,12 +5529,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "少儿科学实验课",
@@ -5708,12 +5567,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "江北嘴江边慢跑活动",
@@ -5747,12 +5605,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "武隆芙蓉洞探洞体验",
@@ -5785,12 +5642,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆巴南区讲座阅读日",
@@ -5824,12 +5680,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "南山植物园多肉植物展",
@@ -5862,12 +5717,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "鹅岭公园夏日花卉联展",
@@ -5901,12 +5755,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "夏布编织体验工坊",
@@ -5939,12 +5792,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "仙女山户外拓展营",
@@ -5978,12 +5830,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "巴渝文化深度研学营",
@@ -6017,12 +5868,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "磁器口民俗文化研学",
@@ -6055,12 +5905,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "青少年重庆两江新区影视放映讲座",
@@ -6093,12 +5942,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界海底夜宿",
@@ -6131,12 +5979,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆融创雪世界冰雕艺术展",
@@ -6169,12 +6016,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "缙云山避暑山庄度假",
@@ -6207,12 +6053,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末重庆巴南区影视放映活动",
@@ -6246,12 +6091,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆美术馆版画拓印体验",
@@ -6285,12 +6129,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆泥塑手作工坊",
@@ -6323,12 +6166,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆图书馆电影赏析",
@@ -6362,12 +6204,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "影视放映",
-    "family_friendly": true
+    "category": "影视放映"
   },
   {
     "name": "暑期重庆大渡口区展览体验营",
@@ -6400,12 +6241,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐谷电音节",
@@ -6438,12 +6278,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆绘本剧场",
@@ -6477,12 +6316,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": true
+    "category": "演出"
   },
   {
     "name": "漫游重庆渝北区体育赛事季",
@@ -6515,12 +6353,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "梦幻重庆两江新区展览之旅",
@@ -6554,12 +6391,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探索重庆两江新区演出演出",
@@ -6593,12 +6429,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆南川区演出嘉年华",
@@ -6632,12 +6467,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆北碚区演出探秘",
@@ -6671,12 +6505,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆九龙坡区科普活动探索",
@@ -6709,12 +6542,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "海洋科学探索活动",
@@ -6748,12 +6580,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "铁山坪森林探险挑战",
@@ -6787,12 +6618,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆汉海海洋公园海底隧道",
@@ -6826,12 +6656,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周公馆历史研学活动",
@@ -6864,12 +6693,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "金佛山徒步登山",
@@ -6902,12 +6730,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探秘重庆江北区讲座阅读月",
@@ -6940,12 +6767,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "钢铁是怎样炼成的体验课",
@@ -6979,12 +6805,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "化学魔术秀表演",
@@ -7018,12 +6843,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "草编手作体验活动",
@@ -7056,12 +6880,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南滨路骑行活动",
@@ -7094,12 +6917,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "仙女山星空观测活动",
@@ -7133,12 +6955,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "暑期重庆九龙坡区影视放映体验营",
@@ -7171,12 +6992,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆南岸区讲座阅读展览",
@@ -7210,12 +7030,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "彩云湖湿地生态讲堂",
@@ -7249,12 +7068,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "暑期缤纷季阅读嘉年华",
@@ -7288,12 +7106,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心网球体验课",
@@ -7326,12 +7143,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "仙女山马术体验营",
@@ -7365,12 +7181,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆江北区科普活动日",
@@ -7404,12 +7219,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆大渡口区亲子活动节",
@@ -7443,12 +7257,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园花车巡游",
@@ -7481,12 +7294,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "磁器口古镇历史探秘",
@@ -7519,12 +7331,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "鹅岭瞰胜楼观夜景",
@@ -7558,12 +7369,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探索重庆沙坪坝区展览演出",
@@ -7596,12 +7406,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读重庆巴南区影视放映周",
@@ -7635,12 +7444,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园过山车体验",
@@ -7673,12 +7481,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "木洞山歌学唱体验",
@@ -7711,12 +7518,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆暑期志愿者",
@@ -7750,12 +7556,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "缙云山观鸟活动",
@@ -7788,12 +7593,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "走进重庆大渡口区展览日",
@@ -7827,12 +7631,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "铁山坪森林公园避暑纳凉",
@@ -7866,12 +7669,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆图书馆书法课堂",
@@ -7905,12 +7707,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "震撼重庆南岸区讲座阅读发现",
@@ -7944,12 +7745,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "脊椎动物演化研学课堂",
@@ -7983,12 +7783,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "趣味重庆北碚区亲子活动展览",
@@ -8021,12 +7820,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆大足区科普活动发现",
@@ -8060,12 +7858,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "气象科普大讲堂",
@@ -8099,12 +7896,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "玛雅海滩儿童戏水乐园",
@@ -8138,12 +7934,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆评书体验专场",
@@ -8176,12 +7971,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "缙云山徒步登山赛",
@@ -8214,12 +8008,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "经典重庆九龙坡区科普活动探秘",
@@ -8252,12 +8045,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆江北区演出展览",
@@ -8291,12 +8083,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "发现重庆大渡口区讲座阅读比赛",
@@ -8329,12 +8120,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "建川博物馆兵工署旧址探秘",
@@ -8368,12 +8158,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "地震模拟体验活动",
@@ -8407,12 +8196,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆动物园两栖动物世界",
@@ -8445,12 +8233,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "北滨路健步走活动",
@@ -8483,12 +8270,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "武隆龙水峡地缝探秘",
@@ -8521,12 +8307,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆渝中区影视放映科普",
@@ -8560,12 +8345,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆渝中区科普活动探秘",
@@ -8599,12 +8383,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心乒乓球培训",
@@ -8637,12 +8420,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "探索重庆大足区亲子活动演出",
@@ -8676,12 +8458,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "川江号子学唱活动",
@@ -8714,12 +8495,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "湖广会馆移民文化研学",
@@ -8752,12 +8532,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "朝天门夜景观赏",
@@ -8790,12 +8569,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "儿童重庆南川区讲座阅读课程",
@@ -8828,12 +8606,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "漫游重庆两江新区讲座阅读季",
@@ -8866,12 +8643,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "周末重庆沙坪坝区亲子活动活动",
@@ -8904,12 +8680,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "际华园室内跳伞体验",
@@ -8942,12 +8717,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "仙女山露营节",
@@ -8981,12 +8755,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "互动重庆江北区科普活动科普",
@@ -9019,12 +8792,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读重庆渝北区亲子活动周",
@@ -9058,12 +8830,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆南岸区体育赛事讲座",
@@ -9097,12 +8868,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆渝中区展览工作坊",
@@ -9135,12 +8905,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "鹅岭公园瞰胜楼观景",
@@ -9174,12 +8943,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷亲子游乐专场",
@@ -9212,12 +8980,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "火锅底料古法炒制课",
@@ -9251,12 +9018,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "暑期重庆巴南区展览体验营",
@@ -9290,12 +9056,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆南川区演出探索",
@@ -9329,12 +9094,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "桂园重庆谈判旧址研学",
@@ -9367,12 +9131,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "火锅底料古法炒制体验",
@@ -9406,12 +9169,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "无人机飞行体验营",
@@ -9445,12 +9207,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆中央公园亲子运动会",
@@ -9484,12 +9245,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "重庆欢乐谷夜场派对",
@@ -9522,12 +9282,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "奥体中心田径体验日",
@@ -9560,12 +9319,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山古佛洞探秘",
@@ -9598,12 +9356,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷夜场",
@@ -9636,12 +9393,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末重庆江北区体育赛事活动",
@@ -9674,12 +9430,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆渝北区影视放映展览",
@@ -9712,12 +9467,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动重庆巴南区讲座阅读科普",
@@ -9751,12 +9505,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "重庆融创雪世界娱雪乐园",
@@ -9789,12 +9542,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "十八梯夜景探秘",
@@ -9827,12 +9579,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现重庆大足区科普活动比赛",
@@ -9866,12 +9617,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆渝中区演出研学营",
@@ -9904,12 +9654,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南山植物园珍稀植物展",
@@ -9942,12 +9691,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验重庆九龙坡区讲座阅读嘉年华",
@@ -9980,12 +9728,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "朝天门夜市美食游",
@@ -10018,12 +9765,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "体验重庆沙坪坝区亲子活动嘉年华",
@@ -10057,12 +9803,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆南川区亲子活动体验营",
@@ -10095,12 +9840,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆大渡口区体育赛事演出",
@@ -10134,12 +9878,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "湖广会馆填川历史展",
@@ -10172,12 +9915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆国际马戏城夜场表演",
@@ -10210,12 +9952,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "沉浸式重庆大渡口区影视放映探索",
@@ -10249,12 +9990,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆渝北区科普活动月",
@@ -10288,12 +10028,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆巴南区展览月",
@@ -10327,12 +10066,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆园博园水生植物展",
@@ -10365,12 +10103,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "玛雅海滩戏水狂欢节",
@@ -10404,12 +10141,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山杜鹃花海观赏",
@@ -10442,12 +10178,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "体验重庆两江新区科普活动嘉年华",
@@ -10481,12 +10216,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻重庆大足区演出之旅",
@@ -10519,12 +10253,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆美术馆当代艺术导览",
@@ -10558,12 +10291,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆毛血旺制作体验",
@@ -10596,12 +10328,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆国画体验课",
@@ -10635,12 +10366,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "十八梯老重庆记忆研学",
@@ -10673,12 +10403,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探索重庆九龙坡区科普活动演出",
@@ -10712,12 +10441,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "亲子重庆南川区科普活动工作坊",
@@ -10750,12 +10478,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆九龙坡区影视放映月",
@@ -10789,12 +10516,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆南岸区科普活动课程",
@@ -10828,12 +10554,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "建川博物馆抗战文物精品展",
@@ -10867,12 +10592,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "电与磁的奥秘探索",
@@ -10906,12 +10630,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "际华园冲浪体验",
@@ -10944,12 +10667,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山索道观光",
@@ -10982,12 +10704,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山避暑露营",
@@ -11020,12 +10741,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆江北区讲座阅读体验营",
@@ -11059,12 +10779,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆北碚区影视放映月",
@@ -11098,12 +10817,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆南川区展览发现",
@@ -11137,12 +10855,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味重庆武隆区体育赛事展览",
@@ -11175,12 +10892,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "暑期重庆北碚区体育赛事体验营",
@@ -11214,12 +10930,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "环保科学小达人",
@@ -11253,12 +10968,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "精彩重庆江北区展览节",
@@ -11292,12 +11006,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探秘重庆南岸区亲子活动月",
@@ -11330,12 +11043,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园暑期嘉年华",
@@ -11368,12 +11080,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南滨路灯光秀",
@@ -11406,12 +11117,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现重庆巴南区讲座阅读比赛",
@@ -11444,12 +11154,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "趣味重庆沙坪坝区影视放映展览",
@@ -11482,12 +11191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "新能源科普展览",
@@ -11521,12 +11229,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆大剧院夜景",
@@ -11560,12 +11267,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "精彩重庆巴南区亲子活动节",
@@ -11599,12 +11305,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆渝北区演出科普",
@@ -11637,12 +11342,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆沙坪坝区体育赛事工作坊",
@@ -11676,12 +11380,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "暑期重庆武隆区演出体验营",
@@ -11714,12 +11417,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆江北区影视放映课程",
@@ -11752,12 +11454,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "洪崖洞巴渝夜市",
@@ -11790,12 +11491,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "自然博物馆地球科学课堂",
@@ -11829,12 +11529,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "陈麻花制作体验",
@@ -11867,12 +11566,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆茶艺课堂",
@@ -11906,12 +11604,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "大足石刻北山摩崖造像研学",
@@ -11944,12 +11641,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "歌乐山革命故事会",
@@ -11982,12 +11678,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "经典重庆沙坪坝区展览探秘",
@@ -12021,12 +11716,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梦幻重庆沙坪坝区影视放映之旅",
@@ -12060,12 +11754,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆武隆区讲座阅读演出",
@@ -12098,12 +11791,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻重庆大渡口区科普活动之旅",
@@ -12136,12 +11828,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "光学世界探秘课堂",
@@ -12175,12 +11866,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "际华园蹦床公园",
@@ -12213,12 +11903,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "缙云山避暑纳凉游",
@@ -12251,12 +11940,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "走进重庆武隆区演出日",
@@ -12290,12 +11978,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "食品安全科普体验",
@@ -12329,12 +12016,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "彩云湖湿地蝴蝶观察活动",
@@ -12368,12 +12054,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷夏日狂欢季",
@@ -12406,12 +12091,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "磁器口夜景灯光秀",
@@ -12444,12 +12128,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "互动重庆北碚区体育赛事科普",
@@ -12483,12 +12166,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青少年重庆南川区影视放映讲座",
@@ -12521,12 +12203,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆渝中区演出月",
@@ -12560,12 +12241,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆大渡口区讲座阅读发现",
@@ -12598,12 +12278,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "鹅岭公园夏日荷花展",
@@ -12637,12 +12316,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "少儿图书馆暑期作业辅导",
@@ -12676,12 +12354,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界海洋探秘",
@@ -12714,12 +12391,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "少儿公益培训课堂",
@@ -12753,12 +12429,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读重庆两江新区科普活动周",
@@ -12792,12 +12467,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆武隆区影视放映比赛",
@@ -12831,12 +12505,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆渝中区亲子活动课程",
@@ -12870,12 +12543,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "鹅岭二厂夜游",
@@ -12908,12 +12580,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "亲子重庆南岸区科普活动工作坊",
@@ -12947,12 +12618,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆渝北区亲子活动活动",
@@ -12986,12 +12656,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆北碚区演出讲座",
@@ -13024,12 +12693,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆酸辣粉制作体验",
@@ -13062,12 +12730,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆亲子手工日",
@@ -13101,12 +12768,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "十八梯历史建筑探秘",
@@ -13139,12 +12805,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "经典重庆武隆区讲座阅读探秘",
@@ -13178,12 +12843,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读重庆南岸区演出周",
@@ -13217,12 +12881,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻重庆北碚区展览之旅",
@@ -13256,12 +12919,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "声学小课堂",
@@ -13295,12 +12957,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南山植物园药用植物认知",
@@ -13333,12 +12994,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "歌乐山攀岩体验",
@@ -13372,12 +13032,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "缙云山朝霞观赏",
@@ -13410,12 +13069,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "洪崖洞千与千寻打卡游",
@@ -13448,12 +13106,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "亲子重庆渝北区亲子活动工作坊",
@@ -13487,12 +13144,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "人体健康小课堂",
@@ -13526,12 +13182,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "梦幻重庆南岸区讲座阅读之旅",
@@ -13565,12 +13220,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "儿童重庆巴南区演出课程",
@@ -13603,12 +13257,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆南岸区科普活动季",
@@ -13641,12 +13294,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆北碚区讲座阅读工作坊",
@@ -13680,12 +13332,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "暑期重庆沙坪坝区科普活动体验营",
@@ -13719,12 +13370,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆武隆区影视放映科普",
@@ -13758,12 +13408,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆生物多样性专题展",
@@ -13797,12 +13446,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "磁器口古镇夜游",
@@ -13835,12 +13483,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读重庆大渡口区演出周",
@@ -13874,12 +13521,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界美人鱼秀",
@@ -13912,12 +13558,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "发现重庆北碚区亲子活动比赛",
@@ -13951,12 +13596,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆凉糕制作体验",
@@ -13989,12 +13633,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆英语角",
@@ -14028,12 +13671,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆南岸区亲子活动体验营",
@@ -14066,12 +13708,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆两江新区体育赛事月",
@@ -14104,12 +13745,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "铁山坪山地自行车",
@@ -14143,12 +13783,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "武隆天坑探险",
@@ -14181,12 +13820,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "儿童科学乐园暑期探索",
@@ -14220,12 +13858,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆少年儿童图书馆故事会",
@@ -14259,12 +13896,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "北滨路夜游活动",
@@ -14297,12 +13933,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆大渡口区科普活动课程",
@@ -14336,12 +13971,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆大渡口区演出工作坊",
@@ -14375,12 +14009,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆九龙坡区演出讲座",
@@ -14414,12 +14047,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "仙女山避暑度假之旅",
@@ -14453,12 +14085,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "儿童重庆沙坪坝区影视放映课程",
@@ -14492,12 +14123,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆九龙坡区展览工作坊",
@@ -14530,12 +14160,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "仙女山滑草体验",
@@ -14569,12 +14198,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆两江新区讲座阅读工作坊",
@@ -14608,12 +14236,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆历代钱币展",
@@ -14647,12 +14274,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "金佛山夏季滑雪体验",
@@ -14685,12 +14311,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "缙云山温泉度假",
@@ -14723,12 +14348,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读重庆渝中区展览周",
@@ -14761,12 +14385,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "暑期重庆大足区讲座阅读体验营",
@@ -14800,12 +14423,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆南川区体育赛事节",
@@ -14838,12 +14460,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "两江游船夜航专线",
@@ -14876,12 +14497,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "漫游重庆武隆区亲子活动季",
@@ -14915,12 +14535,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆大足区展览节",
@@ -14954,12 +14573,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "震撼重庆巴南区科普活动发现",
@@ -14992,12 +14610,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "蜀绣团扇制作体验",
@@ -15030,12 +14647,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆科普讲座",
@@ -15069,12 +14685,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "建川博物馆抗战兵器展",
@@ -15108,12 +14723,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "大足石刻佛教艺术讲堂",
@@ -15146,12 +14760,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "湖广会馆家谱文化展",
@@ -15184,12 +14797,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "梦幻重庆南川区讲座阅读之旅",
@@ -15223,12 +14835,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "家庭重庆渝北区科普活动研学营",
@@ -15262,12 +14873,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "力学趣味实验大挑战",
@@ -15301,12 +14911,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "奥体中心游泳公开赛",
@@ -15339,12 +14948,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "儿童重庆渝北区体育赛事课程",
@@ -15378,12 +14986,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆九龙坡区展览季",
@@ -15417,12 +15024,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "小小讲解员暑期培训营",
@@ -15456,12 +15062,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐海底世界海龟馆",
@@ -15494,12 +15099,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "两江夜游船",
@@ -15532,12 +15136,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "青少年重庆大渡口区体育赛事讲座",
@@ -15571,12 +15174,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆渝北区展览演出",
@@ -15609,12 +15211,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读重庆南川区科普活动周",
@@ -15648,12 +15249,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆渝中区讲座阅读探索",
@@ -15687,12 +15287,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进重庆渝中区影视放映日",
@@ -15725,12 +15324,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南山一棵树日出",
@@ -15763,12 +15361,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探秘重庆南川区体育赛事月",
@@ -15801,12 +15398,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆渝中区体育赛事展览",
@@ -15840,12 +15436,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典重庆渝北区讲座阅读探秘",
@@ -15878,12 +15473,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "材料科学探秘展",
@@ -15917,12 +15511,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "朝天门两江交汇夜景",
@@ -15955,12 +15548,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "震撼重庆渝中区体育赛事发现",
@@ -15994,12 +15586,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "体验重庆北碚区科普活动嘉年华",
@@ -16032,12 +15623,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆南川区展览比赛",
@@ -16071,12 +15661,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆汉海海洋公园企鹅馆",
@@ -16110,12 +15699,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "重庆欢乐海底世界海洋生物展",
@@ -16148,12 +15736,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "家庭重庆大足区展览研学营",
@@ -16186,12 +15773,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "发现重庆九龙坡区体育赛事比赛",
@@ -16225,12 +15811,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "精彩重庆两江新区影视放映节",
@@ -16263,12 +15848,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆大渡口区亲子活动研学营",
@@ -16302,12 +15886,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆巴南区亲子活动讲座",
@@ -16340,12 +15923,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "航天科普主题展",
@@ -16379,12 +15961,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆竹编技艺体验",
@@ -16417,12 +15998,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆电影周",
@@ -16456,12 +16036,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "朝天门码头历史研学",
@@ -16494,12 +16073,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "国泰艺术中心夜场",
@@ -16533,12 +16111,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": true
+    "category": "演出"
   },
   {
     "name": "互动重庆九龙坡区体育赛事科普",
@@ -16571,12 +16148,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "人工智能启蒙课程",
@@ -16610,12 +16186,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "重庆图书馆名家讲坛",
@@ -16649,12 +16224,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "际华园风洞飞行体验",
@@ -16687,12 +16261,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "武隆地心探险之旅",
@@ -16725,12 +16298,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆江北区亲子活动演出",
@@ -16764,12 +16336,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆巴南区演出季",
@@ -16803,12 +16374,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金佛山避暑纳凉之旅",
@@ -16841,12 +16411,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末重庆渝中区展览活动",
@@ -16880,12 +16449,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式重庆江北区亲子活动探索",
@@ -16918,12 +16486,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "洪崖洞灯光秀",
@@ -16956,12 +16523,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探索重庆巴南区体育赛事演出",
@@ -16994,12 +16560,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "精彩重庆九龙坡区演出节",
@@ -17033,12 +16598,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆沙坪坝区讲座阅读节",
@@ -17072,12 +16636,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验重庆渝北区展览嘉年华",
@@ -17111,12 +16674,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "洪崖洞夜游打卡",
@@ -17149,12 +16711,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "震撼重庆沙坪坝区演出发现",
@@ -17188,12 +16749,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆两江新区体育赛事体验营",
@@ -17227,12 +16787,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆大足区影视放映工作坊",
@@ -17266,12 +16825,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆江北区演出发现",
@@ -17305,12 +16863,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆国学讲堂",
@@ -17344,12 +16901,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解放碑夜景漫步",
@@ -17382,12 +16938,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现重庆南岸区展览比赛",
@@ -17420,12 +16975,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "周末重庆南岸区演出活动",
@@ -17458,12 +17012,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆渝北区展览探索",
@@ -17496,12 +17049,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "重庆漆器制作体验",
@@ -17535,12 +17087,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆巴渝文化讲座",
@@ -17574,12 +17125,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "解放碑抗战历史研学",
@@ -17612,12 +17162,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆玉器鉴赏研学",
@@ -17651,12 +17200,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "太阳系探秘讲座",
@@ -17690,12 +17238,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "重庆中央公园亲子足球赛",
@@ -17729,12 +17276,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "仙女山房车露营节",
@@ -17768,12 +17314,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "铜梁龙舞体验活动",
@@ -17806,12 +17351,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆亲子阅读指导",
@@ -17845,12 +17389,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "洪崖洞巴渝建筑研学",
@@ -17883,12 +17426,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "火箭发射模拟体验",
@@ -17922,12 +17464,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐谷万圣节主题夜",
@@ -17960,12 +17501,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南滨路夜跑活动",
@@ -17998,12 +17538,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "金佛山日出观赏",
@@ -18036,12 +17575,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆民俗文化讲堂",
@@ -18074,12 +17612,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆图书馆少儿朗诵赛",
@@ -18113,12 +17650,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "科学魔术大揭秘",
@@ -18152,12 +17688,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆茶馆文化体验",
@@ -18190,12 +17725,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆绘本创作营",
@@ -18229,12 +17763,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "磁器口码头文化研学",
@@ -18267,12 +17800,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "生命科学讲堂",
@@ -18306,12 +17838,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "川剧脸谱绘制体验",
@@ -18344,12 +17875,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆童话剧表演",
@@ -18383,12 +17913,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": true
+    "category": "演出"
   },
   {
     "name": "十八梯吊脚楼建筑研学",
@@ -18421,12 +17950,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "数学游戏乐园",
@@ -18460,12 +17988,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆香囊制作体验",
@@ -18498,12 +18025,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "朝天门两江交汇地理研学",
@@ -18536,12 +18062,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆陶艺拉胚体验",
@@ -18574,12 +18099,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "磁器口非遗文化研学",
@@ -18612,12 +18136,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园冬日童话节",
@@ -18650,12 +18173,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "科学实验秀暑期专场",
@@ -18689,12 +18211,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "重庆中央公园草坪露营日",
@@ -18728,12 +18249,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "重庆动物园大熊猫科普讲解",
@@ -18766,12 +18286,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "重庆美术馆少儿美育课堂",
@@ -18805,12 +18324,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南山植物园夏花认知之旅",
@@ -18843,12 +18361,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "红岩研学夏令营",
@@ -18882,12 +18399,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "建川博物馆抗战文化研学",
@@ -18921,12 +18437,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "三峡文化研学夏令营",
@@ -18960,12 +18475,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "大足石刻文化研学营",
@@ -18998,12 +18512,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "防灾减灾体验营",
@@ -19037,12 +18550,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "缙云山植物认知自然课堂",
@@ -19075,12 +18587,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "巴蜀青铜器鉴赏研学",
@@ -19114,12 +18625,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆动物园金丝猴探秘",
@@ -19152,12 +18662,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "重庆中央公园亲子骑行",
@@ -19191,12 +18700,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "武隆喀斯特地质研学",
@@ -19229,12 +18737,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南山植物园蔷薇园探秘",
@@ -19267,12 +18774,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "火锅文化深度体验营",
@@ -19306,12 +18812,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "火锅博物馆美食文化研学",
@@ -19345,12 +18850,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "红岩精神讲堂",
@@ -19384,12 +18888,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "自然博物馆昆虫探秘之旅",
@@ -19423,12 +18926,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "缙云山森林避暑课堂",
@@ -19461,12 +18963,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "重庆小面制作体验",
@@ -19499,11 +19000,10 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   }
 ]

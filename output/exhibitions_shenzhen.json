@@ -204,7 +204,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "凤凰网深圳（宝安区）",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -308,7 +308,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -389,7 +389,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "龙华区"
+    "district": "其他"
   },
   {
     "title": "来处与归途：三燕百年",
@@ -487,7 +487,7 @@
     "family_friendly": true,
     "start_date": "2026-05-29",
     "end_date": "2026-10-31",
-    "district": "罗湖区"
+    "district": "南山区"
   },
   {
     "title": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展",
@@ -510,7 +510,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳美术馆（罗湖区）",
-    "district": "罗湖区"
+    "district": "福田区"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -696,7 +696,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳世界之窗WoW潮音嘉年华",
@@ -945,7 +945,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "《海洋奇缘：启航》迪士尼电影主题展",
@@ -985,7 +985,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳人才公园潮汐广场",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -1431,14 +1431,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.lgmuseum.cn",
-    "url": "https://www.lgmuseum.cn",
-    "links": [
-      {
-        "url": "https://www.lgmuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
     "category": "展览",
     "fee": "免费",
@@ -1675,7 +1670,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "南方都市报",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "一日店长青少年社会实践公益计划",
@@ -1698,7 +1693,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳特区报（宝安区）",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "名家读书沙龙/新书分享会",
@@ -1707,14 +1702,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szcbgroup.com/",
-    "url": "https://www.szcbgroup.com/",
-    "links": [
-      {
-        "url": "https://www.szcbgroup.com/",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "暑期每周安排文学、育儿、科普类作家线下讲座，亲子可免费旁听，包含儿童文学、亲子共读主题分享。官方查询入口：湾区之眼公众号菜单栏「活动预约」。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -1843,7 +1833,7 @@
     "family_friendly": true,
     "start_date": "2026-07-02",
     "end_date": "2026-09-19",
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -1999,7 +1989,7 @@
     "family_friendly": true,
     "start_date": "2026-07-04",
     "end_date": "2026-08-01",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -2131,7 +2121,7 @@
     "family_friendly": true,
     "start_date": "2026-07-05",
     "end_date": "2026-07-30",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -2232,14 +2222,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-31",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
-    "links": [
-      {
-        "url": "https://www.nsszlib.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -2485,14 +2470,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-30",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
-    "links": [
-      {
-        "url": "https://www.ytlib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2669,11 +2649,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -2692,11 +2672,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-28",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -2830,14 +2810,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
-    "links": [
-      {
-        "url": "https://www.szlhlib.com.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2876,14 +2851,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-30",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2899,14 +2869,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
-    "links": [
-      {
-        "url": "https://www.nsszlib.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -2956,29 +2921,6 @@
     "district": "宝安区"
   },
   {
-    "title": "成人书法（6节课程，需自备材料）",
-    "name": "成人书法（6节课程，需自备材料）",
-    "venue": "宝安区文化馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-10",
-    "end_date": "2026-07-29",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
-        "label": "活动详情"
-      }
-    ],
-    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
-    "category": "讲座阅读",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": false,
-    "source": "宝安区文化馆",
-    "district": "宝安区"
-  },
-  {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
     "name": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
     "venue": "坂田街道文化站",
@@ -3000,6 +2942,29 @@
     "family_friendly": false,
     "source": "坂田街道文化站",
     "district": "龙岗区"
+  },
+  {
+    "title": "成人书法（6节课程，需自备材料）",
+    "name": "成人书法（6节课程，需自备材料）",
+    "venue": "宝安区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆",
+    "district": "宝安区"
   },
   {
     "title": "朗诵艺术公益班",
@@ -3031,14 +2996,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3192,11 +3152,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
+    "link": "http://www.baoan.gov.cn/",
+    "url": "http://www.baoan.gov.cn/",
     "links": [
       {
-        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "url": "http://www.baoan.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -3215,11 +3175,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -3310,7 +3270,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "盐田区"
+    "district": "其他"
   },
   {
     "title": "深圳书城“YUE龙岗”夏日乐读季",
@@ -3345,7 +3305,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "福田区"
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -3361,7 +3321,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-11",
-    "end_date": "2026-07-11"
+    "end_date": "2026-07-11",
+    "district": "其他"
   },
   {
     "title": "儿童音乐皮影戏",
@@ -3378,7 +3339,7 @@
     "family_friendly": true,
     "start_date": "2026-07-11",
     "end_date": "2026-07-12",
-    "district": "罗湖区"
+    "district": "其他"
   },
   {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
@@ -3410,14 +3371,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
-    "links": [
-      {
-        "url": "https://www.szpslib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3486,7 +3442,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-12",
-    "end_date": "2026-07-12"
+    "end_date": "2026-07-12",
+    "district": "其他"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -3518,14 +3475,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
-    "links": [
-      {
-        "url": "https://www.szlglib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3541,14 +3493,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
-    "links": [
-      {
-        "url": "https://www.dapeng.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3564,14 +3511,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。",
     "category": "影视放映",
     "fee": "免费",
@@ -3587,14 +3529,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
-    "links": [
-      {
-        "url": "https://www.ytlib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3633,11 +3570,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-22",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -3679,14 +3616,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn",
-    "url": "https://www.dplib.org.cn",
-    "links": [
-      {
-        "url": "https://www.dplib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -3756,7 +3688,7 @@
     "family_friendly": true,
     "start_date": "2026-07-14",
     "end_date": "2026-07-19",
-    "district": "罗湖区"
+    "district": "其他"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -3765,14 +3697,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-14",
     "end_date": "2026-08-25",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
-    "links": [
-      {
-        "url": "https://www.szpslib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3802,7 +3729,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区委宣传部",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
@@ -3880,11 +3807,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
+    "link": "http://www.baoan.gov.cn/",
+    "url": "http://www.baoan.gov.cn/",
     "links": [
       {
-        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "url": "http://www.baoan.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -3903,11 +3830,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -3949,14 +3876,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
-    "links": [
-      {
-        "url": "https://www.szlglib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4041,14 +3963,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
-    "links": [
-      {
-        "url": "https://www.szsportscenter.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
     "category": "体育赛事",
     "fee": "收费",
@@ -4064,14 +3981,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
-    "links": [
-      {
-        "url": "https://www.dapeng.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。",
     "category": "亲子活动",
     "fee": "免费",
@@ -4190,14 +4102,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-16",
     "end_date": "2026-08-27",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
-    "links": [
-      {
-        "url": "https://www.szlhlib.com.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -4255,7 +4162,7 @@
     "family_friendly": true,
     "start_date": "2026-07-17",
     "end_date": "2026-07-17",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "title": "象棋课",
@@ -4278,7 +4185,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术素描班",
@@ -4301,7 +4208,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "硬笔书法",
@@ -4324,7 +4231,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿篮球提高班",
@@ -4347,7 +4254,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术启智班",
@@ -4370,7 +4277,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "主持暑假特色课",
@@ -4393,7 +4300,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "软笔书法",
@@ -4416,7 +4323,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿钢琴",
@@ -4439,7 +4346,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术启蒙班",
@@ -4462,7 +4369,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿街舞",
@@ -4485,7 +4392,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿篮球基础班",
@@ -4508,7 +4415,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术创想班",
@@ -4531,7 +4438,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "主持考级",
@@ -4554,7 +4461,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
@@ -4588,7 +4495,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "福田区"
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -5532,7 +5439,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "title": "南山区自然艺术季·大师讲堂（南兆旭《深圳自然手记》）",
@@ -5583,7 +5490,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-18",
-    "end_date": "2026-07-18"
+    "end_date": "2026-07-18",
+    "district": "其他"
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -5617,7 +5525,7 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -7039,7 +6947,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "蛇口渔港公园",
@@ -7167,7 +7076,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "南头古城城墙遗址公园",
@@ -7199,7 +7108,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "海上世界明华轮广场",
@@ -7295,7 +7204,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳大学杜鹃山公园",
@@ -7327,7 +7236,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳大学文山湖公园",
@@ -7359,7 +7268,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "粤海街道文体中心",
@@ -7615,7 +7524,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳湾潮汐科普园区",
@@ -7647,7 +7556,7 @@
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "大沙河长廊大学城段",
@@ -7806,7 +7715,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "科技园社区党群服务中心",
@@ -8029,7 +7939,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "深圳博物馆（市民中心总馆）",
@@ -13382,7 +13293,7 @@
     "name": "中英街历史博物馆",
     "venue": "中英街历史博物馆",
     "city": "shenzhen",
-    "district": "罗湖区",
+    "district": "盐田区",
     "type": "海防历史场馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14570,7 +14481,7 @@
     "name": "三洲田森林24h书房",
     "venue": "三洲田森林24h书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "三洲田24h山林书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14603,7 +14514,7 @@
     "name": "盐田港党群24h书房",
     "venue": "盐田港党群24h书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "盐田港24h港口书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14636,7 +14547,7 @@
     "name": "北山社区24小时书房",
     "venue": "北山社区24小时书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "北山24h生态书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14669,7 +14580,7 @@
     "name": "中英街党群24h书房",
     "venue": "中英街党群24h书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "中英街24h双语书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14702,7 +14613,7 @@
     "name": "海山美术24小时书房",
     "venue": "海山美术24小时书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "海山艺术24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14735,7 +14646,7 @@
     "name": "沙头角疍家主题书房",
     "venue": "沙头角疍家主题书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "沙头角疍家24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14768,7 +14679,7 @@
     "name": "梅沙湿地24小时书房",
     "venue": "梅沙湿地24小时书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "梅沙候鸟24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14801,7 +14712,7 @@
     "name": "盐田街道党群24h阅读点",
     "venue": "盐田街道党群24h阅读点",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "盐田街道24h社区书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14834,7 +14745,7 @@
     "name": "北山社区口袋书房",
     "venue": "北山社区口袋书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "北山口袋24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14867,7 +14778,7 @@
     "name": "海山公园配套自助书房",
     "venue": "海山公园配套自助书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "海山公园24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14900,7 +14811,7 @@
     "name": "沙头角老城社区书房",
     "venue": "沙头角老城社区书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "沙头角老城24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -14933,7 +14844,7 @@
     "name": "三洲田红色24h书房",
     "venue": "三洲田红色24h书房",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "三洲田首义24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15296,7 +15207,7 @@
     "name": "三洲田水库沿岸步道",
     "venue": "三洲田水库沿岸步道",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "三洲田水库环湖绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15395,7 +15306,7 @@
     "name": "盐田河两岸滨河绿地",
     "venue": "盐田河两岸滨河绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "盐田河碧道全线",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15428,7 +15339,7 @@
     "name": "海山社区口袋公园群",
     "venue": "海山社区口袋公园群",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "口袋公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15461,7 +15372,7 @@
     "name": "沙头角老城休闲广场",
     "venue": "沙头角老城休闲广场",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "市政广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15494,7 +15405,7 @@
     "name": "北山花海休闲绿地",
     "venue": "北山花海休闲绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "花海绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15527,7 +15438,7 @@
     "name": "盐田港滨海观景平台",
     "venue": "盐田港滨海观景平台",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "观景平台",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15560,7 +15471,7 @@
     "name": "梅沙社区口袋公园",
     "venue": "梅沙社区口袋公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "口袋公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15593,7 +15504,7 @@
     "name": "三洲田山间瀑布步道",
     "venue": "三洲田山间瀑布步道",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "三洲田瀑布休闲区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15626,7 +15537,7 @@
     "name": "沙头角体育公园",
     "venue": "沙头角体育公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "体育公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15659,7 +15570,7 @@
     "name": "北山滨河绿道",
     "venue": "北山滨河绿道",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "绿道公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15692,7 +15603,7 @@
     "name": "中英街入口广场公园",
     "venue": "中英街入口广场公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "市政广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15725,7 +15636,7 @@
     "name": "海山人工湖环湖绿地",
     "venue": "海山人工湖环湖绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "海山湖休闲公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15758,7 +15669,7 @@
     "name": "盐田街道文化广场绿地",
     "venue": "盐田街道文化广场绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "市政广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15791,7 +15702,7 @@
     "name": "大梅沙潮汐科普滩涂",
     "venue": "大梅沙潮汐科普滩涂",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "科普滩涂",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15824,7 +15735,7 @@
     "name": "小梅沙观景登山道",
     "venue": "小梅沙观景登山道",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "登山绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15857,7 +15768,7 @@
     "name": "三洲田红色文化广场",
     "venue": "三洲田红色文化广场",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "市政广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15890,7 +15801,7 @@
     "name": "沙头角湿地小公园",
     "venue": "沙头角湿地小公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "湿地公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15923,7 +15834,7 @@
     "name": "北山儿童游乐公园",
     "venue": "北山儿童游乐公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "儿童公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15956,7 +15867,7 @@
     "name": "海山滨海观景草坪",
     "venue": "海山滨海观景草坪",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "观景平台",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -15989,7 +15900,7 @@
     "name": "盐田河浅滩亲水区域",
     "venue": "盐田河浅滩亲水区域",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "盐田河亲子戏水段",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16022,7 +15933,7 @@
     "name": "梅沙山顶观景公园",
     "venue": "梅沙山顶观景公园",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "观景平台",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16055,7 +15966,7 @@
     "name": "沙头角渔港休闲绿地",
     "venue": "沙头角渔港休闲绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "城市公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16088,7 +15999,7 @@
     "name": "三洲田四季花谷绿地",
     "venue": "三洲田四季花谷绿地",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "城市花海绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16517,7 +16428,7 @@
     "name": "龙华美术馆",
     "venue": "龙华美术馆",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "美术综合展馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16550,7 +16461,7 @@
     "name": "红山地铁站科普展示区",
     "venue": "红山地铁站科普展示区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "轨道交通科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16847,7 +16758,7 @@
     "name": "版画基地图书馆",
     "venue": "版画基地图书馆",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观澜版画村分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16946,7 +16857,7 @@
     "name": "大浪文化中心图书馆",
     "venue": "大浪文化中心图书馆",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -16979,7 +16890,7 @@
     "name": "福城文化中心图书馆",
     "venue": "福城文化中心图书馆",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17012,7 +16923,7 @@
     "name": "观湖文化中心图书馆",
     "venue": "观湖文化中心图书馆",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17111,7 +17022,7 @@
     "name": "龙华图书馆24小时阅读区",
     "venue": "龙华图书馆24小时阅读区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "总馆24h自助书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17144,7 +17055,7 @@
     "name": "清湖艺术24小时书房",
     "venue": "清湖艺术24小时书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "清湖文化24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17177,7 +17088,7 @@
     "name": "版画村自助阅读书房",
     "venue": "版画村自助阅读书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观澜版画24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17210,7 +17121,7 @@
     "name": "白石龙红色主题自助书房",
     "venue": "白石龙红色主题自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "白石龙红色24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17243,7 +17154,7 @@
     "name": "龙华公园滨河自助书房",
     "venue": "龙华公园滨河自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "龙华滨河24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17276,7 +17187,7 @@
     "name": "大浪小镇24小时阅读点",
     "venue": "大浪小镇24小时阅读点",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪时尚24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17309,7 +17220,7 @@
     "name": "福城环保科普自助书房",
     "venue": "福城环保科普自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城环保24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17342,7 +17253,7 @@
     "name": "观湖生态24小时书房",
     "venue": "观湖生态24小时书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖山林24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17375,7 +17286,7 @@
     "name": "红山地铁科创自助书房",
     "venue": "红山地铁科创自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "红山科创24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17408,7 +17319,7 @@
     "name": "鹭湖新城24小时阅读点",
     "venue": "鹭湖新城24小时阅读点",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "鹭湖田园24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17441,7 +17352,7 @@
     "name": "民治北站双语自助书房",
     "venue": "民治北站双语自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "民治双语24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17474,7 +17385,7 @@
     "name": "鳌湖古村客家自助书房",
     "venue": "鳌湖古村客家自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "鳌湖客家24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17507,7 +17418,7 @@
     "name": "龙华青少年宫24小时阅读区",
     "venue": "龙华青少年宫24小时阅读区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "青少年宫星空24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17540,7 +17451,7 @@
     "name": "龙华中医院自助阅读点",
     "venue": "龙华中医院自助阅读点",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "中医药24h科普书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17573,7 +17484,7 @@
     "name": "观湖安全基地自助书房",
     "venue": "观湖安全基地自助书房",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "应急安全24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17672,7 +17583,7 @@
     "name": "观澜版画村配套生态公园",
     "venue": "观澜版画村配套生态公园",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "版画文旅公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17705,7 +17616,7 @@
     "name": "观澜河碧道全线",
     "venue": "观澜河碧道全线",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "滨河生态廊道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17771,7 +17682,7 @@
     "name": "大浪时尚小镇中央绿地",
     "venue": "大浪时尚小镇中央绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪时尚公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17837,7 +17748,7 @@
     "name": "观湖街道体育中心配套绿地",
     "venue": "观湖街道体育中心配套绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖体育公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17870,7 +17781,7 @@
     "name": "茜坑水库公园",
     "venue": "茜坑水库公园",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城生态公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17936,7 +17847,7 @@
     "name": "龙华街道沿河碧道",
     "venue": "龙华街道沿河碧道",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "龙华河滨水公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -17969,7 +17880,7 @@
     "name": "白石龙各社区小微绿地",
     "venue": "白石龙各社区小微绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "白石龙社区口袋公园群",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18002,7 +17913,7 @@
     "name": "大浪河两岸亲水步道",
     "venue": "大浪河两岸亲水步道",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪滨河绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18035,7 +17946,7 @@
     "name": "樟坑径田园休闲公园",
     "venue": "樟坑径田园休闲公园",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖田园绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18068,7 +17979,7 @@
     "name": "福城环保产业园配套绿地",
     "venue": "福城环保产业园配套绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城环保主题公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18101,7 +18012,7 @@
     "name": "红山地铁站市政大草坪",
     "venue": "红山地铁站市政大草坪",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "红山城市广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18134,7 +18045,7 @@
     "name": "鳌湖艺术村河道两岸",
     "venue": "鳌湖艺术村河道两岸",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "鳌湖古村滨河步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18167,7 +18078,7 @@
     "name": "清湖公园花海片区",
     "venue": "清湖公园花海片区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "清湖四季花田",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18200,7 +18111,7 @@
     "name": "塘水围片区综合绿地",
     "venue": "塘水围片区综合绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "民治塘水围社区公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18233,7 +18144,7 @@
     "name": "观澜河中段湿地片区",
     "venue": "观澜河中段湿地片区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观澜河人工湿地科普区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18266,7 +18177,7 @@
     "name": "大浪羊台山山脚",
     "venue": "大浪羊台山山脚",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪羊台山郊野公园（大浪入口）",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18299,7 +18210,7 @@
     "name": "文化艺术中心外围草坪",
     "venue": "文化艺术中心外围草坪",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "龙华文化中心广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18332,7 +18243,7 @@
     "name": "茜坑社区多处小微休闲绿地",
     "venue": "茜坑社区多处小微休闲绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城茜坑口袋公园群",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18365,7 +18276,7 @@
     "name": "樟坑径水库沿岸绿道",
     "venue": "樟坑径水库沿岸绿道",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖樟坑径水库环湖步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18398,7 +18309,7 @@
     "name": "大营救纪念馆配套广场绿地",
     "venue": "大营救纪念馆配套广场绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "白石龙红色文化广场",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18431,7 +18342,7 @@
     "name": "大浪时尚小镇沿河绿地",
     "venue": "大浪时尚小镇沿河绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "大浪时尚滨河公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18464,7 +18375,7 @@
     "name": "鹭湖新城全线慢行绿道",
     "venue": "鹭湖新城全线慢行绿道",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "鹭湖四季休闲绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18497,7 +18408,7 @@
     "name": "龙华公园草坪安全小屋",
     "venue": "龙华公园草坪安全小屋",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "龙华公园应急科普驿站",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18530,7 +18441,7 @@
     "name": "版画基地农田配套草坪",
     "venue": "版画基地农田配套草坪",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "版画村田间休闲绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18563,7 +18474,7 @@
     "name": "沙吓片区山体休闲绿地",
     "venue": "沙吓片区山体休闲绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "民治沙吓社区公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18596,7 +18507,7 @@
     "name": "樟坑径矿山遗址绿地",
     "venue": "樟坑径矿山遗址绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "观湖矿山地质休闲点",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18629,7 +18540,7 @@
     "name": "茜坑水库节水科普长廊",
     "venue": "茜坑水库节水科普长廊",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "福城节水科普滨水点",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18662,7 +18573,7 @@
     "name": "红山片区产业园配套绿地",
     "venue": "红山片区产业园配套绿地",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "红山科创景观公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18695,7 +18606,7 @@
     "name": "鳌湖古村果蔬种植休闲区",
     "venue": "鳌湖古村果蔬种植休闲区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "鳌湖四季果蔬绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18728,7 +18639,7 @@
     "name": "清湖人工湖环湖全线",
     "venue": "清湖人工湖环湖全线",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "清湖环湖亲子步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18761,7 +18672,7 @@
     "name": "民治街道文化中心",
     "venue": "民治街道文化中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18794,7 +18705,7 @@
     "name": "龙华街道文化中心",
     "venue": "龙华街道文化中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18827,7 +18738,7 @@
     "name": "大浪街道文化中心",
     "venue": "大浪街道文化中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18860,7 +18771,7 @@
     "name": "福城街道文化中心",
     "venue": "福城街道文化中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18893,7 +18804,7 @@
     "name": "观湖街道文化中心",
     "venue": "观湖街道文化中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -18992,7 +18903,7 @@
     "name": "白石龙社区党群服务中心",
     "venue": "白石龙社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19025,7 +18936,7 @@
     "name": "观澜版画社区党群服务中心",
     "venue": "观澜版画社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19058,7 +18969,7 @@
     "name": "大浪时尚社区党群服务中心",
     "venue": "大浪时尚社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19091,7 +19002,7 @@
     "name": "福城茜坑社区党群服务中心",
     "venue": "福城茜坑社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19124,7 +19035,7 @@
     "name": "观湖樟坑径社区党群服务中心",
     "venue": "观湖樟坑径社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19157,7 +19068,7 @@
     "name": "中国文化名人大营救纪念馆主展厅",
     "venue": "中国文化名人大营救纪念馆主展厅",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "红色研学基地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19190,7 +19101,7 @@
     "name": "鳌湖客家民俗文化展厅",
     "venue": "鳌湖客家民俗文化展厅",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "客家文化基地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19223,7 +19134,7 @@
     "name": "观湖应急基地户外科普长廊",
     "venue": "观湖应急基地户外科普长廊",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "应急科普点位",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19256,7 +19167,7 @@
     "name": "观澜河碧道科普展示廊",
     "venue": "观澜河碧道科普展示廊",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "水利科普驿站",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19289,7 +19200,7 @@
     "name": "中国版画博物馆手工体验区",
     "venue": "中国版画博物馆手工体验区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "版画公教体验点",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19322,7 +19233,7 @@
     "name": "大浪时尚小镇公共展示厅",
     "venue": "大浪时尚小镇公共展示厅",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "时尚科普展厅",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19355,7 +19266,7 @@
     "name": "龙华规划馆户外沙盘展示区",
     "venue": "龙华规划馆户外沙盘展示区",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "城市规划科普点位",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19388,7 +19299,7 @@
     "name": "龙华文化中心户外雕塑园",
     "venue": "龙华文化中心户外雕塑园",
     "city": "shenzhen",
-    "district": "龙华区",
+    "district": "其他",
     "type": "青少年户外艺术空间",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19487,7 +19398,7 @@
     "name": "深圳国际美术馆",
     "venue": "深圳国际美术馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "国际美术展馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19586,7 +19497,7 @@
     "name": "光明低碳环保科普馆",
     "venue": "光明低碳环保科普馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "环保垃圾分类科普馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19652,7 +19563,7 @@
     "name": "惜物博物馆（红满庭红木馆）",
     "venue": "惜物博物馆（红满庭红木馆）",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "红木民俗博物馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19685,7 +19596,7 @@
     "name": "光明国际中医药港科普馆",
     "venue": "光明国际中医药港科普馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "中医药科普展厅",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19751,7 +19662,7 @@
     "name": "茅洲河碧道科普展厅",
     "venue": "茅洲河碧道科普展厅",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "水利治水科普馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19817,7 +19728,7 @@
     "name": "光明群众体育中心科普区",
     "venue": "光明群众体育中心科普区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "体育科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19850,7 +19761,7 @@
     "name": "凤凰城地铁站科普长廊",
     "venue": "凤凰城地铁站科普长廊",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "轨道交通科普展示区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19883,7 +19794,7 @@
     "name": "光明少年儿童图书馆",
     "venue": "光明少年儿童图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "少儿绘本专题馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19916,7 +19827,7 @@
     "name": "光明农业科普馆",
     "venue": "光明农业科普馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "农耕科普展厅",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19949,7 +19860,7 @@
     "name": "光明科学公园湿地科普驿站",
     "venue": "光明科学公园湿地科普驿站",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "湿地候鸟科普屋",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -19982,7 +19893,7 @@
     "name": "光明革命历史展示点",
     "venue": "光明革命历史展示点",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "红色文化展厅",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20015,7 +19926,7 @@
     "name": "光明时尚智造科普展示厅",
     "venue": "光明时尚智造科普展示厅",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "时尚科创展厅",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20048,7 +19959,7 @@
     "name": "虹桥公园地质科普休息站",
     "venue": "虹桥公园地质科普休息站",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "地质矿石科普点位",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20114,7 +20025,7 @@
     "name": "光明街道图书馆",
     "venue": "光明街道图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20147,7 +20058,7 @@
     "name": "公明文化中心图书馆",
     "venue": "公明文化中心图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20180,7 +20091,7 @@
     "name": "新湖街道图书馆",
     "venue": "新湖街道图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20213,7 +20124,7 @@
     "name": "凤凰街道图书馆",
     "venue": "凤凰街道图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20246,7 +20157,7 @@
     "name": "玉塘街道图书馆",
     "venue": "玉塘街道图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "玉塘街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20279,7 +20190,7 @@
     "name": "马田街道图书馆",
     "venue": "马田街道图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20312,7 +20223,7 @@
     "name": "科学公园配套图书馆",
     "venue": "科学公园配套图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学公园分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20345,7 +20256,7 @@
     "name": "虹桥公园书香图书馆",
     "venue": "虹桥公园书香图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "虹桥公园分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20378,7 +20289,7 @@
     "name": "体育中心配套图书馆",
     "venue": "体育中心配套图书馆",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "群众体育中心分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20411,7 +20322,7 @@
     "name": "光明图书馆24小时阅读区",
     "venue": "光明图书馆24小时阅读区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "总馆24h自助书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20444,7 +20355,7 @@
     "name": "凤凰城站书香亭",
     "venue": "凤凰城站书香亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰城地铁24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20477,7 +20388,7 @@
     "name": "公明文化中心24h阅读点",
     "venue": "公明文化中心24h阅读点",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明客家24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20510,7 +20421,7 @@
     "name": "新湖再生基地自助书房",
     "venue": "新湖再生基地自助书房",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖环保24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20543,7 +20454,7 @@
     "name": "科学公园24小时自助亭",
     "venue": "科学公园24小时自助亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学城科创24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20576,7 +20487,7 @@
     "name": "虹桥公园24h书香亭",
     "venue": "虹桥公园24h书香亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "虹桥生态24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20609,7 +20520,7 @@
     "name": "玉塘产业园24h阅读点",
     "venue": "玉塘产业园24h阅读点",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "玉塘时尚24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20642,7 +20553,7 @@
     "name": "马田文化中心24h自助区",
     "venue": "马田文化中心24h自助区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田山林24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20708,7 +20619,7 @@
     "name": "群众体育中心24h自助亭",
     "venue": "群众体育中心24h自助亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "体育24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20741,7 +20652,7 @@
     "name": "少儿图书馆夜间自助区",
     "venue": "少儿图书馆夜间自助区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "少年儿童馆24h阅读角",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20774,7 +20685,7 @@
     "name": "茅洲河碧道书香亭",
     "venue": "茅洲河碧道书香亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "茅洲河滨河24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20807,7 +20718,7 @@
     "name": "公明革命展厅配套24h点",
     "venue": "公明革命展厅配套24h点",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明红色24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20840,7 +20751,7 @@
     "name": "新湖田园综合体24h亭",
     "venue": "新湖田园综合体24h亭",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "农业田园24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20873,7 +20784,7 @@
     "name": "光明美术馆24h阅读角",
     "venue": "光明美术馆24h阅读角",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "美术艺术24h书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20906,7 +20817,7 @@
     "name": "虹桥公园",
     "venue": "虹桥公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "城市地标森林公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20939,7 +20850,7 @@
     "name": "光明科学公园",
     "venue": "光明科学公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学生态公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -20972,7 +20883,7 @@
     "name": "光明新城公园",
     "venue": "光明新城公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "综合城市公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21005,7 +20916,7 @@
     "name": "光明群众体育中心户外绿地",
     "venue": "光明群众体育中心户外绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "群众体育公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21038,7 +20949,7 @@
     "name": "茅洲河光明段全线碧道",
     "venue": "茅洲河光明段全线碧道",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "茅洲河滨河生态廊道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21071,7 +20982,7 @@
     "name": "新湖田园综合体公园",
     "venue": "新湖田园综合体公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖田园生态公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21104,7 +21015,7 @@
     "name": "公明公园",
     "venue": "公明公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明老城综合公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21137,7 +21048,7 @@
     "name": "玉塘街道产业园中央绿地",
     "venue": "玉塘街道产业园中央绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "玉塘时尚配套公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21170,7 +21081,7 @@
     "name": "马田公园",
     "venue": "马田公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田山体休闲公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21203,7 +21114,7 @@
     "name": "光明公园",
     "venue": "光明公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明街道中心公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21236,7 +21147,7 @@
     "name": "凤凰社区小微休闲绿地",
     "venue": "凤凰社区小微休闲绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰街道口袋公园群",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21269,7 +21180,7 @@
     "name": "深圳国际美术馆配套广场",
     "venue": "深圳国际美术馆配套广场",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学城中央艺术绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21302,7 +21213,7 @@
     "name": "虹桥公园入口花海片区",
     "venue": "虹桥公园入口花海片区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "虹桥四季花田绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21335,7 +21246,7 @@
     "name": "新湖环保产业园配套公园",
     "venue": "新湖环保产业园配套公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖再生环保主题绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21368,7 +21279,7 @@
     "name": "公明街道茅洲河岸绿地",
     "venue": "公明街道茅洲河岸绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明茅洲河滨河休闲段",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21401,7 +21312,7 @@
     "name": "马田山间溪谷平缓路线",
     "venue": "马田山间溪谷平缓路线",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田溪谷亲子步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21434,7 +21345,7 @@
     "name": "玉塘街道河道小微绿地",
     "venue": "玉塘街道河道小微绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "玉塘滨水口袋公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21467,7 +21378,7 @@
     "name": "光明水库环湖公园",
     "venue": "光明水库环湖公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明水库环湖绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21500,7 +21411,7 @@
     "name": "科学公园北侧湿地观鸟点",
     "venue": "科学公园北侧湿地观鸟点",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学公园候鸟观测平台",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21533,7 +21444,7 @@
     "name": "光明文化艺术中心外围市政草坪",
     "venue": "光明文化艺术中心外围市政草坪",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "文化艺术中心广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21566,7 +21477,7 @@
     "name": "公明麒麟文化公园",
     "venue": "公明麒麟文化公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明麒麟文化绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21599,7 +21510,7 @@
     "name": "新湖田园果蔬种植区休闲带",
     "venue": "新湖田园果蔬种植区休闲带",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖果蔬科普绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21632,7 +21543,7 @@
     "name": "凤凰高新产业园中央草坪",
     "venue": "凤凰高新产业园中央草坪",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰科创广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21665,7 +21576,7 @@
     "name": "马田居民区综合休闲公园",
     "venue": "马田居民区综合休闲公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田社区四季绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21698,7 +21609,7 @@
     "name": "虹桥公园中段矿石展示绿地",
     "venue": "虹桥公园中段矿石展示绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "虹桥地质科普休闲区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21731,7 +21642,7 @@
     "name": "光明安全产业园配套绿地",
     "venue": "光明安全产业园配套绿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明应急主题公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21764,7 +21675,7 @@
     "name": "玉塘街道茅洲河配套公园",
     "venue": "玉塘街道茅洲河配套公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "玉塘时尚滨河绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21797,7 +21708,7 @@
     "name": "科学公园本土果树种植区",
     "venue": "科学公园本土果树种植区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学公园四季果林",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21830,7 +21741,7 @@
     "name": "公明小型水库沿岸绿道",
     "venue": "公明小型水库沿岸绿道",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明水库环湖步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21863,7 +21774,7 @@
     "name": "新湖街道茅洲河浅滩区域",
     "venue": "新湖街道茅洲河浅滩区域",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖滨河亲子戏水段",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21896,7 +21807,7 @@
     "name": "马田山间溪谷花海片区",
     "venue": "马田山间溪谷花海片区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "马田溪谷四季花田",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21929,7 +21840,7 @@
     "name": "光明新城茅洲河岸科普带",
     "venue": "光明新城茅洲河岸科普带",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明新城滨河科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21962,7 +21873,7 @@
     "name": "凤凰街道后山小型山体公园",
     "venue": "凤凰街道后山小型山体公园",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰社区山林休闲绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -21995,7 +21906,7 @@
     "name": "科学公园南侧人工湿地",
     "venue": "科学公园南侧人工湿地",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学公园人工湿地净水展示区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22028,7 +21939,7 @@
     "name": "公明麒麟公园沿河亲水步道",
     "venue": "公明麒麟公园沿河亲水步道",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明麒麟文化滨河步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22061,7 +21972,7 @@
     "name": "光明街道文化中心",
     "venue": "光明街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22094,7 +22005,7 @@
     "name": "公明街道文化中心",
     "venue": "公明街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22127,7 +22038,7 @@
     "name": "新湖街道文化中心",
     "venue": "新湖街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22160,7 +22071,7 @@
     "name": "凤凰街道文化中心",
     "venue": "凤凰街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22193,7 +22104,7 @@
     "name": "玉塘街道文化中心",
     "venue": "玉塘街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22226,7 +22137,7 @@
     "name": "马田街道文化中心",
     "venue": "马田街道文化中心",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22358,7 +22269,7 @@
     "name": "光明街道社区党群楼",
     "venue": "光明街道社区党群楼",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "光明街道党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22391,7 +22302,7 @@
     "name": "公明老街区党群配套楼",
     "venue": "公明老街区党群配套楼",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "公明客家党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22424,7 +22335,7 @@
     "name": "新湖再生基地党群大楼",
     "venue": "新湖再生基地党群大楼",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "新湖环保党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22457,7 +22368,7 @@
     "name": "凤凰高新园区党群楼",
     "venue": "凤凰高新园区党群楼",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "凤凰科创党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22490,7 +22401,7 @@
     "name": "光明革命历史展厅",
     "venue": "光明革命历史展厅",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "红色研学基地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22523,7 +22434,7 @@
     "name": "深圳科技馆（光明馆）主展厅",
     "venue": "深圳科技馆（光明馆）主展厅",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "科学城核心科普场馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22556,7 +22467,7 @@
     "name": "光明安全产业园户外科普带",
     "venue": "光明安全产业园户外科普带",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "应急科普户外长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22589,7 +22500,7 @@
     "name": "茅洲河碧道全线科普展示廊",
     "venue": "茅洲河碧道全线科普展示廊",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "水利生态科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22622,7 +22533,7 @@
     "name": "光明美术馆手工创作区",
     "venue": "光明美术馆手工创作区",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "美术公教体验区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22655,7 +22566,7 @@
     "name": "光明规划馆外广场沙盘",
     "venue": "光明规划馆外广场沙盘",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "城市规划户外全景沙盘",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -22688,7 +22599,7 @@
     "name": "虹桥公园入口艺术广场",
     "venue": "虹桥公园入口艺术广场",
     "city": "shenzhen",
-    "district": "光明区",
+    "district": "其他",
     "type": "虹桥森林户外艺术空间",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -23249,7 +23160,7 @@
     "name": "盐田港地铁站科普展示区",
     "venue": "盐田港地铁站科普展示区",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "港口科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -23315,7 +23226,7 @@
     "name": "三洲田矿石科普驿站",
     "venue": "三洲田矿石科普驿站",
     "city": "shenzhen",
-    "district": "盐田区",
+    "district": "其他",
     "type": "地质科普休息点",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -23876,7 +23787,7 @@
     "name": "大运地铁站科普通道",
     "venue": "大运地铁站科普通道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "地铁科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24074,7 +23985,7 @@
     "name": "龙岗街道图书馆",
     "venue": "龙岗街道图书馆",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24107,7 +24018,7 @@
     "name": "龙城街道文化中心",
     "venue": "龙城街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "龙城街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24140,7 +24051,7 @@
     "name": "坂田文化中心",
     "venue": "坂田文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "坂田街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24173,7 +24084,7 @@
     "name": "平湖文化中心",
     "venue": "平湖文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "平湖街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24206,7 +24117,7 @@
     "name": "横岗文化中心",
     "venue": "横岗文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "横岗街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24239,7 +24150,7 @@
     "name": "坪地文化中心",
     "venue": "坪地文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "坪地街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24272,7 +24183,7 @@
     "name": "宝龙文化中心",
     "venue": "宝龙文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "宝龙街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24305,7 +24216,7 @@
     "name": "吉华文化中心",
     "venue": "吉华文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "吉华街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24338,7 +24249,7 @@
     "name": "园山文化中心",
     "venue": "园山文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "园山街道图书馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24371,7 +24282,7 @@
     "name": "大运公园图书馆",
     "venue": "大运公园图书馆",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "大运分馆",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24404,7 +24315,7 @@
     "name": "龙城文化中心24小时阅读点",
     "venue": "龙城文化中心24小时阅读点",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・龙城星空书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24437,7 +24348,7 @@
     "name": "龙岗街道党群楼",
     "venue": "龙岗街道党群楼",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・龙岗客家书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24470,7 +24381,7 @@
     "name": "平湖党群中心",
     "venue": "平湖党群中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・平湖环保书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24503,7 +24414,7 @@
     "name": "坪地党群大楼",
     "venue": "坪地党群大楼",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・坪地田园书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24536,7 +24447,7 @@
     "name": "吉华党群中心",
     "venue": "吉华党群中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・吉华山林书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24569,7 +24480,7 @@
     "name": "大运公园配套书房",
     "venue": "大运公园配套书房",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・大运体育书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24602,7 +24513,7 @@
     "name": "新生安全产业园党群点",
     "venue": "新生安全产业园党群点",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・新生安全书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24635,7 +24546,7 @@
     "name": "龙园公园内",
     "venue": "龙园公园内",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・龙园滨河书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24668,7 +24579,7 @@
     "name": "东纵纪念馆配套书房",
     "venue": "东纵纪念馆配套书房",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・红色书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24701,7 +24612,7 @@
     "name": "龙岗美术馆一楼24h点",
     "venue": "龙岗美术馆一楼24h点",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "24h书房・美术星空书房",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -24866,7 +24777,7 @@
     "name": "龙岗河碧道全线",
     "venue": "龙岗河碧道全线",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "滨河生态廊道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25163,7 +25074,7 @@
     "name": "龙岗街道南联社区小微公园",
     "venue": "龙岗街道南联社区小微公园",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "南联口袋公园群",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25196,7 +25107,7 @@
     "name": "大运中心人工湖沿岸步道",
     "venue": "大运中心人工湖沿岸步道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "大运湖环湖绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25229,7 +25140,7 @@
     "name": "平湖街道沿河碧道",
     "venue": "平湖街道沿河碧道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "平湖河滨水公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25295,7 +25206,7 @@
     "name": "横岗街道四联社区茂盛世居旁",
     "venue": "横岗街道四联社区茂盛世居旁",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "横岗四联公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25328,7 +25239,7 @@
     "name": "坪地街道农田沿岸滨河绿道",
     "venue": "坪地街道农田沿岸滨河绿道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "坪地田园碧道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25361,7 +25272,7 @@
     "name": "宝龙街道沿河绿地",
     "venue": "宝龙街道沿河绿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "宝龙滨河公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25394,7 +25305,7 @@
     "name": "吉华街道水径片区",
     "venue": "吉华街道水径片区",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "吉华水径公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25427,7 +25338,7 @@
     "name": "园山景区山间溪流全线",
     "venue": "园山景区山间溪流全线",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "园山溪谷步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25460,7 +25371,7 @@
     "name": "新生片区河道沿岸步道",
     "venue": "新生片区河道沿岸步道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "新生滨河绿道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25493,7 +25404,7 @@
     "name": "龙岗双龙地铁站旁社区绿地",
     "venue": "龙岗双龙地铁站旁社区绿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "双龙社区公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25526,7 +25437,7 @@
     "name": "龙城公园花海片区",
     "venue": "龙城公园花海片区",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "龙城四季花田绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25559,7 +25470,7 @@
     "name": "平湖生态园北侧湿地",
     "venue": "平湖生态园北侧湿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "平湖候鸟湿地公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25592,7 +25503,7 @@
     "name": "坂田星河社区小微公园",
     "venue": "坂田星河社区小微公园",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "坂田星河口袋公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25625,7 +25536,7 @@
     "name": "横岗街道沿河碧道",
     "venue": "横岗街道沿河碧道",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "横岗滨河科普长廊",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25658,7 +25569,7 @@
     "name": "坪地街道小型水库沿岸",
     "venue": "坪地街道小型水库沿岸",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "坪地水库环湖步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25691,7 +25602,7 @@
     "name": "宝龙产业园中心广场",
     "venue": "宝龙产业园中心广场",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "宝龙科创广场绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25724,7 +25635,7 @@
     "name": "甘坑古镇河道两岸",
     "venue": "甘坑古镇河道两岸",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "甘坑客家滨河步道",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25757,7 +25668,7 @@
     "name": "吉华街道半山绿地",
     "venue": "吉华街道半山绿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "吉华山体观景公园",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25790,7 +25701,7 @@
     "name": "园山山脚果蔬种植绿地",
     "venue": "园山山脚果蔬种植绿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "园山四季果园休闲区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25823,7 +25734,7 @@
     "name": "龙城公园旁龙岗河浅滩",
     "venue": "龙城公园旁龙岗河浅滩",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "龙城滨河亲子戏水段",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25856,7 +25767,7 @@
     "name": "大运中心北侧人工湿地",
     "venue": "大运中心北侧人工湿地",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "大运湿地科普区",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25889,7 +25800,7 @@
     "name": "龙岗街道文化中心",
     "venue": "龙岗街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25922,7 +25833,7 @@
     "name": "坂田街道文化中心",
     "venue": "坂田街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25955,7 +25866,7 @@
     "name": "平湖街道文化中心",
     "venue": "平湖街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -25988,7 +25899,7 @@
     "name": "横岗街道文化中心",
     "venue": "横岗街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26021,7 +25932,7 @@
     "name": "坪地街道文化中心",
     "venue": "坪地街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26054,7 +25965,7 @@
     "name": "宝龙街道文化中心",
     "venue": "宝龙街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26087,7 +25998,7 @@
     "name": "吉华街道文化中心",
     "venue": "吉华街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26120,7 +26031,7 @@
     "name": "园山街道文化中心",
     "venue": "园山街道文化中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26219,7 +26130,7 @@
     "name": "龙城社区党群服务中心",
     "venue": "龙城社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26252,7 +26163,7 @@
     "name": "龙岗客家社区党群服务中心",
     "venue": "龙岗客家社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26285,7 +26196,7 @@
     "name": "坂田科创社区党群服务中心",
     "venue": "坂田科创社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26318,7 +26229,7 @@
     "name": "平湖环保社区党群服务中心",
     "venue": "平湖环保社区党群服务中心",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "党群服务中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26351,7 +26262,7 @@
     "name": "鹤湖新居客家民俗展厅",
     "venue": "鹤湖新居客家民俗展厅",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "客家文化基地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26384,7 +26295,7 @@
     "name": "龙城公园安全科普小屋",
     "venue": "龙城公园安全科普小屋",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "应急科普驿站",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26417,7 +26328,7 @@
     "name": "大运中心户外科普长廊",
     "venue": "大运中心户外科普长廊",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "体育科普点位",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26450,7 +26361,7 @@
     "name": "坪地农业科普园体验点",
     "venue": "坪地农业科普园体验点",
     "city": "shenzhen",
-    "district": "龙岗区",
+    "district": "其他",
     "type": "农耕科普驿站",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -26493,7 +26404,7 @@
     "family_friendly": true,
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "title": "抢票 | 大湾鸡驾到，“鸡” 不可失！《萌动奇迹》门票开抢，手慢无～",
@@ -26562,7 +26473,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "光明区"
   },
   {
     "title": "2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动",
@@ -26596,7 +26508,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "光明区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -26766,11 +26679,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -26789,14 +26702,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-12-31",
-    "link": "https://www.szcbgroup.com/",
-    "url": "https://www.szcbgroup.com/",
-    "links": [
-      {
-        "url": "https://www.szcbgroup.com/",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "湾区之眼欢乐META儿童绘本馆，低幼绘本、立体书、亲子阅读座椅、儿童手工打卡墙。周二至周日9:00-21:00，周一闭馆，免预约。适合0-12岁儿童。",
     "category": "亲子活动",
     "fee": "免费",
@@ -26812,11 +26720,11 @@
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-12-31",
-    "link": "https://www.szgm.gov.cn/mlns/lywh/lyjg/",
-    "url": "https://www.szgm.gov.cn/mlns/lywh/lyjg/",
+    "link": "https://www.szgm.gov.cn/",
+    "url": "https://www.szgm.gov.cn/",
     "links": [
       {
-        "url": "https://www.szgm.gov.cn/mlns/lywh/lyjg/",
+        "url": "https://www.szgm.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -26835,14 +26743,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-12-31",
-    "link": "https://www.szcbgroup.com/",
-    "url": "https://www.szcbgroup.com/",
-    "links": [
-      {
-        "url": "https://www.szcbgroup.com/",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "湾区之眼艺术花园阅览空间，270°落地窗观景、绿植书屋，安静亲子看书休憩。9:00-21:00开放，免预约。适合4-15岁亲子家庭。",
     "category": "亲子活动",
     "fee": "免费",
@@ -26858,14 +26761,9 @@
     "city": "shenzhen",
     "start_date": "2026-07-20",
     "end_date": "2026-12-31",
-    "link": "https://www.szcbgroup.com/",
-    "url": "https://www.szcbgroup.com/",
-    "links": [
-      {
-        "url": "https://www.szcbgroup.com/",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "湾区之眼全域公共区域公益阅读打卡点位，集章打卡、儿童读书任务，集齐兑换文创小礼品。全天候开放，免预约。适合3-14岁儿童。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -27216,7 +27114,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园山街道文化站"
+    "source": "园山街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026凤凰街道文化惠民工程之“笔承古韵，墨染韶华”书法交流活动",
@@ -28068,7 +27967,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
@@ -28136,7 +28035,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "塘家社区综合性文化服务中心"
+    "source": "塘家社区综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“翩翩稚舞，赓续国风”舞蹈美育活动",
@@ -28181,7 +28081,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "桂园街道综合文体中心(桂园街道分馆）"
+    "source": "桂园街道综合文体中心(桂园街道分馆）",
+    "district": "罗湖区"
   },
   {
     "title": "光明区文化馆总分馆联动活动-杮杮如意",
@@ -28318,7 +28219,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "玉塘街道综合性文化服务中心"
+    "source": "玉塘街道综合性文化服务中心",
+    "district": "其他"
   },
   {
     "title": "光明区文化馆总分馆联动活动-DIY万花镜",
@@ -28363,7 +28265,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "塘家社区综合性文化服务中心"
+    "source": "塘家社区综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
@@ -28688,6 +28591,24 @@
     "district": "南山区"
   },
   {
+    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
+    "venue": "福田区深圳音乐厅五楼小剧场",
+    "city": "shenzhen",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://www.shenzhenconcerthall.com",
+    "url": "https://www.shenzhenconcerthall.com",
+    "links": [],
+    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "自动化发现",
+    "district": "福田区"
+  },
+  {
     "title": "2026粤港澳大湾区（深圳）婚博会（夏季）",
     "name": "2026粤港澳大湾区（深圳）婚博会（夏季）",
     "venue": "深圳会展中心",
@@ -28708,24 +28629,6 @@
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
     "source": "深圳会展中心",
-    "district": "福田区"
-  },
-  {
-    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
-    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
-    "venue": "福田区深圳音乐厅五楼小剧场",
-    "city": "shenzhen",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "",
-    "url": "",
-    "links": [],
-    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "自动化发现",
     "district": "福田区"
   },
   {
@@ -28772,7 +28675,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "龙华街道综合性文化服务中心",
-    "district": "龙华区"
+    "district": "其他"
   },
   {
     "title": "“剪影流转，节气生花”光明街道光明社区亲子剪纸活动",
@@ -28863,7 +28766,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园山街道文化站"
+    "source": "园山街道文化站",
+    "district": "其他"
   },
   {
     "title": "草木留痕——非遗拓印手作",
@@ -28889,27 +28793,96 @@
     "district": "福田区"
   },
   {
-    "title": "古今和鸣·合唱音乐会",
-    "name": "古今和鸣·合唱音乐会",
-    "venue": "福田音乐馆",
+    "title": "法律咨询",
+    "name": "法律咨询",
+    "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+    "link": "https://activity.nslib.cn/activity/info/11641",
+    "url": "https://activity.nslib.cn/activity/info/11641",
     "links": [
       {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+        "url": "https://activity.nslib.cn/activity/info/11641",
         "label": "活动详情"
       }
     ],
-    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
-    "category": "演出",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": false,
-    "source": "福田音乐馆",
-    "district": "福田区"
+    "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
+    "name": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11684",
+    "url": "https://activity.nslib.cn/activity/info/11684",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11684",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "中国文化第一课|岭南画派与生活美学",
+    "name": "中国文化第一课|岭南画派与生活美学",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11721",
+    "url": "https://activity.nslib.cn/activity/info/11721",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11721",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "艺术荟 | 一藤一夏·包藏清凉",
+    "name": "艺术荟 | 一藤一夏·包藏清凉",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-26",
+    "link": "https://activity.nslib.cn/activity/info/11685",
+    "url": "https://activity.nslib.cn/activity/info/11685",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11685",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "探“蜜”深圳研学活动",
@@ -29119,95 +29092,26 @@
     "district": "福田区"
   },
   {
-    "title": "法律咨询",
-    "name": "法律咨询",
-    "venue": "南山图书馆",
+    "title": "南山博物馆暑期夜间延时开放",
+    "name": "南山博物馆暑期夜间延时开放",
+    "venue": "南山博物馆",
     "city": "shenzhen",
     "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11641",
-    "url": "https://activity.nslib.cn/activity/info/11641",
+    "end_date": "2026-08-31",
+    "link": "https://www.nanshanmuseum.com",
+    "url": "https://www.nanshanmuseum.com",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11641",
+        "url": "https://www.nanshanmuseum.com",
         "label": "活动详情"
       }
     ],
-    "description": "法律咨询。南山图书馆举办。",
-    "category": "讲座阅读",
+    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
+    "category": "科普活动",
     "fee": "免费",
-    "contact": "0755-26520380",
+    "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山图书馆",
-    "district": "南山区"
-  },
-  {
-    "title": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
-    "name": "公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11684",
-    "url": "https://activity.nslib.cn/activity/info/11684",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11684",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆",
-    "district": "南山区"
-  },
-  {
-    "title": "中国文化第一课|岭南画派与生活美学",
-    "name": "中国文化第一课|岭南画派与生活美学",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11721",
-    "url": "https://activity.nslib.cn/activity/info/11721",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11721",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆",
-    "district": "南山区"
-  },
-  {
-    "title": "艺术荟 | 一藤一夏·包藏清凉",
-    "name": "艺术荟 | 一藤一夏·包藏清凉",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "https://activity.nslib.cn/activity/info/11685",
-    "url": "https://activity.nslib.cn/activity/info/11685",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11685",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。艺术荟 | 一藤一夏·包藏清凉",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆",
+    "source": "南山博物馆",
     "district": "南山区"
   },
   {
@@ -29217,8 +29121,8 @@
     "city": "shenzhen",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
-    "link": "",
-    "url": "",
+    "link": "https://www.szgm.gov.cn",
+    "url": "https://www.szgm.gov.cn",
     "links": [],
     "description": "钢琴家陈萨与指挥家孙一凡携手国家大剧院管弦乐团室内乐团，演绎瓦格纳与常乐的作品。",
     "category": "其他",
@@ -29227,6 +29131,29 @@
     "family_friendly": false,
     "source": "自动化发现",
     "district": "光明区"
+  },
+  {
+    "title": "古今和鸣·合唱音乐会",
+    "name": "古今和鸣·合唱音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-28",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆",
+    "district": "福田区"
   },
   {
     "title": "“跟着文化馆学非遗”活动——大漆手作体验活动",
@@ -29318,6 +29245,29 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "南山博物馆暑期夜间延时开放",
+    "name": "南山博物馆暑期夜间延时开放",
+    "venue": "南山博物馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "link": "https://www.nanshanmuseum.com",
+    "url": "https://www.nanshanmuseum.com",
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-86700071",
+    "family_friendly": true,
+    "source": "南山博物馆",
     "district": "南山区"
   },
   {
@@ -29502,7 +29452,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏",
@@ -29571,7 +29521,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "音乐赏析之费玉清作品【下午场】",
@@ -30103,6 +30053,52 @@
     "district": "福田区"
   },
   {
+    "title": "书影英语 | 《触不可及》",
+    "name": "书影英语 | 《触不可及》",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://activity.nslib.cn/activity/info/11728",
+    "url": "https://activity.nslib.cn/activity/info/11728",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11728",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。书影英语 | 《触不可及》",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "数智课堂·光影仙子蝴蝶团扇",
+    "name": "数智课堂·光影仙子蝴蝶团扇",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://activity.nslib.cn/activity/info/11727",
+    "url": "https://activity.nslib.cn/activity/info/11727",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11727",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。数智课堂·光影仙子蝴蝶团扇",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
     "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "venue": "南山图书馆",
@@ -30132,14 +30128,9 @@
     "city": "shenzhen",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
-    "links": [
-      {
-        "url": "https://www.szsportscenter.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。",
     "category": "体育赛事",
     "fee": "收费",
@@ -30285,6 +30276,52 @@
     "family_friendly": true,
     "source": "深圳图书馆",
     "district": "福田区"
+  },
+  {
+    "title": "南图沙龙·心灵 | 心有边界，方得自由",
+    "name": "南图沙龙·心灵 | 心有边界，方得自由",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://activity.nslib.cn/activity/info/11723",
+    "url": "https://activity.nslib.cn/activity/info/11723",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11723",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "艺术荟·音阅共生 | 音画里的哲思",
+    "name": "艺术荟·音阅共生 | 音画里的哲思",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://activity.nslib.cn/activity/info/11724",
+    "url": "https://activity.nslib.cn/activity/info/11724",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11724",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。艺术荟·音阅共生 | 音画里的哲思",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
@@ -30515,6 +30552,29 @@
     "family_friendly": true,
     "source": "深圳图书馆",
     "district": "福田区"
+  },
+  {
+    "title": "南图创客空间丨摩斯密码机",
+    "name": "南图创客空间丨摩斯密码机",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-06",
+    "link": "https://activity.nslib.cn/activity/info/11730",
+    "url": "https://activity.nslib.cn/activity/info/11730",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11730",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图创客空间丨摩斯密码机",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -30862,6 +30922,29 @@
     "district": "福田区"
   },
   {
+    "title": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "name": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://activity.nslib.cn/activity/info/11722",
+    "url": "https://activity.nslib.cn/activity/info/11722",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11722",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
     "name": "俄罗斯冰上芭蕾《天鹅湖》",
     "venue": "深圳滨海艺术中心",
@@ -30928,7 +31011,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳龙城国际艺术中心",
-    "district": "龙岗区"
+    "district": "其他"
   },
   {
     "title": "沉浸式互动亲子科学剧《数学秀》",
@@ -32105,14 +32188,9 @@
     "city": "shenzhen",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
-    "links": [
-      {
-        "url": "https://www.szsportscenter.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。",
     "category": "体育赛事",
     "fee": "收费",
@@ -32749,14 +32827,9 @@
     "city": "shenzhen",
     "start_date": "2026-08-28",
     "end_date": "2026-08-28",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
-    "links": [
-      {
-        "url": "https://www.szsportscenter.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。",
     "category": "体育赛事",
     "fee": "收费",

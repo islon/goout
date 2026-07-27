@@ -27,8 +27,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -61,8 +61,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -97,8 +97,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -132,11 +132,10 @@
     "verification": {
       "status": "auto_checked",
       "link_reachable": true,
-      "http_status": null,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
-      "verified_by": "http_check",
-      "note": "HTTP fallback verified"
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
     },
     "verified": true,
     "venue_url": "http://www.gingkolake.com/"
@@ -169,8 +168,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -206,12 +205,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玄武湖亲子骑行",
@@ -245,12 +243,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "红山动物园灵长类科普",
@@ -283,12 +280,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玛雅海滩水上电音节",
@@ -322,12 +318,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京泥人非遗手作",
@@ -360,12 +355,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京鸭文化体验",
@@ -398,12 +392,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆经典诵读",
@@ -437,12 +430,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆科普阅读",
@@ -476,12 +468,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京市少儿图书馆亲子手工",
@@ -515,12 +506,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心击剑体验",
@@ -553,12 +543,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "探秘南京高淳区影视放映月",
@@ -592,12 +581,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京溧水区影视放映季",
@@ -631,12 +619,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京浦口区体育赛事节",
@@ -669,12 +656,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "南京科技馆机械原理实验",
@@ -708,12 +694,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玄武湖环湖亲子跑",
@@ -747,12 +732,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "老门东民俗体验",
@@ -785,12 +769,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南京白局体验",
@@ -823,12 +806,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆少儿英语角",
@@ -862,12 +844,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "乌衣巷历史文化研学",
@@ -900,12 +881,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园定向越野",
@@ -939,12 +919,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园攀岩体验",
@@ -978,12 +957,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心射箭体验",
@@ -1016,12 +994,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "阳山碑材研学",
@@ -1054,12 +1031,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "游子山登山",
@@ -1092,12 +1068,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京江宁区影视放映科普",
@@ -1131,12 +1106,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京鼓楼区讲座阅读发现",
@@ -1169,12 +1143,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京雨花台区体育赛事研学营",
@@ -1208,12 +1181,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "朝天宫馆藏精品文物研学",
@@ -1247,12 +1219,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "六朝博物馆小小讲解员",
@@ -1286,12 +1257,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆航天主题研学",
@@ -1325,12 +1295,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆环保主题研学",
@@ -1363,12 +1332,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "莫愁湖公园植物寻宝",
@@ -1402,12 +1370,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园主题夏令营",
@@ -1440,12 +1407,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京绒花非遗手作体验",
@@ -1478,12 +1444,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心足球夏令营",
@@ -1516,12 +1481,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "五台山体育中心跆拳道",
@@ -1554,12 +1518,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台红色夏令营",
@@ -1592,12 +1555,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "梅园新村小小讲解员",
@@ -1630,12 +1592,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "大金山国防园军事夏令营",
@@ -1668,12 +1629,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "探秘南京六合区演出月",
@@ -1707,12 +1667,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京建邺区科普活动探索",
@@ -1745,12 +1704,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "家庭南京六合区展览研学营",
@@ -1783,12 +1741,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读南京高淳区体育赛事周",
@@ -1821,12 +1778,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "家庭南京溧水区科普活动研学营",
@@ -1860,12 +1816,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆少儿编程营",
@@ -1899,12 +1854,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "中山植物园热带植物探秘",
@@ -1937,12 +1891,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "流徽榭民国建筑研学",
@@ -1975,12 +1928,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京江宁区展览比赛",
@@ -2013,12 +1965,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "精彩南京江宁区演出节",
@@ -2052,12 +2003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现南京浦口区科普活动比赛",
@@ -2091,12 +2041,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "朝天宫明代建筑研学",
@@ -2130,12 +2079,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京雨花台区科普活动节",
@@ -2168,12 +2116,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京玄武区科普活动体验营",
@@ -2207,12 +2154,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玛雅海滩造浪池派对",
@@ -2246,12 +2192,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆经纬书签手作",
@@ -2285,12 +2230,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南京市少儿图书馆暑期营",
@@ -2324,12 +2268,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园国防教育",
@@ -2362,12 +2305,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京溧水区演出周",
@@ -2401,12 +2343,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京溧水区体育赛事月",
@@ -2439,12 +2380,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "title": "汪苏泷2026\"明日世界\"世界巡回演唱会-南京站",
@@ -2474,8 +2414,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2513,12 +2453,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "江苏科技馆机器人擂台赛",
@@ -2551,12 +2490,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玄武湖夜探自然",
@@ -2590,12 +2528,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京海底世界触摸池体验",
@@ -2628,12 +2565,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "秦淮灯会研学",
@@ -2666,12 +2602,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆手工书制作",
@@ -2705,12 +2640,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆绘本故事会",
@@ -2744,12 +2678,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆名家讲座",
@@ -2783,12 +2716,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆英语角",
@@ -2822,12 +2754,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆绘本剧场",
@@ -2861,12 +2792,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": true
+    "category": "演出"
   },
   {
     "name": "南京市少儿图书馆科普讲座",
@@ -2900,12 +2830,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "明孝陵神道研学",
@@ -2938,12 +2867,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "玄武湖环湖跑",
@@ -2977,12 +2905,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京雨花台区体育赛事展览",
@@ -3016,12 +2943,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童南京玄武区科普活动课程",
@@ -3055,12 +2981,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京鼓楼区演出体验营",
@@ -3093,12 +3018,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "罗云熙\"熙界无限剧场\"巡回演唱会-南京站",
@@ -3107,8 +3031,8 @@
     "city": "nanjing",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
-    "link": "https://nj.bendibao.com/",
-    "url": "https://nj.bendibao.com/",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
     "description": "罗云熙熙界无限剧场巡回演唱会南京站，7月25日19:00开唱。",
     "category": "演出",
     "fee": "需购票",
@@ -3128,8 +3052,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -3166,12 +3090,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "江苏科技馆物理大闯关",
@@ -3204,12 +3127,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "中山植物园药用植物认知",
@@ -3242,12 +3164,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京图书馆写作工坊",
@@ -3281,12 +3202,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "总统府太平天国研学",
@@ -3319,12 +3239,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "明城墙中华门段研学",
@@ -3357,12 +3276,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园桨板体验",
@@ -3396,12 +3314,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "珍珠泉野营体验",
@@ -3435,12 +3352,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京雨花台区科普活动发现",
@@ -3474,12 +3390,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆生命科学营",
@@ -3512,12 +3427,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玄武湖自然观察课",
@@ -3551,12 +3465,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "红山森林动物园夜探",
@@ -3589,12 +3502,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京云锦织造体验",
@@ -3628,12 +3540,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心体操培训",
@@ -3666,12 +3577,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖帆船体验",
@@ -3705,12 +3615,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园军事夏令营",
@@ -3743,12 +3652,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "体验南京浦口区讲座阅读嘉年华",
@@ -3781,12 +3689,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京秦淮区演出工作坊",
@@ -3820,12 +3727,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京雨花台区演出探秘",
@@ -3859,12 +3765,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京鼓楼区科普活动探秘",
@@ -3898,12 +3803,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京江宁区展览工作坊",
@@ -3936,12 +3840,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "南博镇院之宝导览研学",
@@ -3974,12 +3877,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院民国馆沉浸研学",
@@ -4012,12 +3914,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "中山陵博爱精神研学",
@@ -4050,12 +3951,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "王导谢安纪念馆研学",
@@ -4088,12 +3988,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京雨花台区影视放映体验营",
@@ -4126,12 +4025,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读南京建邺区展览周",
@@ -4164,12 +4062,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味南京浦口区讲座阅读展览",
@@ -4203,12 +4100,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京江宁区科普活动嘉年华",
@@ -4241,12 +4137,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京鼓楼区演出探索",
@@ -4279,12 +4174,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京浦口区讲座阅读研学营",
@@ -4317,12 +4211,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "老门东非遗市集",
@@ -4355,12 +4248,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆研学",
@@ -4393,12 +4285,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "梦幻南京浦口区影视放映之旅",
@@ -4432,12 +4323,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京江宁区影视放映季",
@@ -4470,12 +4360,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖亲子皮划艇",
@@ -4509,12 +4398,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京欢乐谷暑期狂欢节",
@@ -4547,12 +4435,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京海底世界夜宿海洋馆",
@@ -4585,12 +4472,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "江宁织造博物馆红楼梦文化体验",
@@ -4624,12 +4510,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "五台山体育中心网球",
@@ -4662,12 +4547,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "走进南京雨花台区展览日",
@@ -4701,12 +4585,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探秘南京鼓楼区展览月",
@@ -4740,12 +4623,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "漫游南京高淳区亲子活动季",
@@ -4779,12 +4661,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园童话王国",
@@ -4817,12 +4698,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "溧水傅家边采摘",
@@ -4855,12 +4735,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "六合桂子山石柱林研学",
@@ -4893,12 +4772,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京建邺区亲子活动嘉年华",
@@ -4932,12 +4810,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京栖霞区演出月",
@@ -4971,12 +4848,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京秦淮区演出科普",
@@ -5009,12 +4885,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京剪纸非遗体验",
@@ -5047,12 +4922,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆手工绘本",
@@ -5086,12 +4960,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "中山植物园民国建筑研学",
@@ -5124,12 +4997,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "六合平山森林公园徒步",
@@ -5163,12 +5035,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "雨花台红色诗歌朗诵",
@@ -5201,12 +5072,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆天文观测活动",
@@ -5240,12 +5110,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京科技馆化学魔法秀",
@@ -5279,12 +5148,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "红山动物园鸟类科普",
@@ -5317,12 +5185,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "古琴艺术体验",
@@ -5355,12 +5222,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆历史讲座",
@@ -5394,12 +5260,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "颐和路十二片区研学",
@@ -5432,12 +5297,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "阅江楼朱元璋故事研学",
@@ -5470,12 +5334,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心亲子马拉松",
@@ -5508,12 +5371,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "科举博物馆科举文化课堂",
@@ -5547,12 +5409,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "六朝博物馆六朝文化研学",
@@ -5586,12 +5447,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "朝天宫虎踞龙盘研学营",
@@ -5625,12 +5485,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "江苏科技馆天文馆研学",
@@ -5663,12 +5522,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京绿博园亲子定向越野",
@@ -5701,12 +5559,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园骑行活动",
@@ -5740,12 +5597,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉亲子划竹筏",
@@ -5779,12 +5635,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利馆红色研学营",
@@ -5817,12 +5672,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷亲子剧场",
@@ -5855,12 +5709,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": true
+    "category": "演出"
   },
   {
     "name": "溧水东庐山徒步",
@@ -5893,12 +5746,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末南京溧水区亲子活动活动",
@@ -5932,12 +5784,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京秦淮区亲子活动节",
@@ -5971,12 +5822,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京雨花台区展览演出",
@@ -6009,12 +5859,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "南京科技馆人工智能课堂",
@@ -6048,12 +5897,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "精彩南京鼓楼区讲座阅读节",
@@ -6087,12 +5935,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆亲子阅读会",
@@ -6126,12 +5973,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台红色文化讲堂",
@@ -6164,12 +6010,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "周末南京玄武区展览活动",
@@ -6203,12 +6048,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式南京栖霞区演出探索",
@@ -6242,12 +6086,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京江宁区科普活动月",
@@ -6281,12 +6124,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京溧水区演出讲座",
@@ -6320,12 +6162,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现南京秦淮区亲子活动比赛",
@@ -6359,12 +6200,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "明孝陵世界遗产研学",
@@ -6397,12 +6237,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山徒步登山",
@@ -6435,12 +6274,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京江宁区体育赛事探索",
@@ -6474,12 +6312,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "南京云锦博物馆织造体验",
@@ -6513,12 +6350,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆剪纸体验",
@@ -6551,12 +6387,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "老门东手工体验",
@@ -6589,12 +6424,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京江宁区演出发现",
@@ -6628,12 +6462,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京六合区体育赛事科普",
@@ -6667,12 +6500,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京江宁区展览讲座",
@@ -6706,12 +6538,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "科举博物馆号舍体验日",
@@ -6745,12 +6576,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "金陵图书馆阅读马拉松",
@@ -6784,12 +6614,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "明孝陵明文化讲堂",
@@ -6822,12 +6651,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "玄武湖亲子皮划艇赛",
@@ -6861,12 +6689,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现南京鼓楼区体育赛事比赛",
@@ -6900,12 +6727,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "体验南京六合区演出嘉年华",
@@ -6939,12 +6765,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "六朝博物馆建康城研学",
@@ -6978,12 +6803,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玛雅海滩亲子漂流",
@@ -7017,12 +6841,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "总统府民国历史研学",
@@ -7055,12 +6878,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "梅园新村周恩来精神研学",
@@ -7093,12 +6915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "国防园现代军事研学",
@@ -7131,12 +6952,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "家庭南京秦淮区科普活动研学营",
@@ -7169,12 +6989,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京六合区体育赛事季",
@@ -7208,12 +7027,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "老山森林植物认知",
@@ -7247,12 +7065,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "弘阳欢乐世界亲子游",
@@ -7285,12 +7102,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "弘阳欢乐世界室内乐园",
@@ -7323,12 +7139,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京图书馆名家讲坛",
@@ -7362,12 +7177,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京六合区影视放映节",
@@ -7400,12 +7214,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院艺术馆亲子研学",
@@ -7438,12 +7251,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆光影魔术实验",
@@ -7477,12 +7289,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "暑期南京秦淮区讲座阅读体验营",
@@ -7516,12 +7327,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心亲子游泳",
@@ -7554,12 +7364,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆研学",
@@ -7592,12 +7401,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "渡江胜利纪念馆红色课堂",
@@ -7630,12 +7438,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "探秘南京玄武区亲子活动月",
@@ -7668,12 +7475,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京地质博物馆矿物探秘研学",
@@ -7707,12 +7513,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南京绿博园植物大观研学",
@@ -7745,12 +7550,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "高淳老街非遗市集",
@@ -7783,12 +7587,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆暑期阅读季",
@@ -7822,12 +7625,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "栖霞山千佛岩研学",
@@ -7861,12 +7663,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京浦口区体育赛事活动",
@@ -7899,12 +7700,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "经典南京江宁区影视放映探秘",
@@ -7938,12 +7738,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "古生物博物馆达尔文课堂",
@@ -7977,12 +7776,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆VR科技体验",
@@ -8015,12 +7813,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆生物多样性科普",
@@ -8053,12 +7850,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京市少儿图书馆故事大王比赛",
@@ -8092,12 +7888,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "雨花英烈精神宣讲",
@@ -8130,12 +7925,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京玄武区影视放映比赛",
@@ -8169,12 +7963,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆水科学实验",
@@ -8207,12 +8000,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "中山植物园植物科普营",
@@ -8245,12 +8037,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "玄武湖亲子骑行赛",
@@ -8284,12 +8075,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京建邺区演出研学营",
@@ -8323,12 +8113,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京建邺区讲座阅读探秘",
@@ -8362,12 +8151,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京栖霞区演出之旅",
@@ -8400,12 +8188,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京秦淮区讲座阅读之旅",
@@ -8439,12 +8226,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京建邺区展览比赛",
@@ -8478,12 +8264,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "南京科技馆太空探索营",
@@ -8517,12 +8302,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "红山动物园动物丰容体验",
@@ -8555,12 +8339,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆皮影戏体验",
@@ -8593,12 +8376,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京城墙博物馆研学",
@@ -8632,12 +8414,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "奥体中心网球培训",
@@ -8670,12 +8451,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "渡江战役史研学",
@@ -8708,12 +8488,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "漫游南京浦口区演出季",
@@ -8747,12 +8526,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末南京六合区展览活动",
@@ -8786,12 +8564,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "江苏科技馆无人机体验",
@@ -8824,12 +8601,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "老山国家森林公园徒步",
@@ -8863,12 +8639,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园高尔夫体验",
@@ -8901,12 +8676,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "弘阳欢乐世界欢乐城堡",
@@ -8939,12 +8713,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "阅江楼郑和航海研学",
@@ -8977,12 +8750,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山祈福文化游",
@@ -9015,12 +8787,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京江宁区亲子活动展览",
@@ -9053,12 +8824,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京溧水区科普活动展览",
@@ -9092,12 +8862,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "暑期南京栖霞区亲子活动体验营",
@@ -9130,12 +8899,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园兵器体验",
@@ -9168,12 +8936,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京秦淮区体育赛事月",
@@ -9206,12 +8973,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "震撼南京玄武区展览发现",
@@ -9245,12 +9011,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "云锦博物馆大花楼木织机研学",
@@ -9284,12 +9049,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大报恩寺琉璃塔文化研学",
@@ -9323,12 +9087,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心暑期游泳培训",
@@ -9361,12 +9124,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园亲子运动",
@@ -9400,12 +9162,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "珍珠泉戏水",
@@ -9439,12 +9200,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "六合金牛湖游船",
@@ -9477,12 +9237,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梅园新村红色文化研学",
@@ -9515,12 +9274,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "雨花台小小讲解员",
@@ -9553,12 +9311,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "互动南京鼓楼区科普活动科普",
@@ -9591,12 +9348,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末南京高淳区讲座阅读活动",
@@ -9630,12 +9386,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "青少年南京玄武区影视放映讲座",
@@ -9668,12 +9423,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京六合区科普活动课程",
@@ -9707,12 +9461,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京玄武区科普活动探索",
@@ -9745,12 +9498,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "红山动物园本土物种研学",
@@ -9783,12 +9535,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京海底世界美人鱼表演",
@@ -9821,12 +9572,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京栖霞区影视放映活动",
@@ -9860,12 +9610,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京建邺区体育赛事课程",
@@ -9899,12 +9648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "王源2026宇宙超级无敌大大狂欢巡回演唱会-南京站",
@@ -9913,8 +9661,8 @@
     "city": "nanjing",
     "start_date": "2026-08-22",
     "end_date": "2026-08-23",
-    "link": "https://nj.bendibao.com/",
-    "url": "https://nj.bendibao.com/",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
     "description": "王源2026巡回演唱会南京站，8月22-23日青奥体育馆。",
     "category": "演出",
     "fee": "需购票",
@@ -9934,8 +9682,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true
@@ -9971,12 +9719,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山禅修体验",
@@ -10009,12 +9756,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "雨花台烈士事迹研学",
@@ -10047,12 +9793,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京浦口区亲子活动工作坊",
@@ -10085,12 +9830,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆国学课堂",
@@ -10124,12 +9868,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "雨花英烈事迹宣讲营",
@@ -10162,12 +9905,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "周末南京雨花台区体育赛事活动",
@@ -10201,12 +9943,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "五台山体育中心乒乓",
@@ -10239,12 +9980,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "汤山猿人洞探秘",
@@ -10277,12 +10017,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "溧水天生桥游船",
@@ -10315,12 +10054,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "体验南京秦淮区体育赛事嘉年华",
@@ -10354,12 +10092,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京栖霞区影视放映发现",
@@ -10393,12 +10130,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆科学实验秀",
@@ -10432,12 +10168,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "梦幻南京六合区亲子活动之旅",
@@ -10470,12 +10205,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆国学启蒙",
@@ -10509,12 +10243,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "音乐台历史研学",
@@ -10547,12 +10280,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心羽毛球培训",
@@ -10585,12 +10317,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "五台山体育中心武术培训",
@@ -10623,12 +10354,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京溧水区影视放映日",
@@ -10661,12 +10391,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进南京建邺区讲座阅读日",
@@ -10700,12 +10429,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京六合区讲座阅读工作坊",
@@ -10739,12 +10467,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "中山植物园自然笔记课",
@@ -10777,12 +10504,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "亲子南京鼓楼区科普活动工作坊",
@@ -10816,12 +10542,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进南京玄武区体育赛事日",
@@ -10854,12 +10579,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京鼓楼区体育赛事讲座",
@@ -10893,12 +10617,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆少儿科学家培养计划",
@@ -10931,12 +10654,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "银杏湖乐园水上乐园",
@@ -10969,12 +10691,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆小小讲解员",
@@ -11007,12 +10728,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京玄武区影视放映周",
@@ -11045,12 +10765,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京建邺区演出发现",
@@ -11084,12 +10803,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉动物表演",
@@ -11123,12 +10841,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "解读南京六合区影视放映周",
@@ -11162,12 +10879,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京欢乐谷花车巡游",
@@ -11200,12 +10916,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷欢乐大巡游",
@@ -11238,12 +10953,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梅园新村革命历史研学",
@@ -11276,12 +10990,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式南京浦口区影视放映探索",
@@ -11315,12 +11028,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京秦淮区讲座阅读探索",
@@ -11354,12 +11066,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京雨花台区讲座阅读嘉年华",
@@ -11392,12 +11103,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京雨花台区科普活动周",
@@ -11431,12 +11141,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京高淳区讲座阅读发现",
@@ -11470,12 +11179,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆暑期科学营",
@@ -11509,12 +11217,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "牛首山佛顶宫研学",
@@ -11547,12 +11254,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京高淳区讲座阅读研学营",
@@ -11586,12 +11292,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京栖霞区体育赛事工作坊",
@@ -11625,12 +11330,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "江南丝竹体验",
@@ -11663,12 +11367,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "儿童南京雨花台区影视放映课程",
@@ -11702,12 +11405,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京溧水区亲子活动发现",
@@ -11740,12 +11442,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京高淳区展览探索",
@@ -11778,12 +11479,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读南京江宁区演出周",
@@ -11817,12 +11517,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京秦淮区科普活动发现",
@@ -11855,12 +11554,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京高淳区影视放映展览",
@@ -11893,12 +11591,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "大报恩寺遗址公园拓印体验",
@@ -11932,12 +11629,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京高淳区科普活动工作坊",
@@ -11970,12 +11666,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京建邺区亲子活动展览",
@@ -12009,12 +11704,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验南京鼓楼区展览嘉年华",
@@ -12048,12 +11742,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园轮滑体验",
@@ -12087,12 +11780,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末南京建邺区演出活动",
@@ -12125,12 +11817,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京建邺区科普活动之旅",
@@ -12163,12 +11854,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京浦口区展览体验营",
@@ -12201,12 +11891,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆机器人体验营",
@@ -12240,12 +11929,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "银杏湖乐园亲子游乐",
@@ -12278,12 +11966,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "高淳陶瓷制作体验",
@@ -12316,12 +12003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "颐和路民国公馆研学",
@@ -12354,12 +12040,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京江宁区亲子活动研学营",
@@ -12393,12 +12078,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京六合区体育赛事探秘",
@@ -12431,12 +12115,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "老山森林昆虫探秘",
@@ -12470,12 +12153,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "玛雅海滩水公园戏水节",
@@ -12509,12 +12191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆扎花灯体验",
@@ -12547,12 +12228,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京玄武区体育赛事季",
@@ -12585,12 +12265,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "经典南京秦淮区展览探秘",
@@ -12624,12 +12303,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "李香君故居研学",
@@ -12662,12 +12340,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "古生物博物馆化石修复体验",
@@ -12701,12 +12378,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京欢乐谷主题夏令营",
@@ -12739,12 +12415,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷魔法城堡",
@@ -12777,12 +12452,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "中华门瓮城城墙文化体验",
@@ -12815,12 +12489,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "大金山国防园研学",
@@ -12853,12 +12526,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京欢乐谷亲子过山车",
@@ -12891,12 +12563,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京秦淮区影视放映演出",
@@ -12929,12 +12600,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现南京溧水区演出比赛",
@@ -12967,12 +12637,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京玄武区展览节",
@@ -13006,12 +12675,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探秘南京浦口区影视放映月",
@@ -13045,12 +12713,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆地震科普体验",
@@ -13084,12 +12751,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "云锦博物馆挑花结本体验",
@@ -13123,12 +12789,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "汤山温泉亲子游",
@@ -13161,12 +12826,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京溧水区展览探秘",
@@ -13200,12 +12864,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "南京科技馆创客工坊",
@@ -13239,12 +12902,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "弘阳欢乐世界嘉年华",
@@ -13277,12 +12939,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "name": "趣味南京秦淮区体育赛事展览",
@@ -13315,12 +12976,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "瞻园园林文化体验",
@@ -13353,12 +13013,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "五台山体育中心亲子健身",
@@ -13391,12 +13050,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青奥公园滑板体验",
@@ -13430,12 +13088,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典南京栖霞区科普活动探秘",
@@ -13468,12 +13125,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京溧水区展览工作坊",
@@ -13506,12 +13162,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童南京浦口区展览课程",
@@ -13544,12 +13199,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "中山植物园秋季采种",
@@ -13582,12 +13236,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玛雅海滩水公园亲子戏水",
@@ -13621,12 +13274,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园生态观光",
@@ -13659,12 +13311,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆红楼梦研学",
@@ -13698,12 +13349,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "珍珠泉竹筏戏水",
@@ -13737,12 +13387,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "老山森林观鸟研学",
@@ -13776,12 +13425,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "周末南京秦淮区科普活动活动",
@@ -13815,12 +13463,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京溧水区展览科普",
@@ -13854,12 +13501,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "高淳老街民俗体验",
@@ -13892,12 +13538,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京市少儿图书馆亲子活动",
@@ -13931,12 +13576,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验南京栖霞区展览嘉年华",
@@ -13970,12 +13614,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院非遗工坊体验",
@@ -14008,12 +13651,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "莫愁湖公园亲子划船",
@@ -14047,12 +13689,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京金箔锻制体验",
@@ -14085,12 +13726,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆公益培训",
@@ -14124,12 +13764,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园军事研学",
@@ -14162,12 +13801,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "漫游南京鼓楼区亲子活动季",
@@ -14200,12 +13838,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京雨花台区讲座阅读之旅",
@@ -14239,12 +13876,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京玄武区讲座阅读工作坊",
@@ -14278,12 +13914,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京浦口区科普活动周",
@@ -14317,12 +13952,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京鼓楼区亲子活动演出",
@@ -14356,12 +13990,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京浦口区展览演出",
@@ -14394,12 +14027,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探索南京六合区科普活动演出",
@@ -14433,12 +14065,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京市少儿图书馆公益培训",
@@ -14472,12 +14103,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山古寺文化研学",
@@ -14511,12 +14141,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "梅园新村国共谈判历史研学",
@@ -14549,12 +14178,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京六合区亲子活动体验营",
@@ -14587,12 +14215,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京溧水区讲座阅读课程",
@@ -14625,12 +14252,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京浦口区演出日",
@@ -14664,12 +14290,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "红山动物园小小饲养员",
@@ -14702,12 +14327,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "中山陵民国建筑研学",
@@ -14740,12 +14364,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆电与磁实验课",
@@ -14779,12 +14402,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "美龄宫建筑艺术研学",
@@ -14817,12 +14439,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "南京古生物博物馆恐龙化石研学",
@@ -14856,12 +14477,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南京图书馆亲子电影放映",
@@ -14895,12 +14515,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "桠溪国际慢城观光",
@@ -14933,12 +14552,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京栖霞区亲子活动演出",
@@ -14972,12 +14590,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京雨花台区演出科普",
@@ -15010,12 +14627,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读南京栖霞区讲座阅读周",
@@ -15049,12 +14665,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "经典南京高淳区亲子活动探秘",
@@ -15087,12 +14702,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京建邺区讲座阅读季",
@@ -15125,12 +14739,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "科举博物馆金榜题名体验",
@@ -15164,12 +14777,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "弘阳欢乐世界摩天轮",
@@ -15202,12 +14814,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山徒步研学",
@@ -15241,12 +14852,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京高淳区体育赛事节",
@@ -15280,12 +14890,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "暑期南京江宁区体育赛事体验营",
@@ -15319,12 +14928,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京地质博物馆地球奥秘课堂",
@@ -15358,12 +14966,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京绿博园花卉科普",
@@ -15396,12 +15003,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "夫子庙非遗手作课堂",
@@ -15434,12 +15040,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆亲子阅读",
@@ -15473,12 +15078,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "汤山直立人化石研学",
@@ -15512,12 +15116,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京高淳区展览体验营",
@@ -15551,12 +15154,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京鼓楼区演出课程",
@@ -15589,12 +15191,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京雨花台区亲子活动讲座",
@@ -15627,12 +15228,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京秦淮区影视放映课程",
@@ -15665,12 +15265,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆织造技艺体验",
@@ -15704,12 +15303,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆3D打印体验",
@@ -15743,12 +15341,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "云锦博物馆意匠设计体验",
@@ -15782,12 +15379,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "溧水周园文化游",
@@ -15820,12 +15416,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台烈士陵园研学",
@@ -15858,12 +15453,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "发现南京六合区讲座阅读比赛",
@@ -15896,12 +15490,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京玄武区亲子活动之旅",
@@ -15935,12 +15528,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京玄武区讲座阅读科普",
@@ -15974,12 +15566,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京栖霞区科普活动日",
@@ -16013,12 +15604,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆暑期阅读营",
@@ -16052,12 +15642,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "南京博物院儿童研学营",
@@ -16090,12 +15679,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "阅江楼明代文化研学",
@@ -16128,12 +15716,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "美龄宫民国生活研学",
@@ -16166,12 +15753,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心滑冰体验",
@@ -16204,12 +15790,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京栖霞区体育赛事讲座",
@@ -16243,12 +15828,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京六合区讲座阅读讲座",
@@ -16282,12 +15866,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京秦淮区亲子活动周",
@@ -16321,12 +15904,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京六合区亲子活动探索",
@@ -16359,12 +15941,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京栖霞区展览展览",
@@ -16397,12 +15978,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动南京浦口区亲子活动科普",
@@ -16436,12 +16016,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京溧水区讲座阅读体验营",
@@ -16475,12 +16054,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉泉群自然研学",
@@ -16514,12 +16092,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "珍珠泉野生动物观赏",
@@ -16553,12 +16130,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "金陵图书馆少儿公益培训",
@@ -16592,12 +16168,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京市少儿图书馆绘本会",
@@ -16631,12 +16206,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "大报恩寺遗址研学",
@@ -16670,12 +16244,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "灵谷寺文化研学",
@@ -16708,12 +16281,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京高淳区展览之旅",
@@ -16747,12 +16319,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "江苏科技馆能源科普体验",
@@ -16785,12 +16356,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆未来交通体验",
@@ -16823,12 +16393,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "漫游南京秦淮区展览季",
@@ -16862,12 +16431,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "明城墙玄武门段研学",
@@ -16901,12 +16469,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "大报恩寺琉璃塔研学",
@@ -16940,12 +16507,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京江宁区亲子活动活动",
@@ -16978,12 +16544,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "古生物博物馆生命演化研学",
@@ -17017,12 +16582,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "雨花台爱国主义教育",
@@ -17055,12 +16619,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京雨花台区影视放映探索",
@@ -17094,12 +16657,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "高淳老街古建筑研学",
@@ -17132,12 +16694,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京雨花台区亲子活动比赛",
@@ -17171,12 +16732,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动南京栖霞区体育赛事科普",
@@ -17209,12 +16769,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "江南贡院科举历史研学",
@@ -17248,12 +16807,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "五台山体育中心瑜伽",
@@ -17286,12 +16844,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京秦淮区演出讲座",
@@ -17324,12 +16881,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京溧水区体育赛事之旅",
@@ -17362,12 +16918,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "互动南京建邺区影视放映科普",
@@ -17401,12 +16956,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖赏荷观鸟活动",
@@ -17440,12 +16994,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京鼓楼区展览之旅",
@@ -17479,12 +17032,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梅园新村纪念馆研学",
@@ -17517,12 +17069,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆和平教育",
@@ -17555,12 +17106,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京鼓楼区影视放映展览",
@@ -17593,12 +17143,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子南京建邺区影视放映工作坊",
@@ -17632,12 +17181,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京高淳区演出课程",
@@ -17670,12 +17218,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京玄武区体育赛事演出",
@@ -17709,12 +17256,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "南京海底世界海豚表演",
@@ -17747,12 +17293,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "五台山体育中心游泳",
@@ -17785,12 +17330,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "精彩南京建邺区展览节",
@@ -17824,12 +17368,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "青少年南京建邺区影视放映讲座",
@@ -17862,12 +17405,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验南京高淳区影视放映嘉年华",
@@ -17900,12 +17442,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆4D影院科普观影",
@@ -17939,12 +17480,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "南京海底世界企鹅科普",
@@ -17977,12 +17517,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "夫子庙秦淮花灯制作体验",
@@ -18015,12 +17554,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "桠溪国际慢城骑行",
@@ -18053,12 +17591,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验南京溧水区科普活动嘉年华",
@@ -18092,12 +17629,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京雨花台区讲座阅读月",
@@ -18130,12 +17666,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "漫游南京栖霞区科普活动季",
@@ -18168,12 +17703,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "六朝博物馆青瓷探秘研学",
@@ -18207,12 +17741,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "南京欢乐谷夜场狂欢",
@@ -18245,12 +17778,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "南京图书馆少儿绘本故事会",
@@ -18284,12 +17816,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "鸡鸣寺历史研学",
@@ -18322,12 +17853,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "溧水无想山徒步",
@@ -18360,12 +17890,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进南京江宁区讲座阅读日",
@@ -18398,12 +17927,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "探索南京江宁区讲座阅读演出",
@@ -18436,12 +17964,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "经典南京玄武区讲座阅读探秘",
@@ -18474,12 +18001,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆球幕影院观影",
@@ -18513,12 +18039,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "莫愁湖公园荷花研学",
@@ -18552,12 +18077,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "奥体中心篮球夏令营",
@@ -18590,12 +18114,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": false
+    "category": "体育赛事"
   },
   {
     "name": "青奥公园皮划艇",
@@ -18629,12 +18152,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "固城湖湿地观鸟",
@@ -18667,12 +18189,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "name": "走进南京六合区科普活动日",
@@ -18705,12 +18226,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京建邺区体育赛事演出",
@@ -18743,12 +18263,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "南京海底世界海洋科普营",
@@ -18781,12 +18300,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "明城墙台城段研学",
@@ -18820,12 +18338,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "趣味南京玄武区演出展览",
@@ -18859,12 +18376,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "家庭南京玄武区演出研学营",
@@ -18897,12 +18413,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆爱国主义教育",
@@ -18935,12 +18450,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进南京高淳区演出日",
@@ -18974,12 +18488,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进南京鼓楼区亲子活动日",
@@ -19013,12 +18526,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京鼓楼区影视放映研学营",
@@ -19052,12 +18564,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京溧水区亲子活动节",
@@ -19091,12 +18602,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院数字馆研学",
@@ -19129,12 +18639,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "震撼南京浦口区体育赛事发现",
@@ -19168,12 +18677,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "发现南京栖霞区讲座阅读比赛",
@@ -19206,12 +18714,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "夫子庙科举文化体验",
@@ -19245,12 +18752,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山红叶观赏",
@@ -19284,12 +18790,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京高淳区科普活动讲座",
@@ -19323,12 +18828,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索南京高淳区演出演出",
@@ -19362,12 +18866,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京栖霞区亲子活动课程",
@@ -19401,12 +18904,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院小小讲解员夏令营",
@@ -19439,12 +18941,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": false
+    "category": "讲座阅读"
   },
   {
     "name": "朝天宫小小讲解员培训",
@@ -19478,12 +18979,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "科举博物馆小小举人研学营",
@@ -19517,11 +19017,10 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   }
 ]

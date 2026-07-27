@@ -58,7 +58,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cdmnh.com/"
+    "venue_url": "https://www.cdmnh.com/",
+    "district": "其他"
   },
   {
     "title": "第二届Y+Project 韩智同个展",
@@ -93,7 +94,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.a4am.com/"
+    "venue_url": "https://www.a4am.com/",
+    "district": "其他"
   },
   {
     "title": "第六届IDEA!想法——叙事艺术展",
@@ -127,7 +129,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "清净觉相 佛教艺术系列展",
@@ -162,7 +165,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.zhiartmuseum.com/"
+    "venue_url": "https://www.zhiartmuseum.com/",
+    "district": "其他"
   },
   {
     "title": "留法勤工俭学运动主题展览",
@@ -196,7 +200,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "窑火映天府——成都平原出土瓷器展",
@@ -230,7 +235,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "珠海历史常设展",
@@ -253,7 +259,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "传统艺文和民俗文化展",
@@ -276,7 +282,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "共同的记忆——珠海城市变迁展",
@@ -299,7 +305,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "珠海规划展览馆城市记忆展",
@@ -317,7 +323,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海规划展览馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "国家方志馆大湾区记忆展",
@@ -335,7 +341,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "国家方志馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "景山公园缆车观景体验",
@@ -371,7 +377,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "金湾区博物馆林伟民主题陈列展",
@@ -389,7 +395,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "金湾文物展",
@@ -407,7 +413,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "斗门区博物馆历史展",
@@ -425,7 +431,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "斗门区博物馆",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -609,7 +615,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "凤凰网深圳（宝安区）",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -667,7 +673,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cdamuseum.cn/"
+    "venue_url": "https://www.cdamuseum.cn/",
+    "district": "其他"
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -748,7 +755,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -831,41 +838,6 @@ module.exports = [
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
     "district": "越秀区"
-  },
-  {
-    "title": "观澜古墟第四届文化季",
-    "name": "观澜古墟第四届文化季",
-    "venue": "观澜古墟",
-    "city": "shenzhen",
-    "start_date": "2026-04-25",
-    "end_date": "2026-07-26",
-    "link": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "url": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "description": "深圳仅存客家古墟之一，皮影戏表演、漫步灯笼连廊下看百年碉楼披流光，逛水岸文创市集，夜景超出片。",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳本地宝",
-    "booking_method": {
-      "type": "city_aggregated",
-      "app_name": "深圳读书月",
-      "app_type": "wechat_mini_program",
-      "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
-      "platform_url": null,
-      "city": "深圳",
-      "matched_venue_type": "市集"
-    },
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
-      "verified_by": "http_check"
-    },
-    "verified": true,
-    "district": "龙华区"
   },
   {
     "title": "中国美术馆 从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -973,7 +945,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.beilin-museum.com/",
-    "district": "碑林区"
+    "district": "其他"
   },
   {
     "title": "二十四伎乐 器乐剧美学展",
@@ -1008,7 +980,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cdylbwg.org.cn/"
+    "venue_url": "https://www.cdylbwg.org.cn/",
+    "district": "其他"
   },
   {
     "title": "首都博物馆 玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -1080,29 +1053,6 @@ module.exports = [
     },
     "verified": true,
     "district": "松江区"
-  },
-  {
-    "title": "来处与归途：三燕百年",
-    "name": "来处与归途：三燕百年",
-    "venue": "深圳博物馆（历史民俗馆）",
-    "city": "shenzhen",
-    "start_date": "2026-05-18",
-    "end_date": "2026-07-26",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
-    "links": [
-      {
-        "url": "https://www.shenzhenmuseum.com",
-        "label": "活动详情"
-      }
-    ],
-    "description": "三燕历史文化特展，深圳博物馆金田路馆。",
-    "category": "展览",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -1249,7 +1199,7 @@ module.exports = [
     "family_friendly": true,
     "start_date": "2026-05-29",
     "end_date": "2026-10-31",
-    "district": "罗湖区"
+    "district": "南山区"
   },
   {
     "title": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展",
@@ -1272,7 +1222,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "深圳美术馆（罗湖区）",
-    "district": "罗湖区"
+    "district": "福田区"
   },
   {
     "title": "葵山——许江艺术展",
@@ -1342,7 +1292,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "中国国家博物馆 行·迹——卡塔尔游牧生活与文化展",
@@ -1604,7 +1555,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.sxhm.com/",
-    "district": "雁塔区"
+    "district": "其他"
   },
   {
     "title": "手作·造物——现代手工艺师生作品展",
@@ -1622,7 +1573,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "童心向党——金湾区青少儿艺术花会优秀作品展",
@@ -1640,7 +1591,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "墨彩童年——王明明、方楚雄儿童画作品特展",
@@ -1816,7 +1767,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳世界之窗WoW潮音嘉年华",
@@ -1887,7 +1838,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.3gmuseum.cn/",
-    "district": "渝中区"
+    "district": "其他"
   },
   {
     "title": "伯乐相马 特色展览",
@@ -1923,7 +1874,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.sxhm.com/",
-    "district": "雁塔区"
+    "district": "其他"
   },
   {
     "title": "2026光明街道迳口社区笔墨光影-迳口古村书法摄影展",
@@ -2073,7 +2024,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "笔墨同心·林墉、苏华作品展",
@@ -2171,7 +2123,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cqartmuseum.cn/"
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
   },
   {
     "title": "道登天门——萧娴书法艺术展",
@@ -2313,7 +2266,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cqartmuseum.cn/"
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
   },
   {
     "title": "岚岚作品展",
@@ -2348,7 +2302,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.cqartmuseum.cn/"
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
   },
   {
     "title": "上海迪士尼乐园夏日缤纷主题体验",
@@ -2635,7 +2590,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "中国动漫博物馆 暑期免费观影",
@@ -2778,7 +2733,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.xiling.cn/"
+    "venue_url": "https://www.xiling.cn/",
+    "district": "其他"
   },
   {
     "title": "洪崖洞民俗风貌区 夜景游",
@@ -2812,7 +2768,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "重庆科技馆 暑期开放",
@@ -2848,7 +2805,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.cqkjg.com/",
-    "district": "江北区"
+    "district": "其他"
   },
   {
     "title": "南京博物院 延时开放·博物馆奇妙夜",
@@ -2884,7 +2841,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.njmuseum.com/",
-    "district": "玄武区"
+    "district": "其他"
   },
   {
     "title": "灯影——南京博物院藏陕西皮影艺术展",
@@ -2920,7 +2877,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.njmuseum.com/",
-    "district": "玄武区"
+    "district": "其他"
   },
   {
     "title": "银杏湖乐园 暑期亲子",
@@ -2955,7 +2912,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "http://www.gingkolake.com/"
+    "venue_url": "http://www.gingkolake.com/",
+    "district": "其他"
   },
   {
     "title": "珠海市图书馆暑期阅读季",
@@ -2978,7 +2936,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海市图书馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "珠海市文化馆公益艺术培训",
@@ -3001,7 +2959,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "古元美术馆版画艺术展",
@@ -3024,7 +2982,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "香山文化艺术中心暑期展览",
@@ -3042,7 +3000,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "香山文化艺术中心",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "圆明新园夏日文化游园会",
@@ -3060,7 +3018,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "圆明新园",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "海滨公园亲子户外活动",
@@ -3078,7 +3036,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海海滨公园",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "汤臣倍健透明工厂参观",
@@ -3101,7 +3059,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "汤臣倍健透明工厂",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "海泉湾夏日温泉度假活动",
@@ -3124,7 +3082,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海海泉湾度假区",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "斗门旧街历史文化游览",
@@ -3142,7 +3100,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "斗门旧街",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "金台寺夏日祈福活动",
@@ -3160,7 +3118,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金台寺",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "御温泉夏日亲子活动",
@@ -3183,7 +3141,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "御温泉",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "珠海长隆海洋王国夏日狂欢节",
@@ -3206,7 +3164,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "长隆海洋幻彩烟花秀",
@@ -3229,7 +3187,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "长隆飞船乐园宇宙探索之旅",
@@ -3252,7 +3210,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆飞船乐园",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "长隆横琴剧院《长隆秀》",
@@ -3275,7 +3233,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆横琴剧院",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "横琴金融岛夜景游览",
@@ -3293,7 +3251,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "横琴金融岛",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "《海洋奇缘：启航》迪士尼电影主题展",
@@ -3333,7 +3291,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "深圳人才公园潮汐广场",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
@@ -3779,14 +3737,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.lgmuseum.cn",
-    "url": "https://www.lgmuseum.cn",
-    "links": [
-      {
-        "url": "https://www.lgmuseum.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
     "category": "展览",
     "fee": "免费",
@@ -4023,7 +3976,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "南方都市报",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "一日店长青少年社会实践公益计划",
@@ -4046,7 +3999,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "深圳特区报（宝安区）",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "名家读书沙龙/新书分享会",
@@ -4055,14 +4008,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szcbgroup.com/",
-    "url": "https://www.szcbgroup.com/",
-    "links": [
-      {
-        "url": "https://www.szcbgroup.com/",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "暑期每周安排文学、育儿、科普类作家线下讲座，亲子可免费旁听，包含儿童文学、亲子共读主题分享。官方查询入口：湾区之眼公众号菜单栏「活动预约」。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -4156,7 +4104,7 @@ module.exports = [
     "family_friendly": true,
     "start_date": "2026-07-02",
     "end_date": "2026-09-19",
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -4250,7 +4198,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.hubeimuseum.net/"
+    "venue_url": "https://www.hubeimuseum.net/",
+    "district": "其他"
   },
   {
     "title": "湖北省博物馆 暑假延时开放",
@@ -4286,7 +4235,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.hubeimuseum.net/",
-    "district": "武昌区"
+    "district": "其他"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -4438,7 +4387,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://cd.happyvalley.cn/",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "成都海昌极地海洋公园 16周年庆+冰淇淋狂欢节",
@@ -4474,7 +4423,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://www.haichangoceanpark.com/chengdu",
-    "district": "天府新区"
+    "district": "其他"
   },
   {
     "title": "成都融创文旅城 融创水世界\"神仙玩水季\"",
@@ -4508,7 +4457,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "重庆欢乐谷 夏浪狂欢节·夜猫子音乐公园",
@@ -4544,7 +4494,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://cq.happyvalley.cn/",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "2026（武汉站）航空航天体验中心",
@@ -4578,7 +4528,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "武汉欢乐谷 夏浪狂欢节·潮流红人派对",
@@ -4614,7 +4565,7 @@ module.exports = [
     },
     "verified": true,
     "venue_url": "https://wh.happyvalley.cn/",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳欢乐谷·夏浪狂欢节",
@@ -4631,7 +4582,7 @@ module.exports = [
     "family_friendly": true,
     "start_date": "2026-07-04",
     "end_date": "2026-08-01",
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -4764,7 +4715,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "斗门区图书馆",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "横琴文化艺术中心艺术展览",
@@ -4782,7 +4733,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "横琴文化艺术中心",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "丹青联心——深澳两地书画艺术交流展",
@@ -4799,7 +4750,7 @@ module.exports = [
     "family_friendly": true,
     "start_date": "2026-07-05",
     "end_date": "2026-07-30",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -4900,14 +4851,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-05",
     "end_date": "2026-08-31",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
-    "links": [
-      {
-        "url": "https://www.nsszlib.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -5224,14 +5170,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-07",
     "end_date": "2026-08-30",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
-    "links": [
-      {
-        "url": "https://www.ytlib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -5444,11 +5385,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -5467,11 +5408,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-08",
     "end_date": "2026-08-28",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -5575,7 +5516,8 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "https://www.scmuseum.cn/"
+    "venue_url": "https://www.scmuseum.cn/",
+    "district": "其他"
   },
   {
     "title": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -5630,14 +5572,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
-    "links": [
-      {
-        "url": "https://www.szlhlib.com.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -5676,14 +5613,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-30",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -5699,14 +5631,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
-    "link": "https://www.nsszlib.com",
-    "url": "https://www.nsszlib.com",
-    "links": [
-      {
-        "url": "https://www.nsszlib.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -5767,7 +5694,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "梅溪牌坊",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "金湾区图书馆暑期阅读营",
@@ -5785,7 +5712,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区图书馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "斗门区文化馆暑期公益培训",
@@ -5803,7 +5730,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "斗门区文化馆",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "星乐度露营小镇夏日露营节",
@@ -5826,7 +5753,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "星乐度露营小镇",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "成人书法（6节课程，需自备材料）",
@@ -5881,14 +5808,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6042,11 +5964,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
+    "link": "http://www.baoan.gov.cn/",
+    "url": "http://www.baoan.gov.cn/",
     "links": [
       {
-        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "url": "http://www.baoan.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -6065,11 +5987,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -6160,7 +6082,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "盐田区"
+    "district": "其他"
   },
   {
     "title": "深圳书城“YUE龙岗”夏日乐读季",
@@ -6195,7 +6117,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "福田区"
   },
   {
     "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
@@ -6227,14 +6149,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
-    "links": [
-      {
-        "url": "https://www.szpslib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6319,14 +6236,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
-    "links": [
-      {
-        "url": "https://www.szlglib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6342,14 +6254,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
-    "links": [
-      {
-        "url": "https://www.dapeng.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6365,14 +6272,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "links": [
-      {
-        "url": "https://www.ftlib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。",
     "category": "影视放映",
     "fee": "免费",
@@ -6388,14 +6290,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
-    "links": [
-      {
-        "url": "https://www.ytlib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6434,11 +6331,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-12",
     "end_date": "2026-08-22",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -6480,14 +6377,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-13",
     "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn",
-    "url": "https://www.dplib.org.cn",
-    "links": [
-      {
-        "url": "https://www.dplib.org.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -6558,7 +6450,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区博物馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -6567,14 +6459,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-14",
     "end_date": "2026-08-25",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
-    "links": [
-      {
-        "url": "https://www.szpslib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -6604,7 +6491,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "宝安区委宣传部",
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "杭州宋城 千古情狂欢节",
@@ -6663,7 +6550,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海博物馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "齐白石真迹展",
@@ -6686,7 +6573,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "珠海青少年妇女儿童活动中心暑期班",
@@ -6704,7 +6591,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海市青少年妇女儿童活动中心",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "珠海国际会展中心暑期展览",
@@ -6727,7 +6614,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "珠海国际会展中心",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "金湾区文化馆非遗体验活动",
@@ -6745,7 +6632,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾区文化馆",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "金湾体育中心暑期游泳班",
@@ -6763,7 +6650,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "金湾体育中心",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "斗门体育中心暑期运动营",
@@ -6781,7 +6668,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "斗门体育中心",
-    "district": "斗门区"
+    "district": "其他"
   },
   {
     "title": "横琴口岸免税购物节",
@@ -6799,7 +6686,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "横琴口岸",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
@@ -6877,11 +6764,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
+    "link": "http://www.baoan.gov.cn/",
+    "url": "http://www.baoan.gov.cn/",
     "links": [
       {
-        "url": "http://www.baoan.gov.cn/bawtlyj/",
+        "url": "http://www.baoan.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -6900,11 +6787,11 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/nsqwhg/",
-    "url": "https://www.szns.gov.cn/nsqwhg/",
+    "link": "https://www.szns.gov.cn/",
+    "url": "https://www.szns.gov.cn/",
     "links": [
       {
-        "url": "https://www.szns.gov.cn/nsqwhg/",
+        "url": "https://www.szns.gov.cn/",
         "label": "活动详情"
       }
     ],
@@ -6946,14 +6833,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
-    "links": [
-      {
-        "url": "https://www.szlglib.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
@@ -7038,14 +6920,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "https://www.szsportscenter.com",
-    "url": "https://www.szsportscenter.com",
-    "links": [
-      {
-        "url": "https://www.szsportscenter.com",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
     "category": "体育赛事",
     "fee": "收费",
@@ -7061,14 +6938,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
-    "links": [
-      {
-        "url": "https://www.dapeng.gov.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。",
     "category": "亲子活动",
     "fee": "免费",
@@ -7189,14 +7061,9 @@ module.exports = [
     "city": "shenzhen",
     "start_date": "2026-07-16",
     "end_date": "2026-08-27",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
-    "links": [
-      {
-        "url": "https://www.szlhlib.com.cn",
-        "label": "活动详情"
-      }
-    ],
+    "link": "",
+    "url": "",
+    "links": [],
     "description": "龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -7316,7 +7183,7 @@ module.exports = [
   {
     "name": "三圣花乡花艺手作课堂",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-26",
     "fee": "收费",
@@ -7353,7 +7220,7 @@ module.exports = [
   {
     "name": "天府人文艺术图书馆亲子手工",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -7391,7 +7258,7 @@ module.exports = [
   {
     "name": "武侯祠三国兵器展研学",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-30",
     "fee": "需购票",
@@ -7429,7 +7296,7 @@ module.exports = [
   {
     "name": "金沙遗址玉器文化课堂",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -7467,7 +7334,7 @@ module.exports = [
   {
     "name": "锦城湖皮划艇体验",
     "venue": "锦城湖公园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -7505,7 +7372,7 @@ module.exports = [
   {
     "name": "成都蹦床公园",
     "venue": "成都蹦床馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -7542,7 +7409,7 @@ module.exports = [
   {
     "name": "街子古镇光严禅院探秘",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-09-05",
     "fee": "免费",
@@ -7579,7 +7446,7 @@ module.exports = [
   {
     "name": "成都IFS屋顶花园派对",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -7616,7 +7483,7 @@ module.exports = [
   {
     "name": "环球中心亲子冰场",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -7653,7 +7520,7 @@ module.exports = [
   {
     "name": "成都大悦城暑期乐园",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -7691,7 +7558,7 @@ module.exports = [
     "name": "碑林书法研学营",
     "venue": "西安碑林博物馆",
     "city": "xian",
-    "district": "碑林区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-27",
     "fee": "收费",
@@ -7746,7 +7613,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术素描班",
@@ -7769,7 +7636,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "硬笔书法",
@@ -7792,7 +7659,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿篮球提高班",
@@ -7815,7 +7682,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术启智班",
@@ -7838,7 +7705,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "主持暑假特色课",
@@ -7861,7 +7728,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "软笔书法",
@@ -7884,7 +7751,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿钢琴",
@@ -7907,7 +7774,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术启蒙班",
@@ -7930,7 +7797,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿街舞",
@@ -7953,7 +7820,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "少儿篮球基础班",
@@ -7976,7 +7843,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "美术创想班",
@@ -7999,7 +7866,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "主持考级",
@@ -8022,7 +7889,7 @@ module.exports = [
     "contact": "",
     "family_friendly": false,
     "source": "大鹏办事处公共事业服务中心",
-    "district": "龙岗区"
+    "district": "大鹏新区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -8459,7 +8326,7 @@ module.exports = [
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "name": "青少年杭州淳安县影视放映讲座",
@@ -8577,7 +8444,7 @@ module.exports = [
   {
     "name": "成都博物馆青铜器探秘",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费需预约",
@@ -8615,7 +8482,7 @@ module.exports = [
   {
     "name": "金沙遗址博物馆古蜀文明夏令营",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-20",
     "fee": "收费",
@@ -8653,7 +8520,7 @@ module.exports = [
   {
     "name": "四川科技馆天文观星夜",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-25",
     "fee": "收费",
@@ -8691,7 +8558,7 @@ module.exports = [
   {
     "name": "环球中心海洋乐园科普日",
     "venue": "环球中心天堂岛海洋乐园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-12",
     "fee": "需购票",
@@ -8728,7 +8595,7 @@ module.exports = [
   {
     "name": "青龙湖湿地公园皮划艇体验",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -8766,7 +8633,7 @@ module.exports = [
   {
     "name": "成都植物园药用植物探秘",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-10",
     "fee": "免费需预约",
@@ -8803,7 +8670,7 @@ module.exports = [
   {
     "name": "成都欢乐谷夏日电音节",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "需购票",
@@ -8840,7 +8707,7 @@ module.exports = [
   {
     "name": "成都融创水世界滑道挑战赛",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -8877,7 +8744,7 @@ module.exports = [
   {
     "name": "成都国色天乡乐园童话节",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "需购票",
@@ -8914,7 +8781,7 @@ module.exports = [
   {
     "name": "成都海昌极地海洋公园亲子嘉年华",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -8952,7 +8819,7 @@ module.exports = [
   {
     "name": "非遗博览园蜀绣研学",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -8989,7 +8856,7 @@ module.exports = [
   {
     "name": "成都图书馆亲子电影日",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -9027,7 +8894,7 @@ module.exports = [
   {
     "name": "杜甫草堂诗圣文化探秘",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -9065,7 +8932,7 @@ module.exports = [
   {
     "name": "成都博物馆古钱币探秘",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-10",
     "fee": "免费需预约",
@@ -9103,7 +8970,7 @@ module.exports = [
   {
     "name": "成都网球培训营",
     "venue": "四川省体育馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -9141,7 +9008,7 @@ module.exports = [
   {
     "name": "成都跆拳道夏令营",
     "venue": "成都跆拳道馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-26",
     "fee": "收费",
@@ -9178,7 +9045,7 @@ module.exports = [
   {
     "name": "黄龙溪古镇亲子漂流",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -9215,7 +9082,7 @@ module.exports = [
   {
     "name": "洛带古镇会馆探秘",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -9252,7 +9119,7 @@ module.exports = [
   {
     "name": "平乐古镇竹海探秘",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-09",
     "fee": "免费",
@@ -9289,7 +9156,7 @@ module.exports = [
   {
     "name": "平乐古镇民俗体验",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -9326,7 +9193,7 @@ module.exports = [
   {
     "name": "环球中心室内冲浪体验",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-04",
     "fee": "收费",
@@ -9363,7 +9230,7 @@ module.exports = [
   {
     "name": "来福士广场儿童剧场",
     "venue": "成都来福士广场",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -9439,7 +9306,7 @@ module.exports = [
     "name": "少儿图书馆手工坊",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -9477,7 +9344,7 @@ module.exports = [
     "name": "家庭重庆武隆区科普活动研学营",
     "venue": "重庆武隆区植物园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -9589,7 +9456,7 @@ module.exports = [
     "name": "江苏科技馆奇妙科学夜",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -9626,7 +9493,7 @@ module.exports = [
     "name": "玄武湖亲子骑行",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-17",
     "fee": "免费",
@@ -9664,7 +9531,7 @@ module.exports = [
     "name": "红山动物园灵长类科普",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -9701,7 +9568,7 @@ module.exports = [
     "name": "玛雅海滩水上电音节",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-16",
     "fee": "收费",
@@ -9739,7 +9606,7 @@ module.exports = [
     "name": "南京泥人非遗手作",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -9776,7 +9643,7 @@ module.exports = [
     "name": "南京鸭文化体验",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-11-17",
     "fee": "免费",
@@ -9813,7 +9680,7 @@ module.exports = [
     "name": "南京图书馆经典诵读",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -9851,7 +9718,7 @@ module.exports = [
     "name": "金陵图书馆科普阅读",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -9889,7 +9756,7 @@ module.exports = [
     "name": "南京市少儿图书馆亲子手工",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -9927,7 +9794,7 @@ module.exports = [
     "name": "奥体中心击剑体验",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -10077,7 +9944,7 @@ module.exports = [
     "name": "中科院武汉植物园夜探",
     "venue": "中科院武汉植物园",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -10114,7 +9981,7 @@ module.exports = [
     "name": "木兰清凉寨萤火虫夜观",
     "venue": "木兰清凉寨",
     "city": "wuhan",
-    "district": "黄陂区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-15",
     "fee": "收费",
@@ -10151,7 +10018,7 @@ module.exports = [
     "name": "黎黄陂路夜游",
     "venue": "黎黄陂路",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -10253,13 +10120,14 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "大唐西市博物馆商贸体验",
     "venue": "大唐西市博物馆",
     "city": "xian",
-    "district": "莲湖区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-18",
     "fee": "收费",
@@ -10297,7 +10165,7 @@ module.exports = [
     "name": "陕西科技馆天文观测活动",
     "venue": "陕西科技馆",
     "city": "xian",
-    "district": "新城区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-31",
     "fee": "免费",
@@ -10335,7 +10203,7 @@ module.exports = [
     "name": "陕西科技馆力学科普秀",
     "venue": "陕西科技馆",
     "city": "xian",
-    "district": "新城区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-01",
     "fee": "免费",
@@ -10373,7 +10241,7 @@ module.exports = [
     "name": "陕西科技馆新能源科普",
     "venue": "陕西科技馆",
     "city": "xian",
-    "district": "新城区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-25",
     "fee": "免费",
@@ -10411,7 +10279,7 @@ module.exports = [
     "name": "兴庆宫公园唐文化课堂",
     "venue": "兴庆宫公园",
     "city": "xian",
-    "district": "碑林区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-20",
     "fee": "免费",
@@ -10449,7 +10317,7 @@ module.exports = [
     "name": "华夏文旅海洋公园极地动物展",
     "venue": "华夏文旅海洋公园",
     "city": "xian",
-    "district": "灞桥区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -10487,7 +10355,7 @@ module.exports = [
     "name": "唐代茶道体验课堂",
     "venue": "大唐不夜城",
     "city": "xian",
-    "district": "雁塔区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-31",
     "fee": "收费",
@@ -10524,7 +10392,7 @@ module.exports = [
     "name": "曲江书城绘本手工课",
     "venue": "曲江书城",
     "city": "xian",
-    "district": "雁塔区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -10562,7 +10430,7 @@ module.exports = [
     "name": "西安奥体中心篮球营",
     "venue": "西安奥体中心",
     "city": "xian",
-    "district": "未央区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -10599,7 +10467,7 @@ module.exports = [
     "name": "黑河森林公园亲子漂流",
     "venue": "黑河国家森林公园",
     "city": "xian",
-    "district": "周至县",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-31",
     "fee": "收费",
@@ -10637,7 +10505,7 @@ module.exports = [
     "name": "西安城墙夜景灯光秀",
     "venue": "西安城墙",
     "city": "xian",
-    "district": "碑林区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -10724,7 +10592,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "三灶镇文化中心",
-    "district": "金湾区"
+    "district": "其他"
   },
   {
     "title": "横琴湿地公园自然教育活动",
@@ -10742,7 +10610,7 @@ module.exports = [
     "contact": "",
     "family_friendly": true,
     "source": "横琴湿地公园",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -11756,7 +11624,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "蛇口渔港公园",
@@ -11884,7 +11753,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "南头古城城墙遗址公园",
@@ -11916,7 +11785,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "海上世界明华轮广场",
@@ -12012,7 +11881,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳大学杜鹃山公园",
@@ -12044,7 +11913,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳大学文山湖公园",
@@ -12076,7 +11945,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "粤海街道文体中心",
@@ -12332,7 +12201,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "深圳湾潮汐科普园区",
@@ -12364,7 +12233,7 @@ module.exports = [
       "verified_by": "user_provided"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "其他"
   },
   {
     "title": "大沙河长廊大学城段",
@@ -12523,7 +12392,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "科技园社区党群服务中心",
@@ -12746,7 +12616,8 @@ module.exports = [
       "verified_at": "2026-07-19",
       "verified_by": "user_provided"
     },
-    "verified": true
+    "verified": true,
+    "district": "南山区"
   },
   {
     "title": "深圳博物馆（市民中心总馆）",
@@ -18089,6 +17960,72 @@ module.exports = [
       "link_reachable": true,
       "http_status": 200,
       "source_type": "official",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false
+  },
+  {
+    "title": "中英街历史博物馆",
+    "name": "中英街历史博物馆",
+    "venue": "中英街历史博物馆",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "海防历史场馆",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlh.gov.cn/",
+    "url": "https://www.szlh.gov.cn/",
+    "venue_url": "https://www.szlh.gov.cn/",
+    "description": "百年边境历史、海防文物、近代史研学",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "https://www.szlh.gov.cn/",
+    "booking_method": "需通行证，免预约",
+    "address": "罗湖区沙头角中英街",
+    "metro": "8号线沙头角站",
+    "opening_hours": "9:00-17:00，周一闭馆",
+    "age_range": "6-15岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false
+  },
+  {
+    "title": "洪湖公园应急科普驿站",
+    "name": "洪湖公园应急科普驿站",
+    "venue": "洪湖公园应急科普驿站",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "安全科普小屋",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlh.gov.cn/",
+    "url": "https://www.szlh.gov.cn/",
+    "venue_url": "https://www.szlh.gov.cn/",
+    "description": "小型消防、溺水避险互动科普装置",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "https://www.szlh.gov.cn/",
+    "booking_method": "免预约",
+    "address": "罗湖区洪湖公园内",
+    "metro": "7号线洪湖站",
+    "opening_hours": "全天开放",
+    "age_range": "3-12岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
       "verified_at": "2026-07-19",
       "verified_by": "domain_check"
     },

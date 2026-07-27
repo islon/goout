@@ -554,6 +554,23 @@ module.exports = [
     "id": "盐田区图书馆"
   },
   {
+    "name": "中英街历史博物馆",
+    "source": "yt_history",
+    "city": "shenzhen",
+    "district": "盐田区",
+    "type": "博物馆",
+    "address": "盐田区沙头角中英街",
+    "transport": "地铁8号线沙头角站",
+    "fee": "免费",
+    "description": "展示中英街百年沧桑历史和深港边境文化。",
+    "official_url": "",
+    "highlights": [
+      "中英街历史",
+      "深港文化"
+    ],
+    "id": "中英街历史博物馆"
+  },
+  {
     "name": "大鹏地质公园博物馆",
     "source": "dpgeopark",
     "city": "shenzhen",
@@ -1942,23 +1959,6 @@ module.exports = [
       "无动力乐园"
     ],
     "id": "龙岗儿童公园"
-  },
-  {
-    "name": "龙华区文化馆",
-    "source": "lhwhg",
-    "city": "shenzhen",
-    "district": "龙华区",
-    "type": "文化馆",
-    "address": "龙华区",
-    "transport": "",
-    "fee": "免费",
-    "description": "龙华区文化馆，举办公益文化培训、演出等活动。",
-    "official_url": "",
-    "highlights": [
-      "公益培训",
-      "群众文化"
-    ],
-    "id": "龙华区文化馆"
   },
   {
     "name": "广州图书馆",

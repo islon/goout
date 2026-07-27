@@ -27,8 +27,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -62,8 +62,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -98,8 +98,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -134,8 +134,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -170,8 +170,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -206,8 +206,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -242,8 +242,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -278,8 +278,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -293,8 +293,8 @@
     "city": "shanghai",
     "start_date": "2026-07-17",
     "end_date": "2026-07-18",
-    "link": "http://m.toutiao.com/",
-    "url": "http://m.toutiao.com/",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "url": "http://m.toutiao.com/group/7660419048286487086/",
     "description": "纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。",
     "category": "其他",
     "fee": "收费",
@@ -312,14 +312,14 @@
       "matched_venue_type": "剧院"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true,
+    "verified": false,
     "district": "黄浦区"
   },
   {
@@ -350,8 +350,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -388,7 +388,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -425,12 +425,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海玻璃博物馆",
@@ -464,12 +463,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "上海乐高乐园开园一周年暑期活动",
@@ -500,7 +498,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -537,12 +535,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "金茂大厦观光",
@@ -575,12 +572,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "上海自然博物馆夜宿奇妙夜",
@@ -589,8 +585,8 @@
     "city": "shanghai",
     "start_date": "2026-07-20",
     "end_date": "2026-08-20",
-    "link": "",
-    "url": "",
+    "link": "https://www.snhm.org/",
+    "url": "https://www.snhm.org/",
     "description": "夜宿博物馆，探索自然奥秘，参与化石挖掘体验。",
     "category": "科普活动",
     "fee": "收费",
@@ -608,16 +604,15 @@
       "matched_venue_type": "博物馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "静安区",
-    "links": []
+    "verified": false,
+    "district": "静安区"
   },
   {
     "name": "亲子上海东方明珠亲子活动",
@@ -650,12 +645,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海金茂大厦演出-58",
@@ -688,12 +682,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海迪士尼度假区10周年夏日狂欢",
@@ -702,8 +695,8 @@
     "city": "shanghai",
     "start_date": "2026-07-21",
     "end_date": "2026-10-04",
-    "link": "",
-    "url": "",
+    "link": "https://www.shanghaidisneyresort.com/zh-cn/",
+    "url": "https://www.shanghaidisneyresort.com/zh-cn/",
     "description": "十周年庆典叠加《玩具总动员5》全球首映，推出夏季限定娱乐演出、达菲新花车与疯狂动物城季节活动，适合全家亲子避暑游玩。",
     "category": "演出",
     "fee": "需购票",
@@ -721,15 +714,14 @@
     },
     "verification": {
       "status": "auto_checked",
-      "link_reachable": null,
-      "http_status": null,
+      "link_reachable": true,
+      "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区",
-    "links": []
+    "district": "浦东新区"
   },
   {
     "name": "趣味上海外滩亲子活动-51",
@@ -762,12 +754,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海淮海路研学-83",
@@ -800,12 +791,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海长宁区演出发现",
@@ -839,12 +829,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海徐汇区体育赛事体验营",
@@ -878,12 +867,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海奉贤区讲座阅读节",
@@ -917,12 +905,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "趣味上海金山区亲子活动展览",
@@ -956,12 +943,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -993,7 +979,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1031,12 +1017,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -1067,7 +1052,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1105,12 +1090,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海青浦区展览季",
@@ -1144,12 +1128,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典上海徐汇区演出探秘",
@@ -1183,12 +1166,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动",
@@ -1221,12 +1203,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海上海科技馆展览-61",
@@ -1260,12 +1241,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-158",
@@ -1299,12 +1279,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海嘉定区展览嘉年华",
@@ -1338,12 +1317,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "2026《华人之光·芭蕾明星GALA》",
@@ -1375,7 +1353,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1412,12 +1390,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海徐家汇展览-84",
@@ -1450,12 +1427,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-147",
@@ -1488,12 +1464,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海闵行区亲子活动发现",
@@ -1526,12 +1501,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海金山区展览体验营",
@@ -1564,12 +1538,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "丽娜·波·巴蒂 生存的诗学",
@@ -1599,8 +1572,8 @@
       "status": "auto_checked",
       "link_reachable": true,
       "http_status": 200,
-      "source_type": "media",
-      "verified_at": "2026-07-25",
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1637,7 +1610,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -1675,12 +1648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海上海汽车博物馆展览-66",
@@ -1714,12 +1686,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验上海上海电影博物馆展览-97",
@@ -1753,12 +1724,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海世纪公园展览-138",
@@ -1792,12 +1762,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童上海奉贤区科普活动课程",
@@ -1831,12 +1800,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海金山区讲座阅读周",
@@ -1870,12 +1838,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-92",
@@ -1909,12 +1876,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海杨浦区亲子活动展览",
@@ -1947,12 +1913,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海虹口区展览之旅",
@@ -1986,12 +1951,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动上海普陀区科普活动科普",
@@ -2024,12 +1988,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海宝山区亲子活动研学营",
@@ -2063,12 +2026,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动上海嘉定区体育赛事科普",
@@ -2101,12 +2063,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "上海公安博物馆",
@@ -2140,12 +2101,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-93",
@@ -2179,12 +2139,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海人民广场亲子活动-140",
@@ -2217,12 +2176,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海普陀区影视放映嘉年华",
@@ -2255,12 +2213,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海黄浦区科普活动之旅",
@@ -2293,12 +2250,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海中心118层观光",
@@ -2331,12 +2287,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -2368,7 +2323,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2405,12 +2360,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海静安雕塑公园展览-139",
@@ -2444,12 +2398,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味上海外滩亲子活动-141",
@@ -2482,12 +2435,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动上海嘉定区影视放映科普",
@@ -2521,12 +2473,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海浦东新区展览日",
@@ -2560,12 +2511,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "周末上海黄浦区讲座阅读活动",
@@ -2599,12 +2549,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -2636,7 +2585,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2649,8 +2598,8 @@
     "city": "shanghai",
     "start_date": "2026-07-30",
     "end_date": "2026-08-03",
-    "link": "http://m.toutiao.com/",
-    "url": "http://m.toutiao.com/",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "url": "http://m.toutiao.com/group/7660419048286487086/",
     "description": "原创话剧《无墙》，随机世界里的意外相遇。地铁1号线/2号线/8号线人民广场站。",
     "category": "演出",
     "fee": "收费",
@@ -2668,14 +2617,14 @@
       "matched_venue_type": "剧院"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true,
+    "verified": false,
     "district": "黄浦区"
   },
   {
@@ -2707,7 +2656,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -2745,12 +2694,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海淮海路研学-113",
@@ -2783,12 +2731,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-128",
@@ -2822,12 +2769,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海淮海路研学-143",
@@ -2860,12 +2806,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海宝山区亲子活动比赛",
@@ -2899,12 +2844,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海上海迪士尼乐园展览-72",
@@ -2937,12 +2881,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验上海环球金融中心研学-89",
@@ -2975,12 +2918,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海上海欢乐谷展览-163",
@@ -3013,12 +2955,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动上海奉贤区影视放映科普",
@@ -3052,12 +2993,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -3066,8 +3006,8 @@
     "city": "shanghai",
     "start_date": "2026-08-01",
     "end_date": "2026-10-01",
-    "link": "",
-    "url": "",
+    "link": "https://www.sstclib.cn",
+    "url": "https://www.sstclib.cn",
     "description": "分龄绘本专区、亲子阅读教室、定期公益手工故事会，暑期推出阅读挑战赛、经典儿童电影展映等活动，适合各年龄段儿童。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3085,16 +3025,15 @@
       "matched_venue_type": "图书馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
-      "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "长宁区",
-    "links": []
+    "verified": false,
+    "district": "长宁区"
   },
   {
     "name": "漫游上海静安雕塑公园展览-49",
@@ -3128,12 +3067,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海上海玻璃博物馆研学-65",
@@ -3167,12 +3105,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海陆家嘴展览-115",
@@ -3205,12 +3142,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典上海徐汇区科普活动探秘",
@@ -3243,12 +3179,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "乔治·莫兰迪：独白",
@@ -3280,7 +3215,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3293,8 +3228,8 @@
     "city": "shanghai",
     "start_date": "2026-08-02",
     "end_date": "2026-10-02",
-    "link": "",
-    "url": "",
+    "link": "https://www.xjhshuyuan.cn",
+    "url": "https://www.xjhshuyuan.cn",
     "description": "巨型光启之门艺术装置、专属分龄少儿阅读区，藏书丰富，落地窗海派氛围浓厚，适合低龄阅读启蒙和大孩子打卡，周末节假日可能限流登记。",
     "category": "亲子活动",
     "fee": "免费",
@@ -3311,16 +3246,15 @@
       "city": "上海"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "徐汇区",
-    "links": []
+    "verified": false,
+    "district": "徐汇区"
   },
   {
     "name": "走进上海世纪公园展览",
@@ -3354,12 +3288,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-153",
@@ -3393,12 +3326,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海宝山区科普活动研学营",
@@ -3431,12 +3363,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海静安区体育赛事季",
@@ -3469,12 +3400,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "经典上海金山区展览探秘",
@@ -3508,12 +3438,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式上海宝山区展览探索",
@@ -3546,12 +3475,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "家庭上海静安区讲座阅读研学营",
@@ -3584,12 +3512,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "“数字一大·伟大征程”VR沉浸式体验项目",
@@ -3620,7 +3547,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3656,7 +3583,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -3694,12 +3621,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海上海植物园亲子活动-45",
@@ -3732,12 +3658,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海南京路演出-52",
@@ -3770,12 +3695,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-62",
@@ -3809,12 +3733,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-98",
@@ -3848,12 +3771,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海陆家嘴展览-145",
@@ -3886,12 +3808,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "发现上海宝山区体育赛事比赛",
@@ -3925,12 +3846,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "周末上海虹口区演出活动",
@@ -3963,12 +3883,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海奉贤区体育赛事嘉年华",
@@ -4002,12 +3921,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海普陀区演出节",
@@ -4041,12 +3959,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海浦东新区演出之旅",
@@ -4079,12 +3996,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海浦东新区展览之旅",
@@ -4118,12 +4034,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "航天科普与少儿编程",
@@ -4155,7 +4070,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4192,12 +4107,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "精彩上海普陀区亲子活动节",
@@ -4231,12 +4145,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海青浦区科普活动探索",
@@ -4269,12 +4182,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "流动艺术科普展与户外攀爬场地",
@@ -4305,7 +4217,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4342,12 +4254,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-44",
@@ -4380,12 +4291,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海上海汽车博物馆展览-96",
@@ -4419,12 +4329,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "走进上海虹口区科普活动日",
@@ -4458,12 +4367,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海闵行区体育赛事演出",
@@ -4497,12 +4405,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -4533,7 +4440,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4569,7 +4476,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4582,8 +4489,8 @@
     "city": "shanghai",
     "start_date": "2026-08-06",
     "end_date": "2026-11-06",
-    "link": "",
-    "url": "",
+    "link": "https://www.expo2010china.com",
+    "url": "https://www.expo2010china.com",
     "description": "携手故宫博物院推出'国采：故宫藏清代帝后服饰展'，展出康熙礼服褂、乾隆龙袍、嘉庆朝袍等最高等级帝后服装，九成从未出京，超三成首次面世。",
     "category": "展览",
     "fee": "收费",
@@ -4601,16 +4508,15 @@
       "matched_venue_type": "博物馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "黄浦区",
-    "links": []
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "name": "上海上海植物园亲子活动-135",
@@ -4643,12 +4549,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末上海黄浦区展览活动",
@@ -4682,12 +4587,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "周末上海浦东新区科普活动活动",
@@ -4721,12 +4625,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海杨浦区展览展览",
@@ -4759,12 +4662,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -4796,7 +4698,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -4834,12 +4736,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海青浦区体育赛事研学营",
@@ -4873,12 +4774,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "亲子上海松江区讲座阅读工作坊",
@@ -4912,12 +4812,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻上海黄浦区亲子活动之旅",
@@ -4950,12 +4849,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子上海松江区影视放映工作坊",
@@ -4989,12 +4887,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海静安区影视放映研学营",
@@ -5028,12 +4925,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海闵行区讲座阅读演出",
@@ -5066,12 +4962,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "走进上海世纪公园展览-48",
@@ -5105,12 +5000,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验上海环球金融中心研学-59",
@@ -5143,12 +5037,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海闵行区科普活动发现",
@@ -5182,12 +5075,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海闵行区演出月",
@@ -5221,12 +5113,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海静安区影视放映探索",
@@ -5260,12 +5151,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海静安区科普活动季",
@@ -5298,12 +5188,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海电影博物馆",
@@ -5337,12 +5226,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "title": "亲子共读与科创手工",
@@ -5374,7 +5262,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5410,7 +5298,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5448,12 +5336,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动上海普陀区演出科普",
@@ -5486,12 +5373,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "2026上海书展暨“书香中国”上海周",
@@ -5522,7 +5408,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5560,12 +5446,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海松江区讲座阅读发现",
@@ -5598,12 +5483,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读上海杨浦区亲子活动周",
@@ -5637,12 +5521,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "BRKN·破碎 年度特展",
@@ -5651,8 +5534,8 @@
     "city": "shanghai",
     "start_date": "2026-08-13",
     "end_date": "2027-08-12",
-    "link": "",
-    "url": "",
+    "link": "https://www.shmog.org/",
+    "url": "https://www.shmog.org/",
     "description": "上海玻璃博物馆长期展陈，以“破碎与重生”为母题的玻璃艺术装置，配合玻璃迷宫与DIY手作课程，适合亲子动手与当代艺术体验。",
     "category": "展览",
     "fee": "收费",
@@ -5670,16 +5553,15 @@
       "matched_venue_type": "博物馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "宝山区",
-    "links": []
+    "verified": false,
+    "district": "宝山区"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-32",
@@ -5713,12 +5595,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海玻璃博物馆研学-35",
@@ -5752,12 +5633,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海杨浦区讲座阅读体验营",
@@ -5791,12 +5671,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海长宁区亲子活动演出",
@@ -5830,12 +5709,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海博物馆东馆",
@@ -5869,12 +5747,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "title": "音乐剧《大状王》",
@@ -5905,7 +5782,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -5943,12 +5820,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海南京路演出",
@@ -5981,12 +5857,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海上海电影博物馆展览-37",
@@ -6020,12 +5895,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海环球金融中心研学-119",
@@ -6058,12 +5932,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海松江区亲子活动演出",
@@ -6097,12 +5970,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -6134,7 +6006,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -6171,12 +6043,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海浦东新区亲子活动之旅",
@@ -6210,12 +6081,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海黄浦区展览讲座",
@@ -6249,12 +6119,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -6286,7 +6155,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -6324,12 +6193,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-122",
@@ -6363,12 +6231,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海中医药博物馆",
@@ -6402,12 +6269,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "上海工艺美术博物馆",
@@ -6441,12 +6307,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "书房中的文艺复兴——10至17世纪的西方抄写、印刷与装帧艺术特展",
@@ -6478,7 +6343,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -6514,7 +6379,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -6552,12 +6417,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海陆家嘴展览-55",
@@ -6590,12 +6454,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "互动上海奉贤区演出科普",
@@ -6628,12 +6491,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海徐汇区亲子活动体验营",
@@ -6666,12 +6528,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "非遗手作市集与少儿国风绘画",
@@ -6680,8 +6541,8 @@
     "city": "shanghai",
     "start_date": "2026-08-18",
     "end_date": "2026-10-18",
-    "link": "",
-    "url": "",
+    "link": "https://www.shqunyiguan.org",
+    "url": "https://www.shqunyiguan.org",
     "description": "非遗手作市集、少儿国风绘画、露天公益亲子演出、民乐免费体验课。",
     "category": "亲子活动",
     "fee": "免费",
@@ -6698,16 +6559,15 @@
       "city": "上海"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "徐汇区",
-    "links": []
+    "verified": false,
+    "district": "徐汇区"
   },
   {
     "name": "体验上海环球金融中心研学",
@@ -6740,12 +6600,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海黄浦区讲座阅读之旅",
@@ -6779,12 +6638,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "精彩上海普陀区展览节",
@@ -6818,12 +6676,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味上海杨浦区影视放映展览",
@@ -6856,12 +6713,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "精彩上海奉贤区体育赛事节",
@@ -6894,12 +6750,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "实践上海长风公园研学-47",
@@ -6933,12 +6788,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海上海欢乐谷展览-133",
@@ -6971,12 +6825,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "走进上海虹口区体育赛事日",
@@ -7009,12 +6862,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "上海科技馆生物万象",
@@ -7048,12 +6900,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "上海上海博物馆展览-60",
@@ -7087,12 +6938,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童上海嘉定区演出课程",
@@ -7125,12 +6975,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海浦东新区影视放映讲座",
@@ -7163,12 +7012,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动上海普陀区亲子活动科普",
@@ -7202,12 +7050,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -7239,7 +7086,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7275,7 +7122,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7311,7 +7158,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7349,12 +7196,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海科技馆地壳探秘",
@@ -7388,12 +7234,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "上海自然博物馆起源之谜",
@@ -7427,12 +7272,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "水主题科普与诗词手工",
@@ -7464,7 +7308,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7501,12 +7345,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海上海欢乐谷展览-43",
@@ -7539,12 +7382,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-99",
@@ -7578,12 +7420,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海奉贤区展览节",
@@ -7617,12 +7458,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "精彩上海嘉定区科普活动节",
@@ -7655,12 +7495,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海植物园国际新优展区",
@@ -7691,7 +7530,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7726,7 +7565,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -7764,12 +7603,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海奉贤区讲座阅读嘉年华",
@@ -7802,12 +7640,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "发现上海静安区演出比赛",
@@ -7840,12 +7677,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海迪士尼夏日狂欢节",
@@ -7878,12 +7714,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -7892,8 +7727,8 @@
     "city": "shanghai",
     "start_date": "2026-08-24",
     "end_date": "2026-10-24",
-    "link": "",
-    "url": "",
+    "link": "https://www.shanghaidisney.com",
+    "url": "https://www.shanghaidisney.com",
     "description": "十周年庆典持续进行，暑期推出特别演出、夜间烟花秀、主题活动等，为游客打造梦幻的童话世界体验。",
     "category": "亲子活动",
     "fee": "收费",
@@ -7910,16 +7745,15 @@
       "city": "上海"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "浦东新区",
-    "links": []
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "走进上海世纪公园展览-108",
@@ -7953,12 +7787,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探索上海长宁区体育赛事演出",
@@ -7991,12 +7824,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "走进上海黄浦区演出日",
@@ -8030,12 +7862,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海浦东新区讲座阅读日",
@@ -8069,12 +7900,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "火车模型与机械科普",
@@ -8106,7 +7936,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -8143,12 +7973,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海静安区亲子活动比赛",
@@ -8182,12 +8011,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海金山区演出体验营",
@@ -8220,12 +8048,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海松江区体育赛事发现",
@@ -8259,12 +8086,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "探秘上海长宁区体育赛事月",
@@ -8297,12 +8123,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "震撼上海闵行区演出发现",
@@ -8336,12 +8161,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "天地星语——中国诗文里的天文",
@@ -8372,7 +8196,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -8409,12 +8233,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海松江区科普活动月",
@@ -8448,12 +8271,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -8462,8 +8284,8 @@
     "city": "shanghai",
     "start_date": "2026-08-27",
     "end_date": "2026-12-01",
-    "link": "",
-    "url": "",
+    "link": "https://www.artmuseumonline.cn",
+    "url": "https://www.artmuseumonline.cn",
     "description": "'千金之家——马王堆汉墓的生活美学及养成'国宝艺术大展，荟萃马王堆出土珍宝，数件限制出境国宝同台亮相，回溯辛追侯府日常起居。",
     "category": "展览",
     "fee": "收费",
@@ -8481,16 +8303,15 @@
       "matched_venue_type": "美术馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "浦东新区",
-    "links": []
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-129",
@@ -8524,12 +8345,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-131",
@@ -8562,12 +8382,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海松江区体育赛事月",
@@ -8600,12 +8419,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "暑期上海金山区亲子活动体验营",
@@ -8638,12 +8456,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "暑期上海杨浦区影视放映体验营",
@@ -8676,12 +8493,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海杨浦区演出周",
@@ -8715,12 +8531,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海闵行区影视放映月",
@@ -8754,12 +8569,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末上海黄浦区体育赛事活动",
@@ -8793,12 +8607,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式上海静安区科普活动探索",
@@ -8831,12 +8644,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "农耕科普与民俗手工",
@@ -8868,7 +8680,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -8905,12 +8717,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-94",
@@ -8944,12 +8755,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-104",
@@ -8982,12 +8792,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海奉贤区亲子活动课程",
@@ -9021,12 +8830,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海徐汇区展览探秘",
@@ -9060,12 +8868,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "机器人与陶艺",
@@ -9096,7 +8903,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9109,8 +8916,8 @@
     "city": "shanghai",
     "start_date": "2026-08-29",
     "end_date": "2026-10-20",
-    "link": "",
-    "url": "",
+    "link": "https://www.sstm.cn/",
+    "url": "https://www.sstm.cn/",
     "description": "机器人展览、编程工作坊、人工智能体验。",
     "category": "科普活动",
     "fee": "收费",
@@ -9128,16 +8935,15 @@
       "matched_venue_type": "科技馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "浦东新区",
-    "links": []
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "name": "经典上海金茂大厦演出",
@@ -9170,12 +8976,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-39",
@@ -9209,12 +9014,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海上海科技馆展览-151",
@@ -9248,12 +9052,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海科技馆宇航天地",
@@ -9287,12 +9090,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "矿石科普与红色研学",
@@ -9324,7 +9126,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9362,12 +9164,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海金山区体育赛事周",
@@ -9400,12 +9201,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "发现上海静安区展览比赛",
@@ -9439,12 +9239,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "科创美术轮滑免费体验课",
@@ -9475,7 +9274,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9513,12 +9312,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "发现上海青浦区影视放映比赛",
@@ -9552,12 +9350,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海徐汇区讲座阅读展览",
@@ -9591,12 +9388,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "漫游上海宝山区体育赛事季",
@@ -9630,12 +9426,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "上海科技馆机器人世界",
@@ -9669,12 +9464,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "金冠之下：新罗文物精华展",
@@ -9706,7 +9500,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9742,7 +9536,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9779,12 +9573,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读上海徐家汇展览-54",
@@ -9817,12 +9610,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海上海玻璃博物馆研学-155",
@@ -9856,12 +9648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海上海迪士尼乐园展览-162",
@@ -9894,12 +9685,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "《来自三伯爵的请柬》音乐会",
@@ -9930,7 +9720,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -9968,12 +9758,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-69",
@@ -10007,12 +9796,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海浦东新区演出日",
@@ -10046,12 +9834,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海宝山区影视放映季",
@@ -10085,12 +9872,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子上海长宁区亲子活动工作坊",
@@ -10123,12 +9909,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动",
@@ -10162,12 +9947,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海城市规划展示馆演出",
@@ -10200,12 +9984,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-134",
@@ -10238,12 +10021,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海徐家汇展览-144",
@@ -10276,12 +10058,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "家庭上海静安区演出研学营",
@@ -10315,12 +10096,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海普陀区影视放映课程",
@@ -10354,12 +10134,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海虹口区科普活动讲座",
@@ -10393,12 +10172,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海金山区讲座阅读探秘",
@@ -10431,12 +10209,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "剪纸与皮影",
@@ -10468,7 +10245,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -10503,7 +10280,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -10540,12 +10317,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "复古里弄免费打卡与少儿国风公益展",
@@ -10576,7 +10352,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -10611,7 +10387,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -10647,7 +10423,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -10685,12 +10461,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海金山区科普活动周",
@@ -10724,12 +10499,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海植物园亲子活动",
@@ -10762,12 +10536,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海金山区影视放映周",
@@ -10800,12 +10573,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海青浦区演出季",
@@ -10839,12 +10611,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子上海东方明珠亲子活动-86",
@@ -10877,12 +10648,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海上海汽车博物馆展览-126",
@@ -10916,12 +10686,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典上海杨浦区科普活动探秘",
@@ -10955,12 +10724,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海嘉定区亲子活动节",
@@ -10994,12 +10762,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海昆虫博物馆",
@@ -11033,12 +10800,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "暂得之乐：暂得楼捐赠明清瓷器展",
@@ -11070,7 +10836,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11106,7 +10872,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11144,12 +10910,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-154",
@@ -11183,12 +10948,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海徐汇区亲子活动探秘",
@@ -11221,12 +10985,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海长宁区展览发现",
@@ -11260,12 +11023,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -11296,7 +11058,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11332,7 +11094,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11370,12 +11132,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海上海电影博物馆展览-127",
@@ -11409,12 +11170,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海宝山区演出研学营",
@@ -11447,12 +11207,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海奉贤区演出课程",
@@ -11485,12 +11244,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海青浦区影视放映季",
@@ -11523,12 +11281,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-87",
@@ -11561,12 +11318,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海城市规划展示馆演出-130",
@@ -11599,12 +11355,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海上海电影博物馆展览-157",
@@ -11638,12 +11393,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海南京路演出-112",
@@ -11676,12 +11430,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海博物馆展览-120",
@@ -11715,12 +11468,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梦幻上海南京路演出-142",
@@ -11753,12 +11505,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海虹口区影视放映之旅",
@@ -11792,12 +11543,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "只有树知道",
@@ -11829,7 +11579,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11865,7 +11615,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -11903,12 +11653,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海玻璃博物馆研学",
@@ -11942,12 +11691,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海上海科技馆展览-91",
@@ -11981,12 +11729,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "青少年上海虹口区体育赛事讲座",
@@ -12020,12 +11767,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海宝山区演出探索",
@@ -12059,12 +11805,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海青浦区科普活动研学营",
@@ -12098,12 +11843,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海环球金融中心观光",
@@ -12136,12 +11880,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "广富林文化与考古模拟",
@@ -12173,7 +11916,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -12211,12 +11954,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海上海欢乐谷展览-73",
@@ -12249,12 +11991,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "沉浸式上海上海科技馆展览-121",
@@ -12288,12 +12029,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子上海长宁区科普活动工作坊",
@@ -12327,12 +12067,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海金山区体育赛事展览",
@@ -12366,12 +12105,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典上海杨浦区讲座阅读探秘",
@@ -12405,12 +12143,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "儿童上海嘉定区展览课程",
@@ -12443,12 +12180,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海虹口区演出讲座",
@@ -12482,12 +12218,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "周末亲子读书会与自然写生",
@@ -12519,7 +12254,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -12555,7 +12290,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -12590,7 +12325,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -12628,12 +12363,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "趣味上海外滩亲子活动-81",
@@ -12666,12 +12400,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海静安雕塑公园展览-109",
@@ -12705,12 +12438,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海上海玻璃博物馆研学-125",
@@ -12744,12 +12476,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海宝山区影视放映探索",
@@ -12783,12 +12514,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -12797,8 +12527,8 @@
     "city": "shanghai",
     "start_date": "2026-09-15",
     "end_date": "2026-11-15",
-    "link": "",
-    "url": "",
+    "link": "https://www.wsmuseum.cn",
+    "url": "https://www.wsmuseum.cn",
     "description": "国内唯一世界级技能主题博物馆，涵盖科技、工程、美妆等互动区，4楼趣味生活技能展适合小朋友动手体验，常规参观无需预约。",
     "category": "科普活动",
     "fee": "免费",
@@ -12816,16 +12546,15 @@
       "matched_venue_type": "博物馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
-      "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "杨浦区",
-    "links": []
+    "verified": false,
+    "district": "杨浦区"
   },
   {
     "name": "趣味上海杨浦区演出展览",
@@ -12859,12 +12588,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "青少年上海浦东新区讲座阅读讲座",
@@ -12898,12 +12626,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "趣味上海徐汇区体育赛事展览",
@@ -12936,12 +12663,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子上海长宁区展览工作坊",
@@ -12974,12 +12700,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "上海城市规划展示馆",
@@ -13012,12 +12737,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "title": "机器人世界互动与水力搭建手工",
@@ -13049,7 +12773,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13085,7 +12809,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13123,12 +12847,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "实践上海长风公园研学-137",
@@ -13162,12 +12885,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "分龄绘本馆与艺术亲子公益课",
@@ -13176,8 +12898,8 @@
     "city": "shanghai",
     "start_date": "2026-09-17",
     "end_date": "2026-11-17",
-    "link": "",
-    "url": "",
+    "link": "https://www.sstlib.org",
+    "url": "https://www.sstlib.org",
     "description": "分龄绘本馆、艺术亲子公益课、外文阅读沙龙、暑期科创研学、童话舞台剧。",
     "category": "亲子活动",
     "fee": "免费",
@@ -13195,16 +12917,15 @@
       "matched_venue_type": "图书馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
-      "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "长宁区",
-    "links": []
+    "verified": false,
+    "district": "长宁区"
   },
   {
     "title": "艺术科技舞蹈公益课程",
@@ -13213,8 +12934,8 @@
     "city": "shanghai",
     "start_date": "2026-09-17",
     "end_date": "2026-11-17",
-    "link": "",
-    "url": "",
+    "link": "https://www.shsng.org",
+    "url": "https://www.shsng.org",
     "description": "艺术、科技、舞蹈公益课程、少儿汇演。",
     "category": "亲子活动",
     "fee": "免费",
@@ -13232,16 +12953,15 @@
       "matched_venue_type": "少年宫"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "黄浦区",
-    "links": []
+    "verified": false,
+    "district": "黄浦区"
   },
   {
     "name": "上海陆家嘴展览-85",
@@ -13274,12 +12994,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "精彩上海奉贤区影视放映节",
@@ -13312,12 +13031,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海静安区亲子活动季",
@@ -13351,12 +13069,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海黄浦区影视放映讲座",
@@ -13389,12 +13106,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海博物馆人民广场馆",
@@ -13428,12 +13144,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "上海地震科普馆",
@@ -13466,12 +13181,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "上海惊魂密境",
@@ -13504,12 +13218,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "肇兴中国：秦·大一统之路文物考古特展",
@@ -13541,7 +13254,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13577,7 +13290,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13615,12 +13328,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "解读上海徐汇区演出周",
@@ -13654,12 +13366,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -13690,7 +13401,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13725,7 +13436,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13763,12 +13474,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "周末上海黄浦区影视放映活动",
@@ -13802,12 +13512,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海松江区展览演出",
@@ -13840,12 +13549,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "文物导览与非遗拓印",
@@ -13877,7 +13585,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13913,7 +13621,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "government",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -13950,12 +13658,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海人民广场亲子活动-110",
@@ -13988,12 +13695,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海植物园亲子活动-165",
@@ -14026,12 +13732,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海杨浦区体育赛事探秘",
@@ -14064,12 +13769,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "暑期上海徐汇区科普活动体验营",
@@ -14103,12 +13807,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "上海海洋水族馆暑期探险",
@@ -14117,8 +13820,8 @@
     "city": "shanghai",
     "start_date": "2026-09-21",
     "end_date": "2026-11-21",
-    "link": "",
-    "url": "",
+    "link": "https://www.shanghaiaquarium.com/",
+    "url": "https://www.shanghaiaquarium.com/",
     "description": "深海探索、鲨鱼喂食、海洋生物科普讲座。",
     "category": "讲座阅读",
     "fee": "收费",
@@ -14135,16 +13838,15 @@
       "city": "上海"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "浦东新区",
-    "links": []
+    "verified": false,
+    "district": "浦东新区"
   },
   {
     "title": "亲子读书会与自然写生",
@@ -14176,7 +13878,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -14213,12 +13915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海嘉定区体育赛事节",
@@ -14252,12 +13953,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "震撼上海松江区科普活动发现",
@@ -14290,12 +13990,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海汽车博物馆",
@@ -14329,12 +14028,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "name": "漫游上海静安雕塑公园展览-79",
@@ -14368,12 +14066,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "周末上海虹口区亲子活动活动",
@@ -14407,12 +14104,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海松江区演出演出",
@@ -14446,12 +14142,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "互动上海嘉定区讲座阅读科普",
@@ -14485,12 +14180,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "探索上海长宁区科普活动演出",
@@ -14524,12 +14218,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "上海博物馆青铜器探索营",
@@ -14561,7 +14254,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -14599,12 +14292,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "实践上海长风公园研学-107",
@@ -14638,12 +14330,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海嘉定区科普活动嘉年华",
@@ -14677,12 +14368,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海黄浦区体育赛事之旅",
@@ -14715,12 +14405,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "title": "城市建筑手工与上海历史亲子导览",
@@ -14751,7 +14440,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -14789,12 +14478,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "海洋科普与手工",
@@ -14825,7 +14513,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -14862,12 +14550,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海上海动物园演出-46",
@@ -14900,12 +14587,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海徐汇区影视放映展览",
@@ -14938,12 +14624,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验上海奉贤区科普活动嘉年华",
@@ -14976,12 +14661,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "从莎士比亚到J.K.罗琳：英国文学家肖像与名迹展",
@@ -15013,7 +14697,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15049,7 +14733,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15085,7 +14769,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15120,7 +14804,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15156,7 +14840,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15194,12 +14878,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海上海欢乐谷展览-103",
@@ -15232,12 +14915,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "经典上海金茂大厦演出-118",
@@ -15270,12 +14952,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "青少年上海黄浦区演出讲座",
@@ -15308,12 +14989,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "家庭上海静安区展览研学营",
@@ -15346,12 +15026,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探索上海闵行区影视放映演出",
@@ -15384,12 +15063,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海黄浦区亲子活动日",
@@ -15423,12 +15101,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海宝山区讲座阅读季",
@@ -15461,12 +15138,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "上海自然博物馆生态万象",
@@ -15500,12 +15176,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "上海航海博物馆",
@@ -15539,12 +15214,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "亲子上海东方明珠亲子活动-146",
@@ -15577,12 +15251,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海环球金融中心研学-149",
@@ -15615,12 +15288,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海博物馆展览-150",
@@ -15654,12 +15326,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子上海闵行区讲座阅读工作坊",
@@ -15693,12 +15364,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式上海青浦区演出探索",
@@ -15731,12 +15401,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海上海科技馆展览-31",
@@ -15770,12 +15439,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探秘上海松江区亲子活动月",
@@ -15808,12 +15476,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "少儿篮球与体能训练",
@@ -15844,7 +15511,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -15881,12 +15548,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海闵行区展览演出",
@@ -15919,12 +15585,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "儿童上海普陀区讲座阅读课程",
@@ -15957,12 +15622,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式上海静安区讲座阅读探索",
@@ -15996,12 +15660,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式上海静安区体育赛事探索",
@@ -16035,12 +15698,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "亲子上海闵行区科普活动工作坊",
@@ -16073,12 +15735,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海长宁区讲座阅读发现",
@@ -16112,12 +15773,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "马桥文化手工与古陶临摹",
@@ -16149,7 +15809,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -16186,12 +15846,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "青少年上海虹口区亲子活动讲座",
@@ -16224,12 +15883,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海欢乐谷国潮节",
@@ -16262,12 +15920,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "演出",
-    "family_friendly": false
+    "category": "演出"
   },
   {
     "title": "航天航海与互动科学装置",
@@ -16299,7 +15956,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -16335,7 +15992,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -16373,12 +16030,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子上海东方明珠亲子活动-56",
@@ -16411,12 +16067,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-71",
@@ -16449,12 +16104,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海金茂大厦演出-148",
@@ -16487,12 +16141,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海长宁区讲座阅读月",
@@ -16525,12 +16178,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "儿童上海普陀区体育赛事课程",
@@ -16564,12 +16216,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海自然博物馆生命长河",
@@ -16603,12 +16254,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": false
+    "category": "展览"
   },
   {
     "title": "阅读沙龙与童话舞台剧",
@@ -16617,8 +16267,8 @@
     "city": "shanghai",
     "start_date": "2026-10-02",
     "end_date": "2026-12-02",
-    "link": "",
-    "url": "",
+    "link": "https://www.sstlib.org",
+    "url": "https://www.sstlib.org",
     "description": "阅读沙龙、童话舞台剧、艺术公益课。",
     "category": "讲座阅读",
     "fee": "免费",
@@ -16636,16 +16286,15 @@
       "matched_venue_type": "图书馆"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": null,
+      "status": "suspicious",
+      "link_reachable": false,
       "http_status": null,
-      "source_type": "unknown",
-      "verified_at": "2026-07-25",
-      "verified_by": "source_crawl"
+      "source_type": "venue",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
     },
-    "verified": true,
-    "district": "静安区",
-    "links": []
+    "verified": false,
+    "district": "静安区"
   },
   {
     "name": "上海陆家嘴展览",
@@ -16678,12 +16327,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-41",
@@ -16716,12 +16364,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海上海动物园演出-106",
@@ -16754,12 +16401,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海城市规划展示馆演出-160",
@@ -16792,12 +16438,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -16829,7 +16474,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -16867,12 +16512,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "趣味上海外滩亲子活动-111",
@@ -16905,12 +16549,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海浦东新区影视放映日",
@@ -16943,12 +16586,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海普陀区讲座阅读嘉年华",
@@ -16981,12 +16623,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "精彩上海上海动物园演出-76",
@@ -17019,12 +16660,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海青浦区展览比赛",
@@ -17057,12 +16697,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "体验上海嘉定区亲子活动嘉年华",
@@ -17096,12 +16735,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式上海青浦区亲子活动探索",
@@ -17134,12 +16772,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探秘上海松江区演出月",
@@ -17173,12 +16810,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海上海城市规划展示馆演出-100",
@@ -17211,12 +16847,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "体验上海嘉定区演出嘉年华",
@@ -17250,12 +16885,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "儿童上海嘉定区影视放映课程",
@@ -17288,12 +16922,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -17325,7 +16958,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -17363,12 +16996,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海青浦区讲座阅读比赛",
@@ -17401,12 +17033,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "解读上海徐家汇展览",
@@ -17439,12 +17070,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-101",
@@ -17477,12 +17107,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海杨浦区科普活动周",
@@ -17516,12 +17145,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海徐汇区展览周",
@@ -17554,12 +17182,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探秘上海闵行区展览月",
@@ -17593,12 +17220,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "青少年上海浦东新区体育赛事讲座",
@@ -17632,12 +17258,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海杜莎夫人蜡像馆",
@@ -17670,12 +17295,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -17706,7 +17330,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -17743,12 +17367,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "探索上海淮海路研学",
@@ -17781,12 +17404,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海南京路演出-82",
@@ -17819,12 +17441,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "亲子上海闵行区体育赛事工作坊",
@@ -17858,12 +17479,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "亲子上海长宁区演出工作坊",
@@ -17897,12 +17517,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "震撼上海长宁区影视放映发现",
@@ -17936,12 +17555,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "解读上海徐汇区影视放映周",
@@ -17975,12 +17593,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "国采——故宫藏清代帝后服饰展",
@@ -18012,7 +17629,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "media",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -18049,12 +17666,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-117",
@@ -18087,12 +17703,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "漫游上海青浦区亲子活动季",
@@ -18125,12 +17740,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末上海虹口区展览活动",
@@ -18164,12 +17778,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "title": "海洋文化与航海科普",
@@ -18201,7 +17814,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -18214,8 +17827,8 @@
     "city": "shanghai",
     "start_date": "2026-10-10",
     "end_date": "2026-12-06",
-    "link": "https://www.legoland.com/",
-    "url": "https://www.legoland.com/",
+    "link": "https://www.legoland.com/shanghai",
+    "url": "https://www.legoland.com/shanghai",
     "description": "一周年庆典推出乐高玩乐节，开辟约4000㎡全新区域，携手FIFA世界杯和F1两大IP，无人机互动夜光大派对贯穿周五六日。",
     "category": "其他",
     "fee": "收费",
@@ -18232,14 +17845,14 @@
       "city": "上海"
     },
     "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true,
+    "verified": false,
     "district": "金山区"
   },
   {
@@ -18273,12 +17886,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海人民广场亲子活动-50",
@@ -18311,12 +17923,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "走进上海世纪公园展览-78",
@@ -18350,12 +17961,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "发现上海宝山区科普活动比赛",
@@ -18389,12 +17999,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "发现上海上海迪士尼乐园展览-132",
@@ -18427,12 +18036,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-152",
@@ -18466,12 +18074,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "探索上海上海汽车博物馆展览-156",
@@ -18505,12 +18112,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "亲子上海松江区展览工作坊",
@@ -18543,12 +18149,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "暑期上海徐汇区讲座阅读体验营",
@@ -18582,12 +18187,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动",
@@ -18621,12 +18225,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "经典上海金茂大厦演出-88",
@@ -18659,12 +18262,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "精彩上海上海动物园演出-136",
@@ -18697,12 +18299,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末上海浦东新区体育赛事活动",
@@ -18735,12 +18336,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "体育赛事",
-    "family_friendly": true
+    "category": "体育赛事"
   },
   {
     "name": "趣味上海金山区科普活动展览",
@@ -18774,12 +18374,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "梦幻上海虹口区讲座阅读之旅",
@@ -18813,12 +18412,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "name": "上海隧道科技馆",
@@ -18852,12 +18450,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "name": "沉浸式上海上海科技馆展览",
@@ -18891,12 +18488,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "走进上海黄浦区科普活动日",
@@ -18929,12 +18525,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "周末上海浦东新区亲子活动活动",
@@ -18967,12 +18562,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "name": "上海自然博物馆恐龙盛世",
@@ -19006,12 +18600,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "科普活动",
-    "family_friendly": true
+    "category": "科普活动"
   },
   {
     "title": "素心相映·邱瑞敏吴慧明艺术展",
@@ -19043,7 +18636,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -19078,7 +18671,7 @@
       "link_reachable": true,
       "http_status": null,
       "source_type": "wechat",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -19115,12 +18708,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "展览",
-    "family_friendly": true
+    "category": "展览"
   },
   {
     "name": "走进上海虹口区讲座阅读日",
@@ -19153,12 +18745,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "讲座阅读",
-    "family_friendly": true
+    "category": "讲座阅读"
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",
@@ -19190,7 +18781,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -19227,12 +18818,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "亲子活动",
-    "family_friendly": true
+    "category": "亲子活动"
   },
   {
     "title": "大音希声：八大山人诞辰400周年书画艺术大展",
@@ -19264,7 +18854,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
@@ -19301,12 +18891,11 @@
       "link_reachable": null,
       "http_status": null,
       "source_type": "unknown",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
     "verified": true,
-    "category": "其他",
-    "family_friendly": false
+    "category": "其他"
   },
   {
     "title": "少年述史·馆员论典——地方文献与馆藏精品暑期定时导览",
@@ -19338,7 +18927,7 @@
       "link_reachable": true,
       "http_status": 200,
       "source_type": "venue",
-      "verified_at": "2026-07-25",
+      "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
     "verified": true,
