@@ -3428,6 +3428,28 @@
     "source": "深圳特区报（宝安区）"
   },
   {
+    "title": "爱阅阳台丨集印章换好礼（7月）",
+    "name": "爱阅阳台丨集印章换好礼（7月）",
+    "venue": "宝安图书馆 (宝安区图书馆石岩街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属石岩街道分馆。了帮助广大读者了解图书馆的服务，积极参与图书馆活动，以此带动市民的阅读热情，充分利用图书馆馆藏资源，石岩街道分馆特举办集印章换好礼活动。；地点：石岩街道分馆（详见活动简介）；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆"
+  },
+  {
     "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
     "name": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
     "venue": "吉华街道文化站",
@@ -3800,28 +3822,6 @@
     "contact": "",
     "family_friendly": false,
     "source": "光明区公明街道综合性文化服务中心"
-  },
-  {
-    "title": "爱阅阳台丨集印章换好礼（7月）",
-    "name": "爱阅阳台丨集印章换好礼（7月）",
-    "venue": "宝安图书馆 (宝安区图书馆石岩街道分馆)",
-    "city": "shenzhen",
-    "start_date": "2026-07-01",
-    "end_date": "2026-07-31",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
-    "links": [
-      {
-        "url": "https://www.balib.cn",
-        "label": "活动详情"
-      }
-    ],
-    "description": "此活动隶属石岩街道分馆。了帮助广大读者了解图书馆的服务，积极参与图书馆活动，以此带动市民的阅读热情，充分利用图书馆馆藏资源，石岩街道分馆特举办集印章换好礼活动。；地点：石岩街道分馆（详见活动简介）；方式：线下；主办：宝安区图书馆",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "宝安图书馆"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -6457,28 +6457,6 @@
     "district": "其他"
   },
   {
-    "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
-    "name": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
-    "venue": "深圳会展中心",
-    "city": "shenzhen",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-21",
-    "link": "https://www.szcec.com",
-    "url": "https://www.szcec.com",
-    "links": [
-      {
-        "url": "https://www.szcec.com",
-        "label": "活动详情"
-      }
-    ],
-    "description": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华），2026-07-11至2026-08-21，深圳会展中心。赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
-    "family_friendly": false,
-    "source": "深圳会展中心"
-  },
-  {
     "title": "阅体“yue”活力|“宝”读诗书·我在图书馆学习 21天挑战营",
     "name": "阅体“yue”活力|“宝”读诗书·我在图书馆学习 21天挑战营",
     "venue": "宝安图书馆 (宝安区图书馆新安街道分馆)",
@@ -6499,6 +6477,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "宝安图书馆"
+  },
+  {
+    "title": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
+    "name": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华）",
+    "venue": "深圳会展中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-11",
+    "end_date": "2026-08-21",
+    "link": "https://www.szcec.com",
+    "url": "https://www.szcec.com",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2026深圳全民国防航空航天科博会（暨2026国防文化军事科技嘉年华），2026-07-11至2026-08-21，深圳会展中心。赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
+    "family_friendly": false,
+    "source": "深圳会展中心"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -6755,6 +6755,28 @@
     "contact": "",
     "family_friendly": true,
     "source": "坂田街道文化站"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展--南新社区服务点“黑白方寸，静物生韵”青少年素描作品展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展--南新社区服务点“黑白方寸，静物生韵”青少年素描作品展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南湾街道文化站"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -44268,6 +44290,28 @@
     "source": "宝安区文化馆"
   },
   {
+    "title": "中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "name": "中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11752",
+    "url": "https://activity.nslib.cn/activity/info/11752",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11752",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "免费美术舞蹈科创公益课",
     "name": "免费美术舞蹈科创公益课",
     "venue": "北京市少年宫",
@@ -60176,6 +60220,50 @@
     "source": "坪地街道文化站"
   },
   {
+    "title": "“亲”松Yue读·影像空间《萌宠流浪记》",
+    "name": "“亲”松Yue读·影像空间《萌宠流浪记》",
+    "venue": "宝安图书馆 (宝安区图书馆松岗街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属松岗街道分馆。【本期电影展播】：《萌宠流浪记》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：14:45—15:00；【活动时间】：15:00—16:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "“亲”松Yue读·影像空间《雪人奇缘》",
+    "name": "“亲”松Yue读·影像空间《雪人奇缘》",
+    "venue": "宝安图书馆 (宝安区图书馆松岗街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属松岗街道分馆。【本期电影展播】：《雪人奇缘》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：18:45—19:00；【活动时间】：19:00—20:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆"
+  },
+  {
     "title": "音乐赏析之苏运莹作品【下午场】",
     "name": "音乐赏析之苏运莹作品【下午场】",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -60286,6 +60374,28 @@
     "source": "深圳图书馆"
   },
   {
+    "title": "南山博物馆暑期夜间延时开放",
+    "name": "南山博物馆暑期夜间延时开放",
+    "venue": "南山博物馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-08-31",
+    "link": "https://www.nanshanmuseum.com",
+    "url": "https://www.nanshanmuseum.com",
+    "links": [
+      {
+        "url": "https://www.nanshanmuseum.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2026年7月4日至8月31日，新增周五、周日夜间延时开放（周六常规夜间开放保持不变）。周二至周日10:00-18:00（17:30停止入场），周六夜间开放时间：18:00-21:00（20:30停止入场）。免费免预约。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-86700071",
+    "family_friendly": true,
+    "source": "南山博物馆"
+  },
+  {
     "title": "“童心”领读：和孩子一起读童书（暑假版）",
     "name": "“童心”领读：和孩子一起读童书（暑假版）",
     "venue": "宝安图书馆 (宝安区图书馆)",
@@ -60300,10 +60410,32 @@
         "label": "活动详情"
       }
     ],
-    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《獾的美食》；主讲人：陈丽花、刘妮娜；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "馆长少年“趣旅行”:福海街道篇",
+    "name": "馆长少年“趣旅行”:福海街道篇",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "本期“街道探索小分队”已顺利完成对福海街道的深度走访，馆长少年瞿凯、祝语晨、何利雯将以“街道文旅代言人”的身份，公开分享他们的探索之旅。为了让大家更深入地感受福海的传统魅力，我们特别增设了非遗手工体验环节！这一次，馆长们把福海民间传说与民俗意象“锦鲤”带回了活动现场。；主讲人：瞿凯（馆长少年）、祝语晨（馆长少年）、何利雯（馆长少年）；地点：宝安区图书馆培训室1；地址：宝安区宝兴路1号宝安图书馆负一楼培训室1；方式：线下；咨询：0755-27783514（活动咨询及预约电话），由于手工环节席位有限，本次活动共20组名额（活动免费，所有手工材料已由图书馆贴心备齐），请提前10分钟签到，逾期将顺延至下一位读者。；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话），由于手工环节席位有限，本次活动共20组名额（活动免费，所有手工材料已由图书馆贴心备齐），请提前10分钟签到，逾期将顺延至下一位读者。",
     "family_friendly": true,
     "source": "宝安图书馆"
   },
@@ -60322,7 +60454,7 @@
         "label": "活动详情"
       }
     ],
-    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《当我感到爱》；主讲人：刘淑如；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
@@ -60330,9 +60462,9 @@
     "source": "宝安图书馆"
   },
   {
-    "title": "“亲”松Yue读·影像空间《萌宠流浪记》",
-    "name": "“亲”松Yue读·影像空间《萌宠流浪记》",
-    "venue": "宝安图书馆 (宝安区图书馆松岗街道分馆)",
+    "title": "启阅90｜启映拾光·快乐暑假主题《罗小黑战记》",
+    "name": "启阅90｜启映拾光·快乐暑假主题《罗小黑战记》",
+    "venue": "宝安图书馆 (宝安1990分馆)",
     "city": "shenzhen",
     "start_date": "2026-07-28",
     "end_date": "2026-07-28",
@@ -60344,17 +60476,17 @@
         "label": "活动详情"
       }
     ],
-    "description": "此活动隶属松岗街道分馆。【本期电影展播】：《萌宠流浪记》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：14:45—15:00；【活动时间】：15:00—16:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆",
-    "category": "展览",
+    "description": "活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
     "source": "宝安图书馆"
   },
   {
-    "title": "“亲”松Yue读·影像空间《雪人奇缘》",
-    "name": "“亲”松Yue读·影像空间《雪人奇缘》",
-    "venue": "宝安图书馆 (宝安区图书馆松岗街道分馆)",
+    "title": "启阅90｜图图姐姐讲故事：《想吃苹果的鼠小弟》",
+    "name": "启阅90｜图图姐姐讲故事：《想吃苹果的鼠小弟》",
+    "venue": "宝安图书馆 (宝安1990分馆)",
     "city": "shenzhen",
     "start_date": "2026-07-28",
     "end_date": "2026-07-28",
@@ -60366,8 +60498,30 @@
         "label": "活动详情"
       }
     ],
-    "description": "此活动隶属松岗街道分馆。【本期电影展播】：《雪人奇缘》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：18:45—19:00；【活动时间】：19:00—20:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆",
-    "category": "展览",
+    "description": "活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "万卷倾城 | 线上故事—《白先生》",
+    "name": "万卷倾城 | 线上故事—《白先生》",
+    "venue": "宝安图书馆 (宝安区图书馆航城街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-28",
+    "end_date": "2026-07-28",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属于航城街道分馆。欢迎大家收看“万卷倾城·云故事”栏目，本期故事主题《白先生》主讲老师：JOJO老师（航城街道分馆）剪辑：JOJO老师（航城街道分馆）审核：JOJO老师（航城街道分馆）故事简介：白先生一直过着‌单调却平和‌的生活，他的世界只有‌白色‌。直到某天花园里出现了一朵‌红色小花‌，他的生活从此发生翻天覆地的变化。；方式：线上；主办：宝安区图书馆",
+    "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
@@ -62269,6 +62423,28 @@
     "source": "吉华街道文化站"
   },
   {
+    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "venue": "桂园街道综合文体中心(桂园街道分馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
     "title": "2025年桃源公益形体培训活动",
     "name": "2025年桃源公益形体培训活动",
     "venue": "桃源街道综合性文化服务中心",
@@ -62289,6 +62465,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "桃源街道综合性文化服务中心"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动",
+    "name": "2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰街道综合性文化服务中心"
   },
   {
     "title": "流行演唱公益课",
@@ -66039,6 +66237,28 @@
     "category": "讲座阅读"
   },
   {
+    "title": "《浪浪山小妖怪》福田“星光电影”暑期公益电影放映工作开始啦",
+    "name": "《浪浪山小妖怪》福田“星光电影”暑期公益电影放映工作开始啦",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
+  },
+  {
     "title": "舞动青春·绽放梦想丨2026紫涵舞蹈暑假汇演暨第四届",
     "name": "舞动青春·绽放梦想丨2026紫涵舞蹈暑假汇演暨第四届",
     "venue": "宝安区文化馆西乡街道分馆",
@@ -66259,28 +66479,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "心理咨询",
-    "name": "心理咨询",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "link": "https://activity.nslib.cn/activity/info/11637",
-    "url": "https://activity.nslib.cn/activity/info/11637",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11637",
-        "label": "活动详情"
-      }
-    ],
-    "description": "心理咨询。南山图书馆举办。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "南图双语故事会|Go Away,Floppy",
     "name": "南图双语故事会|Go Away,Floppy",
     "venue": "南山图书馆",
@@ -66296,6 +66494,28 @@
       }
     ],
     "description": "需预约报名。南图双语故事会|Go Away,Floppy",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心理咨询",
+    "name": "心理咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11637",
+    "url": "https://activity.nslib.cn/activity/info/11637",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11637",
+        "label": "活动详情"
+      }
+    ],
+    "description": "心理咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -69077,6 +69297,28 @@
     "district": "南山区"
   },
   {
+    "title": "抢票 | 致敬长征精神，公益儿童剧《向着光亮的地方》于8月1日深圳盐田连演两场",
+    "name": "抢票 | 致敬长征精神，公益儿童剧《向着光亮的地方》于8月1日深圳盐田连演两场",
+    "venue": "盐田区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fd7af63da3d4f9091b2e392e06d1e4b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fd7af63da3d4f9091b2e392e06d1e4b",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fd7af63da3d4f9091b2e392e06d1e4b",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，深圳市儿童戏剧研究会，在盐田区文化馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "盐田区文化馆"
+  },
+  {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "name": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "venue": "坂田街道文化站",
@@ -69231,22 +69473,22 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "数智课堂|光影仙子蝴蝶团扇",
-    "name": "数智课堂|光影仙子蝴蝶团扇",
+    "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
-    "link": "https://activity.nslib.cn/activity/info/11727",
-    "url": "https://activity.nslib.cn/activity/info/11727",
+    "link": "https://activity.nslib.cn/activity/info/11729",
+    "url": "https://activity.nslib.cn/activity/info/11729",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11727",
+        "url": "https://activity.nslib.cn/activity/info/11729",
         "label": "活动详情"
       }
     ],
-    "description": "需预约报名。数智课堂|光影仙子蝴蝶团扇",
-    "category": "其他",
+    "description": "需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -69275,22 +69517,22 @@
     "source": "南山图书馆"
   },
   {
-    "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
-    "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "title": "数智课堂|光影仙子蝴蝶团扇",
+    "name": "数智课堂|光影仙子蝴蝶团扇",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
-    "link": "https://activity.nslib.cn/activity/info/11729",
-    "url": "https://activity.nslib.cn/activity/info/11729",
+    "link": "https://activity.nslib.cn/activity/info/11727",
+    "url": "https://activity.nslib.cn/activity/info/11727",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11729",
+        "url": "https://activity.nslib.cn/activity/info/11727",
         "label": "活动详情"
       }
     ],
-    "description": "需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
-    "category": "讲座阅读",
+    "description": "需预约报名。数智课堂|光影仙子蝴蝶团扇",
+    "category": "其他",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -71815,28 +72057,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "艺术荟·音阅共生 | 音画里的哲思",
-    "name": "艺术荟·音阅共生 | 音画里的哲思",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "https://activity.nslib.cn/activity/info/11724",
-    "url": "https://activity.nslib.cn/activity/info/11724",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11724",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。艺术荟·音阅共生 | 音画里的哲思",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "南图沙龙·心灵 | 心有边界，方得自由",
     "name": "南图沙龙·心灵 | 心有边界，方得自由",
     "venue": "南山图书馆",
@@ -71852,6 +72072,50 @@
       }
     ],
     "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "法律咨询",
+    "name": "法律咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://activity.nslib.cn/activity/info/11745",
+    "url": "https://activity.nslib.cn/activity/info/11745",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11745",
+        "label": "活动详情"
+      }
+    ],
+    "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "艺术荟·音阅共生 | 音画里的哲思",
+    "name": "艺术荟·音阅共生 | 音画里的哲思",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://activity.nslib.cn/activity/info/11724",
+    "url": "https://activity.nslib.cn/activity/info/11724",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11724",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。艺术荟·音阅共生 | 音画里的哲思",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -83877,6 +84141,28 @@
     "district": "其他"
   },
   {
+    "title": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "name": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://activity.nslib.cn/activity/info/11722",
+    "url": "https://activity.nslib.cn/activity/info/11722",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11722",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "悦读《骑鹅旅行记》",
     "name": "悦读《骑鹅旅行记》",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -84029,28 +84315,6 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆"
-  },
-  {
-    "title": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
-    "name": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-08",
-    "link": "https://activity.nslib.cn/activity/info/11722",
-    "url": "https://activity.nslib.cn/activity/info/11722",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11722",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -86153,6 +86417,28 @@
     "district": "其他"
   },
   {
+    "title": "百姓健康讲坛|青少年身心健康促进",
+    "name": "百姓健康讲坛|青少年身心健康促进",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://activity.nslib.cn/activity/info/11701",
+    "url": "https://activity.nslib.cn/activity/info/11701",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11701",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。百姓健康讲坛|青少年身心健康促进",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -86216,6 +86502,28 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "黑胶音乐鉴赏之城市主题：城市，有自己的声音——从黑胶里听见一座城",
+    "name": "黑胶音乐鉴赏之城市主题：城市，有自己的声音——从黑胶里听见一座城",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=648065&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=648065&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=648065&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
     "source": "深圳图书馆"
   },
   {
@@ -86305,28 +86613,6 @@
     "contact": "",
     "family_friendly": false,
     "source": "深圳图书馆"
-  },
-  {
-    "title": "百姓健康讲坛|青少年身心健康促进",
-    "name": "百姓健康讲坛|青少年身心健康促进",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-09",
-    "end_date": "2026-08-09",
-    "link": "https://activity.nslib.cn/activity/info/11701",
-    "url": "https://activity.nslib.cn/activity/info/11701",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11701",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。百姓健康讲坛|青少年身心健康促进",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -107104,6 +107390,28 @@
     "contact": "",
     "family_friendly": true,
     "source": "深圳图书馆"
+  },
+  {
+    "title": "第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会",
+    "name": "第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会",
+    "venue": "深圳会展中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "link": "https://www.szcec.com",
+    "url": "https://www.szcec.com",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会，2026-08-20至2026-08-22，深圳会展中心。深圳市侨交会投资管理有限公司&nbsp; &nbsp; 刁女士&nbsp; 19897752824",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "深圳市侨交会投资管理有限公司&nbsp; &nbsp; 刁女士&nbsp; 19897752824",
+    "family_friendly": false,
+    "source": "深圳会展中心"
   },
   {
     "name": "郭沫若纪念馆",

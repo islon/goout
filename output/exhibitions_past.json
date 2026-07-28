@@ -1,9 +1,323 @@
 [
   {
+    "title": "岚岚作品展",
+    "name": "岚岚作品展",
+    "venue": "重庆美术馆（7号厅）",
+    "city": "chongqing",
+    "start_date": "2026-06-27",
+    "end_date": "2026-07-27",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "重庆美术馆暑期新展，免费开放，盛夏防雨又防晒的遛娃看展好去处。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "name": "歌乐山森林公园徒步游",
+    "venue": "歌乐山国家森林公园",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "fee": "免费",
+    "description": "沿着歌乐山步道徒步登山，沿途欣赏森林风光，登顶俯瞰山城景色。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "歌乐山",
+      "徒步",
+      "登山"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "歌乐山森林公园徒步游",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "第34届全国书博会",
+    "name": "第34届全国书博会",
+    "venue": "杭州国际博览中心",
+    "city": "hangzhou",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-27",
+    "link": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "description": "八大展厅、九大专题展览、十一项重点活动，发放300万元惠民购书券。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州市文化广电旅游局",
+    "is_family_friendly": false,
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "浙里文化圈",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「浙里文化圈」小程序→艺培→线下课程",
+      "platform_url": null,
+      "city": "杭州"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "萧山区"
+  },
+  {
+    "title": "原创童话芭蕾《飞越红树林》",
+    "name": "原创童话芭蕾《飞越红树林》",
+    "venue": "光明区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57507fd46eb947b4ae92c625d2f8744e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57507fd46eb947b4ae92c625d2f8744e",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57507fd46eb947b4ae92c625d2f8744e",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，深圳市儿童戏剧研究会，在光明区文化馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明区文化馆",
+    "district": "光明区"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“葫音童趣・少儿葫芦丝”体验活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“葫音童趣・少儿葫芦丝”体验活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
+  },
+  {
+    "title": "阅见南山·探索成长丨深大校园漫步",
+    "name": "阅见南山·探索成长丨深大校园漫步",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "link": "https://activity.nslib.cn/activity/info/11681",
+    "url": "https://activity.nslib.cn/activity/info/11681",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11681",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。阅见南山·探索成长丨深大校园漫步",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "美丽星期天——民乐鉴赏",
+    "name": "美丽星期天——民乐鉴赏",
+    "venue": "深圳音乐厅",
+    "city": "shenzhen",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "link": "https://www.shenzhenconcerthall.com",
+    "url": "https://www.shenzhenconcerthall.com",
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "民族器乐鉴赏公益音乐会，15:00。免费领票。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳音乐厅官网"
+  },
+  {
+    "name": "武汉体育馆篮球训练营",
+    "venue": "武汉体育馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-27",
+    "fee": "收费",
+    "description": "篮球训练营，运球投篮与团队战术教学。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "篮球",
+      "训练",
+      "战术"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "武汉体育馆篮球训练营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "体育馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "name": "湖北省图书馆国学经典诵读",
+    "venue": "湖北省图书馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "fee": "免费",
+    "description": "国学经典诵读活动，童声齐诵《论语》《诗经》。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "国学",
+      "诵读",
+      "经典"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "湖北省图书馆国学经典诵读",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "图书馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "name": "黄鹤楼公园书法体验",
+    "venue": "黄鹤楼公园",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-27",
+    "fee": "收费",
+    "description": "在白云阁体验书法创作，临摹历代黄鹤楼题诗。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "书法",
+      "题诗",
+      "白云阁"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "黄鹤楼公园书法体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
     "name": "自然博物馆夜宿奇妙夜",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -41,7 +355,7 @@
     "name": "VR科学探索之旅",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -79,7 +393,7 @@
     "name": "重庆动物园飞禽世界",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -116,7 +430,7 @@
     "name": "重庆中央公园轮滑体验",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -154,7 +468,7 @@
     "name": "武隆天生三桥探秘",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -227,7 +541,7 @@
     "name": "六朝博物馆小小讲解员",
     "venue": "六朝博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-26",
     "fee": "免费需预约",
@@ -265,7 +579,7 @@
     "name": "梅园新村小小讲解员",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -302,7 +616,7 @@
     "name": "江苏科技馆机器人擂台赛",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -404,7 +718,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "龙华区"
+    "district": "其他"
   },
   {
     "title": "来处与归途：三燕百年",
@@ -426,7 +740,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网"
+    "source": "深圳博物馆官网",
+    "district": "福田区"
   },
   {
     "title": "第十五届深圳动漫节",
@@ -448,7 +763,8 @@
     "fee": "免费",
     "contact": "深圳市设计之都运营发展有限公司 罗女士 13691919789",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展",
@@ -470,7 +786,8 @@
     "fee": "免费",
     "contact": "深圳钦诺展览有限公司 潘女士 18025471745",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）",
@@ -492,7 +809,8 @@
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
@@ -560,7 +878,8 @@
     "fee": "免费",
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
-    "source": "深圳会展中心"
+    "source": "深圳会展中心",
+    "district": "福田区"
   },
   {
     "title": "“深读”读书沙龙 | 在文学中疗愈和成长自己",
@@ -606,7 +925,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "龙华街道综合性文化服务中心",
-    "district": "龙华区"
+    "district": "其他"
   },
   {
     "title": "“剪影流转，节气生花”光明街道光明社区亲子剪纸活动",
@@ -697,7 +1016,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园山街道文化站"
+    "source": "园山街道文化站",
+    "district": "其他"
   },
   {
     "title": "草木留痕——非遗拓印手作",
@@ -834,7 +1154,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "弦上云烟 · 沉浸式民乐聆赏会",
@@ -856,7 +1177,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "巫婆读书会 | 追逐候鸟的人：在旷野与书页间重拾好奇",
@@ -878,7 +1200,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第644场",
@@ -900,7 +1223,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -922,7 +1246,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "她影：《七月与安生》",
@@ -944,7 +1269,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "故事小讲堂第152期：“夏天的故事”陈伯吹获奖图书读书会",
@@ -966,7 +1292,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "像鸡毛一样飞",
@@ -988,7 +1315,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "书海探底——智慧书库参观体验活动第645场",
@@ -1010,7 +1338,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳图书馆"
+    "source": "深圳图书馆",
+    "district": "福田区"
   },
   {
     "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
@@ -1027,13 +1356,14 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "自动化发现"
+    "source": "自动化发现",
+    "district": "光明区"
   },
   {
     "name": "木兰天池森林夏令营",
     "venue": "木兰天池",
     "city": "wuhan",
-    "district": "黄陂区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1099,7 +1429,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "venue_url": "http://www.wniecm.com.cn/"
+    "venue_url": "http://www.wniecm.com.cn/",
+    "district": "其他"
   },
   {
     "title": "第十六届武汉CGF动漫游戏节",
@@ -1135,13 +1466,13 @@
     },
     "verified": true,
     "venue_url": "http://www.covcec.com/",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "name": "武汉科技馆VR虚拟现实体验",
     "venue": "武汉科技馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "免费需预约",
@@ -1179,7 +1510,7 @@
     "name": "解放公园亲子草坪露营",
     "venue": "解放公园",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -1217,7 +1548,7 @@
     "name": "湖北美术馆水墨画课堂",
     "venue": "湖北美术馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1255,7 +1586,7 @@
     "name": "武汉图书馆非遗故事会",
     "venue": "武汉图书馆",
     "city": "wuhan",
-    "district": "江汉区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -1293,7 +1624,7 @@
     "name": "东湖帆船亲子体验营",
     "venue": "东湖风景区",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1331,7 +1662,7 @@
     "name": "汉阳陵博物院考古夏令营",
     "venue": "汉阳陵博物院",
     "city": "xian",
-    "district": "未央区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1396,7 +1727,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "珠海市图书馆古诗词鉴赏讲座",
@@ -1419,13 +1751,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市图书馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "name": "缙云山森林课堂夏令营",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -1462,7 +1794,7 @@
     "name": "荣昌折扇制作体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -1562,13 +1894,14 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "玄武湖环湖跑",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "免费",
@@ -1634,7 +1967,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
@@ -1727,7 +2061,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝安区"
+    "district": "其他"
   },
   {
     "title": "2026年第十五届深圳儿童戏剧节 儿童剧《白雪公主》",
@@ -1772,7 +2106,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "塘家社区综合性文化服务中心"
+    "source": "塘家社区综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“翩翩稚舞，赓续国风”舞蹈美育活动",
@@ -1817,7 +2152,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "桂园街道综合文体中心(桂园街道分馆）"
+    "source": "桂园街道综合文体中心(桂园街道分馆）",
+    "district": "罗湖区"
   },
   {
     "title": "光明区文化馆总分馆联动活动-杮杮如意",
@@ -1931,7 +2267,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "玉塘街道综合性文化服务中心"
+    "source": "玉塘街道综合性文化服务中心",
+    "district": "其他"
   },
   {
     "title": "光明区文化馆总分馆联动活动-DIY万花镜",
@@ -1976,7 +2313,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "塘家社区综合性文化服务中心"
+    "source": "塘家社区综合性文化服务中心",
+    "district": "光明区"
   },
   {
     "title": "叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）",
@@ -2322,7 +2660,7 @@
     "name": "湖北省科学技术馆暑期科学营",
     "venue": "湖北省科学技术馆",
     "city": "wuhan",
-    "district": "洪山区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -2359,7 +2697,7 @@
     "name": "武汉自然博物馆贝林大河展厅课堂",
     "venue": "武汉自然博物馆",
     "city": "wuhan",
-    "district": "东西湖区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "免费需预约",
@@ -2397,7 +2735,7 @@
     "name": "武汉科技馆宇宙展厅研学",
     "venue": "武汉科技馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "免费需预约",
@@ -2435,7 +2773,7 @@
     "name": "东湖皮划艇亲子营",
     "venue": "东湖风景区",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -2473,7 +2811,7 @@
     "name": "武汉市少年儿童图书馆童话剧表演",
     "venue": "武汉市少年儿童图书馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "免费",
@@ -2539,7 +2877,8 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "title": "珠海大剧院交响乐演出季",
@@ -2562,7 +2901,7 @@
     "contact": "",
     "family_friendly": false,
     "source": "珠海大剧院",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "长隆海洋王国海洋科普讲堂",
@@ -2585,13 +2924,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海长隆海洋王国",
-    "district": "横琴新区"
+    "district": "其他"
   },
   {
     "name": "仙女山森林探险营",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -2629,7 +2968,7 @@
     "name": "南京科技馆航天主题研学",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -2667,7 +3006,7 @@
     "name": "银杏湖乐园主题夏令营",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -2704,7 +3043,7 @@
     "name": "雨花台红色夏令营",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "免费",
@@ -2741,7 +3080,7 @@
     "name": "大金山国防园军事夏令营",
     "venue": "大金山国防园",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -3238,7 +3577,7 @@
     "name": "湖北省博物馆考古小达人体验",
     "venue": "湖北省博物馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "免费需预约",
@@ -3276,7 +3615,7 @@
     "name": "武汉美术馆暑期艺术夏令营",
     "venue": "武汉美术馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -3314,7 +3653,7 @@
     "name": "木兰草原夏令营",
     "venue": "木兰草原",
     "city": "wuhan",
-    "district": "黄陂区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -3351,7 +3690,7 @@
     "name": "盘龙城遗址博物院商代历史课堂",
     "venue": "盘龙城遗址博物院",
     "city": "wuhan",
-    "district": "黄陂区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-07-24",
     "fee": "免费",
@@ -3427,7 +3766,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园山街道文化站"
+    "source": "园山街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "2026凤凰街道文化惠民工程之“笔承古韵，墨染韶华”书法交流活动",
@@ -3594,7 +3934,7 @@
     "name": "江汉关博物馆钟楼探秘",
     "venue": "江汉关博物馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-07-23",
     "fee": "免费",
@@ -3632,7 +3972,7 @@
     "name": "三峡博物馆书画鉴赏讲座",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "免费",
@@ -3670,7 +4010,7 @@
     "name": "蜀绣手作工坊",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "收费",
@@ -4030,7 +4370,7 @@
     "name": "武汉科技馆机器人体验夏令营",
     "venue": "武汉科技馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-22",
     "fee": "收费",
@@ -4068,7 +4408,7 @@
     "name": "湖北省博物馆元青花四爱图梅瓶鉴赏",
     "venue": "湖北省博物馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "免费需预约",
@@ -4106,7 +4446,7 @@
     "name": "武汉动物园小小饲养员体验",
     "venue": "武汉动物园",
     "city": "wuhan",
-    "district": "汉阳区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "收费",
@@ -4143,7 +4483,7 @@
     "name": "辛亥革命博物馆近代史课堂",
     "venue": "辛亥革命博物馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "免费",
@@ -4198,13 +4538,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "古元美术馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "name": "白公馆历史研学活动",
     "venue": "白公馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
     "fee": "免费",
@@ -4333,7 +4673,7 @@
     "name": "中山舰博物馆舰艇模型制作",
     "venue": "中山舰博物馆",
     "city": "wuhan",
-    "district": "江夏区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
     "fee": "收费",
@@ -4371,7 +4711,7 @@
     "name": "辛亥革命武昌起义纪念馆历史课堂",
     "venue": "辛亥革命武昌起义纪念馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
     "fee": "免费",
@@ -4444,7 +4784,7 @@
     "name": "工业博物馆机械探秘研学",
     "venue": "重庆工业博物馆",
     "city": "chongqing",
-    "district": "大渡口区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "免费需预约",
@@ -4482,7 +4822,7 @@
     "name": "彩云湖湿地公园观鸟活动",
     "venue": "彩云湖湿地公园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "免费",
@@ -4583,7 +4923,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "光明区"
   },
   {
     "title": "2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动",
@@ -4617,7 +4958,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "光明区"
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -4646,7 +4988,7 @@
     "name": "东湖落雁景区观鸟",
     "venue": "东湖风景区",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "免费",
@@ -4684,7 +5026,7 @@
     "name": "武汉欢乐谷儿童剧专场",
     "venue": "武汉欢乐谷",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "需购票",
@@ -4721,7 +5063,7 @@
     "name": "黄鹤楼公园登楼揽胜课堂",
     "venue": "黄鹤楼公园",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "收费",
@@ -4776,7 +5118,7 @@
     "contact": "",
     "family_friendly": true,
     "source": "珠海市文化馆",
-    "district": "香洲区"
+    "district": "其他"
   },
   {
     "title": "北京开瓶·独立酿造节",
@@ -4817,7 +5159,7 @@
     "name": "机器人编程体验工作坊",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -4855,7 +5197,7 @@
     "name": "重庆动物园猛兽区导览",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -4892,7 +5234,7 @@
     "name": "川剧变脸体验工作坊",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -4929,7 +5271,7 @@
     "name": "际华园攀岩挑战赛",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -5066,13 +5408,14 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "玄武湖环湖亲子跑",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -5121,7 +5464,7 @@
     "family_friendly": true,
     "start_date": "2026-07-14",
     "end_date": "2026-07-19",
-    "district": "罗湖区"
+    "district": "其他"
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -5905,13 +6248,13 @@
     "family_friendly": true,
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "district": "光明区"
+    "district": "其他"
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
     "venue": "武汉海昌极地海洋公园",
     "city": "wuhan",
-    "district": "东西湖区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -5949,7 +6292,7 @@
     "name": "武汉博物馆江汉揽胜展厅课堂",
     "venue": "武汉博物馆",
     "city": "wuhan",
-    "district": "江汉区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -5987,7 +6330,7 @@
     "name": "武汉科技馆物理实验秀",
     "venue": "武汉科技馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费需预约",
@@ -6025,7 +6368,7 @@
     "name": "中山公园亲子定向越野",
     "venue": "中山公园",
     "city": "wuhan",
-    "district": "江汉区",
+    "district": "西城区",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -6063,7 +6406,7 @@
     "name": "湖北美术馆亲子导览",
     "venue": "湖北美术馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -6101,7 +6444,7 @@
     "name": "湖北省图书馆亲子共读营",
     "venue": "湖北省图书馆",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -6139,7 +6482,7 @@
     "name": "武汉体育中心田径体验",
     "venue": "武汉体育中心",
     "city": "wuhan",
-    "district": "蔡甸区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -6176,7 +6519,7 @@
     "name": "武汉全民健身中心亲子瑜伽",
     "venue": "武汉全民健身中心",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -6241,13 +6584,14 @@
       "verified_at": "2026-07-19",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "三峡民俗文化亲子课堂",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "免费",
@@ -6285,7 +6629,7 @@
     "name": "重庆园博园园林文化研学",
     "venue": "重庆园博园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "收费",
@@ -6456,7 +6800,7 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "福田区"
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -7312,7 +7656,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-18",
-    "end_date": "2026-07-18"
+    "end_date": "2026-07-18",
+    "district": "其他"
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -7346,13 +7691,13 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
     "venue": "湖北省科学技术馆",
     "city": "wuhan",
-    "district": "洪山区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-07-18",
     "fee": "收费",
@@ -7389,7 +7734,7 @@
     "name": "盘龙城遗址博物院青铜冶炼体验",
     "venue": "盘龙城遗址博物院",
     "city": "wuhan",
-    "district": "黄陂区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "收费",
@@ -7426,7 +7771,7 @@
     "name": "后官湖湿地公园观鸟营",
     "venue": "后官湖湿地公园",
     "city": "wuhan",
-    "district": "蔡甸区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "免费",
@@ -7464,7 +7809,7 @@
     "name": "汉秀剧场亲子专场",
     "venue": "汉秀剧场",
     "city": "wuhan",
-    "district": "武昌区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "需购票",
@@ -7501,7 +7846,7 @@
     "name": "武汉市少年儿童图书馆亲子阅读营",
     "venue": "武汉市少年儿童图书馆",
     "city": "wuhan",
-    "district": "江岸区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "免费",
@@ -7622,7 +7967,7 @@
     "family_friendly": true,
     "start_date": "2026-07-17",
     "end_date": "2026-07-17",
-    "district": "福田区"
+    "district": "其他"
   },
   {
     "title": "儿童音乐皮影戏",
@@ -7639,7 +7984,7 @@
     "family_friendly": true,
     "start_date": "2026-07-11",
     "end_date": "2026-07-12",
-    "district": "罗湖区"
+    "district": "其他"
   },
   {
     "title": "国风儿童剧《少年诗词游之李白》",
@@ -7655,7 +8000,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-12",
-    "end_date": "2026-07-12"
+    "end_date": "2026-07-12",
+    "district": "其他"
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -7671,7 +8017,8 @@
     "contact": "",
     "family_friendly": true,
     "start_date": "2026-07-11",
-    "end_date": "2026-07-11"
+    "end_date": "2026-07-11",
+    "district": "其他"
   },
   {
     "title": "北京人艺话剧《寻找春柳社》",
