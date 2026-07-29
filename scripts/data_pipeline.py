@@ -102,6 +102,36 @@ DISTRICT_KEYWORDS = {
     '大鹏': ['大鹏', 'dapeng', 'dp', '葵涌', '大鹏街道', '南澳', '大亚湾', '地质公园', 'dp_geopark', 'dp_nuclear'],
 }
 
+CITY_KEYWORDS = {
+    '深圳': ['深圳', 'shenzhen', 'sz', 'szlib', 'szmuseum', 'szwt'],
+    '广州': ['广州', 'guangzhou', 'gz', 'gzlib'],
+    '上海': ['上海', 'shanghai', 'sh', 'shlib'],
+    '北京': ['北京', 'beijing', 'bj', 'bjlib'],
+    '杭州': ['杭州', 'hangzhou', 'hz', 'hzlib'],
+    '成都': ['成都', 'chengdu', 'cd', 'cdlib'],
+    '重庆': ['重庆', 'chongqing', 'cq', 'cqlib'],
+    '武汉': ['武汉', 'wuhan', 'wh', 'whlib'],
+    '西安': ['西安', 'xian', 'xa', 'xalib'],
+    '南京': ['南京', 'nanjing', 'nj', 'njlib'],
+    '珠海': ['珠海', 'zhuhai', 'zh', 'zhlib'],
+}
+
+
+def get_city_from_text(text):
+    if not text:
+        return None
+    text_lower = text.lower()
+    for city, keywords in CITY_KEYWORDS.items():
+        for kw in keywords:
+            kw_lower = kw.lower()
+            if kw_lower in text_lower:
+                if kw_lower in ['南京', 'nanjing'] and '南京路' in text:
+                    continue
+                if kw_lower in ['北京', 'beijing'] and '北京路' in text:
+                    continue
+                return city
+    return None
+
 
 def get_district(text):
     if not text:
@@ -150,11 +180,15 @@ def validate_and_fix_activity(activity):
         activity['description'] = activity['description'][:500]
     source = activity.get('source', '')
     venue = activity.get('venue', '')
+    city_val = activity.get('city', '')
     source_dist = get_district(source)
     venue_dist = get_district(venue)
-    if source_dist and venue_dist and source_dist != venue_dist:
-        if venue_dist:
-            pass
+    source_city = get_city_from_text(source)
+    venue_city = get_city_from_text(venue)
+    if source_city and venue_city and source_city != venue_city:
+        pass
+    elif source_dist and venue_dist and source_dist != venue_dist:
+        pass
 
     if 'family_friendly' not in activity:
         activity['family_friendly'] = is_family_friendly(
@@ -299,10 +333,18 @@ def map_url_source(url):
         return '官方网站'
 
 
-def get_district_from_text(text):
+def get_district_from_text(text, city=None):
     if not text:
         return None
     specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
+    if city and city != '深圳':
+        non_shenzhen_districts = ['南山']
+        for district in specific_districts:
+            if district in text and district not in non_shenzhen_districts:
+                return district
+        if '深圳' in text:
+            return '深圳'
+        return None
     for district in specific_districts:
         if district in text:
             return district
@@ -379,15 +421,19 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     elif source and source.startswith('http'):
         source = map_url_source(source)
 
-    venue_district = get_district_from_text(venue)
-    source_district = get_district_from_text(source)
+    venue_city = get_city_from_text(venue) or city_val
+    source_city = get_city_from_text(source) or city_val
 
-    if source and venue_district and source_district and venue_district != source_district:
+    venue_district = get_district_from_text(venue, venue_city)
+    source_district = get_district_from_text(source, source_city)
+
+    if source and source_city and venue_city and source_city != venue_city:
+        pass
+    elif source and venue_district and source_district and venue_district != source_district:
         city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
         if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
             pass
         else:
-            # source 区县与 venue 区县不匹配时，用 venue 名称作为 source
             source = venue
 
     description = fix_description(title, description, venue, category, fee)
