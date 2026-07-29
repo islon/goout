@@ -1406,6 +1406,28 @@
     "source": "龙城街道文化站"
   },
   {
+    "title": "2026年龙岗区文化馆“艺术微展厅”——坂田街道分馆四季花城社区服务点“笔蕴丹青”书画作品展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”——坂田街道分馆四季花城社区服务点“笔蕴丹青”书画作品展",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "坂田街道文化站"
+  },
+  {
     "title": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
     "name": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
     "venue": "光明区公明街道综合性文化服务中心",
@@ -29829,6 +29851,28 @@
     "source": "桃源街道综合性文化服务中心"
   },
   {
+    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "venue": "桂园街道综合文体中心(桂园街道分馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
     "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
     "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
     "venue": "坪地街道文化站",
@@ -29849,6 +29893,28 @@
     "contact": "",
     "family_friendly": true,
     "source": "坪地街道文化站"
+  },
+  {
+    "title": "2026年红色燕罗文化活动",
+    "name": "2026年红色燕罗文化活动",
+    "venue": "宝安区文化馆燕罗街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，中共深圳市宝安区燕罗街道工作委员会、深圳市宝安区燕罗街道办事处，在宝安区文化馆燕罗街道分馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆燕罗街道分馆"
   },
   {
     "title": "口风琴公益课",
@@ -29893,28 +29959,6 @@
     "contact": "",
     "family_friendly": false,
     "source": "吉华街道文化站"
-  },
-  {
-    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
-    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
-    "venue": "桂园街道综合文体中心(桂园街道分馆）",
-    "city": "shenzhen",
-    "start_date": "2026-07-29",
-    "end_date": "2026-07-29",
-    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
-    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
-    "links": [
-      {
-        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
-        "label": "活动详情"
-      }
-    ],
-    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "桂园街道综合文体中心(桂园街道分馆）"
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动",
@@ -30181,6 +30225,28 @@
     "source": "宝安图书馆"
   },
   {
+    "title": "“虹声飞扬·艺启未来”主题音乐会",
+    "name": "“虹声飞扬·艺启未来”主题音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-30",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22ef67072c814d639598ca5d8b8b4dcf",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22ef67072c814d639598ca5d8b8b4dcf",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22ef67072c814d639598ca5d8b8b4dcf",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
     "title": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训（第二十期）",
     "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训（第二十期）",
     "venue": "宝安区文化馆燕罗街道分馆",
@@ -30223,6 +30289,28 @@
     "contact": "",
     "family_friendly": true,
     "source": "坪地街道文化站"
+  },
+  {
+    "title": "2026年龙岗区文化馆坂田街道分馆四季花城社区服务点“纸间衍艺”衍纸手工体验文化志愿活动",
+    "name": "2026年龙岗区文化馆坂田街道分馆四季花城社区服务点“纸间衍艺”衍纸手工体验文化志愿活动",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-30",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c29774d1e0794d289e2f71feb7c793a1",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c29774d1e0794d289e2f71feb7c793a1",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c29774d1e0794d289e2f71feb7c793a1",
+        "label": "活动详情"
+      }
+    ],
+    "description": "非遗课堂，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坂田街道文化站"
   },
   {
     "title": "音乐赏析之《音乐之声》原声带【下午场】",
@@ -30333,6 +30421,28 @@
     "contact": "",
     "family_friendly": true,
     "source": "宝安区文化馆西乡街道分馆"
+  },
+  {
+    "title": "“弦歌琴韵·致敬经典”弦乐音乐会",
+    "name": "“弦歌琴韵·致敬经典”弦乐音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏",
@@ -30533,28 +30643,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "心理咨询",
-    "name": "心理咨询",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "link": "https://activity.nslib.cn/activity/info/11637",
-    "url": "https://activity.nslib.cn/activity/info/11637",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11637",
-        "label": "活动详情"
-      }
-    ],
-    "description": "心理咨询。南山图书馆举办。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "南图双语故事会|Go Away,Floppy",
     "name": "南图双语故事会|Go Away,Floppy",
     "venue": "南山图书馆",
@@ -30570,6 +30658,28 @@
       }
     ],
     "description": "需预约报名。南图双语故事会|Go Away,Floppy",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心理咨询",
+    "name": "心理咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11637",
+    "url": "https://activity.nslib.cn/activity/info/11637",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11637",
+        "label": "活动详情"
+      }
+    ],
+    "description": "心理咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -30798,28 +30908,6 @@
     "source": "南山图书馆"
   },
   {
-    "title": "数智课堂|光影仙子蝴蝶团扇",
-    "name": "数智课堂|光影仙子蝴蝶团扇",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-01",
-    "link": "https://activity.nslib.cn/activity/info/11727",
-    "url": "https://activity.nslib.cn/activity/info/11727",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11727",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。数智课堂|光影仙子蝴蝶团扇",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "venue": "南山图书馆",
@@ -30836,6 +30924,28 @@
     ],
     "description": "需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
     "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "数智课堂|光影仙子蝴蝶团扇",
+    "name": "数智课堂|光影仙子蝴蝶团扇",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://activity.nslib.cn/activity/info/11727",
+    "url": "https://activity.nslib.cn/activity/info/11727",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11727",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。数智课堂|光影仙子蝴蝶团扇",
+    "category": "其他",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -31057,21 +31167,21 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "法律咨询",
-    "name": "法律咨询",
+    "title": "南图沙龙·心灵 | 心有边界，方得自由",
+    "name": "南图沙龙·心灵 | 心有边界，方得自由",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
-    "link": "https://activity.nslib.cn/activity/info/11745",
-    "url": "https://activity.nslib.cn/activity/info/11745",
+    "link": "https://activity.nslib.cn/activity/info/11723",
+    "url": "https://activity.nslib.cn/activity/info/11723",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11745",
+        "url": "https://activity.nslib.cn/activity/info/11723",
         "label": "活动详情"
       }
     ],
-    "description": "法律咨询。南山图书馆举办。",
+    "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -31101,21 +31211,21 @@
     "source": "南山图书馆"
   },
   {
-    "title": "南图沙龙·心灵 | 心有边界，方得自由",
-    "name": "南图沙龙·心灵 | 心有边界，方得自由",
+    "title": "法律咨询",
+    "name": "法律咨询",
     "venue": "南山图书馆",
     "city": "shenzhen",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
-    "link": "https://activity.nslib.cn/activity/info/11723",
-    "url": "https://activity.nslib.cn/activity/info/11723",
+    "link": "https://activity.nslib.cn/activity/info/11745",
+    "url": "https://activity.nslib.cn/activity/info/11745",
     "links": [
       {
-        "url": "https://activity.nslib.cn/activity/info/11723",
+        "url": "https://activity.nslib.cn/activity/info/11745",
         "label": "活动详情"
       }
     ],
-    "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
+    "description": "法律咨询。南山图书馆举办。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
