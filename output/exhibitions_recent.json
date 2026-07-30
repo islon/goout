@@ -377,7 +377,7 @@
         "label": "活动详情"
       }
     ],
-    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《别让太阳掉下来》；主讲人：龙湘英；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
@@ -399,7 +399,7 @@
         "label": "活动详情"
       }
     ],
-    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《好疼呀，好疼呀》；主讲人：陈小英；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-27783514（活动咨询及预约电话）",
@@ -60002,6 +60002,28 @@
     "source": "福田音乐馆"
   },
   {
+    "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画巡展",
+    "name": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画巡展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1c187c87581f486d9ed5297a82bb2244",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1c187c87581f486d9ed5297a82bb2244",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1c187c87581f486d9ed5297a82bb2244",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
     "title": "抢票 | 致敬长征精神，公益儿童剧《向着光亮的地方》于8月1日深圳盐田连演两场",
     "name": "抢票 | 致敬长征精神，公益儿童剧《向着光亮的地方》于8月1日深圳盐田连演两场",
     "venue": "盐田区文化馆",
@@ -60024,6 +60046,72 @@
     "source": "盐田区文化馆"
   },
   {
+    "title": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "name": "AI 时代，你的下一步怎么走？AI 转型分享会",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=79a6b72895d14b69a4a87fc79b828ba8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=79a6b72895d14b69a4a87fc79b828ba8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=79a6b72895d14b69a4a87fc79b828ba8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
+    "title": "领展中心城暑期趣味赛事｜亲子水枪挑战赛",
+    "name": "领展中心城暑期趣味赛事｜亲子水枪挑战赛",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-02",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e1d38b0ca7045d898e9f7b2f974761e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e1d38b0ca7045d898e9f7b2f974761e",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e1d38b0ca7045d898e9f7b2f974761e",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "体育赛事",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
+  },
+  {
+    "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”人像水彩画展",
+    "name": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”人像水彩画展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad94def1802940539462ba3523312de0",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad94def1802940539462ba3523312de0",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad94def1802940539462ba3523312de0",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
     "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "name": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆马安堂社区8月艺术微展厅摄影展",
     "venue": "坂田街道文化站",
@@ -60044,6 +60132,28 @@
     "contact": "",
     "family_friendly": false,
     "source": "坂田街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”卡通油画展",
+    "name": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”卡通油画展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ed3a36f3badb499e9af47a28a3ee787d",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ed3a36f3badb499e9af47a28a3ee787d",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ed3a36f3badb499e9af47a28a3ee787d",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
   },
   {
     "title": "书海探底第646场——暑期少儿专场",
@@ -60222,28 +60332,6 @@
     "source": "南山图书馆"
   },
   {
-    "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
-    "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-01",
-    "link": "https://activity.nslib.cn/activity/info/11729",
-    "url": "https://activity.nslib.cn/activity/info/11729",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11729",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "数智课堂|光影仙子蝴蝶团扇",
     "name": "数智课堂|光影仙子蝴蝶团扇",
     "venue": "南山图书馆",
@@ -60260,6 +60348,28 @@
     ],
     "description": "需预约报名。数智课堂|光影仙子蝴蝶团扇",
     "category": "其他",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "name": "黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "link": "https://activity.nslib.cn/activity/info/11729",
+    "url": "https://activity.nslib.cn/activity/info/11729",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11729",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆",
+    "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -63322,6 +63432,50 @@
     "source": "布吉街道文化站"
   },
   {
+    "title": "Callout 粤语 Free Talking 畅所欲言，自在开麦",
+    "name": "Callout 粤语 Free Talking 畅所欲言，自在开麦",
+    "venue": "福田梦工场",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=abf1d6bb4efc46c68e9ab826fe2715f7",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=abf1d6bb4efc46c68e9ab826fe2715f7",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=abf1d6bb4efc46c68e9ab826fe2715f7",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
+  },
+  {
+    "title": "麦当劳·开心派对",
+    "name": "麦当劳·开心派对",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8253ed8fa704549a1aebb045b92f8ea",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8253ed8fa704549a1aebb045b92f8ea",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8253ed8fa704549a1aebb045b92f8ea",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田戏剧馆"
+  },
+  {
     "title": "小博士百科知识挑战擂台赛",
     "name": "小博士百科知识挑战擂台赛",
     "venue": "深圳图书馆 (深圳图书馆中心馆)",
@@ -63542,28 +63696,6 @@
     "source": "南山图书馆"
   },
   {
-    "title": "南图沙龙·心灵 | 心有边界，方得自由",
-    "name": "南图沙龙·心灵 | 心有边界，方得自由",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "https://activity.nslib.cn/activity/info/11723",
-    "url": "https://activity.nslib.cn/activity/info/11723",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11723",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "法律咨询",
     "name": "法律咨询",
     "venue": "南山图书馆",
@@ -63579,6 +63711,28 @@
       }
     ],
     "description": "法律咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "南图沙龙·心灵 | 心有边界，方得自由",
+    "name": "南图沙龙·心灵 | 心有边界，方得自由",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "link": "https://activity.nslib.cn/activity/info/11723",
+    "url": "https://activity.nslib.cn/activity/info/11723",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11723",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图沙龙·心灵 | 心有边界，方得自由",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "0755-26520380",
