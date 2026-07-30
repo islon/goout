@@ -1,5 +1,391 @@
 [
   {
+    "title": "成人书法（6节课程，需自备材料）",
+    "name": "成人书法（6节课程，需自备材料）",
+    "venue": "宝安区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆"
+  },
+  {
+    "title": "2025年桃源公益形体培训活动",
+    "name": "2025年桃源公益形体培训活动",
+    "venue": "桃源街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2025年桃源公益形体培训活动",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "桃源街道综合性文化服务中心"
+  },
+  {
+    "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
+    "venue": "桂园街道综合文体中心(桂园街道分馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "桂园街道综合文体中心(桂园街道分馆）"
+  },
+  {
+    "title": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
+    "name": "2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
+  },
+  {
+    "title": "2026年红色燕罗文化活动",
+    "name": "2026年红色燕罗文化活动",
+    "venue": "宝安区文化馆燕罗街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，中共深圳市宝安区燕罗街道工作委员会、深圳市宝安区燕罗街道办事处，在宝安区文化馆燕罗街道分馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆燕罗街道分馆"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动",
+    "name": "2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "音乐赏析之费玉清作品【下午场】",
+    "name": "音乐赏析之费玉清作品【下午场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654480&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654480&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654480&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "name": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652472&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652472&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652472&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "音乐赏析之费玉清作品【晚上场】",
+    "name": "音乐赏析之费玉清作品【晚上场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654485&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654485&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654485&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "“童心”领读：和孩子一起读童书（暑假版）",
+    "name": "“童心”领读：和孩子一起读童书（暑假版）",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《乌贼很生气》；主讲人：何琴；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话）",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "“童心”领读：婴幼儿故事会（暑假版）",
+    "name": "“童心”领读：婴幼儿故事会（暑假版）",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《小猪佩奇：才艺日，我不担心》；主讲人：周宗燕；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话）",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "启阅90｜启映拾光·快乐暑假主题《罗小黑战记2》",
+    "name": "启阅90｜启映拾光·快乐暑假主题《罗小黑战记2》",
+    "venue": "宝安图书馆 (宝安1990分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "启阅90｜图图姐姐讲故事：《请问一下，踩得到底吗？》",
+    "name": "启阅90｜图图姐姐讲故事：《请问一下，踩得到底吗？》",
+    "venue": "宝安图书馆 (宝安1990分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "清平“阅” | 图图姐姐讲故事《小猫学做饭》",
+    "name": "清平“阅” | 图图姐姐讲故事《小猫学做饭》",
+    "venue": "宝安图书馆 (宝安区图书馆新桥街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属新桥街道分馆。《小猫学做饭》：认知颜色，启发孩子爱上阅读和乐于分享。【活动地点】新桥街道分馆三楼少儿阅览区 【参与方式】现场签到参与。；地点：新桥街道分馆三楼少儿阅览区；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "万卷倾城 | 线上故事—《下雨了！》",
+    "name": "万卷倾城 | 线上故事—《下雨了！》",
+    "venue": "宝安图书馆 (宝安区图书馆航城街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属于航城街道分馆。欢迎大家收看“万卷倾城·云故事”栏目，本期故事主题《下雨了！》主讲老师：JOJO老师（航城街道分馆）剪辑：JOJO老师（航城街道分馆）审核：JOJO老师（航城街道分馆）故事简介：作品以非洲草原动物生态为背景，通过两场雨展现水循环过程。全书描绘动物争夺水资源的场景，呈现弱肉强食的自然法则与生命延续的希望，情节中乌龟与蝌蚪以猜拳决定喝水顺序成为转折。跨页设计配合河流走向，几何化动物形象融合布朗西雕塑风格，画面简洁而富有视觉张力。前后环衬的天蓝与海蓝色调形成天地循环隐喻。书中暗含蝌蚪变青蛙的成长线索，适合3岁以上儿童阅读。；方式：线上；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安图书馆"
+  },
+  {
+    "name": "武汉美术馆油画体验",
+    "venue": "武汉美术馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "fee": "收费",
+    "description": "油画入门体验，零基础完成一幅油画作品。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "油画",
+      "入门",
+      "体验"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "武汉美术馆油画体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "手作·造物——现代手工艺师生作品展",
+    "name": "手作·造物——现代手工艺师生作品展",
+    "venue": "金湾区图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-06-15",
+    "end_date": "2026-07-29",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "陶瓷、广府金绣、掐丝珐琅与非遗点翠等20余个门类的工艺美术作品在一楼中庭展出。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区图书馆",
+    "district": "其他"
+  },
+  {
     "name": "自然博物馆古生物大讲堂",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
