@@ -272,10 +272,10 @@ def render_filters_js(cities, mappings):
     # 活动持续时长筛选
     lines.append('// 活动持续时长筛选（按 end_date - start_date + 1 天数）')
     lines.append('const durationFilters = [')
+    lines.append("  { key: 'all', name: '全部时长活动' },")
     lines.append("  { key: 'week', name: '1周内' },")
     lines.append("  { key: '3months', name: '3个月内' },")
-    lines.append("  { key: 'long', name: '3个月以上' },")
-    lines.append("  { key: 'all', name: '全部' }")
+    lines.append("  { key: 'long', name: '3个月以上' }")
     lines.append('];')
     lines.append('')
 
