@@ -1,5 +1,1280 @@
 [
   {
+    "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
+    "name": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
+    "venue": "广州大剧院",
+    "city": "guangzhou",
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-31",
+    "link": "http://www.gzdjy.org/",
+    "url": "http://www.gzdjy.org/",
+    "description": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。",
+    "category": "其他",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "gzdjy",
+    "is_family_friendly": false,
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "育文游",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「育文游」小程序→向美而行",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "剧院"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "天河区"
+  },
+  {
+    "title": "万物之始·种子的远行 科普展",
+    "name": "万物之始·种子的远行 科普展",
+    "venue": "杭州植物园（展览小花园）",
+    "city": "hangzhou",
+    "start_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "持卡（公园年卡）免费入园，陈列植物实物标本、显微摄影与图文展板，直观了解种子传播方式。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "http://www.hzbg.cn/",
+    "district": "西湖区"
+  },
+  {
+    "name": "奥体中心足球夏令营",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "其他",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "足球夏令营系统训练传接球、射门与比赛战术，培养孩子运动兴趣与团队协作能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "足球",
+      "夏令营",
+      "团队协作"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "奥体中心足球夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "name": "江苏科技馆生命科学营",
+    "venue": "江苏省科学技术馆",
+    "city": "nanjing",
+    "district": "其他",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "五日生命科学营聚焦人体奥秘与基因知识，配合显微镜观察细胞、DNA模型搭建等动手实验。",
+    "source": "南京本地宝",
+    "highlights": [
+      "生命科学",
+      "显微镜",
+      "DNA"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "江苏科技馆生命科学营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "南京国防园军事夏令营",
+    "venue": "南京国防园",
+    "city": "nanjing",
+    "district": "其他",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-31",
+    "fee": "收费",
+    "description": "五日军事夏令营含队列训练、军体拳、野外拉练与战地救护，培养孩子纪律意识与自理能力。",
+    "source": "南京本地宝",
+    "highlights": [
+      "军事夏令营",
+      "军体拳",
+      "战地救护"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "南京国防园军事夏令营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "江苏公共文化云",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「江苏公共文化云」平台→南京",
+      "platform_url": null,
+      "city": "南京"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "骥跃升腾——三彩马的世界",
+    "name": "骥跃升腾——三彩马的世界",
+    "venue": "深圳博物馆（古代艺术馆）",
+    "city": "shenzhen",
+    "start_date": "2026-05-18",
+    "end_date": "2026-07-31",
+    "link": "https://www.shenzhenmuseum.com",
+    "url": "https://www.shenzhenmuseum.com",
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "唐三彩马主题特展，深圳博物馆同心路馆。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳博物馆官网"
+  },
+  {
+    "title": "《海洋奇缘：启航》迪士尼电影主题展",
+    "name": "《海洋奇缘：启航》迪士尼电影主题展",
+    "venue": "南山区深圳人才公园潮汐广场",
+    "city": "shenzhen",
+    "category": "其他",
+    "description": "描述\n\n还原莫阿娜同款航海木舟、巨型毛伊鱼钩气模、寻路花环秋千等电影场景，拍照打卡。免费免预约。地铁13号线'人才公园站'B1出口。",
+    "fee": "免费需预约",
+    "source": "南山融媒体中心",
+    "link": "http://m.toutiao.com/group/7658324154139148850/",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "contact": "",
+    "family_friendly": true,
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "district": "南山区"
+  },
+  {
+    "title": "《海洋奇缘：起航》迪士尼电影主题展",
+    "name": "《海洋奇缘：起航》迪士尼电影主题展",
+    "venue": "深圳人才公园潮汐广场",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "http://m.toutiao.com/group/7658324154139148850/",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7658324154139148850/",
+        "label": "活动详情"
+      }
+    ],
+    "description": "还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳人才公园潮汐广场",
+    "district": "其他"
+  },
+  {
+    "title": "爱阅阳台丨集印章换好礼（7月）",
+    "name": "爱阅阳台丨集印章换好礼（7月）",
+    "venue": "宝安图书馆 (宝安区图书馆石岩街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属石岩街道分馆。了帮助广大读者了解图书馆的服务，积极参与图书馆活动，以此带动市民的阅读热情，充分利用图书馆馆藏资源，石岩街道分馆特举办集印章换好礼活动。；地点：石岩街道分馆（详见活动简介）；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆"
+  },
+  {
+    "title": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
+    "name": "龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
+    "venue": "吉华街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "吉华街道文化站"
+  },
+  {
+    "title": "龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
+    "name": "龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展",
+    "venue": "吉华街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "吉华街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
+    "name": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动",
+    "name": "公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动",
+    "venue": "光明区公明街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明区公明街道综合性文化服务中心"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展—吉厦社区墨韵邻里水墨画画展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展—吉厦社区墨韵邻里水墨画画展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=573580cea7b241c795608bb4102284d3",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=573580cea7b241c795608bb4102284d3",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=573580cea7b241c795608bb4102284d3",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南湾街道文化站"
+  },
+  {
+    "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）",
+    "name": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）",
+    "venue": "横岗街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在横岗街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "横岗街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"山水风景水彩画巡展",
+    "name": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"山水风景水彩画巡展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”",
+    "name": "公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”",
+    "venue": "光明区公明街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区公明街道综合性文化服务中心"
+  },
+  {
+    "title": "公明街道文化生活·合唱团公益培训文化活动暨文化馆总分馆联动活动",
+    "name": "公明街道文化生活·合唱团公益培训文化活动暨文化馆总分馆联动活动",
+    "venue": "光明区公明街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9721ee3d6a2a4ca6b34d1497abf949ef",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9721ee3d6a2a4ca6b34d1497abf949ef",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9721ee3d6a2a4ca6b34d1497abf949ef",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区公明街道综合性文化服务中心"
+  },
+  {
+    "title": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
+    "name": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
+    "name": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
+    "venue": "吉华街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在吉华街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "吉华街道文化站"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展—厦村社区小小画笔 大大世界儿童画画展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展—厦村社区小小画笔 大大世界儿童画画展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b31149b264f7443b8da8fe73bc45e094",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b31149b264f7443b8da8fe73bc45e094",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b31149b264f7443b8da8fe73bc45e094",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南湾街道文化站"
+  },
+  {
+    "title": "2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜",
+    "name": "2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜",
+    "venue": "吉华街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在吉华街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "吉华街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
+    "name": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展",
+    "name": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "2026年龙岗区文化馆“艺术微展厅”——坂田街道分馆四季花城社区服务点“笔蕴丹青”书画作品展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”——坂田街道分馆四季花城社区服务点“笔蕴丹青”书画作品展",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "坂田街道文化站"
+  },
+  {
+    "title": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
+    "name": "公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动",
+    "venue": "光明区公明街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区公明街道综合性文化服务中心"
+  },
+  {
+    "title": "红星闪闪耀童心——线上答题活动",
+    "name": "红星闪闪耀童心——线上答题活动",
+    "venue": "深圳少年儿童图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
+    "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
+        "label": "活动详情"
+      }
+    ],
+    "description": "庆祝中国共产党成立105周年线上答题活动，寓教于乐，适合青少年参与。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳少年儿童图书馆公众号"
+  },
+  {
+    "title": "《海洋奇缘：起航》迪士尼电影主题展",
+    "name": "《海洋奇缘：起航》迪士尼电影主题展",
+    "venue": "南山区深圳人才公园潮汐广场",
+    "city": "shenzhen",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "http://m.toutiao.com/group/7658324154139148850/",
+    "url": "http://m.toutiao.com/group/7658324154139148850/",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7658324154139148850/",
+        "label": "活动详情"
+      }
+    ],
+    "description": "还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南山融媒体中心"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-02",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，深圳市龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南湾街道文化站"
+  },
+  {
+    "title": "宠·爱——猫猫狗狗的世界",
+    "name": "宠·爱——猫猫狗狗的世界",
+    "venue": "深圳博物馆（历史民俗馆）",
+    "city": "shenzhen",
+    "start_date": "2026-07-03",
+    "end_date": "2026-07-31",
+    "link": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+    "links": [
+      {
+        "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+        "label": "活动详情"
+      }
+    ],
+    "description": "汇集80件/套展品，梳理人与猫狗跨越万年的相伴历程。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科学可视、可玩、可体验。暑期延时开放至21:00。",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳博物馆官网"
+  },
+  {
+    "title": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
+    "name": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站"
+  },
+  {
+    "title": "2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展",
+    "name": "2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在坪地街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "坪地街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展",
+    "name": "【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在坂田街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坂田街道文化站"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展--南新社区服务点“黑白方寸，静物生韵”青少年素描作品展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展--南新社区服务点“黑白方寸，静物生韵”青少年素描作品展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南湾街道文化站"
+  },
+  {
+    "title": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
+    "name": "2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展",
+    "venue": "横岗街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在横岗街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "横岗街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
+    "name": "【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "2026年7月南湾街道分馆“微展厅”巡展--沙湾社区服务点“人间百态，笔底留痕”水彩速写作品展",
+    "name": "2026年7月南湾街道分馆“微展厅”巡展--沙湾社区服务点“人间百态，笔底留痕”水彩速写作品展",
+    "venue": "南湾街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2bec5b37aa3a464e952a6be9f9321c99",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2bec5b37aa3a464e952a6be9f9321c99",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2bec5b37aa3a464e952a6be9f9321c99",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在南湾街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南湾街道文化站"
+  },
+  {
+    "title": "中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "name": "中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11752",
+    "url": "https://activity.nslib.cn/activity/info/11752",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11752",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "《浪浪山小妖怪》福田“星光电影”暑期公益电影放映工作开始啦",
+    "name": "《浪浪山小妖怪》福田“星光电影”暑期公益电影放映工作开始啦",
+    "venue": "福田戏剧馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
+  },
+  {
+    "title": "“周末舞飞扬”舞蹈系列专场演出",
+    "name": "“周末舞飞扬”舞蹈系列专场演出",
+    "venue": "福田舞蹈馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3254a5cd19b94d1ab7a400b91bdf70ba",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3254a5cd19b94d1ab7a400b91bdf70ba",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3254a5cd19b94d1ab7a400b91bdf70ba",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田舞蹈馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田舞蹈馆"
+  },
+  {
+    "title": "舞动青春·绽放梦想丨2026紫涵舞蹈暑假汇演暨第四届",
+    "name": "舞动青春·绽放梦想丨2026紫涵舞蹈暑假汇演暨第四届",
+    "venue": "宝安区文化馆西乡街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=90016d2d7c6d4790835308a3bbfa5869",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=90016d2d7c6d4790835308a3bbfa5869",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=90016d2d7c6d4790835308a3bbfa5869",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，指导单位：宝安区公共文化体育服务中心（文化馆）；主办单位：宝安区西乡街道办事处、宝安区西乡街道新时代文明实践所，在宝安区文化馆西乡街道分馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆西乡街道分馆"
+  },
+  {
+    "title": "2026凤凰街道文化惠民工程系列之“水彩逐光，童趣丹青”水彩画活动",
+    "name": "2026凤凰街道文化惠民工程系列之“水彩逐光，童趣丹青”水彩画活动",
+    "venue": "凤凰街道综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=993d6db5404346768378df324db5a028",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=993d6db5404346768378df324db5a028",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=993d6db5404346768378df324db5a028",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办",
+    "category": "体育赛事",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "凤凰街道综合性文化服务中心"
+  },
+  {
+    "title": "“弦歌琴韵·致敬经典”弦乐音乐会",
+    "name": "“弦歌琴韵·致敬经典”弦乐音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
+    "title": "胭脂扣",
+    "name": "胭脂扣",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654176&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654176&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654176&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F观影厅\n地址：龙华区腾龙路30号\n备注：年龄要求：年满45周岁以上。\n参与方式：先到先得，影厅提供28个座位，观影座位不指定。",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "东方幻境之旅：《侍神令》",
+    "name": "东方幻境之旅：《侍神令》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651461&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651461&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651461&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
+    "name": "音乐赏析之拉赫玛尼诺夫作品【下午场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654501&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654501&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654501&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "艺术疗愈人生",
+    "name": "艺术疗愈人生",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642144&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642144&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=642144&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆、深圳女报杂志社\n地点：北馆 1F北书房\n地址：深圳市龙华区腾龙路30号",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "观影《哪吒之魔童闹海》",
+    "name": "观影《哪吒之魔童闹海》",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654201&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654201&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654201&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "观影《爱丽丝梦游仙境》",
+    "name": "观影《爱丽丝梦游仙境》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654205&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654205&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654205&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区多功能活动室\n地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "name": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652474&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652474&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652474&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
+    "name": "音乐赏析之拉赫玛尼诺夫作品【晚上场】",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654506&year=2026&month=7&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654506&year=2026&month=7&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654506&year=2026&month=7&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆"
+  },
+  {
+    "title": "南图双语故事会|Go Away,Floppy",
+    "name": "南图双语故事会|Go Away,Floppy",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11605",
+    "url": "https://activity.nslib.cn/activity/info/11605",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11605",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图双语故事会|Go Away,Floppy",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "心理咨询",
+    "name": "心理咨询",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "link": "https://activity.nslib.cn/activity/info/11637",
+    "url": "https://activity.nslib.cn/activity/info/11637",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11637",
+        "label": "活动详情"
+      }
+    ],
+    "description": "心理咨询。南山图书馆举办。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "童心向党——金湾区青少儿艺术花会优秀作品展",
+    "name": "童心向党——金湾区青少儿艺术花会优秀作品展",
+    "venue": "金湾区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-06-15",
+    "end_date": "2026-07-31",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "金湾区青少儿艺术花会优秀作品展，展出813件艺术感十足的青少儿艺术作品。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "金湾区文化馆",
+    "district": "其他"
+  },
+  {
     "name": "工业博物馆老厂房探秘游",
     "venue": "重庆工业博物馆",
     "city": "chongqing",
