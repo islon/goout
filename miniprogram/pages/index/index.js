@@ -247,6 +247,7 @@ Page({
   },
 
   loadData() {
+    try {
     const filters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
@@ -272,7 +273,7 @@ Page({
       }
     }
 
-    filtered.sort(function(a, b) { return a.start_date.localeCompare(b.start_date); });
+    filtered.sort(function(a, b) { return (a.start_date || '').localeCompare(b.start_date || ''); });
 
     const displayItems = buildDisplayItems(filtered);
     const totalPages = Math.ceil(displayItems.length / PAGE_SIZE) || 1;
@@ -294,9 +295,17 @@ Page({
     const self = this;
     if (this._availTimer) clearTimeout(this._availTimer);
     this._availTimer = setTimeout(function() {
-      self._availTimer = null;
-      self.updateFilterAvailability(filtered);
+      try {
+        self._availTimer = null;
+        self.updateFilterAvailability(filtered);
+      } catch (e) {
+        console.error('[童行] updateFilterAvailability 异常', e);
+      }
     }, 0);
+    } catch (err) {
+      console.error('[童行] loadData 渲染异常，已降级为空列表:', err);
+      this.setData({ totalCount: 0, totalPages: 1, currentPage: 1, pageItems: [], loading: false, emptyHint: '数据加载异常，请下拉刷新重试' });
+    }
   },
 
   // 检查筛选器是否有结果

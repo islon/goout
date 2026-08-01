@@ -304,16 +304,22 @@ App({
 
   onLaunch() {
     console.log('[童行] 启动中...');
+    var hasCache = false;
 
-    // 1. 构建场馆映射（基于当前 venues 数据）
-    this.buildVenueMap();
+    try {
+      // 1. 构建场馆映射（基于当前 venues 数据）
+      this.buildVenueMap();
 
-    // 2. 首次启动：将打包数据写入本地缓存作为基线
-    //    这样即使从未联网，后续启动也能从缓存读取较新的数据
-    this.seedCacheIfNeeded();
+      // 2. 首次启动：将打包数据写入本地缓存作为基线
+      //    这样即使从未联网，后续启动也能从缓存读取较新的数据
+      this.seedCacheIfNeeded();
 
-    // 3. 优先从本地缓存加载（无论是否过期，保证即时渲染）
-    const hasCache = this.loadFromCache();
+      // 3. 优先从本地缓存加载（无论是否过期，保证即时渲染）
+      hasCache = this.loadFromCache();
+    } catch (e) {
+      // 任何初始化异常都不应阻断页面渲染：保留打包兜底数据并继续
+      console.error('[童行] 启动初始化异常，已回退打包兜底数据:', e);
+    }
 
     if (hasCache) {
       console.log('[童行] 从本地缓存加载数据');
@@ -396,6 +402,16 @@ App({
 
     // 活动数据
     var cached = toArray(wx.getStorageSync(CACHE_KEY));
+    if (cached && cached.length > 0) {
+      // 防脏缓存：旧版本/被墙期缓存可能混入缺 start_date 的条目，
+      // 会导致首页 loadData 的 sort 崩溃而白屏。检测到即丢弃，回退打包兜底。
+      var dirty = cached.some(function(x) { return !x || !x.start_date; });
+      if (dirty) {
+        console.warn('[童行] 检测到缓存活动数据损坏(缺 start_date)，丢弃并回退打包兜底');
+        try { wx.removeStorageSync(CACHE_KEY); wx.removeStorageSync(CACHE_TIME_KEY); wx.removeStorageSync(CACHE_PARTIAL_KEY); } catch (e) {}
+        cached = null;
+      }
+    }
     if (cached && cached.length > 0) {
       precomputeDerived(cached); // 旧缓存可能未含派生字段，补齐以保证筛选 O(1)
       this.globalData.exhibitions = cached;
