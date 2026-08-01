@@ -181,14 +181,20 @@ def validate_and_fix_activity(activity):
     source = activity.get('source', '')
     venue = activity.get('venue', '')
     city_val = activity.get('city', '')
+    # URL 来源（政府/官网）属于市级来源，本身不携带区县信息，不强制区县匹配
+    is_url_source = isinstance(source, str) and (
+        source.startswith('http://') or source.startswith('https://'))
     source_dist = get_district(source)
     venue_dist = get_district(venue)
     source_city = get_city_from_text(source)
     venue_city = get_city_from_text(venue)
-    if source_city and venue_city and source_city != venue_city:
-        pass
+    if is_url_source:
+        pass  # 市级 URL 来源，跳过区县匹配校验
+    elif source_city and venue_city and source_city != venue_city:
+        pass  # 跨城市来源，不强制区县匹配
     elif source_dist and venue_dist and source_dist != venue_dist:
-        pass
+        # source 与 venue 区县不匹配时，以 venue 实际所在区县为准修正 source
+        activity['source'] = venue
 
     if 'family_friendly' not in activity:
         activity['family_friendly'] = is_family_friendly(
