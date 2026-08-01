@@ -90,8 +90,8 @@ const feeFilters = [
 // 活动持续时长筛选（按 end_date - start_date + 1 天数）
 const durationFilters = [
   { key: 'week', name: '1周内' },
-  { key: '3months', name: '3月内' },
-  { key: 'long', name: '3月以上' },
+  { key: '3months', name: '3个月内' },
+  { key: 'long', name: '3个月以上' },
   { key: 'all', name: '全部' }
 ];
 

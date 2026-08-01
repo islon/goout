@@ -1412,10 +1412,10 @@
 
     <div class="filter-section-mobile">
         <div class="filter-bar" id="duration-filter-bar">
-            <button class="filter-btn" data-duration="week">1周内</button>
-            <button class="filter-btn" data-duration="3months">3月内</button>
-            <button class="filter-btn" data-duration="long">3月以上</button>
-            <button class="filter-btn" data-duration="all">全部</button>
+            <button class="filter-btn" data-duration="week" title="持续7天及以内的活动">1周内</button>
+            <button class="filter-btn" data-duration="3months" title="持续90天及以内的活动">3个月内</button>
+            <button class="filter-btn" data-duration="long" title="持续超过90天的活动">3个月以上</button>
+            <button class="filter-btn" data-duration="all" title="不限活动持续时长">全部</button>
         </div>
     </div>
 
@@ -1619,11 +1619,12 @@
 
             <div class="sidebar-card">
                 <div class="sidebar-title">⏳ 活动持续时长</div>
+                <div style="font-size: 11px; color: var(--text-muted); margin-bottom: 8px;">按活动从开始到结束的总天数筛选</div>
                 <div class="filter-bar" id="sidebar-duration-filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-duration="week">1周内</button>
-                    <button class="filter-btn" data-duration="3months">3月内</button>
-                    <button class="filter-btn" data-duration="long">3月以上</button>
-                    <button class="filter-btn" data-duration="all">全部</button>
+                    <button class="filter-btn" data-duration="week" title="持续7天及以内">1周内</button>
+                    <button class="filter-btn" data-duration="3months" title="持续90天及以内">3个月内</button>
+                    <button class="filter-btn" data-duration="long" title="持续超过90天">3个月以上</button>
+                    <button class="filter-btn" data-duration="all" title="不限时长">全部</button>
                 </div>
             </div>
 
