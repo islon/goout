@@ -198,5 +198,15 @@
     "data_quality_issues_fixed": 0,
     "lessons_learned": "1. 本日数据管线正常运行：文化馆云平台(48条)、深圳图书馆(325条)、深圳会展中心(27条)、深圳国际会展中心(56条)、南山图书馆(10条)、南山博物馆(5条)、宝安图书馆(10条)等10个爬虫成功获取数据。2. 20+个gov.cn爬虫因SSL BAD_ECPOINT失败，manual_data.json提供149条补充数据。3. 数据管线输出scripts/output/exhibitions.json仅729条，而根output/exhibitions.json有6211条，两者存在差异。根文件是累积数据，管线输出是当日抓取。4. 采用key-based merge策略合并：以根数据为基础，用管线的新鲜数据更新匹配记录(key: name+venue+start_date)，新增118条活动。5. 合并后6329条(1387深圳+4942其他)，深圳数据100%合格：0 fee问题、0 description过短、0区县不匹配、0 link缺失。6. 巡检报告#179显示0严重错误0一般问题，4346条优化建议为非深圳城市缺link，属建议级别。7. 微信爬虫获取0篇文章，搜狗渠道持续失效。8. Issue #179已关闭，#172(小程序二维码)为用户反馈保持open。",
     "improvement_ideas": "1. 建议在data_pipeline.py中增加合并逻辑：管线运行后自动将新鲜数据与根output/exhibitions.json按key合并，而非仅输出到scripts/output/。2. 建议为非深圳城市建立场馆→官网链接映射表，批量补全4346条缺link问题。3. gov.cn SSL BAD_ECPOINT问题持续，建议推广http_utils.py的curl_get方案。4. 建议探索微信数据采集替代方案(开放平台API/小程序接口)。5. 建议将key-based merge逻辑封装为独立脚本(update_root_data.py)，每次管线运行后自动执行。6. 建议为深圳音乐厅、光明文化艺术中心等高频手动添加场馆编写自动爬虫。7. 建议增加活动过期自动清理机制。8. 建议将数据质量校验集成到CI中。"
+  },
+  {
+    "date": "2026-08-02",
+    "activities_total": 6267,
+    "issues_closed": 2,
+    "issues_remaining": 1,
+    "new_activities_added": 0,
+    "data_quality_issues_fixed": 0,
+    "lessons_learned": "1. 本日Open Issues共3个：#180(8/1巡检报告data-quality)、#181(8/2巡检报告data-quality)、#172(小程序二维码非数据问题)。关闭了2个巡检报告，剩余1个#172非数据问题保持open。2. 未发现new-event-discovery标签的issue，无需手动添加新活动。3. 数据管线串行执行时易因单个爬虫挂起导致整体超时，本次使用ThreadPoolExecutor(max_workers=6) + 每个爬虫45秒超时保护的健壮运行器，成功运行了所有38个爬虫，不会因个别爬虫卡住整体流程。4. 深圳图书馆(scraper_szlib)数据量大(496条raw)，在并行+45秒超时策略下被截断，需要单独以更长超时(300秒)补跑后手动合并，回写output/exhibitions.json并重新生成ICS、RSS、分城市文件。5. 成功运行的爬虫(9个)：文化馆云平台(36条)、南山图书馆(10条)、南山博物馆(5条)、南山区青少年活动中心(1条)、深圳会展中心(27条)、深圳国际会展中心(56条)、宝安图书馆(10条)、手动数据(155条)、珠海数据(88条)。新抓取去重后364条，与其他城市数据合并后6365条，再加上补跑的深圳图书馆310条替换旧的247条后，最终6267条。6. 25个gov.cn爬虫因SSL BAD_ECPOINT错误失败，是TLS握手层问题，requests/urllib3即使verify=False也无法解决，只能通过http_utils.py的curl_get子进程方案绕过。7. 微信爬虫搜狗搜索渠道持续失效，社交平台采集能力仍为0。8. 数据质量100%合格：0 fee问题、0 description过短、0区县匹配错误、深圳1325条活动100%有官方来源链接。9. 4387条优化建议全部为非深圳城市（成都/武汉/西安/重庆/南京500条×5市+其他）缺失link/url，属于建议级别不影响核心数据。",
+    "improvement_ideas": "1. 将ThreadPoolExecutor + per-scraper timeout策略正式集成到data_pipeline.py，替换当前的串行执行模式，避免每次手动创建健壮运行器。2. 为深圳图书馆scraper单独增加timeout=180配置或将其改用http_utils.curl_get方案，使其能在并行模式下正常完成而不被截断。3. 为所有使用requests.get/post访问gov.cn的25个scraper批量替换为http_utils.curl_get/curl_post，从根本上解决SSL BAD_ECPOINT问题（参考scraper_culture_cloud.py的实现）。4. 为非深圳城市的4387条缺失link活动建立场馆→官网链接的自动映射表（类似district_map.py），在数据管线末尾的normalize阶段按城市+场馆匹配自动补全，降低巡检报告优化建议数量。5. 探索微信数据采集替代方案：微信开放平台API、微信小程序数据接口、或公众号RSS订阅服务，取代当前失效的搜狗搜索渠道。6. 为深圳音乐厅、光明文化艺术中心、深圳戏院、福田美术馆、何香凝美术馆、深圳美术馆等高频手动添加场馆编写自动化爬虫脚本，减少对manual_data.json的依赖。7. 增加活动过期自动清理机制：在normalize前比较end_date与当前日期，自动移除已过期30天以上的深圳活动，避免exhibitions.json无限膨胀。8. 将fee标准化、description补全、区县匹配、link自动补全这四合一的数据质量校验集成到GitHub Actions CI流水线，每次提交自动运行并阻断质量退化的PR。9. 可将scraper_culture_cloud的分页逻辑优化为pageTotal后自动停止（目前第2页起重复），减少无效API请求。"
   }
 ]
