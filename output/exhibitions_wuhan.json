@@ -3458,7 +3458,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉杂技厅暑期杂技专场",
@@ -4635,7 +4636,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北省科学技术馆人工智能体验",
@@ -7027,7 +7029,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉博物馆陶瓷修复体验",
@@ -8281,7 +8284,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北省科学技术馆数学奥秘探秘",
@@ -9350,7 +9354,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北省博物馆小小讲解员夏令营",
@@ -11096,7 +11101,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉图书馆诗词大会",
@@ -12539,7 +12545,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北美术馆当代艺术展",
@@ -13946,7 +13953,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉全民健身中心轮滑",
@@ -15092,7 +15100,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中山公园夏日游园会",
@@ -15707,7 +15716,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉玛雅海滩水公园夜场嗨玩",
@@ -16211,7 +16221,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "盘龙城遗址博物院文明探源讲座",
@@ -16529,7 +16540,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "东湖夜游灯光秀",
@@ -16810,7 +16822,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "体验武汉江汉区展览嘉年华",
@@ -16864,7 +16877,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "东湖绿道亲子骑行活动",
@@ -18227,7 +18241,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026en王翊恩「LISTEN」个人巡回演唱会-武汉收官站",
@@ -18243,7 +18258,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉渡江节方队演练",

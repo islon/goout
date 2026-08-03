@@ -167,7 +167,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坂田街道文化站"
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -356,7 +357,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "斗门区文化馆粤剧表演",
@@ -373,7 +375,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "其他"
   },
   {
     "title": "第六届IDEA!想法——叙事艺术展",
@@ -409,6 +412,28 @@
     },
     "verified": true,
     "district": "其他"
+  },
+  {
+    "title": "冬病夏治正当时，马峦社区三伏贴义诊",
+    "name": "冬病夏治正当时，马峦社区三伏贴义诊",
+    "venue": "马峦社区公共文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-04",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，公共文化服务中心，在马峦社区公共文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "马峦社区公共文化服务中心"
   },
   {
     "title": "四季倒影：光之镜中的自然——赫利顿·希夏个展",
@@ -518,7 +543,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北省博物馆楚国漆器手工坊",
@@ -572,7 +598,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026周杰伦南京演唱会开票时间",
@@ -588,7 +615,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "朝天宫虎踞龙盘研学营",
@@ -760,7 +788,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "东湖OP级帆船培训",
@@ -850,7 +879,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "墨彩童年——王明明、方楚雄儿童画作品特展",
@@ -975,7 +1005,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "宗师列传·唐宋八大家 主题全国美术作品邀请展",
@@ -1064,7 +1095,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "成都糖酒会酒店展和展会展的区别2026",
@@ -1080,7 +1112,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -1409,7 +1442,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "其他"
   },
   {
     "title": "横琴口岸免税购物节",
@@ -1426,7 +1460,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴口岸"
+    "source": "横琴口岸",
+    "district": "其他"
   },
   {
     "title": "华发商都夏日文化市集",
@@ -1443,7 +1478,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华发商都"
+    "source": "华发商都",
+    "district": "其他"
   },
   {
     "title": "星辰足迹——月背之约航天主题展",
@@ -1459,7 +1495,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科学技术馆官网"
+    "source": "中国科学技术馆官网",
+    "district": "朝阳区"
   },
   {
     "title": "二十四伎乐 器乐剧美学展",
@@ -1547,7 +1584,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "玛雅海滩水上电音节",
@@ -1636,7 +1674,8 @@
     "fee": "免费",
     "contact": "廖小姐  138 7439 4113",
     "family_friendly": false,
-    "source": "shenzhen_world"
+    "source": "shenzhen_world",
+    "district": "宝安区"
   },
   {
     "title": "国防科普博览会暨军迷嘉年华",
@@ -1674,7 +1713,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南山植物园兰花精品展",
@@ -1838,7 +1878,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "三灶镇文化中心"
+    "source": "三灶镇文化中心",
+    "district": "其他"
   },
   {
     "title": "横琴湿地公园自然教育活动",
@@ -1855,7 +1896,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴湿地公园"
+    "source": "横琴湿地公园",
+    "district": "其他"
   },
   {
     "title": "聆听历史回响 开启时代新章——习近平文化思想引领博物馆事业高质量发展",
@@ -1871,7 +1913,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "少儿编程启蒙课",
@@ -2439,7 +2482,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "其他"
   },
   {
     "title": "珠海工人文化宫职工文化节",
@@ -2456,7 +2500,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海市工人文化宫"
+    "source": "珠海市工人文化宫",
+    "district": "其他"
   },
   {
     "name": "五台山体育中心跆拳道",
@@ -2980,7 +3025,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -3132,7 +3178,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网"
+    "source": "京报网",
+    "district": "东城区"
   },
   {
     "title": "烟火指数·成都双年展",
@@ -4218,7 +4265,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市青少年妇女儿童活动中心"
+    "source": "珠海市青少年妇女儿童活动中心",
+    "district": "其他"
   },
   {
     "title": "金湾体育中心暑期游泳班",
@@ -4235,7 +4283,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾体育中心"
+    "source": "金湾体育中心",
+    "district": "其他"
   },
   {
     "title": "斗门体育中心暑期运动营",
@@ -4252,7 +4301,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门体育中心"
+    "source": "斗门体育中心",
+    "district": "其他"
   },
   {
     "title": "井岸镇文化中心社区活动",
@@ -4269,7 +4319,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "井岸镇文化中心"
+    "source": "井岸镇文化中心",
+    "district": "其他"
   },
   {
     "name": "三圣花乡花艺手作课堂",
@@ -4483,7 +4534,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "其他"
   },
   {
     "name": "白鹭湾湿地夏日观鹭",
@@ -4537,7 +4589,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "title": "读剧公益班",
@@ -7958,7 +8011,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "陕西历史博物馆官网"
+    "source": "陕西历史博物馆官网",
+    "district": "其他"
   },
   {
     "title": "北京水长城暑期活动",
@@ -8010,7 +8064,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "故宫博物院"
+    "source": "故宫博物院",
+    "district": "东城区"
   },
   {
     "title": "成都欢乐谷 夏浪狂欢节",
@@ -8961,7 +9016,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆"
+    "source": "广东省博物馆",
+    "district": "天河区"
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -8977,7 +9033,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东美术馆"
+    "source": "广东美术馆",
+    "district": "越秀区"
   },
   {
     "title": "孙中山大元帅府纪念馆暑期延时开放",
@@ -8993,7 +9050,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆"
+    "source": "孙中山大元帅府纪念馆",
+    "district": "海珠区"
   },
   {
     "title": "虫友：寻访甲虫世界",
@@ -9009,7 +9067,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "天河区"
   },
   {
     "title": "虫友——寻访甲虫世界",
@@ -10597,7 +10656,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "district": "其他"
   },
   {
     "title": "珠海国际会展中心暑期展览",
@@ -10614,7 +10674,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "district": "其他"
   },
   {
     "title": "金湾区文化馆非遗体验活动",
@@ -10631,7 +10692,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "其他"
   },
   {
     "title": "珠海博物馆夜间开放活动",
@@ -10648,7 +10710,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "斗门非遗展示馆水上婚嫁展示",
@@ -10665,7 +10728,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门非遗展示馆"
+    "source": "斗门非遗展示馆",
+    "district": "其他"
   },
   {
     "title": "呀路古热带植物园第十一届泼水节",
@@ -10716,7 +10780,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "新华网"
+    "source": "新华网",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -10732,7 +10797,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -10748,7 +10814,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -10764,7 +10831,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆"
+    "source": "北京天文馆",
+    "district": "西城区"
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -10780,7 +10848,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "district": "东城区"
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -10796,7 +10865,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "西城区"
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -10812,7 +10882,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "西城区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -10828,7 +10899,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "丰台区"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -10844,7 +10916,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都图书馆"
+    "source": "首都图书馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -10860,7 +10933,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -10876,7 +10950,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "北京动物园暑期活动",
@@ -10892,7 +10967,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京动物园"
+    "source": "北京动物园",
+    "district": "西城区"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -10908,7 +10984,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "天坛公园"
+    "source": "天坛公园",
+    "district": "东城区"
   },
   {
     "title": "颐和园暑期活动",
@@ -10924,7 +11001,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园"
+    "source": "颐和园",
+    "district": "海淀区"
   },
   {
     "title": "圆明园考古·少年行",
@@ -10940,7 +11018,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明园"
+    "source": "圆明园",
+    "district": "海淀区"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -10956,7 +11035,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -10972,7 +11052,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "首都博物馆暑期展览",
@@ -10988,7 +11069,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -11004,7 +11086,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京环球度假区"
+    "source": "北京环球度假区",
+    "district": "通州区"
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -11020,7 +11103,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京欢乐谷"
+    "source": "北京欢乐谷",
+    "district": "朝阳区"
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -11036,7 +11120,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科展教坊专题课程",
@@ -11052,7 +11137,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科剧院科学剧场",
@@ -11068,7 +11154,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "西岭雪山 暑期避暑季（后山滑雪场景区免票）",
@@ -11298,7 +11385,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网"
+    "source": "南方网",
+    "district": "番禺区"
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -11314,7 +11402,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "天河区"
   },
   {
     "title": "广州青少年科技馆暑期互动体验",
@@ -11330,7 +11419,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "title": "广州地铁博物馆暑期体验",
@@ -11346,7 +11436,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -11362,7 +11453,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -11378,7 +11470,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆"
+    "source": "广州博物馆",
+    "district": "越秀区"
   },
   {
     "title": "广州动物园暑期研学活动",
@@ -11394,7 +11487,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园"
+    "source": "广州动物园",
+    "district": "越秀区"
   },
   {
     "title": "广州海洋馆暑期活动",
@@ -11410,7 +11504,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆"
+    "source": "广州海洋馆",
+    "district": "越秀区"
   },
   {
     "title": "请到粤图过暑假——300余场暑期阅读推广活动",
@@ -11426,7 +11521,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报"
+    "source": "羊城晚报",
+    "district": "越秀区"
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -11442,7 +11538,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "南越王博物院王宫展区暑期延长开放",
@@ -11458,7 +11555,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院"
+    "source": "南越王博物院",
+    "district": "越秀区"
   },
   {
     "title": "科普广图·2026“探海无疆”系列科普活动",
@@ -11546,7 +11644,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江自然博物院"
+    "source": "浙江自然博物院",
+    "district": "拱墅区"
   },
   {
     "title": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
@@ -11706,7 +11805,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -11722,7 +11822,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博"
+    "source": "杭州博物馆官方微博",
+    "district": "上城区"
   },
   {
     "title": "银杏湖乐园 暑期亲子",
@@ -11923,7 +12024,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -11939,7 +12041,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼乐园夏日缤纷主题体验",
@@ -12063,7 +12166,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -12079,7 +12183,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "长宁区"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -12095,7 +12200,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "杨浦区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -12111,7 +12217,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "徐汇区"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -12127,7 +12234,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -12143,7 +12251,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海昌海洋公园"
+    "source": "上海海昌海洋公园",
+    "district": "浦东新区"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -12159,7 +12268,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆"
+    "source": "上海天文馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -12175,7 +12285,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆"
+    "source": "上海海洋水族馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -12191,7 +12302,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园"
+    "source": "上海迪士尼乐园",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -12207,7 +12319,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园"
+    "source": "上海乐高乐园",
+    "district": "金山区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -12223,7 +12336,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -12239,7 +12353,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -12318,7 +12433,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报（宝安区）"
+    "source": "深圳特区报（宝安区）",
+    "district": "宝安区"
   },
   {
     "title": "笔墨颂党恩・奋进新征程 —— 庆祝建党 105 周年主题书画展",
@@ -12692,7 +12808,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）"
+    "source": "凤凰网深圳（宝安区）",
+    "district": "宝安区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13004,7 +13121,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆"
+    "source": "宝安图书馆",
+    "district": "宝安区"
   },
   {
     "title": "\"跟着文化馆学非遗\"暑期活动",
@@ -13048,7 +13166,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区委宣传部"
+    "source": "宝安区委宣传部",
+    "district": "宝安区"
   },
   {
     "title": "第四届「宝安杯」全国中小学围棋校际联赛",
@@ -13086,7 +13205,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum"
+    "source": "nsmuseum",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13360,7 +13480,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13382,7 +13503,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13404,7 +13526,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13426,7 +13549,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13448,7 +13572,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -13470,7 +13595,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画巡展",
@@ -13510,6 +13636,28 @@
       }
     ],
     "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"水彩花卉巡展",
+    "name": "【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城\"水彩花卉巡展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cab39c84b654422c847e674635357c78",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cab39c84b654422c847e674635357c78",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cab39c84b654422c847e674635357c78",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在龙城街道文化站举办",
     "category": "展览",
     "fee": "免费",
     "contact": "",
@@ -13602,7 +13750,8 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆"
+    "source": "南山博物馆",
+    "district": "南山区"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -14618,7 +14767,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "district": "其他"
   },
   {
     "title": "珠海市文化馆公益艺术培训",
@@ -14640,7 +14790,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "其他"
   },
   {
     "title": "香山文化艺术中心暑期展览",
@@ -14657,7 +14808,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "district": "其他"
   },
   {
     "title": "圆明新园夏日文化游园会",
@@ -14674,7 +14826,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明新园"
+    "source": "圆明新园",
+    "district": "其他"
   },
   {
     "title": "海滨公园亲子户外活动",
@@ -14691,7 +14844,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海海滨公园"
+    "source": "珠海海滨公园",
+    "district": "其他"
   },
   {
     "title": "汤臣倍健透明工厂参观",
@@ -14713,7 +14867,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "汤臣倍健透明工厂"
+    "source": "汤臣倍健透明工厂",
+    "district": "其他"
   },
   {
     "title": "海泉湾夏日温泉度假活动",
@@ -14735,7 +14890,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海海泉湾度假区"
+    "source": "珠海海泉湾度假区",
+    "district": "其他"
   },
   {
     "title": "斗门旧街历史文化游览",
@@ -14752,7 +14908,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门旧街"
+    "source": "斗门旧街",
+    "district": "其他"
   },
   {
     "title": "金台寺夏日祈福活动",
@@ -14769,7 +14926,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金台寺"
+    "source": "金台寺",
+    "district": "其他"
   },
   {
     "title": "御温泉夏日亲子活动",
@@ -14786,7 +14944,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "district": "其他"
   },
   {
     "title": "珠海长隆海洋王国夏日狂欢节",
@@ -14808,7 +14967,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "其他"
   },
   {
     "title": "长隆海洋幻彩烟花秀",
@@ -14830,7 +14990,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "其他"
   },
   {
     "title": "长隆飞船乐园宇宙探索之旅",
@@ -14852,7 +15013,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆飞船乐园"
+    "source": "珠海长隆飞船乐园",
+    "district": "其他"
   },
   {
     "title": "长隆横琴剧院《长隆秀》",
@@ -14874,7 +15036,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆横琴剧院"
+    "source": "珠海长隆横琴剧院",
+    "district": "其他"
   },
   {
     "title": "横琴金融岛夜景游览",
@@ -14891,7 +15054,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴金融岛"
+    "source": "横琴金融岛",
+    "district": "其他"
   },
   {
     "title": "斗门区图书馆暑期阅读活动",
@@ -14908,7 +15072,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区图书馆"
+    "source": "斗门区图书馆",
+    "district": "其他"
   },
   {
     "title": "梅溪牌坊历史文化讲解",
@@ -14925,7 +15090,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅溪牌坊"
+    "source": "梅溪牌坊",
+    "district": "其他"
   },
   {
     "title": "金湾区图书馆暑期阅读营",
@@ -14942,7 +15108,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "其他"
   },
   {
     "title": "星乐度露营小镇夏日露营节",
@@ -14964,7 +15131,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "星乐度露营小镇"
+    "source": "星乐度露营小镇",
+    "district": "其他"
   },
   {
     "title": "珠海博物馆暑期亲子讲解活动",
@@ -14981,7 +15149,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "金湾艺术中心夏季演出季",
@@ -14998,7 +15167,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "金湾艺术中心"
+    "source": "金湾艺术中心",
+    "district": "其他"
   },
   {
     "title": "横琴花海长廊骑行活动",
@@ -15015,7 +15185,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴花海长廊"
+    "source": "横琴花海长廊",
+    "district": "其他"
   },
   {
     "title": "珠海市文化馆书画展览",
@@ -15037,7 +15208,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "其他"
   },
   {
     "title": "长隆飞船乐园亲子科学实验秀",
@@ -15059,7 +15231,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆飞船乐园"
+    "source": "珠海长隆飞船乐园",
+    "district": "其他"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -15075,7 +15248,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻"
+    "source": "潮新闻",
+    "district": "西湖区"
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -15091,7 +15265,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网"
+    "source": "人民网",
+    "district": "长宁区"
   },
   {
     "name": "陕西科技馆力学科普秀",
@@ -16519,7 +16694,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网"
+    "source": "京报网",
+    "district": "东城区"
   },
   {
     "name": "平乐古镇竹海探秘",
@@ -19064,7 +19240,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明文化艺术中心"
+    "source": "光明文化艺术中心",
+    "district": "光明区"
   },
   {
     "title": "大运河研学与风筝手工",
@@ -21621,7 +21798,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京海洋馆"
+    "source": "北京海洋馆",
+    "district": "西城区"
   },
   {
     "title": "草坪游乐与户外亲子运动会",
@@ -22110,7 +22288,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "其他"
   },
   {
     "title": "当代艺术邀请展",
@@ -22127,7 +22306,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "district": "其他"
   },
   {
     "title": "非遗剪纸皮影手工与少儿合唱公益课",
@@ -22509,7 +22689,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -22525,7 +22706,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆"
+    "source": "上海美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -22541,7 +22723,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -22623,7 +22806,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "中国国家博物馆 巴西魂——波尔蒂纳里艺术展",
@@ -22711,7 +22895,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "越秀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -22727,7 +22912,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "name": "杭州西湖荷花展",
@@ -22889,7 +23075,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局"
+    "source": "杭州市文旅局",
+    "district": "拱墅区"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -23285,7 +23472,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都之窗"
+    "source": "首都之窗",
+    "district": "西城区"
   },
   {
     "title": "跨越山海——寻找东西方传说中的奇幻生物",
@@ -23337,7 +23525,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "天河区"
   },
   {
     "title": "PINGU 45周年南极奇境全球艺术家群展",
@@ -23389,7 +23578,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "其他"
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -23843,7 +24033,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "越秀区"
   },
   {
     "title": "相无古今——石窟艺术超感沉浸体验",
@@ -23859,7 +24050,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "district": "西湖区"
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -24976,7 +25168,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）"
+    "source": "凤凰网深圳（宝安区）",
+    "district": "宝安区"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -40505,7 +40698,7 @@
     "name": "公明麒麟文化公园",
     "venue": "公明麒麟文化公园（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "公明麒麟文化绿地",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41000,7 +41193,7 @@
     "name": "光明街道文化中心",
     "venue": "光明街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41033,7 +41226,7 @@
     "name": "公明街道文化中心",
     "venue": "公明街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41066,7 +41259,7 @@
     "name": "新湖街道文化中心",
     "venue": "新湖街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41099,7 +41292,7 @@
     "name": "凤凰街道文化中心",
     "venue": "凤凰街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41132,7 +41325,7 @@
     "name": "玉塘街道文化中心",
     "venue": "玉塘街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -41165,7 +41358,7 @@
     "name": "马田街道文化中心",
     "venue": "马田街道文化中心（光明区）",
     "city": "shenzhen",
-    "district": "其他",
+    "district": "光明区",
     "type": "街道文化中心",
     "start_date": "2026-07-19",
     "end_date": "2026-12-31",
@@ -45520,7 +45713,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "传统艺文和民俗文化展",
@@ -45537,7 +45731,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "共同的记忆——珠海城市变迁展",
@@ -45554,7 +45749,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "district": "其他"
   },
   {
     "title": "珠海规划展览馆城市记忆展",
@@ -45571,7 +45767,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海规划展览馆"
+    "source": "珠海规划展览馆",
+    "district": "其他"
   },
   {
     "title": "国家方志馆大湾区记忆展",
@@ -45588,7 +45785,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家方志馆"
+    "source": "国家方志馆",
+    "district": "其他"
   },
   {
     "title": "景山公园缆车观景体验",
@@ -45605,7 +45803,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "景山公园"
+    "source": "景山公园",
+    "district": "西城区"
   },
   {
     "title": "金湾区图书馆「云」自习室体验",
@@ -45622,7 +45821,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "其他"
   },
   {
     "title": "金湾区博物馆林伟民主题陈列展",
@@ -45639,7 +45839,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "其他"
   },
   {
     "title": "金湾文物展",
@@ -45656,7 +45857,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "其他"
   },
   {
     "title": "斗门区博物馆历史展",
@@ -45673,7 +45875,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区博物馆"
+    "source": "斗门区博物馆",
+    "district": "其他"
   },
   {
     "title": "哦吼！火星——火星探测与未来生活体验展",
@@ -45689,7 +45892,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆官网"
+    "source": "北京天文馆官网",
+    "district": "西城区"
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -63815,7 +64019,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网"
+    "source": "上海博物馆官网",
+    "district": "黄浦区"
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -64694,7 +64899,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "广州广州少年儿童图书馆研学-95",
@@ -65498,7 +65704,30 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "桂粤少年⺠乐汇——广⻄少儿国乐剧《刘三姐》公益展演",
+    "name": "桂粤少年⺠乐汇——广⻄少儿国乐剧《刘三姐》公益展演",
+    "venue": "宝安区文化馆西乡街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，支持单位：中共深圳市宝安区委统战部 深圳市宝安区公共文化体育服务中心 。主办单位：广西文化艺术中心广西文化艺术中心，在宝安区文化馆西乡街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆西乡街道分馆"
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（一）",
@@ -66300,7 +66529,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "district": "其他"
   },
   {
     "title": "阅读绘本与暑期研学",
@@ -66504,7 +66734,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "锦里灯谜会亲子日",
@@ -66972,7 +67203,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "花城百花开——广州非物质文化遗产展",
@@ -67722,6 +67954,50 @@
     "category": "体育赛事"
   },
   {
+    "title": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”美术展",
+    "name": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”美术展",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=64ced58b721b42c0b4c6cde6cd5e9638",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=64ced58b721b42c0b4c6cde6cd5e9638",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=64ced58b721b42c0b4c6cde6cd5e9638",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "2026年光明街道白花社区手链串珠手工活动",
+    "name": "2026年光明街道白花社区手链串珠手工活动",
+    "venue": "白花社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "白花社区综合性文化服务中心"
+  },
+  {
     "title": "悦创手工课：爱丽丝漫游奇境（二）",
     "name": "悦创手工课：爱丽丝漫游奇境（二）",
     "venue": "深圳图书馆 (深圳图书馆北馆)",
@@ -68450,7 +68726,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "district": "其他"
   },
   {
     "name": "恭王府博物馆",
@@ -68615,7 +68892,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "海昌极地海洋公园海豚互动",
@@ -68967,7 +69245,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -69541,7 +69820,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京图书馆亲子阅读会",
@@ -70176,28 +70456,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "南图创客空间丨摩斯密码机",
-    "name": "南图创客空间丨摩斯密码机",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-06",
-    "end_date": "2026-08-06",
-    "link": "https://activity.nslib.cn/activity/info/11730",
-    "url": "https://activity.nslib.cn/activity/info/11730",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11730",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。南图创客空间丨摩斯密码机",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "数智课堂·生活解码：科技与日常的奇妙碰撞",
     "name": "数智课堂·生活解码：科技与日常的奇妙碰撞",
     "venue": "南山图书馆",
@@ -70213,6 +70471,28 @@
       }
     ],
     "description": "需预约报名。数智课堂·生活解码：科技与日常的奇妙碰撞",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "南图创客空间丨摩斯密码机",
+    "name": "南图创客空间丨摩斯密码机",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-06",
+    "link": "https://activity.nslib.cn/activity/info/11730",
+    "url": "https://activity.nslib.cn/activity/info/11730",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11730",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。南图创客空间丨摩斯密码机",
     "category": "科普活动",
     "fee": "免费",
     "contact": "0755-26520380",
@@ -70886,7 +71166,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "三峡博物馆陶瓷修复体验课",
@@ -71239,7 +71520,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "杭州图书馆亲子阅读季",
@@ -71556,7 +71838,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "明孝陵世界遗产研学",
@@ -71684,7 +71967,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "让·努维尔：建筑在不朽中消失",
@@ -71887,7 +72171,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026（秋）深圳国际家居软装博览会",
@@ -71903,7 +72188,30 @@
     "fee": "免费",
     "contact": "深圳市博奥展览有限公司 何女士 0757-82363293",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "szcec",
+    "district": "福田区"
+  },
+  {
+    "title": "“虹声飞扬，艺启未来”主题音乐会",
+    "name": "“虹声飞扬，艺启未来”主题音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=605332d8a07346e9a1750b97b6eed813",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=605332d8a07346e9a1750b97b6eed813",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=605332d8a07346e9a1750b97b6eed813",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
   },
   {
     "title": "马安堂社区暑期夏令营--“财富流沙盘推演”儿童财商启导与生涯规划体验",
@@ -72574,7 +72882,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "重庆欢乐谷过山车挑战赛",
@@ -73073,7 +73382,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京云锦博物馆织造体验",
@@ -73428,7 +73738,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "周末亲子阅读分享会(第二期)",
@@ -73450,7 +73761,52 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "文化馆云平台"
+    "source": "文化馆云平台",
+    "district": "其他"
+  },
+  {
+    "title": "“声生不息·唱响华美”2026第五届“华美好声音”歌唱大赛复赛",
+    "name": "“声生不息·唱响华美”2026第五届“华美好声音”歌唱大赛复赛",
+    "venue": "坪山区文化馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=94dae5cf95b7446c937a5a34cb5ad23b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=94dae5cf95b7446c937a5a34cb5ad23b",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=94dae5cf95b7446c937a5a34cb5ad23b",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，深圳市华美兴泰科技股份有限公司，在坪山区文化馆举办",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪山区文化馆"
+  },
+  {
+    "title": "《怦然心动》镜框版",
+    "name": "《怦然心动》镜框版",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0d464b9efe4313853b0093bfce2260",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0d464b9efe4313853b0093bfce2260",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0d464b9efe4313853b0093bfce2260",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
   },
   {
     "title": "悦读《骑鹅旅行记》",
@@ -74746,7 +75102,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "黄杨山登山活动",
@@ -74763,7 +75120,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "黄杨山"
+    "source": "黄杨山",
+    "district": "其他"
   },
   {
     "name": "孔庙和国子监博物馆",
@@ -75076,7 +75434,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "自然博物馆矿物标本观察课",
@@ -75543,7 +75902,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026第二十九届中国烘焙展览会攻略（时间＋地点＋门票）",
@@ -75559,7 +75919,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州宋城丽江恋歌",
@@ -76145,7 +76506,52 @@
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "南山图书馆"
+    "source": "南山图书馆",
+    "district": "南山区"
+  },
+  {
+    "title": "【龙城街道分馆】 回龙埔社区文化志愿非洲鼓活动（第一场）",
+    "name": "【龙城街道分馆】 回龙埔社区文化志愿非洲鼓活动（第一场）",
+    "venue": "龙城街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5c09cb047a3942a785108788fa9e841c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5c09cb047a3942a785108788fa9e841c",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5c09cb047a3942a785108788fa9e841c",
+        "label": "活动详情"
+      }
+    ],
+    "description": "志愿者活动，龙岗区文化馆，在龙城街道文化站举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "龙城街道文化站"
+  },
+  {
+    "title": "有声有剧 中外经典戏剧音乐会",
+    "name": "有声有剧 中外经典戏剧音乐会",
+    "venue": "福田音乐馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=74634d9f6c1a4bdb9448dfc6d687b3b2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=74634d9f6c1a4bdb9448dfc6d687b3b2",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=74634d9f6c1a4bdb9448dfc6d687b3b2",
+        "label": "活动详情"
+      }
+    ],
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -76324,28 +76730,6 @@
     "source": "深圳图书馆"
   },
   {
-    "title": "中国文化第一课|岭南画派与生活美学",
-    "name": "中国文化第一课|岭南画派与生活美学",
-    "venue": "南山图书馆",
-    "city": "shenzhen",
-    "start_date": "2026-08-09",
-    "end_date": "2026-08-09",
-    "link": "https://activity.nslib.cn/activity/info/11750",
-    "url": "https://activity.nslib.cn/activity/info/11750",
-    "links": [
-      {
-        "url": "https://activity.nslib.cn/activity/info/11750",
-        "label": "活动详情"
-      }
-    ],
-    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "南山图书馆"
-  },
-  {
     "title": "南图沙龙·读书 | 道德经：时之篇",
     "name": "南图沙龙·读书 | 道德经：时之篇",
     "venue": "南山图书馆",
@@ -76384,6 +76768,28 @@
     ],
     "description": "法律咨询。南山图书馆举办。",
     "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "南山图书馆"
+  },
+  {
+    "title": "中国文化第一课|岭南画派与生活美学",
+    "name": "中国文化第一课|岭南画派与生活美学",
+    "venue": "南山图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://activity.nslib.cn/activity/info/11750",
+    "url": "https://activity.nslib.cn/activity/info/11750",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11750",
+        "label": "活动详情"
+      }
+    ],
+    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
+    "category": "其他",
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
@@ -77089,7 +77495,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "其他"
   },
   {
     "title": "金湾区图书馆英语角活动",
@@ -77106,7 +77513,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "district": "其他"
   },
   {
     "title": "星乐度露营小镇星空观测活动",
@@ -77128,7 +77536,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "星乐度露营小镇"
+    "source": "星乐度露营小镇",
+    "district": "其他"
   },
   {
     "name": "红螺寺秋景",
@@ -77966,7 +78375,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "六朝博物馆建康城研学",
@@ -79004,7 +79414,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "陕西历史博物馆官网"
+    "source": "陕西历史博物馆官网",
+    "district": "其他"
   },
   {
     "title": "珠海市文化馆广场舞大赛",
@@ -79026,7 +79437,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "district": "其他"
   },
   {
     "title": "斗门区图书馆亲子阅读会",
@@ -79043,7 +79455,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区图书馆"
+    "source": "斗门区图书馆",
+    "district": "其他"
   },
   {
     "title": "军博红色电影展映与军事互动社教活动",
@@ -79355,7 +79768,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "巴渝文化深度研学营",
@@ -79632,7 +80046,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国茶叶博物馆",
@@ -80136,7 +80551,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海电影博物馆",
@@ -80574,7 +80990,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "陕西自然博物馆珍稀动物课堂",
@@ -80851,7 +81268,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "四川科技馆机器人编程夏令营",
@@ -81091,7 +81509,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "精彩广州华南植物园演出-166",
@@ -81219,7 +81638,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -82334,7 +82754,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "巴西魂——波尔蒂纳里艺术展",
@@ -82761,7 +83182,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "家庭广州广东美术馆亲子活动-92",
@@ -83851,7 +84273,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "可移动文物普查成果展示",
@@ -83867,7 +84290,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "title": "062025.06文保观察室｜碧色纹章——玉器展厅识碧玉查看详情",
@@ -83883,7 +84307,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "name": "武侯祠博物馆诸葛亮智慧课堂",
@@ -86374,7 +86799,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "海洋科学探索活动",
@@ -87402,7 +87828,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "马安堂社区荷美书社公益读书会",
@@ -88653,7 +89080,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "陕西历史博物馆官网"
+    "source": "陕西历史博物馆官网",
+    "district": "其他"
   },
   {
     "title": "香山文化艺术中心交响音乐会",
@@ -88670,7 +89098,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "district": "其他"
   },
   {
     "title": "金湾区文化馆摄影展",
@@ -88687,7 +89116,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "district": "其他"
   },
   {
     "title": "斗门区博物馆小小讲解员",
@@ -88704,7 +89134,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区博物馆"
+    "source": "斗门区博物馆",
+    "district": "其他"
   },
   {
     "title": "横琴湿地公园观鸟活动",
@@ -88721,7 +89152,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴湿地公园"
+    "source": "横琴湿地公园",
+    "district": "其他"
   },
   {
     "title": "圆明园考古·少年行",
@@ -88919,7 +89351,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杜甫草堂博物馆诗词研学营",
@@ -90686,7 +91119,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "陕历博金银器研学",
@@ -90816,7 +91250,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "珠海大剧院芭蕾舞演出",
@@ -90833,7 +91268,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "district": "其他"
   },
   {
     "title": "斗门旧街美食文化节",
@@ -90850,7 +91286,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门旧街"
+    "source": "斗门旧街",
+    "district": "其他"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -91203,7 +91640,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "银泰中心亲子艺术展",
@@ -93079,7 +93517,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明新园"
+    "source": "圆明新园",
+    "district": "其他"
   },
   {
     "name": "中国邮政邮票博物馆",
@@ -97329,7 +97768,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "铁山坪森林公园避暑纳凉",
@@ -97607,7 +98047,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "暑期杭州桐庐县演出体验营",
@@ -98653,7 +99094,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金湾体育中心"
+    "source": "金湾体育中心",
+    "district": "其他"
   },
   {
     "title": "长隆横琴剧院国际马戏节",
@@ -98675,7 +99117,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆横琴剧院"
+    "source": "珠海长隆横琴剧院",
+    "district": "其他"
   },
   {
     "name": "郭沫若纪念馆",
@@ -98984,7 +99427,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都海昌极地海洋公园水上乐园",
@@ -99487,7 +99931,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-164",
@@ -99917,7 +100362,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026年东南大学开放日60余所参展高校名单",
@@ -99933,7 +100379,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2025南京展会排期表",
@@ -99949,7 +100396,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "奇骥奔腾——马年科技文化特展",
@@ -100415,7 +100863,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "城墙夜跑活动",
@@ -100729,7 +101178,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "成都博物馆皮影戏展演亲子日",
@@ -102912,7 +103362,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "district": "其他"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -105277,7 +105728,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "金台寺"
+    "source": "金台寺",
+    "district": "其他"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -107108,7 +107560,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华发商都"
+    "source": "华发商都",
+    "district": "其他"
   },
   {
     "title": "御温泉夏日花火大会",
@@ -107125,7 +107578,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "御温泉"
+    "source": "御温泉",
+    "district": "其他"
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯文明大展",
@@ -107588,7 +108042,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "川江号子学唱活动",
@@ -109331,7 +109786,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "景山公园"
+    "source": "景山公园",
+    "district": "西城区"
   },
   {
     "title": "斗门区文化馆非遗传承展",
@@ -109348,7 +109804,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "district": "其他"
   },
   {
     "title": "横琴花海长廊摄影比赛",
@@ -109365,7 +109822,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴花海长廊"
+    "source": "横琴花海长廊",
+    "district": "其他"
   },
   {
     "title": "“童画恭王府”——恭王府博物馆青少年美育成果展",
@@ -110348,7 +110806,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京科技馆科学实验秀",
@@ -111413,7 +111872,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "非遗博览园剪纸课堂",
@@ -112028,7 +112488,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "黎明ROBBABA演唱会2026广州站攻略（时间＋地点＋门票）",
@@ -112044,7 +112505,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国丝绸博物馆",
@@ -112695,7 +113157,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网"
+    "source": "上海博物馆官网",
+    "district": "黄浦区"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -113646,7 +114109,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "鹅岭公园瞰胜楼观景",
@@ -115116,7 +115580,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "运河历史科普与湖边游乐区",
@@ -115390,7 +115855,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "桂园重庆谈判旧址研学",
@@ -115963,7 +116429,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中山植物园自然笔记课",
@@ -116768,7 +117235,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "半坡遗址钻木取火体验",
@@ -116973,7 +117441,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "斗门体育中心"
+    "source": "斗门体育中心",
+    "district": "其他"
   },
   {
     "name": "牛街礼拜寺",
@@ -117138,7 +117607,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "海昌极地海洋公园白鲸表演",
@@ -117901,7 +118371,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州跨湖桥遗址博物馆",
@@ -118822,7 +119293,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "井岸镇文化中心"
+    "source": "井岸镇文化中心",
+    "district": "其他"
   },
   {
     "title": "横琴文化艺术中心音乐会",
@@ -118839,7 +119311,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "district": "其他"
   },
   {
     "title": "春日植物科普与湖边写生",
@@ -118967,7 +119440,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "白鹭湾湿地公园观鸟营",
@@ -120694,7 +121168,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "浣花溪公园诗歌朗诵会",
@@ -120823,7 +121298,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南山植物园珍稀植物展",
@@ -124129,7 +124605,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "title": "2022.8-2022.10一层临展厅空明流光——宋瓷·五大名窑特展",
@@ -124145,7 +124622,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "湖广会馆填川历史展",
@@ -124349,7 +124827,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "重庆中国三峡博物馆官网"
+    "source": "重庆中国三峡博物馆官网",
+    "district": "其他"
   },
   {
     "name": "珠江公园花城广场",
@@ -124590,7 +125069,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览",
@@ -125283,7 +125763,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "第七届CHWE出海网全球跨境电商展（深圳）",
@@ -127546,7 +128027,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都击剑体验日",
@@ -127938,7 +128420,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "儿童广州天河区科普活动课程",
@@ -128512,7 +128995,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026岳云鹏《非要唱》巡回演唱会-上海站演出时间＋地点＋门票购买",
@@ -128528,7 +129012,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "汉阳江滩文创市集",
@@ -130119,7 +130604,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "青奥公园轮滑体验",
@@ -130284,7 +130770,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海上海植物园亲子活动",
@@ -130412,7 +130899,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -130675,7 +131163,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026西安下半年会展活动汇总（时间+地点）",
@@ -130691,7 +131180,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "儿童乐园与绘本故事会",
@@ -130888,7 +131378,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都图书馆绘本故事会",
@@ -131394,7 +131885,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州虎跑泉水",
@@ -131936,7 +132428,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "湖北省科学技术馆生物多样性课堂",
@@ -132138,7 +132631,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "陕西自然博物馆昆虫标本制作",
@@ -132342,7 +132836,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -132802,7 +133297,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广州民俗博物馆常设展",
@@ -134167,7 +134663,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "name": "四川科技馆无人机飞行体验",
@@ -134968,7 +135465,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "上海动物园暑期动物主题科普活动",
@@ -137050,7 +137548,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "武汉欢乐谷夏日狂欢节",
@@ -137402,7 +137901,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "雍和宫祈福",
@@ -138082,7 +138582,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京欢乐谷亲子过山车",
@@ -141449,7 +141950,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "光学世界探秘课堂",
@@ -141726,7 +142228,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动",
@@ -142153,7 +142656,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026南京3月展会信息汇总",
@@ -142169,7 +142673,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海环球金融中心观光",
@@ -142922,7 +143427,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026年西安7月展会排期表（时间+地点）",
@@ -142938,7 +143444,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -143175,7 +143682,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "青龙湖湿地公园骑行日",
@@ -143379,7 +143887,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "陆虎成都演唱会二次开票时间+入口",
@@ -143395,7 +143904,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "食品安全科普体验",
@@ -145573,7 +146083,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "鹅岭公园夏日荷花展",
@@ -146410,7 +146921,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026国际数字能源展",
@@ -146637,7 +147149,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "陕西科技馆仿生机器人展",
@@ -147961,7 +148474,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "江宁织造博物馆红楼梦研学",
@@ -148167,7 +148681,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海城市规划展示馆",
@@ -149408,7 +149923,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "高淳老街民俗体验",
@@ -149985,7 +150501,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "河道科普与沙池",
@@ -151234,7 +151751,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "深圳国际成人健康保健用品展览会",
@@ -152804,7 +153322,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -154649,7 +155168,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "文物导览与非遗拓印",
@@ -156737,7 +157257,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "趣味成都武侯区科普活动展览",
@@ -156791,7 +157312,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "成都博物馆官网"
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "漫游重庆南岸区科普活动季",
@@ -157071,7 +157593,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026杭州国际生物发酵展时间+地点+报名入口",
@@ -157087,7 +157610,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京科技馆电与磁实验课",
@@ -157670,7 +158194,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "体验北京北京画院美术馆展览",
@@ -159447,7 +159972,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "name": "青龙湖湿地公园观鸟研学",
@@ -162572,7 +163098,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "浐灞生态湿地骑行",
@@ -165202,7 +165729,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "铁山坪山地自行车",
@@ -166961,7 +167489,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026马思唯巡回演唱会重庆站时间+地点+门票+购票信息",
@@ -166977,7 +167506,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -167964,7 +168494,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "探秘武汉蔡甸区讲座阅读月",
@@ -168464,7 +168995,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "仙女山避暑度假之旅",
@@ -169673,7 +170205,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "曲江海洋极地公园企鹅馆",
@@ -170064,7 +170597,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "金沙遗址古蜀文明研学",
@@ -171466,7 +172000,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "金沙遗址博物馆太阳神鸟探秘",
@@ -171856,7 +172391,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "趣味广州长隆欢乐世界亲子活动-81",
@@ -172170,7 +172706,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "江苏科技馆能源科普体验",
@@ -172990,7 +173527,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "发现西安阎良区展览比赛",
@@ -173162,7 +173700,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "district": "其他"
   },
   {
     "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -173359,7 +173898,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都攀岩体验日",
@@ -174761,7 +175301,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "汉服礼仪小课堂",
@@ -176158,7 +176699,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "古生物博物馆生命演化研学",
@@ -176623,7 +177165,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "茅盾故居",
@@ -177125,7 +177668,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "孙中山大元帅府纪念馆暑期延时开放",
@@ -178968,7 +179512,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "梦幻杭州九溪演出-112",
@@ -179472,7 +180017,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "大明宫遗址考古勘探研学",
@@ -180085,7 +180631,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "两江夜游船",
@@ -180847,7 +181394,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "体验武汉江汉区展览嘉年华",
@@ -180901,7 +181449,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "西安欢乐谷激流勇进",
@@ -181550,7 +182099,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南山一棵树日出",
@@ -184262,7 +184812,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海杜莎夫人蜡像馆",
@@ -187630,7 +188181,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "六朝博物馆青瓷探秘研学",
@@ -188651,7 +189203,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都国色天乡乐园花车巡游",
@@ -190831,7 +191384,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "文艺复兴的交响——格拉斯哥博物馆藏大师作品展",
@@ -193875,7 +194429,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -194635,7 +195190,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南宋官窑博物馆",
@@ -197368,7 +197924,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026第二十三届国际粉体展参展攻略（时间+地点+展品范围）",
@@ -197384,7 +197941,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "后弦2026巡回演唱会西安站观演攻略（时间+地点+购票）",
@@ -197400,7 +197958,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆漆器制作体验",
@@ -197529,7 +198088,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026张韶涵玩家巡回演唱会-成都站演出时间、地点+门票购买",
@@ -197545,7 +198105,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "三峡博物馆玉器鉴赏研学",
@@ -197751,7 +198312,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026杭州市发展会展业服务中心工作人员招聘公告",
@@ -197767,7 +198329,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "第18届深圳国际移动电子展",
@@ -197827,7 +198390,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "横琴国际网球中心WTA超级精英赛",
@@ -197849,7 +198413,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "横琴国际网球中心"
+    "source": "横琴国际网球中心",
+    "district": "其他"
   },
   {
     "title": "2026en王翊恩「LISTEN」个人巡回演唱会-武汉收官站",
@@ -197865,7 +198430,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -197917,7 +198483,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026年北京鸟巢近期演唱会汇总（时间+地点）",
@@ -197933,7 +198500,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "铜梁龙舞体验活动",
@@ -198061,7 +198629,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "李荣浩「黑马」世界巡回演唱会-成都站时间、地点+门票",
@@ -198077,7 +198646,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "火箭发射模拟体验",
@@ -198565,7 +199135,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "ICBE 2026深圳国际跨境电商交易博览会",
@@ -199287,7 +199858,8 @@
     "fee": "免费",
     "contact": "愈到（上海）展览有限公司&nbsp; 周女士&nbsp; 13761260618",
     "family_friendly": false,
-    "source": "szcec"
+    "source": "szcec",
+    "district": "福田区"
   },
   {
     "title": "第八届疗愈博览会（深圳）",
