@@ -84,7 +84,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -100,7 +101,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆"
+    "source": "上海科技馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼乐园夏日缤纷主题体验",
@@ -260,7 +262,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网"
+    "source": "人民网",
+    "district": "长宁区"
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -276,7 +279,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -292,7 +296,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "长宁区"
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -308,7 +313,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "杨浦区"
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -324,7 +330,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海本地宝"
+    "source": "上海本地宝",
+    "district": "徐汇区"
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -340,7 +347,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海动物园"
+    "source": "上海动物园",
+    "district": "长宁区"
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -356,7 +364,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海昌海洋公园"
+    "source": "上海海昌海洋公园",
+    "district": "浦东新区"
   },
   {
     "title": "上海天文馆暑期活动",
@@ -372,7 +381,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆"
+    "source": "上海天文馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -388,7 +398,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆"
+    "source": "上海海洋水族馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海迪士尼度假区十周年庆典",
@@ -404,7 +415,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园"
+    "source": "上海迪士尼乐园",
+    "district": "浦东新区"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学大展",
@@ -420,7 +432,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻"
+    "source": "上观新闻",
+    "district": "浦东新区"
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -436,7 +449,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆"
+    "source": "上海美术馆",
+    "district": "浦东新区"
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -452,7 +466,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园"
+    "source": "上海乐高乐园",
+    "district": "金山区"
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -468,7 +483,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆"
+    "source": "上海世博会博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "世界树之巅·美洲古代文明大展",
@@ -520,7 +536,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网"
+    "source": "上海博物馆官网",
+    "district": "黄浦区"
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -536,7 +553,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -552,7 +570,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆"
+    "source": "上海自然博物馆",
+    "district": "静安区"
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -568,7 +587,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆"
+    "source": "上海博物馆",
+    "district": "黄浦区"
   },
   {
     "title": "历史的星辉 长安画派与海派绘画研究展",
@@ -4522,7 +4542,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "流动艺术科普展与户外攀爬场地",
@@ -5205,7 +5226,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "亲子上海松江区影视放映工作坊",
@@ -5334,7 +5356,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "走进上海世纪公园展览-48",
@@ -6507,7 +6530,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成国宝艺术大展",
@@ -9048,7 +9072,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网"
+    "source": "上海博物馆官网",
+    "district": "黄浦区"
   },
   {
     "title": "农耕科普与民俗手工",
@@ -10629,7 +10654,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "剪纸与皮影",
@@ -10935,7 +10961,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026岳云鹏《非要唱》巡回演唱会-上海站演出时间＋地点＋门票购买",
@@ -10951,7 +10978,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海上海植物园亲子活动",
@@ -11079,7 +11107,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "亲子上海东方明珠亲子活动-86",
@@ -11246,7 +11275,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海昆虫博物馆",
@@ -11893,7 +11923,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "梦幻上海南京路演出-112",
@@ -13216,7 +13247,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "上海城市规划展示馆",
@@ -13898,7 +13930,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "上海海洋水族馆暑期探秘",
@@ -16024,7 +16057,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "少儿篮球与体能训练",
@@ -17597,7 +17631,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "解读上海徐家汇展览",
@@ -19325,7 +19360,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026第17届上海国际餐饮食材展览会举办时间+展品范围",
@@ -19341,7 +19377,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "环宇璀璨：大都会艺术博物馆珠宝珍藏展",

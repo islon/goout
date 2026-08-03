@@ -13,7 +13,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻"
+    "source": "腾讯新闻",
+    "district": "西湖区"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -29,7 +30,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院官网"
+    "source": "良渚博物院官网",
+    "district": "余杭区"
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -45,7 +47,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江自然博物院"
+    "source": "浙江自然博物院",
+    "district": "拱墅区"
   },
   {
     "title": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
@@ -169,7 +172,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻"
+    "source": "潮新闻",
+    "district": "西湖区"
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -185,7 +189,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局"
+    "source": "杭州市文旅局",
+    "district": "拱墅区"
   },
   {
     "title": "中国动漫博物馆 暑期免费观影",
@@ -309,7 +314,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -325,7 +331,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆"
+    "source": "浙江省科技馆",
+    "district": "拱墅区"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -341,7 +348,8 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -357,7 +365,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博"
+    "source": "杭州博物馆官方微博",
+    "district": "上城区"
   },
   {
     "title": "宇宙炉火：技术时代的共同生活",
@@ -408,7 +417,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州图书馆官网"
+    "source": "杭州图书馆官网",
+    "district": "上城区"
   },
   {
     "title": "杭州宋城 千古情狂欢节",
@@ -460,7 +470,8 @@
     "fee": "免费",
     "contact": "86535086",
     "family_friendly": true,
-    "source": "杭州图书馆官网"
+    "source": "杭州图书馆官网",
+    "district": "上城区"
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -476,7 +487,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆"
+    "source": "中国茶叶博物馆",
+    "district": "西湖区"
   },
   {
     "name": "青少年杭州淳安县影视放映讲座",
@@ -1464,7 +1476,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局"
+    "source": "杭州市文化广电旅游局",
+    "district": "萧山区"
   },
   {
     "name": "实践杭州雷峰塔研学-47",
@@ -4329,7 +4342,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "杭州图书馆亲子阅读季",
@@ -4646,7 +4660,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-121",
@@ -4737,7 +4752,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州宋城丽江恋歌",
@@ -5204,7 +5220,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国茶叶博物馆",
@@ -8584,7 +8601,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国丝绸博物馆",
@@ -9125,7 +9143,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州跨湖桥遗址博物馆",
@@ -10560,7 +10579,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州虎跑泉水",
@@ -11251,7 +11271,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州湘湖花海",
@@ -12682,7 +12703,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "京杭大运河博物馆",
@@ -12996,7 +13018,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州野生动物园步行区",
@@ -13874,7 +13897,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026杭州国际生物发酵展时间+地点+报名入口",
@@ -13890,7 +13914,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国扇博物馆",
@@ -15920,7 +15945,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州工艺美术博物馆",
@@ -16349,7 +16375,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览",
@@ -17711,7 +17738,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -18918,7 +18946,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",

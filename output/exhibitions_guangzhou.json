@@ -13,7 +13,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "越秀区"
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -29,7 +30,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "title": "知齐者，徐君也 徐悲鸿藏齐白石艺术研究展",
@@ -117,7 +119,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "越秀区"
   },
   {
     "title": "四季倒影：光之镜中的自然——赫利顿·希夏个展",
@@ -385,7 +388,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "天河区"
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动体验科学展",
@@ -401,7 +405,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网"
+    "source": "南方网",
+    "district": "番禺区"
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -417,7 +422,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "天河区"
   },
   {
     "title": "广州青少年科技馆暑期互动体验",
@@ -433,7 +439,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "越秀区"
   },
   {
     "title": "广州地铁博物馆暑期体验",
@@ -449,7 +456,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -465,7 +473,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州本地宝"
+    "source": "广州本地宝",
+    "district": "海珠区"
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -481,7 +490,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆"
+    "source": "广州博物馆",
+    "district": "越秀区"
   },
   {
     "title": "广东省博物馆暑期延时开放",
@@ -497,7 +507,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆"
+    "source": "广东省博物馆",
+    "district": "天河区"
   },
   {
     "title": "广州动物园暑期研学活动",
@@ -513,7 +524,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园"
+    "source": "广州动物园",
+    "district": "越秀区"
   },
   {
     "title": "广州海洋馆暑期活动",
@@ -529,7 +541,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆"
+    "source": "广州海洋馆",
+    "district": "越秀区"
   },
   {
     "title": "深度自然：2026广东美术馆儿童公共艺术季",
@@ -581,7 +594,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报"
+    "source": "羊城晚报",
+    "district": "越秀区"
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -597,7 +611,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心"
+    "source": "广东科学中心",
+    "district": "番禺区"
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -613,7 +628,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东美术馆"
+    "source": "广东美术馆",
+    "district": "越秀区"
   },
   {
     "title": "南越王博物院王宫展区暑期延长开放",
@@ -629,7 +645,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院"
+    "source": "南越王博物院",
+    "district": "越秀区"
   },
   {
     "title": "孙中山大元帅府纪念馆暑期延时开放",
@@ -645,7 +662,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆"
+    "source": "孙中山大元帅府纪念馆",
+    "district": "海珠区"
   },
   {
     "title": "虫友：寻访甲虫世界",
@@ -661,7 +679,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯"
+    "source": "广东省文旅厅湾区展讯",
+    "district": "天河区"
   },
   {
     "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
@@ -3264,7 +3283,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "广州广州少年儿童图书馆研学",
@@ -4885,7 +4905,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广州少年儿童图书馆2026年7月活动月历",
@@ -5271,7 +5292,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026第二十九届中国烘焙展览会攻略（时间＋地点＋门票）",
@@ -5287,7 +5309,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广州动物园奇妙动物夜",
@@ -5561,7 +5584,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "精彩广州华南植物园演出-166",
@@ -5689,7 +5713,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "家庭广州广东美术馆亲子活动-92",
@@ -7043,7 +7068,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "广州农讲所纪念馆",
@@ -7245,7 +7271,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "广州荔湾湖公园演出",
@@ -8750,7 +8777,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "黎明ROBBABA演唱会2026广州站攻略（时间＋地点＋门票）",
@@ -8766,7 +8794,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "岭南民俗免费展览与周末剪纸广彩公益体验",
@@ -9524,7 +9553,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "流花湖公园",
@@ -10515,7 +10545,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "文艺复兴的交响：格拉斯哥博物馆藏大师作品展",
@@ -11426,7 +11457,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广州民俗博物馆常设展",
@@ -12595,7 +12627,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "余荫山房四大名园",
@@ -17426,7 +17459,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -19482,7 +19516,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "宝墨园南粤苑",
@@ -19609,7 +19644,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026罗大佑春龙交响夜音乐会广州站（时间＋地点＋门票）",
@@ -19625,6 +19661,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   }
 ]

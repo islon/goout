@@ -13,7 +13,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科学技术馆官网"
+    "source": "中国科学技术馆官网",
+    "district": "朝阳区"
   },
   {
     "title": "中国美术馆 从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -101,7 +102,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都之窗"
+    "source": "首都之窗",
+    "district": "西城区"
   },
   {
     "title": "植物庞贝城——乌达二叠纪化石精品展",
@@ -117,7 +119,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网"
+    "source": "京报网",
+    "district": "东城区"
   },
   {
     "title": "中国国家博物馆 行·迹——卡塔尔游牧生活与文化展",
@@ -169,7 +172,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网"
+    "source": "京报网",
+    "district": "东城区"
   },
   {
     "title": "中国国家博物馆 巴西魂——波尔蒂纳里艺术展",
@@ -292,7 +296,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆官网"
+    "source": "北京天文馆官网",
+    "district": "西城区"
   },
   {
     "title": "奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动",
@@ -308,7 +313,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "新华网"
+    "source": "新华网",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -324,7 +330,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -340,7 +347,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -356,7 +364,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆"
+    "source": "北京天文馆",
+    "district": "西城区"
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -372,7 +381,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京本地宝"
+    "source": "北京本地宝",
+    "district": "东城区"
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -388,7 +398,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "西城区"
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -404,7 +415,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "西城区"
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -420,7 +432,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网"
+    "source": "北京旅游网",
+    "district": "丰台区"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -436,7 +449,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都图书馆"
+    "source": "首都图书馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -452,7 +466,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆"
+    "source": "国家图书馆",
+    "district": "海淀区"
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -468,7 +483,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京海洋馆"
+    "source": "北京海洋馆",
+    "district": "西城区"
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -484,7 +500,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆"
+    "source": "中国国家博物馆",
+    "district": "东城区"
   },
   {
     "title": "北京动物园暑期活动",
@@ -500,7 +517,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京动物园"
+    "source": "北京动物园",
+    "district": "西城区"
   },
   {
     "title": "天坛公园暑期亲子研学",
@@ -516,7 +534,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "天坛公园"
+    "source": "天坛公园",
+    "district": "东城区"
   },
   {
     "title": "颐和园暑期活动",
@@ -532,7 +551,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园"
+    "source": "颐和园",
+    "district": "海淀区"
   },
   {
     "title": "圆明园考古·少年行",
@@ -548,7 +568,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "圆明园"
+    "source": "圆明园",
+    "district": "海淀区"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -564,7 +585,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆"
+    "source": "中国科技馆",
+    "district": "朝阳区"
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -580,7 +602,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆"
+    "source": "国家自然博物馆",
+    "district": "东城区"
   },
   {
     "title": "首都博物馆暑期展览",
@@ -596,7 +619,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆"
+    "source": "首都博物馆",
+    "district": "西城区"
   },
   {
     "title": "北京环球度假区暑期活动",
@@ -612,7 +636,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京环球度假区"
+    "source": "北京环球度假区",
+    "district": "通州区"
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -628,7 +653,8 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京欢乐谷"
+    "source": "北京欢乐谷",
+    "district": "朝阳区"
   },
   {
     "title": "明十三陵明代文物主题展",
@@ -716,7 +742,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科展教坊专题课程",
@@ -732,7 +759,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "北科剧院科学剧场",
@@ -748,7 +776,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心"
+    "source": "北京科学中心",
+    "district": "西城区"
   },
   {
     "title": "薛之谦\"万兽之王\"演唱会-北京站",
@@ -800,7 +829,8 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "故宫博物院"
+    "source": "故宫博物院",
+    "district": "东城区"
   },
   {
     "title": "国家大剧院原创喜歌剧《三打白骨精》",
@@ -3691,7 +3721,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "草坪游乐与户外亲子运动会",
@@ -3856,7 +3887,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "非遗剪纸皮影手工与少儿合唱公益课",
@@ -4916,7 +4948,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "恭王府博物馆",
@@ -5081,7 +5114,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -6017,7 +6051,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "巴西魂——波尔蒂纳里艺术展",
@@ -6178,7 +6213,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "可移动文物普查成果展示",
@@ -6194,7 +6230,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "title": "062025.06文保观察室｜碧色纹章——玉器展厅识碧玉查看详情",
@@ -6210,7 +6247,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "title": "致敬巨匠：从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -6631,7 +6669,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "中国科技馆夜场开放",
@@ -6984,7 +7023,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "中国邮政邮票博物馆",
@@ -7847,7 +7887,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "北京古观象台",
@@ -8011,7 +8052,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "中国科技馆暑期科学实验营",
@@ -9062,7 +9104,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "中国地质博物馆",
@@ -9742,7 +9785,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "春日植物科普与湖边写生",
@@ -9870,7 +9914,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "体验北京中山公园展览",
@@ -10112,7 +10157,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "title": "“用爱守护儿童生命安全教育展”（博物馆里过大年）",
@@ -11067,7 +11113,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "梦幻北京南锣鼓巷演出",
@@ -11414,7 +11461,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "首都图书馆暑期活动",
@@ -11872,7 +11920,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "title": "墨韵文脉——八大山人与17世纪以来中国写意艺术展",
@@ -13140,7 +13189,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国美术馆",
@@ -14748,7 +14798,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆官网"
+    "source": "中国国家博物馆官网",
+    "district": "东城区"
   },
   {
     "name": "体验北京北京画院美术馆展览",
@@ -15066,7 +15117,8 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "首都博物馆官网"
+    "source": "首都博物馆官网",
+    "district": "西城区"
   },
   {
     "title": "星空穹顶科普课与陨石标本观察",
@@ -16112,7 +16164,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "红砖美术馆",
@@ -16311,7 +16364,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -16508,7 +16562,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "星辰足迹——月背之约航天主题展",
@@ -18894,7 +18949,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "街头艺术与手工市集",
@@ -19869,7 +19925,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "2026年北京鸟巢近期演唱会汇总（时间+地点）",
@@ -19885,7 +19942,8 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "本地宝"
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "世界文明互鉴系列——莫斯科市博物馆茶文化展（万里茶道）",
