@@ -10,9 +10,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "来处与归途：三燕百年"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "骥跃升腾——三彩马的世界",
@@ -25,9 +23,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "骥跃升腾——三彩马的世界"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -40,9 +36,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "深圳博物馆暑期延时开放"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "国宝萌友展",
@@ -55,9 +49,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "国宝萌友展"
+    "source": "gm_kjg"
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -70,9 +62,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "太空奥德赛——宇宙探索展"
+    "source": "gm_kjg"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -85,9 +75,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "中国科幻史里程碑展"
+    "source": "gm_kjg"
   },
   {
     "title": "一平米实验室",
@@ -100,9 +88,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "一平米实验室"
+    "source": "gm_kjg"
   },
   {
     "title": "美丽星期天——暑期交响音乐会",
@@ -115,9 +101,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——暑期交响音乐会"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -130,9 +114,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——室内乐之夜"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——民乐鉴赏",
@@ -145,9 +127,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——民乐鉴赏"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——合唱音乐会",
@@ -160,9 +140,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——合唱音乐会"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -175,9 +153,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "跟着音乐去旅行——暑期亲子音乐会"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -190,9 +166,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——钢琴独奏会"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -205,9 +179,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——弦乐鉴赏"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -220,9 +192,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——管乐音乐会"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -235,9 +205,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "美丽星期天——童声合唱"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -250,9 +218,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "俄罗斯冰上芭蕾《胡桃夹子》"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -265,9 +231,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "俄罗斯冰上芭蕾《天鹅湖》"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -280,9 +244,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "俄罗斯冰上芭蕾《天鹅湖》"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -295,9 +257,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "俄罗斯冰上芭蕾《胡桃夹子》"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -310,9 +270,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "鼻涕虫教授的昆虫秀"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "小奶牛故事绘",
@@ -325,9 +283,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "url": "https://www.szgmlib.com.cn",
-    "name": "小奶牛故事绘"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "小太阳i阅读故事会",
@@ -340,9 +296,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "url": "https://www.szgmlib.com.cn",
-    "name": "小太阳i阅读故事会"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -355,9 +309,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "url": "https://www.szgmlib.com.cn",
-    "name": "书香乐韵——音乐读书会"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "少儿国际象棋公益班",
@@ -370,9 +322,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "少儿国际象棋公益班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "成人古典舞公益班",
@@ -385,9 +335,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "成人古典舞公益班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "读剧公益班",
@@ -400,9 +348,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "读剧公益班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "朗诵艺术公益班",
@@ -415,9 +361,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "朗诵艺术公益班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -430,9 +374,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
-    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展"
+    "source": "南山博物馆官网"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -445,9 +387,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.nanshanmuseum.com",
-    "name": "南山博物馆暑期夜间延时开放"
+    "source": "南山博物馆官网"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 青岛西海岸",
@@ -460,54 +400,46 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "url": "https://www.szsportscenter.com",
-    "name": "中超联赛 深圳新鹏城 vs 青岛西海岸"
+    "source": "深圳市体育中心"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 重庆铜梁龙",
     "venue": "深圳市体育中心体育场",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
-    "link": "https://www.szsportscenter.com/",
+    "link": "https://www.szsportscenter.com",
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "url": "https://www.szsportscenter.com/",
-    "name": "中超联赛 深圳新鹏城 vs 重庆铜梁龙"
+    "source": "深圳市体育中心"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
     "venue": "深圳市体育中心体育场",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
-    "link": "https://www.szsportscenter.com/",
+    "link": "https://www.szsportscenter.com",
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间19:35。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "url": "https://www.szsportscenter.com/",
-    "name": "中超联赛 深圳新鹏城 vs 浙江"
+    "source": "深圳市体育中心"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
     "venue": "深圳市体育中心体育场",
     "start_date": "2026-08-28",
     "end_date": "2026-08-28",
-    "link": "https://www.szsportscenter.com/",
+    "link": "https://www.szsportscenter.com",
     "description": "2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "url": "https://www.szsportscenter.com/",
-    "name": "中超联赛 深圳新鹏城 vs 上海海港"
+    "source": "深圳市体育中心"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -520,9 +452,7 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网",
-    "url": "https://www.szlib.org.cn",
-    "name": "深圳图书馆暑期系列活动"
+    "source": "深圳图书馆官网"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -535,9 +465,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "url": "https://www.balib.cn",
-    "name": "宝安图书馆暑期阅读夏令营"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -550,24 +478,20 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "url": "https://www.balib.cn",
-    "name": "宝安图书馆绘本故事会"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
     "venue": "福田区图书馆",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.szftlib.org.cn/",
+    "link": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "url": "https://www.szftlib.org.cn/",
-    "name": "福田区图书馆暑期读书分享会"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -580,84 +504,72 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "url": "https://szlhlib.org.cn",
-    "name": "罗湖区图书馆暑期阅读活动"
+    "source": "罗湖区图书馆官网"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
     "venue": "龙岗区图书馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.szlglib.com.cn/",
+    "link": "https://www.szlglib.cn",
     "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "url": "https://www.szlglib.com.cn/",
-    "name": "龙岗区图书馆暑期夏令营"
+    "source": "龙岗区图书馆官网"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
     "venue": "龙华区图书馆",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.org.cn/",
+    "link": "https://www.szlhlib.com.cn",
     "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "url": "https://www.szlhlib.org.cn/",
-    "name": "龙华区图书馆暑期少儿活动"
+    "source": "龙华区图书馆官网"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
     "venue": "坪山区图书馆",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn/",
+    "link": "https://www.szpslib.cn",
     "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "url": "https://www.szpslib.cn/",
-    "name": "坪山区图书馆暑期阅读季"
+    "source": "坪山区图书馆官网"
   },
   {
     "title": "盐田区图书馆暑期活动",
     "venue": "盐田区图书馆",
     "start_date": "2026-07-07",
     "end_date": "2026-08-30",
-    "link": "https://www.ytlib.yantian.org.cn/",
+    "link": "https://www.ytlib.cn",
     "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "url": "https://www.ytlib.yantian.org.cn/",
-    "name": "盐田区图书馆暑期活动"
+    "source": "盐田区图书馆官网"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
     "venue": "大鹏新区图书馆",
     "start_date": "2026-07-13",
     "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn/",
+    "link": "https://www.dplib.org.cn",
     "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网",
-    "url": "https://www.dplib.org.cn/",
-    "name": "大鹏新区图书馆暑期活动"
+    "source": "大鹏新区图书馆官网"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -670,9 +582,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安科技馆暑期科普活动"
+    "source": "宝安科技馆"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -685,9 +595,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安区青少年宫暑期活动"
+    "source": "宝安区青少年宫"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -700,9 +608,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "url": "https://www.lg.gov.cn",
-    "name": "龙岗区青少年宫暑期公益课"
+    "source": "龙岗区青少年宫"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -715,24 +621,20 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "url": "https://www.szlh.gov.cn",
-    "name": "龙华区青少年宫暑期活动"
+    "source": "龙华区青少年宫"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
     "venue": "宝安体育中心",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/",
+    "link": "http://www.baoan.gov.cn/bawtlyj/",
     "description": "宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/",
-    "name": "宝安体育中心暑期游泳培训班"
+    "source": "宝安体育中心"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -745,39 +647,33 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "url": "https://www.szns.gov.cn",
-    "name": "深圳湾体育中心暑期青少年体育培训"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "龙岗区博物馆暑期展览",
     "venue": "龙岗区博物馆",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.lg.gov.cn/",
+    "link": "https://www.lgmuseum.cn",
     "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆",
-    "url": "https://www.lg.gov.cn/",
-    "name": "龙岗区博物馆暑期展览"
+    "source": "龙岗区博物馆"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
     "venue": "大鹏地质公园博物馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.dpgeopark.org.cn/",
+    "link": "https://www.dapeng.gov.cn",
     "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "url": "https://www.dpgeopark.org.cn/",
-    "name": "大鹏地质公园博物馆科普活动"
+    "source": "大鹏地质公园博物馆"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -790,9 +686,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "url": "https://www.szclib.org.cn",
-    "name": "深圳少年儿童图书馆暑期活动"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -805,9 +699,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "url": "http://www.szcp.com",
-    "name": "深圳市少年宫暑期科普活动"
+    "source": "深圳市少年宫官网"
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -820,9 +712,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
-    "url": "https://www.szaac.com",
-    "name": "深圳市青少年活动中心暑期活动"
+    "source": "深圳市青少年活动中心官网"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -835,9 +725,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "深圳博物馆暑期延时开放"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -850,9 +738,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "吉金春秋——深圳博物馆铜器展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -865,9 +751,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "问陶之旅——深圳博物馆陶瓷展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "深圳改革开放史展览",
@@ -880,9 +764,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "深圳改革开放史展览"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -895,9 +777,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "古代深圳——深圳历史展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -910,9 +790,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "近代深圳——深圳近代史展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "深圳民俗文化展",
@@ -925,9 +803,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "深圳民俗文化展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "世界野生动物标本展",
@@ -940,9 +816,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "https://www.shenzhenmuseum.com",
-    "name": "世界野生动物标本展"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -955,9 +829,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.nanshanmuseum.com",
-    "name": "南山博物馆暑期延时开放"
+    "source": "南山博物馆官网"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -970,9 +842,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.nanshanmuseum.com",
-    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展"
+    "source": "南山博物馆官网"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -985,39 +855,33 @@
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网",
-    "url": "https://www.szlib.org.cn",
-    "name": "深圳图书馆暑期系列活动"
+    "source": "深圳图书馆官网"
   },
   {
     "title": "南山区文化馆暑期公益培训",
     "venue": "南山区文化馆",
     "start_date": "2026-07-15",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区文化馆暑期公益艺术培训，包含舞蹈、声乐、书法、国画、摄影等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山区文化馆暑期公益培训"
+    "source": "南山区文化馆官网"
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
     "venue": "南山区文化馆",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区文化馆暑期少儿艺术营，包含儿童绘画、手工制作、音乐启蒙等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山区文化馆暑期少儿艺术营"
+    "source": "南山区文化馆官网"
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -1030,9 +894,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
-    "url": "https://www.szgm.gov.cn",
-    "name": "光明区文化馆暑期公益培训班"
+    "source": "光明区文化馆"
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -1045,9 +907,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
-    "url": "https://www.szgm.gov.cn",
-    "name": "光明区文化馆少儿暑期营"
+    "source": "光明区文化馆"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -1060,9 +920,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "url": "https://www.balib.cn",
-    "name": "宝安图书馆绘本故事会"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -1075,9 +933,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "url": "https://www.balib.cn",
-    "name": "宝安图书馆暑期阅读夏令营"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -1090,54 +946,46 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "url": "https://www.balib.cn",
-    "name": "宝安图书馆创客空间暑期活动"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
     "venue": "福田区图书馆",
     "start_date": "2026-07-10",
     "end_date": "2026-08-28",
-    "link": "https://www.szftlib.org.cn/",
+    "link": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "url": "https://www.szftlib.org.cn/",
-    "name": "福田区图书馆暑期读书分享会"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
     "venue": "福田区图书馆",
     "start_date": "2026-07-09",
     "end_date": "2026-08-30",
-    "link": "https://www.szftlib.org.cn/",
+    "link": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期少儿绘本课堂，每周二、周五上午10:00，适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "url": "https://www.szftlib.org.cn/",
-    "name": "福田区图书馆少儿绘本课堂"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "福田区图书馆暑期电影放映",
     "venue": "福田区图书馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.szftlib.org.cn/",
+    "link": "https://www.ftlib.org.cn",
     "description": "福田区图书馆暑期少儿电影放映，每周日下午14:30。免费观影。",
     "category": "影视放映",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "url": "https://www.szftlib.org.cn/",
-    "name": "福田区图书馆暑期电影放映"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -1150,9 +998,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "url": "https://szlhlib.org.cn",
-    "name": "罗湖区图书馆暑期阅读活动"
+    "source": "罗湖区图书馆官网"
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -1165,144 +1011,124 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "url": "https://szlhlib.org.cn",
-    "name": "罗湖区图书馆暑期国学课堂"
+    "source": "罗湖区图书馆官网"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
     "venue": "龙岗区图书馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.szlglib.com.cn/",
+    "link": "https://www.szlglib.cn",
     "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "url": "https://www.szlglib.com.cn/",
-    "name": "龙岗区图书馆暑期夏令营"
+    "source": "龙岗区图书馆官网"
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
     "venue": "龙岗区图书馆",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.szlglib.com.cn/",
+    "link": "https://www.szlglib.cn",
     "description": "龙岗区图书馆暑期少儿编程体验课，Scratch和Python入门，适合7-14岁。免费参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "url": "https://www.szlglib.com.cn/",
-    "name": "龙岗区图书馆少儿编程体验课"
+    "source": "龙岗区图书馆官网"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
     "venue": "龙华区图书馆",
     "start_date": "2026-07-09",
     "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.org.cn/",
+    "link": "https://www.szlhlib.com.cn",
     "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "url": "https://www.szlhlib.org.cn/",
-    "name": "龙华区图书馆暑期少儿活动"
+    "source": "龙华区图书馆官网"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
     "venue": "龙华区图书馆",
     "start_date": "2026-07-16",
     "end_date": "2026-08-27",
-    "link": "https://www.szlhlib.org.cn/",
+    "link": "https://www.szlhlib.com.cn",
     "description": "龙华区图书馆暑期科普讲座系列活动，包含天文、地理、生物等主题。每周六下午举行。免费参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "url": "https://www.szlhlib.org.cn/",
-    "name": "龙华区图书馆暑期科普讲座"
+    "source": "龙华区图书馆官网"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
     "venue": "坪山区图书馆",
     "start_date": "2026-07-11",
     "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn/",
+    "link": "https://www.szpslib.cn",
     "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "url": "https://www.szpslib.cn/",
-    "name": "坪山区图书馆暑期阅读季"
+    "source": "坪山区图书馆官网"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
     "venue": "坪山区图书馆",
     "start_date": "2026-07-14",
     "end_date": "2026-08-25",
-    "link": "https://www.szpslib.cn/",
+    "link": "https://www.szpslib.cn",
     "description": "坪山区图书馆暑期少儿手工工坊，包含折纸、剪纸、模型制作等。每周三下午举行。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "url": "https://www.szpslib.cn/",
-    "name": "坪山区图书馆少儿暑期工坊"
+    "source": "坪山区图书馆官网"
   },
   {
     "title": "盐田区图书馆暑期活动",
     "venue": "盐田区图书馆",
     "start_date": "2026-07-07",
     "end_date": "2026-08-30",
-    "link": "https://www.ytlib.yantian.org.cn/",
+    "link": "https://www.ytlib.cn",
     "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "url": "https://www.ytlib.yantian.org.cn/",
-    "name": "盐田区图书馆暑期活动"
+    "source": "盐田区图书馆官网"
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
     "venue": "盐田区图书馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-23",
-    "link": "https://www.ytlib.yantian.org.cn/",
+    "link": "https://www.ytlib.cn",
     "description": "盐田区图书馆暑期海洋文化系列讲座，结合盐田滨海特色，开展海洋知识科普。免费参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "url": "https://www.ytlib.yantian.org.cn/",
-    "name": "盐田区图书馆海洋文化讲座"
+    "source": "盐田区图书馆官网"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
     "venue": "大鹏新区图书馆",
     "start_date": "2026-07-13",
     "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn/",
+    "link": "https://www.dplib.org.cn",
     "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网",
-    "url": "https://www.dplib.org.cn/",
-    "name": "大鹏新区图书馆暑期活动"
+    "source": "大鹏新区图书馆官网"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -1315,9 +1141,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "url": "https://www.szclib.org.cn",
-    "name": "深圳少年儿童图书馆暑期活动"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -1330,9 +1154,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "url": "https://www.szclib.org.cn",
-    "name": "深圳少年儿童图书馆暑期阅读挑战赛"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -1345,9 +1167,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "url": "https://www.szclib.org.cn",
-    "name": "深圳少年儿童图书馆暑期电影展映"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -1360,9 +1180,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "url": "https://www.szgmlib.com.cn",
-    "name": "光明区图书馆暑期阅读活动"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -1375,9 +1193,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "url": "https://www.szgmlib.com.cn",
-    "name": "光明区图书馆光明大讲堂"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -1390,9 +1206,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "深圳市文化馆暑期公益培训班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -1405,9 +1219,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "url": "https://www.szmassart.com",
-    "name": "深圳市文化馆暑期美术培训班"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -1420,9 +1232,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安科技馆暑期科普活动"
+    "source": "宝安科技馆"
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -1435,9 +1245,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安科技馆暑期创客工坊"
+    "source": "宝安科技馆"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -1450,9 +1258,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安区青少年宫暑期活动"
+    "source": "宝安区青少年宫"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -1465,9 +1271,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安区青少年宫暑期科技夏令营"
+    "source": "宝安区青少年宫"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -1480,9 +1284,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "url": "https://www.lg.gov.cn",
-    "name": "龙岗区青少年宫暑期公益课"
+    "source": "龙岗区青少年宫"
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -1495,9 +1297,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "url": "https://www.lg.gov.cn",
-    "name": "龙岗区青少年宫暑期体育训练营"
+    "source": "龙岗区青少年宫"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -1510,9 +1310,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "url": "https://www.szlh.gov.cn",
-    "name": "龙华区青少年宫暑期活动"
+    "source": "龙华区青少年宫"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -1525,9 +1323,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "url": "https://www.szlh.gov.cn",
-    "name": "龙华区青少年宫暑期艺术展演"
+    "source": "龙华区青少年宫"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -1540,9 +1336,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "url": "http://www.szcp.com",
-    "name": "深圳市少年宫暑期科普活动"
+    "source": "深圳市少年宫官网"
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -1555,9 +1349,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "url": "http://www.szcp.com",
-    "name": "深圳市少年宫暑期少儿剧场"
+    "source": "深圳市少年宫官网"
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -1570,9 +1362,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "深圳科学技术馆暑期科普展"
+    "source": "gm_kjg"
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -1585,39 +1375,33 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
-    "url": "https://www.szstm.org.cn",
-    "name": "深圳科学技术馆科学小课堂"
+    "source": "gm_kjg"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
     "venue": "宝安体育中心",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/",
+    "link": "http://www.baoan.gov.cn/bawtlyj/",
     "description": "宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/",
-    "name": "宝安体育中心暑期游泳培训班"
+    "source": "宝安体育中心"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
     "venue": "宝安体育中心",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/",
+    "link": "http://www.baoan.gov.cn/bawtlyj/",
     "description": "宝安体育中心暑期篮球训练营，面向8-16岁青少年。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
-    "url": "http://www.baoan.gov.cn/",
-    "name": "宝安体育中心暑期篮球训练营"
+    "source": "宝安体育中心"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -1630,9 +1414,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "url": "https://www.szns.gov.cn",
-    "name": "深圳湾体育中心暑期青少年体育培训"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -1645,69 +1427,59 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "url": "https://www.szns.gov.cn",
-    "name": "深圳湾体育中心暑期网球培训班"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "深圳市体育中心暑期运动营",
     "venue": "深圳市体育中心体育场",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
-    "link": "https://www.szsportscenter.com/",
+    "link": "https://www.szsportscenter.com",
     "description": "深圳市体育中心暑期运动营，包含足球、田径、体能训练等项目。面向8-16岁青少年。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育中心",
-    "url": "https://www.szsportscenter.com/",
-    "name": "深圳市体育中心暑期运动营"
+    "source": "深圳市体育中心"
   },
   {
     "title": "龙岗区博物馆暑期展览",
     "venue": "龙岗区博物馆",
     "start_date": "2026-07-01",
     "end_date": "2026-08-31",
-    "link": "https://www.lg.gov.cn/",
+    "link": "https://www.lgmuseum.cn",
     "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
     "category": "展览",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆",
-    "url": "https://www.lg.gov.cn/",
-    "name": "龙岗区博物馆暑期展览"
+    "source": "龙岗区博物馆"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
     "venue": "大鹏地质公园博物馆",
     "start_date": "2026-07-12",
     "end_date": "2026-08-26",
-    "link": "https://www.dpgeopark.org.cn/",
+    "link": "https://www.dapeng.gov.cn",
     "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "url": "https://www.dpgeopark.org.cn/",
-    "name": "大鹏地质公园博物馆科普活动"
+    "source": "大鹏地质公园博物馆"
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
     "venue": "大鹏地质公园博物馆",
     "start_date": "2026-07-15",
     "end_date": "2026-08-20",
-    "link": "https://www.dpgeopark.org.cn/",
+    "link": "https://www.dapeng.gov.cn",
     "description": "大鹏地质公园博物馆暑期青少年探索营，包含火山地质考察、化石挖掘体验、海岸地貌观察。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "url": "https://www.dpgeopark.org.cn/",
-    "name": "大鹏地质公园博物馆暑期探索营"
+    "source": "大鹏地质公园博物馆"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -1720,9 +1492,7 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "url": "https://www.shenzhenconcerthall.com",
-    "name": "深圳音乐厅暑期音乐季"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -1735,99 +1505,85 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "url": "https://www.szbo.com.cn",
-    "name": "深圳滨海艺术中心暑期演出季"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "南山文体中心暑期公益培训",
     "venue": "南山文体中心",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山文体中心暑期公益培训，包含羽毛球、乒乓球、游泳、舞蹈等课程。免费报名。",
     "category": "体育赛事",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山文体中心暑期公益培训"
+    "source": "南山文体中心"
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
     "venue": "南山文体中心",
     "start_date": "2026-07-08",
     "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山文体中心暑期少儿游泳培训班，面向6-14岁儿童。收费课程。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山文体中心暑期少儿游泳班"
+    "source": "南山文体中心"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
     "venue": "南山区青少年活动中心",
     "start_date": "2026-07-12",
     "end_date": "2026-08-22",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区青少年活动中心暑期科技营，包含编程、机器人、3D打印等课程。免费报名。",
     "category": "科普活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山区青少年活动中心暑期科技营"
+    "source": "南山区青少年活动中心"
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
     "venue": "南山区青少年活动中心",
     "start_date": "2026-07-08",
     "end_date": "2026-08-28",
-    "link": "https://www.szns.gov.cn/",
+    "link": "https://www.szns.gov.cn/nsqwhg/",
     "description": "南山区青少年活动中心暑期艺术培训，包含美术、书法、舞蹈、声乐等课程。免费报名。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
-    "url": "https://www.szns.gov.cn/",
-    "name": "南山区青少年活动中心暑期艺术培训"
+    "source": "南山区青少年活动中心"
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
     "venue": "南山图书馆",
     "start_date": "2026-07-05",
     "end_date": "2026-08-31",
-    "link": "https://www.szns.gov.cn/nslib/",
+    "link": "https://www.nsszlib.com",
     "description": "南山图书馆暑期阅读推广活动，包含少儿阅读、读书分享会、科普讲座等。免费参与。",
     "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
-    "url": "https://www.szns.gov.cn/nslib/",
-    "name": "南山图书馆暑期阅读推广活动"
+    "source": "南山图书馆"
   },
   {
     "title": "南山图书馆暑期亲子故事会",
     "venue": "南山图书馆",
     "start_date": "2026-07-09",
     "end_date": "2026-08-27",
-    "link": "https://www.szns.gov.cn/nslib/",
+    "link": "https://www.nsszlib.com",
     "description": "南山图书馆暑期亲子绘本故事会，每周四、周日上午10:00。适合3-8岁儿童。免费参与。",
     "category": "亲子活动",
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
-    "url": "https://www.szns.gov.cn/nslib/",
-    "name": "南山图书馆暑期亲子故事会"
+    "source": "南山图书馆"
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -1840,9 +1596,7 @@
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.nanshanmuseum.com",
-    "name": "南山博物馆暑期少儿工作坊"
+    "source": "南山博物馆官网"
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -1855,9 +1609,7 @@
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "url": "https://www.nanshanmuseum.com",
-    "name": "南山博物馆暑期讲座系列"
+    "source": "南山博物馆官网"
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -1870,9 +1622,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
-    "url": "https://www.szaac.com",
-    "name": "深圳市青少年活动中心暑期科技体验"
+    "source": "深圳市青少年活动中心官网"
   },
   {
     "title": "桃源街道综合性文化服务中心暑期活动",
@@ -1885,9 +1635,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化服务中心",
-    "url": "https://www.szns.gov.cn",
-    "name": "桃源街道综合性文化服务中心暑期活动"
+    "source": "桃源街道文化服务中心"
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -1900,9 +1648,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "燕罗街道分馆暑期阅读活动"
+    "source": "宝安区文化馆燕罗分馆"
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -1915,9 +1661,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安区文化馆暑期公益培训"
+    "source": "宝安区文化馆"
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -1930,9 +1674,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆",
-    "url": "https://www.baoan.gov.cn",
-    "name": "宝安区文化馆暑期少儿艺术团"
+    "source": "宝安区文化馆"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -1945,9 +1687,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/v8RvHOaMKlgmus7DyIBOjA",
-    "name": "深圳少年儿童图书馆国艺团暑期免费公益活动"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -1960,9 +1700,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/lnibmBR9jlku1o3tO10z3g",
-    "name": "岭动手作——暑期手工活动"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "红星闪闪耀童心——线上答题活动",
@@ -1975,9 +1713,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig",
-    "name": "红星闪闪耀童心——线上答题活动"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -1990,9 +1726,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/ddyC0lKxVF5V1aY4n-Hl5w",
-    "name": "岭阅书香——暑期读书会"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "国艺团少儿文艺汇演——跃马新程·筑梦盛夏",
@@ -2005,9 +1739,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/htzznWkkDd6IMZQsPPcMEQ",
-    "name": "国艺团少儿文艺汇演——跃马新程·筑梦盛夏"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -2020,656 +1752,6 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "url": "https://mp.weixin.qq.com/s/1fWZCNRmmp-cO1gZ_ZA1Uw",
-    "name": "巡天探海 舰载未来——科普展览"
-  },
-  {
-    "title": "绿翠同心——深港两地书画艺术交流展",
-    "venue": "福田美术馆",
-    "start_date": "2026-07-05",
-    "end_date": "2026-07-30",
-    "link": "http://m.toutiao.com/group/7659258111554961955/",
-    "description": "汇聚深港两地书画名家精品力作140余幅，涵盖国画山水、书法、现代水彩、油画等。免费开放。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "南方都市报",
-    "url": "http://m.toutiao.com/group/7659258111554961955/",
-    "name": "绿翠同心——深港两地书画艺术交流展"
-  },
-  {
-    "title": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展",
-    "venue": "罗湖区深圳美术馆",
-    "start_date": "2026-05-29",
-    "end_date": "2026-10-31",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "description": "从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳美术馆（罗湖区）",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "name": "薪火相传 笔笔生花——2026深圳美术馆少儿艺术展"
-  },
-  {
-    "title": "笔墨同心·林甘泉、萧华作品展",
-    "venue": "何香凝美术馆",
-    "start_date": "2026-06-20",
-    "end_date": "2026-08-09",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "description": "全面呈现林甘泉'挥洒淋漓'的水彩人物风格与萧华'华丽绽放'的书画才情。免费免预约。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "南山融媒体中心",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "name": "笔墨同心·林甘泉、萧华作品展"
-  },
-  {
-    "title": "沉浸式互动亲子科学剧《数学侠》",
-    "venue": "深圳龙城国际艺术中心",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-08",
-    "link": "https://m.sohu.com/a/1045463665_675420/",
-    "description": "不是数学课，是一场数学奇幻大冒险！激光三维坐标网、莫比乌斯环过山车、π博士穿越古今，80分钟让孩子爱上数学。早鸟票99元起。",
-    "category": "演出",
-    "fee": "需购票",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳梦/搜狐（龙岗区）",
-    "url": "https://m.sohu.com/a/1045463665_675420/",
-    "name": "沉浸式互动亲子科学剧《数学侠》"
-  },
-  {
-    "title": "锦绣中华民俗村·夏日狂欢节",
-    "venue": "锦绣中华民俗村",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-15",
-    "link": "https://m.sohu.com/a/1045463665_675420/",
-    "description": "7位网红主播每周轮值，全程带领游客沉浸式游玩互动。暑期亲子热门目的地，包含泼水狂欢、民俗表演、美食市集等精彩活动。",
-    "category": "亲子活动",
-    "fee": "需购票",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳梦/搜狐",
-    "url": "https://m.sohu.com/a/1045463665_675420/",
-    "name": "锦绣中华民俗村·夏日狂欢节"
-  },
-  {
-    "title": "深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节",
-    "venue": "深圳世界之窗",
-    "start_date": "2026-06-18",
-    "end_date": "2026-08-30",
-    "link": "https://m.sohu.com/a/1045463665_675420/",
-    "description": "33天露天音乐节，汇集谢霆锋、HIGH5、周深等艺人，罗马假日广场冰雕啤酒+烧烤+音乐派对。每周五至周日举办。",
-    "category": "演出",
-    "fee": "需购票",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳梦/搜狐",
-    "url": "https://m.sohu.com/a/1045463665_675420/",
-    "name": "深圳世界之窗·WoW狂欢音乐嘉年华+啤酒节"
-  },
-  {
-    "title": "深圳欢乐海岸·夏日狂欢节",
-    "venue": "深圳欢乐海岸",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-15",
-    "link": "https://m.sohu.com/a/1045463665_675420/",
-    "description": "全网爆火大水牛天团空降，夏日音乐节周周有大牌，清澈水战+电音派对+明星演出。票价130-228元。每周五至周日及法定节假日举办。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳梦/搜狐",
-    "url": "https://m.sohu.com/a/1045463665_675420/",
-    "name": "深圳欢乐海岸·夏日狂欢节"
-  },
-  {
-    "title": "《海洋奇缘：起航》迪士尼电影主题展",
-    "venue": "南山区深圳人才公园潮汐广场",
-    "start_date": "2026-07-01",
-    "end_date": "2026-07-31",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "description": "还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "南山融媒体中心",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "name": "《海洋奇缘：起航》迪士尼电影主题展"
-  },
-  {
-    "title": "罗湖一站式普惠托育集市",
-    "venue": "罗湖区翠湖文体公园拾光草坪",
-    "start_date": "2026-07-11",
-    "end_date": "2026-07-11",
-    "link": "http://m.toutiao.com/group/7660412037217993243/",
-    "description": "备案托育机构现场驻点、儿童保健义诊、童话游园（九宫格扔沙包、套大鹅、跳房子、投壶）、舞台汇演。适合0-3岁宝宝家庭。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "罗湖发布",
-    "city": "shenzhen",
-    "url": "http://m.toutiao.com/group/7660412037217993243/",
-    "name": "罗湖一站式普惠托育集市"
-  },
-  {
-    "title": "宝安大仟里首届暑期儿童戏剧节",
-    "venue": "宝安大仟里",
-    "start_date": "2026-07-04",
-    "end_date": "2026-08-31",
-    "link": "https://sz.ifeng.com/c/8uQvmmWyQO0",
-    "description": "联袂小橙堡儿童艺术剧团，连续8周30场活动。五大剧目轮番登场：《和风一起散步》《吹牛大王历险记》《小红帽》《丑小鸭》等。免费儿童用品、星空楼梯乐园、白鸽广场等亲子设施。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）",
-    "city": "shenzhen",
-    "url": "https://sz.ifeng.com/c/8uQvmmWyQO0",
-    "name": "宝安大仟里首届暑期儿童戏剧节"
-  },
-  {
-    "title": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动",
-    "venue": "深圳图书馆（中心馆+北馆）",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "http://www.sznews.com/news/content/2026-07/08/content_32114626.htm",
-    "description": "含8大类69节免费公益培训课（语言朗诵、创意美术、魔方、棋艺、科创等）、人文通识课、走读深圳研学、AI训练营、成语小课堂等近300场活动。面向5-16岁青少年。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳新闻网",
-    "city": "shenzhen",
-    "url": "http://www.sznews.com/news/content/2026-07/08/content_32114626.htm",
-    "name": "深圳图书馆第十二届\"暑期缤纷季\"——近300场阅读活动"
-  },
-  {
-    "title": "炫彩青春——优秀青年京剧演员展演",
-    "venue": "罗湖区深圳戏院",
-    "start_date": "2026-07-14",
-    "end_date": "2026-07-19",
-    "link": "https://m.sohu.com/a/1047290911_122091088/",
-    "description": "中国京剧艺术基金会与深圳京剧院联合主办，剧目包括《满江红》《寻觅清照》《杨门女将》，张建国等名家领衔。",
-    "category": "演出",
-    "fee": "需购票",
-    "contact": "",
-    "family_friendly": true,
-    "source": "罗湖发布",
-    "city": "shenzhen",
-    "url": "https://m.sohu.com/a/1047290911_122091088/",
-    "name": "炫彩青春——优秀青年京剧演员展演"
-  },
-  {
-    "title": "儿童音乐皮影戏",
-    "venue": "罗湖区深圳戏院",
-    "start_date": "2026-07-11",
-    "end_date": "2026-07-12",
-    "link": "https://m.sohu.com/a/1047290911_122091088/",
-    "description": "深圳戏院\"少儿演出季\"系列，传统皮影戏融合音乐元素，适合亲子观看。地铁1/3号线老街站F出口。",
-    "category": "演出",
-    "fee": "需购票",
-    "contact": "",
-    "family_friendly": true,
-    "source": "罗湖发布",
-    "city": "shenzhen",
-    "url": "https://m.sohu.com/a/1047290911_122091088/",
-    "name": "儿童音乐皮影戏"
-  },
-  {
-    "title": "沉浸式互动亲子科学剧《数学秀》",
-    "venue": "龙岗区深圳龙岗国际艺术中心",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-08",
-    "link": "https://www.szlgac.com/",
-    "description": "沉浸式互动亲子科学剧，带领孩子探索数学的奥秘，寓教于乐。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "自动化发现",
-    "name": "沉浸式互动亲子科学剧《数学秀》",
-    "url": "https://www.szlgac.com/"
-  },
-  {
-    "title": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》",
-    "venue": "光明区光明文化艺术中心·演艺中心·大剧场",
-    "start_date": "2026-07-26",
-    "end_date": "2026-07-26",
-    "link": "",
-    "description": "钢琴家陈萨与指挥家孙一凡携手国家大剧院管弦乐团室内乐团，演绎瓦格纳与常乐的作品。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "自动化发现",
-    "name": "陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》"
-  },
-  {
-    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
-    "venue": "福田区深圳音乐厅五楼小剧场",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "",
-    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "自动化发现",
-    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会"
-  },
-  {
-    "title": "欢乐META儿童绘本馆",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-20",
-    "end_date": "2026-12-31",
-    "link": "https://www.sz-lib.cn/",
-    "description": "湾区之眼欢乐META儿童绘本馆，低幼绘本、立体书、亲子阅读座椅、儿童手工打卡墙。周二至周日9:00-21:00，周一闭馆，免预约。适合0-12岁儿童。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.sz-lib.cn/",
-    "name": "欢乐META儿童绘本馆"
-  },
-  {
-    "title": "星空屋顶花园",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-20",
-    "end_date": "2026-12-31",
-    "link": "https://www.szgm.gov.cn/",
-    "description": "湾区之眼星空屋顶花园，超大草坪、海景观景、露天休闲，可野餐遛娃。全天开放（雨天关闭），免预约。适合3-15岁亲子家庭。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.szgm.gov.cn/",
-    "name": "星空屋顶花园"
-  },
-  {
-    "title": "艺术花园阅览空间",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-20",
-    "end_date": "2026-12-31",
-    "link": "https://www.sz-lib.cn/",
-    "description": "湾区之眼艺术花园阅览空间，270°落地窗观景、绿植书屋，安静亲子看书休憩。9:00-21:00开放，免预约。适合4-15岁亲子家庭。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.sz-lib.cn/",
-    "name": "艺术花园阅览空间"
-  },
-  {
-    "title": "公益阅读打卡点位",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-20",
-    "end_date": "2026-12-31",
-    "link": "https://www.sz-lib.cn/",
-    "description": "湾区之眼全域公共区域公益阅读打卡点位，集章打卡、儿童读书任务，集齐兑换文创小礼品。全天候开放，免预约。适合3-14岁儿童。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.sz-lib.cn/",
-    "name": "公益阅读打卡点位"
-  },
-  {
-    "title": "中高考准考证专属福利活动",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "http://m.toutiao.com/group/7661215690350707250/",
-    "description": "凭准考证图书文创8.8折；每日前50名到场考生免费领启程礼盒（文创+展览门票+打卡地图）；晒打卡照抽取图书礼券，亲子家庭可陪同一同逛展看书。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "南方都市报",
-    "url": "http://m.toutiao.com/group/7661215690350707250/",
-    "name": "中高考准考证专属福利活动"
-  },
-  {
-    "title": "青春回响·星空露天毕业歌会",
-    "venue": "深圳宝安·湾区之眼（湾区书城）南台阶户外广场",
-    "start_date": "2026-07-04",
-    "end_date": "2026-07-19",
-    "link": "https://m.weibo.cn/detail/5315978175187194",
-    "description": "民谣、流行金曲演唱、观众点歌互动，晚风露天音乐会，适合全家休闲纳凉。7月全月周末持续加场（7.4-5、7.11-12、7.18-19），免费免预约。适合3-15岁亲子家庭。",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://m.weibo.cn/detail/5315978175187194",
-    "name": "青春回响·星空露天毕业歌会"
-  },
-  {
-    "title": "一日店长青少年社会实践公益计划",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "http://m.toutiao.com/group/7662537559884546575/",
-    "description": "中小学生体验书城运营、图书整理、引导读者，公益研学实践活动。7-8月每周招募，免费报名参与。适合7-15岁青少年。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳特区报（宝安区）",
-    "url": "http://m.toutiao.com/group/7662537559884546575/",
-    "name": "一日店长青少年社会实践公益计划"
-  },
-  {
-    "title": "名家读书沙龙/新书分享会",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://www.sz-lib.cn/",
-    "description": "暑期每周安排文学、育儿、科普类作家线下讲座，亲子可免费旁听，包含儿童文学、亲子共读主题分享。官方查询入口：湾区之眼公众号菜单栏「活动预约」。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.sz-lib.cn/",
-    "name": "名家读书沙龙/新书分享会"
-  },
-  {
-    "title": "第四届「宝安杯」全国中小学围棋校际联赛",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-14",
-    "end_date": "2026-08-31",
-    "link": "http://m.toutiao.com/group/7662642376405680667/",
-    "description": "全国少儿围棋赛事，配套AI围棋科普体验区、围棋文化展演，场外区域市民可免费观看赛事、体验AI对弈。适合6-15岁围棋爱好者。",
-    "category": "体育赛事",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安区委宣传部",
-    "url": "http://m.toutiao.com/group/7662642376405680667/",
-    "name": "第四届「宝安杯」全国中小学围棋校际联赛"
-  },
-  {
-    "title": "《给阿嬷的情书》深圳原创电影主创分享会",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "link": "http://m.toutiao.com/group/7664016824635359763/",
-    "description": "侨乡亲情文化分享、潮汕方言文化解读，到场可免费抽奖电影周边，亲子感悟乡土亲情文化。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "http://m.toutiao.com/group/7664016824635359763/",
-    "name": "《给阿嬷的情书》深圳原创电影主创分享会"
-  },
-  {
-    "title": "福尔摩斯的委托·沉浸式探案展（华南首站）",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-01-01",
-    "end_date": "2026-12-31",
-    "link": "https://sz.ifeng.com/c/8sqVCenNkjN",
-    "description": "柯南道尔官方授权，1:1复刻贝克街街区，孩子化身侦探解谜探案，推理文学研学；8大经典案件互动解谜，中小学生沉浸式文学体验。70岁以上老人免费，儿童亲子套票优惠。适合6-15岁推理启蒙。",
-    "category": "展览",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）",
-    "url": "https://sz.ifeng.com/c/8sqVCenNkjN",
-    "name": "福尔摩斯的委托·沉浸式探案展（华南首站）"
-  },
-  {
-    "title": "世界海洋日深海科技科普展",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-06-01",
-    "end_date": "2026-06-30",
-    "link": "http://www.sznews.com/news/content/2026-06/04/content_32077786.htm",
-    "description": "水下机器人操控、海洋生物标本、环保手工、深港青少年生态课堂，全程免费开放。湾区之眼世界海洋日公益科普展。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳新闻网（宝安区）",
-    "url": "http://www.sznews.com/news/content/2026-06/04/content_32077786.htm",
-    "name": "世界海洋日深海科技科普展"
-  },
-  {
-    "title": "湾区之眼亲子共读节",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2025-12-20",
-    "end_date": "2026-01-05",
-    "link": "https://www.szcbgroup.com/",
-    "description": "30+亲子手工工坊、儿童舞台剧、绘本大师原作展、童书变装嘉年华，普惠亲子阅读公益活动。湾区之眼跨年亲子共读节。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.szcbgroup.com/",
-    "name": "湾区之眼亲子共读节"
-  },
-  {
-    "title": "壁上丹青·大唐壁画特展",
-    "venue": "深圳宝安·湾区之眼（湾区书城）",
-    "start_date": "2026-01-10",
-    "end_date": "2026-02-28",
-    "link": "https://www.szcbgroup.com/",
-    "description": "陕历博联办唐朝文化展，配套亲子古代年俗游戏、壁画寻宝公益讲解，历史研学遛娃首选。湾区之眼寒假大唐壁画特展。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "湾区之眼",
-    "url": "https://www.szcbgroup.com/",
-    "name": "壁上丹青·大唐壁画特展"
-  },
-  {
-    "title": "宠·爱——猫猫狗狗的世界",
-    "venue": "深圳博物馆（历史民俗馆）",
-    "start_date": "2026-07-03",
-    "end_date": "2026-07-31",
-    "link": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
-    "description": "汇集80件/套展品，梳理人与猫狗跨越万年的相伴历程。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科学可视、可玩、可体验。暑期延时开放至21:00。",
-    "category": "展览",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
-    "name": "宠·爱——猫猫狗狗的世界"
-  },
-  {
-    "title": "深圳国际美术馆七大展览",
-    "venue": "光明区深圳国际美术馆",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "七大展览同步呈现：圆明园兽首与珍贵文物、欧洲大师真迹、中国近现代书画经典、艺术与科技双年展、徐冰文字世界、《新链：艺术的未来》。每周二至周日10:00-18:00开放。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "深圳国际美术馆七大展览"
-  },
-  {
-    "title": "比利时漫画黄金时代九大经典IP展",
-    "venue": "光明区光明文化艺术中心美术馆3F展厅B",
-    "start_date": "2026-06-29",
-    "end_date": "2026-09-19",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "汇聚比利时漫画黄金时代九大经典IP——丁丁、蓝精灵、杰米、加斯顿、苏苏与维维、怪叔迪基、长尾豹马修、超能小子班尼、卓汉与皮威。",
-    "category": "展览",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "比利时漫画黄金时代九大经典IP展"
-  },
-  {
-    "title": "2026编舞戏法国际舞蹈周·舞蹈影像终评展映",
-    "venue": "光明区光明文化艺术中心美术馆四楼多功能厅",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-01",
-    "link": "http://m.toutiao.com/group/7668631808560448050/",
-    "description": "2026编舞戏法国际舞蹈周舞蹈影像终评，16部入围优质舞蹈影像作品线下完整展映。近距离感受舞蹈影像独有的镜头叙事，为直击内心的优质作品投票。招募100人，免费参与。",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "http://m.toutiao.com/group/7668631808560448050/",
-    "name": "2026编舞戏法国际舞蹈周·舞蹈影像终评展映"
-  },
-  {
-    "title": "当代舞蹈创作沙龙：在创作与观演之间",
-    "venue": "光明区光明文化艺术中心美术馆四楼多功能厅",
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-02",
-    "link": "http://m.toutiao.com/group/7668631808560448050/",
-    "description": "沙龙从创作起点与观演关系两个层面展开。「创作·好奇」板块聚焦艺术家创作起点，「观演·平衡」板块围绕艺术家、作品与观众之间的关系。招募100人，免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "光明区文化广电旅游体育局",
-    "url": "http://m.toutiao.com/group/7668631808560448050/",
-    "name": "当代舞蹈创作沙龙：在创作与观演之间"
-  },
-  {
-    "title": "舞剧《她的龟兹》",
-    "venue": "光明区光明文化艺术中心大剧场",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "青年舞蹈家古丽米娜领衔主演，以现代壁画修复师的视角，穿越时空再现龟兹千年乐舞的盛世辉煌。8月1日周六20:00/8月2日周日15:00。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "舞剧《她的龟兹》"
-  },
-  {
-    "title": "\"魔法四季\"2026年光明区文化馆\"四季村晚\"系列活动——魔术专场演出",
-    "venue": "光明区文化馆美育剧场",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-22",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "融入近景魔术、舞台幻术、心灵魔术等多元形式，全年推出10场不同类型的魔术专场演出。8月8日、22日15:30-17:00。",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "\"魔法四季\"魔术专场演出"
-  },
-  {
-    "title": "话剧《主角》",
-    "venue": "光明区光明文化艺术中心大剧场",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-09",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "陕西人艺\"茅奖系列\"文华大奖力作，改编自陈彦同名小说，讲述秦腔名伶忆秦娥从放羊娃到\"秦腔皇后\"的半世纪命运史诗。8月8日周六19:30/8月9日周日14:30。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "话剧《主角》"
-  },
-  {
-    "title": "舞剧《五星出东方》",
-    "venue": "光明区光明文化艺术中心大剧场",
-    "start_date": "2026-08-29",
-    "end_date": "2026-08-30",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "荣获\"文华大奖\"\"五个一工程\"奖的原创舞剧，以国宝\"五星出东方利中国\"织锦护臂为灵感，织就千年丝路传奇。8月29日周六15:00/20:00；8月30日周日15:00。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "舞剧《五星出东方》"
-  },
-  {
-    "title": "\"跟着文化馆学非遗\"暑期活动",
-    "venue": "光明区文化馆",
-    "start_date": "2026-07-13",
-    "end_date": "2026-08-31",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "以馆员主导、群众参与的互动模式，依托光明区文化馆非遗空间，面向青少年、亲子家庭开展非遗主题科普讲解、非遗主题手作创作活动。每周一、周二举行。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "\"跟着文化馆学非遗\"暑期活动"
-  },
-  {
-    "title": "楼村醒狮舞、蔡李佛武术暑期研学活动",
-    "venue": "光明区文化馆美育剧场",
-    "start_date": "2026-08-10",
-    "end_date": "2026-08-16",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "面向8-15周岁青少年群体，开展楼村醒狮舞基础动作、蔡李佛武术基础招式研学活动。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "楼村醒狮舞、蔡李佛武术暑期研学活动"
-  },
-  {
-    "title": "2026年U系列中国青少年滑板巡回赛（深圳站）",
-    "venue": "光明区虹桥公园滑板场",
-    "start_date": "2026-07-31",
-    "end_date": "2026-08-02",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "由中国轮滑协会主办，2026年U系列中国青少年滑板巡回赛深圳站，面向青少年滑板选手。",
-    "category": "体育赛事",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "2026年U系列中国青少年滑板巡回赛（深圳站）"
-  },
-  {
-    "title": "2026-2027赛季亚洲机器人联盟VEX精英赛深圳站",
-    "venue": "光明区红花山体育中心体育馆",
-    "start_date": "2026-08-15",
-    "end_date": "2026-08-15",
-    "link": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "description": "VEX机器人大赛经吉尼斯认证为全球规模最大青少年机器人赛事，覆盖全球百余个国家和地区，赛事成果具备中小学科创竞赛权威履历价值。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
-    "url": "https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg",
-    "name": "2026-2027赛季亚洲机器人联盟VEX精英赛深圳站"
+    "source": "深圳少年儿童图书馆公众号"
   }
 ]

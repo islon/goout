@@ -26,23 +26,6 @@ from rss_generator import generate_rss
 
 WECHAT_ACCOUNTS_FILE = os.path.join(os.path.dirname(__file__), 'wechat_accounts.json')
 
-DEFAULT_CITY = 'shenzhen'
-
-CITY_NAME_TO_CODE = {
-    '深圳': 'shenzhen',
-    '广州': 'guangzhou',
-    '上海': 'shanghai',
-    '北京': 'beijing',
-    '杭州': 'hangzhou',
-    '珠海': 'zhuhai',
-    'shenzhen': 'shenzhen',
-    'guangzhou': 'guangzhou',
-    'shanghai': 'shanghai',
-    'beijing': 'beijing',
-    'hangzhou': 'hangzhou',
-    'zhuhai': 'zhuhai',
-}
-
 REAL_SCRAPERS = [
     # 市级核心场馆
     ('深圳图书馆', 'scraper_szlib', 'fetch_szlib_activities'),
@@ -51,9 +34,6 @@ REAL_SCRAPERS = [
     ('南山区文化馆', 'scraper_nswhg', 'fetch_nswhg_activities'),
     ('南山区青少年活动中心', 'scraper_nsqsng', 'fetch_nsqsng_activities'),
     ('南山文体中心', 'scraper_nswtzx', 'fetch_nswtzx_activities'),
-    # 会展中心（API / HTML 解析，数据量大）
-    ('深圳会展中心', 'scraper_szcec', 'fetch_szcec_exhibitions'),
-    ('深圳国际会展中心', 'scraper_shenzhen_world', 'fetch_shenzhen_world_exhibitions'),
     # 其他有抓取能力的爬虫（即使当前环境可能失败，GitHub Actions 环境可能成功）
     ('宝安图书馆', 'scraper_balib', 'fetch_balib_activities'),
     ('深圳少年儿童图书馆', 'scraper_sz_children_lib', 'fetch_sz_children_lib_activities'),
@@ -84,134 +64,6 @@ REAL_SCRAPERS = [
 ]
 
 MANUAL_DATA_FILE = os.path.join(os.path.dirname(__file__), 'manual_data.json')
-ZHUHAI_DATA_FILE = os.path.join(os.path.dirname(__file__), 'zhuhai_activities.json')
-ZHUHAI_VENUES_FILE = os.path.join(os.path.dirname(__file__), 'zhuhai_venues.json')
-
-VALID_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
-
-DISTRICT_KEYWORDS = {
-    '南山': ['南山', 'nanshan', 'ns', '蛇口', '南头', '沙河', '粤海', '招商', '桃源', '西丽', 'nsmuseum', 'nslib', 'nswtzx', 'nswhg', 'nsaqjy', 'skhykpg', 'nsqsng', 'nssxf', 'ntgc', 'zsjbwg', 'sarc', 'oct_wetland', 'szwt', 'shenzhen_world', 'sz_children_lib', 'szmuseum', 'szlib'],
-    '福田': ['福田', 'futian', 'ft', '华强', '莲花', '园岭', '南园', '沙头', '梅林', '华富', '香蜜湖', '福保'],
-    '罗湖': ['罗湖', 'luohu', 'lh', '东门', '翠竹', '南湖', '黄贝', '桂园', '笋岗', '清水河', '莲塘', '东湖', 'lh_paleo'],
-    '宝安': ['宝安', 'baoan', 'ba', '新安', '西乡', '福永', '沙井', '松岗', '石岩', 'balib', 'baoan_1990', 'baoan_kjg', 'baoan_ty', 'bayarea_eye'],
-    '龙岗': ['龙岗', 'longgang', 'lg', '龙城', '龙岗街道', '坂田', '布吉', '南湾', '平湖', '横岗', '坪地', '吉华', '园山', '宝龙', 'lg_hakka', 'lgmuseum'],
-    '龙华': ['龙华', 'longhua', 'lhx', '龙华街道', '民治', '大浪', '观澜', '福城', '观湖', 'lh_ecology', 'lh_printmaking', 'lhmuseum'],
-    '光明': ['光明', 'guangming', 'gm', '光明街道', '公明', '新湖', '凤凰', '玉塘', '马田', '光明文化艺术中心', 'gm_lib', 'gm_kjg', 'gmqsng', 'gmtyzx'],
-    '坪山': ['坪山', 'pingshan', 'ps', '坪山街道', '坑梓', '龙田', '石井', '马峦', '碧岭', 'ps_nature', 'pslib', 'psqsng', 'pstyzx'],
-    '盐田': ['盐田', 'yantian', 'yt', '沙头角', '海山', '盐田街道', '梅沙', '中英街', 'yt_history', 'yt_lib', 'yttyzx'],
-    '大鹏': ['大鹏', 'dapeng', 'dp', '葵涌', '大鹏街道', '南澳', '大亚湾', '地质公园', 'dp_geopark', 'dp_nuclear'],
-}
-
-CITY_KEYWORDS = {
-    '深圳': ['深圳', 'shenzhen', 'sz', 'szlib', 'szmuseum', 'szwt'],
-    '广州': ['广州', 'guangzhou', 'gz', 'gzlib'],
-    '上海': ['上海', 'shanghai', 'sh', 'shlib'],
-    '北京': ['北京', 'beijing', 'bj', 'bjlib'],
-    '杭州': ['杭州', 'hangzhou', 'hz', 'hzlib'],
-    '成都': ['成都', 'chengdu', 'cd', 'cdlib'],
-    '重庆': ['重庆', 'chongqing', 'cq', 'cqlib'],
-    '武汉': ['武汉', 'wuhan', 'wh', 'whlib'],
-    '西安': ['西安', 'xian', 'xa', 'xalib'],
-    '南京': ['南京', 'nanjing', 'nj', 'njlib'],
-    '珠海': ['珠海', 'zhuhai', 'zh', 'zhlib'],
-}
-
-
-def get_city_from_text(text):
-    if not text:
-        return None
-    text_lower = text.lower()
-    for city, keywords in CITY_KEYWORDS.items():
-        for kw in keywords:
-            kw_lower = kw.lower()
-            if kw_lower in text_lower:
-                if kw_lower in ['南京', 'nanjing'] and '南京路' in text:
-                    continue
-                if kw_lower in ['北京', 'beijing'] and '北京路' in text:
-                    continue
-                return city
-    return None
-
-
-def get_district(text):
-    if not text:
-        return None
-    text_lower = text.lower()
-    for dist, keywords in DISTRICT_KEYWORDS.items():
-        for kw in keywords:
-            if kw.lower() in text_lower:
-                return dist
-    return None
-
-
-def normalize_fee(fee):
-    if not fee:
-        return '免费'
-    fee = fee.strip()
-    if fee in VALID_FEE_VALUES:
-        return fee
-    fee_lower = fee.lower()
-    if '免费' in fee and '预约' in fee:
-        return '免费需预约'
-    if '免费' in fee:
-        return '免费'
-    if '收费' in fee or '票' in fee or '元' in fee:
-        if '需购票' in fee or '购票' in fee:
-            return '需购票'
-        return '收费'
-    if '部分' in fee:
-        return '部分免费'
-    return '免费'
-
-
-def validate_and_fix_activity(activity):
-    if not activity:
-        return None
-    fee = activity.get('fee', '免费')
-    activity['fee'] = normalize_fee(fee)
-    description = activity.get('description', '')
-    title = activity.get('title', '')
-    if len(description) < 10:
-        if description:
-            activity['description'] = f"{title}，{description}。详情请以官方信息为准。"
-        else:
-            activity['description'] = f"{title}活动，详情请以官方信息为准。"
-    if len(activity['description']) > 500:
-        activity['description'] = activity['description'][:500]
-    source = activity.get('source', '')
-    venue = activity.get('venue', '')
-    city_val = activity.get('city', '')
-    # URL 来源（政府/官网）属于市级来源，本身不携带区县信息，不强制区县匹配
-    is_url_source = isinstance(source, str) and (
-        source.startswith('http://') or source.startswith('https://'))
-    source_dist = get_district(source)
-    venue_dist = get_district(venue)
-    source_city = get_city_from_text(source)
-    venue_city = get_city_from_text(venue)
-    if is_url_source:
-        pass  # 市级 URL 来源，跳过区县匹配校验
-    elif source_city and venue_city and source_city != venue_city:
-        pass  # 跨城市来源，不强制区县匹配
-    elif source_dist and venue_dist and source_dist != venue_dist:
-        # source 与 venue 区县不匹配时，以 venue 实际所在区县为准修正 source
-        activity['source'] = venue
-
-    if 'family_friendly' not in activity:
-        activity['family_friendly'] = is_family_friendly(
-            activity.get('title', ''),
-            activity.get('description', ''),
-            activity.get('category', '')
-        )
-
-    if not activity.get('name') and activity.get('title'):
-        activity['name'] = activity['title']
-
-    link = activity.get('link', '') or activity.get('url', '')
-    url = activity.get('url', '') or activity.get('link', '')
-    activity['link'] = link
-    activity['url'] = url
-
-    return activity
 
 CATEGORY_KEYWORDS = {
     '展览': ['展', '展览', '博览会', '艺术展', '书画展', '摄影展', '特展', '沉浸展', '推理展', '侨批', '珍品展', '爱丽丝漫游奇境'],
@@ -223,237 +75,170 @@ CATEGORY_KEYWORDS = {
     '影视放映': ['电影', '放映', '观影', '她影', '书影', '原声带', '心迷宫', '楚门', '妖猫传', '风暴', '海上花', '美丽新世界', '小说家', '1917', '东方幻境', '照明商店', '侍神令', '沙丘', '明日战纪', '明日之战', '749局', '月球陨落', '流浪地球', '蜘蛛侠'],
 }
 
-
-ALLOWED_FEE_VALUES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
-
-DISTRICT_MAPPING = {
-    '深圳': ['深圳', '市级'],
-    '南山': ['南山', '南山区'],
-    '宝安': ['宝安', '宝安区'],
-    '福田': ['福田', '福田区'],
-    '罗湖': ['罗湖', '罗湖区'],
-    '龙岗': ['龙岗', '龙岗区'],
-    '龙华': ['龙华', '龙华区'],
-    '光明': ['光明', '光明区'],
-    '坪山': ['坪山', '坪山区'],
-    '盐田': ['盐田', '盐田区'],
-    '大鹏': ['大鹏', '大鹏新区'],
+# ========== 数据质量标准 ==========
+# fee 白名单
+_ALLOWED_FEE = {"免费", "免费需预约", "收费", "部分免费", "需购票"}
+# fee 同义词 -> 标准值映射
+_FEE_ALIASES = {
+    '免费入场': '免费', '免票': '免费', '免预约': '免费', '公益': '免费',
+    '凭票入场': '需购票', '购票入场': '需购票', '售票': '需购票', '买票': '需购票',
+    '部分收费': '部分免费', '部分免票': '部分免费', '预约': '免费需预约',
+    '预约免费': '免费需预约', '免费预约': '免费需预约', '需预约': '免费需预约',
+    '收费预约': '收费', '付费': '收费',
 }
 
-# source 代码到可读名称的映射（始终应用）
-SOURCE_CODE_MAP = {
-    'nsqsng': '南山区青少年活动中心',
-    'nswtzx': '南山文体中心',
-    'nslib': '南山图书馆',
-    'nsmuseum': '南山博物馆',
-    'nswhg': '南山区文化馆',
-    'balib': '宝安图书馆',
-    'szlib': '深圳图书馆',
-    'gm_lib': '光明区图书馆',
-    'gm_kjg': '光明区科技馆',
-    'yt_lib': '盐田区图书馆',
-    'dp_geopark': '大鹏地质公园博物馆',
-    'lg_hakka': '龙岗客家民俗博物馆',
-    'lh_printmaking': '中国版画博物馆',
-    'lh_ecology': '龙华生态文明展览馆',
-    'nsaqjy': '南山安全教育体验馆',
-    'skhykpg': '蛇口海洋科普馆',
-    'sarc': '深爱人才馆',
-    'baoan_1990': '宝安1990文化馆',
-    'oct_wetland': '华侨城湿地',
-    'ps_nature': '深圳自然博物馆',
-    'dp_nuclear': '大亚湾核能科技馆',
-    'nssxf': '南山书房',
-    'szwty': '深圳湾体育中心',
-    'baoan_kjg': '宝安科技馆',
-    'baoan_ty': '宝安体育中心',
-    'sz_safety': '深圳市安全教育基地',
-    'yt_history': '中英街历史博物馆',
-    'zsjbwg': '招商局历史博物馆',
-    'ntgc': '南头古城博物馆群',
-    'lh_paleo': '深圳古生物博物馆',
-    'bayarea_eye': '湾区之眼',
-    'sz_children_lib': '深圳少年儿童图书馆',
-    'szcec': '深圳会展中心',
-    'shenzhen_world': '深圳国际会展中心',
-    'chnmuseum': '中国国家博物馆',
-    'szartm': '深圳美术馆',
-    'gmarts': '光明文化艺术中心',
+# 区县关键词表（用于判断 source/venue 的行政区归属）
+_DISTRICT_KEYWORDS = {
+    '南山': ['南山', '南山区', 'nslib', 'nsmuseum', 'nswhg', 'nsqsng', 'nswtzx', 'nsaqjy', 'skhykpg', 'sarc', 'oct_wetland', 'ntgc', 'zsjbwg', 'nssxf', 'szwty', 'szns', '南头古城', '招商局', '蛇口', '桃源街道', '粤海', '西丽'],
+    '宝安': ['宝安', '宝安区', 'balib', 'baoan', 'bamuseum', 'baoan_1990', 'baoan_kjg', 'baoan_ty', 'baoan_qsng', 'bayarea_eye', 'bawt', 'shenzhen_world', '深圳国际会展中心', '新桥街道'],
+    '福田': ['福田', 'futian', 'ftlib', 'szlib', 'szbwg', '深圳博物馆', 'szstm', '深圳科学技术馆官网', 'szcp', 'szaac', 'sznm', 'szbo', 'szconcert', '深圳音乐厅', 'szmocap', 'szsports', 'szmassart', 'sz_children_lib', 'sz_safety', 'szcec', '深圳会展中心'],
+    '罗湖': ['罗湖', 'luohu', 'lhlib', '罗湖区图书馆', 'lh_paleo', '深圳古生物博物馆', 'lhqsng2', '罗湖区青少年活动中心', 'lhtyzx2', '罗湖区体育中心', 'lhmuseum2', '罗湖区博物馆'],
+    '龙岗': ['龙岗', 'longgang', 'lglib', '龙岗区图书馆', 'lgmuseum', 'lgkjg', '龙岗区科技馆', 'lgqsng', '龙岗区青少年宫', 'lhtyzx', '龙岗体育中心', 'lg_hakka', '龙岗客家民俗博物馆', 'lgguihua', '龙城街道', '坪地街道', '吉华街道'],
+    '龙华': ['龙华', '龙华区', 'lhxqlib', '龙华区图书馆', 'lhmuseum', '龙华区博物馆', 'lhkjg', '龙华区科技馆', 'lhqsng', '龙华区青少年宫', 'lhwtzx', '龙华文体中心', 'lh_printmaking', '中国版画博物馆', 'lh_ecology', '龙华生态文明展览馆'],
+    '光明': ['光明', 'guangming', 'gmlib', '光明区图书馆', 'gm_kjg', 'gmqsng', '光明区青少年活动中心', 'gmtyzx', '光明区群众体育中心', '光明新馆', 'gm_lib'],
+    '坪山': ['坪山', 'pingshan', 'pslib', '坪山区图书馆', 'psqsng', '坪山区青少年宫', 'pstyzx', '坪山体育中心', 'ps_nature'],
+    '盐田': ['盐田', 'yantian', 'ytlib', '盐田区图书馆', 'ytkjg', '盐田区科技馆', 'yttyzx', '盐田体育中心', 'yt_history', '中英街历史博物馆'],
+    '大鹏': ['大鹏', 'dapeng', 'dplib', '大鹏新区图书馆', 'dpgeopark', '大鹏半岛国家地质公园博物馆', 'dp_geopark', 'dp_nuclear', '大亚湾核能科技馆'],
 }
 
-URL_SOURCE_MAP = {
-    "www.szlhq.gov.cn": "龙华区文旅局",
-    "www.yantian.gov.cn": "盐田区政府",
-    "www.szgm.gov.cn": "光明区政府",
-    "www.lg.gov.cn": "龙岗区政府",
-    "www.szft.gov.cn": "福田区政府",
-    "www.szlh.gov.cn": "龙华区政府",
-    "whgy.szmassart.com": "南山文化艺术中心",
-    "www.szftlib.org.cn": "福田图书馆",
-    "www.ytlib.yantian.org.cn": "盐田图书馆",
-    "www.szgmlib.com.cn": "光明图书馆",
-    "www.sz.gov.cn": "深圳政府在线",
-    "sthjj.sz.gov.cn": "深圳生态环境局",
-    "www.szlglib.com.cn": "罗湖图书馆",
-    "wtl.sz.gov.cn": "深圳文体旅游局",
-    "www.szlhlib.org.cn": "龙华图书馆",
-    "cgj.sz.gov.cn": "深圳城管局",
-    "www.shenzhenmuseum.com": "深圳博物馆",
-    "inanshan.sznews.com": "南山新闻网",
-    "www.szns.gov.cn": "南山区政府",
-    "www.nanshanmuseum.com": "南山博物馆",
-    "www.guanlanprints.com": "中国版画博物馆",
-    "www.szzhdj.gov.cn": "深圳水务局",
-    "www.oct.com.cn": "华侨城",
-    "www.szwomen.org.cn": "深圳妇女联合会",
-    "www.qianhai.gov.cn": "前海管理局",
-    "www.shekouculture.com": "蛇口文化",
-    "www.szu.edu.cn": "深圳大学",
-    "www.szbg.ac.cn": "深圳科技馆",
-    "www.crlandsports.com": "华润体育",
-    "sztb.szwater.gov.cn": "深圳水土保持",
-    "www.gsyart.com": "光明文化艺术中心",
-    "www.cndafen.com": "达芬美术馆",
+# source 标识 -> 区县 映射（更精准）
+_SOURCE_DISTRICT = {
+    'nslib': '南山', '南山图书馆': '南山',
+    'nsmuseum': '南山', '南山博物馆': '南山',
+    'nswhg': '南山', '南山区文化馆': '南山',
+    'nsqsng': '南山', '南山区青少年活动中心': '南山',
+    'nswtzx': '南山', '南山文体中心': '南山',
+    'nsaqjy': '南山', '南山安全教育体验馆': '南山',
+    'skhykpg': '南山', '蛇口海洋科普馆': '南山',
+    'sarc': '南山', '深爱人才馆': '南山',
+    'oct_wetland': '南山', '华侨城湿地': '南山',
+    'ntgc': '南山', '南头古城博物馆群': '南山',
+    'zsjbwg': '南山', '招商局历史博物馆': '南山',
+    'nssxf': '南山', '南山书房': '南山',
+    'szwty': '南山', '深圳湾体育中心': '南山',
+    'balib': '宝安', '宝安图书馆': '宝安',
+    'baoan_1990': '宝安', '宝安1990文化馆': '宝安',
+    'baoan_kjg': '宝安', '宝安科技馆': '宝安',
+    'baoan_ty': '宝安', '宝安体育中心': '宝安',
+    'gm_kjg': '光明', '深圳科学技术馆（光明新馆）': '光明',
+    'szcec': '福田', '深圳会展中心': '福田',
+    'shenzhen_world': '宝安', '深圳国际会展中心': '宝安',
+    'szlib': '福田', '深圳图书馆': '福田',
+    'sz_children_lib': '福田', '深圳少年儿童图书馆': '福田',
+    'gm_lib': '光明', '光明区少年儿童图书馆': '光明',
+    'yt_lib': '盐田', '盐田区图书馆': '盐田',
+    'dp_geopark': '大鹏', '大鹏半岛国家地质公园博物馆': '大鹏',
+    'lg_hakka': '龙岗', '龙岗客家民俗博物馆': '龙岗',
+    'lh_printmaking': '龙华', '中国版画博物馆': '龙华',
+    'lh_ecology': '龙华', '龙华生态文明展览馆': '龙华',
+    'dp_nuclear': '大鹏', '大亚湾核能科技馆': '大鹏',
+    'ps_nature': '坪山', '深圳自然博物馆坪山馆': '坪山',
+    'sz_safety': '福田', '深圳市安全教育基地': '福田',
+    'yt_history': '盐田', '中英街历史博物馆': '盐田',
+    'lh_paleo': '罗湖', '深圳古生物博物馆': '罗湖',
+    'bayarea_eye': '宝安', '湾区之眼': '宝安',
 }
 
 
-def map_url_source(url):
-    try:
-        from urllib.parse import urlparse
-        parsed = urlparse(url)
-        domain = parsed.netloc.lower()
-        if domain in URL_SOURCE_MAP:
-            return URL_SOURCE_MAP[domain]
-        for key, value in URL_SOURCE_MAP.items():
-            if key in domain:
-                return value
-        path = parsed.path.lower()
-        if 'museum' in path or 'museum' in domain:
-            return '博物馆'
-        if 'lib' in path or 'lib' in domain:
-            return '图书馆'
-        if 'gov' in domain:
-            return '政府网站'
-        return '官方网站'
-    except Exception:
-        return '官方网站'
-
-
-def get_district_from_text(text, city=None):
+def _get_district(text):
+    """推断字符串(venue/source)属于哪个区县，返回 None 表示未知"""
     if not text:
         return None
-    specific_districts = ['南山', '宝安', '福田', '罗湖', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏']
-    if city and city != '深圳':
-        non_shenzhen_districts = ['南山']
-        for district in specific_districts:
-            if district in text and district not in non_shenzhen_districts:
-                return district
-        if '深圳' in text:
-            return '深圳'
-        return None
-    for district in specific_districts:
-        if district in text:
-            return district
-    if '深圳' in text:
-        return '深圳'
+    t = str(text)
+    # 最高优先级：显式 [区县] 前缀（由 normalize_activity 校正时写入）
+    import re
+    m = re.match(r'^\[([^\]]{2,4})\]', t)
+    if m:
+        prefix = m.group(1)
+        if prefix in _DISTRICT_KEYWORDS:
+            return prefix
+    t_low = t.lower()
+    t_str = t
+    if t_low in _SOURCE_DISTRICT:
+        return _SOURCE_DISTRICT[t_low]
+    if t_str in _SOURCE_DISTRICT:
+        return _SOURCE_DISTRICT[t_str]
+    for dist, keywords in sorted(_DISTRICT_KEYWORDS.items(), key=lambda kv: -sum(len(k) for k in kv[1])):
+        for kw in keywords:
+            if kw.lower() in t_low or kw in t_str:
+                return dist
     return None
 
 
-def fix_description(title, description, venue, category, fee):
-    if len(description) >= 10:
-        return description
-    
-    parts = []
-    if category:
-        parts.append(f"{category}活动")
-    if venue:
-        parts.append(f"在{venue}举行")
-    if title:
-        parts.append(f"详情请关注官方信息")
-    
-    if fee and fee in ALLOWED_FEE_VALUES:
-        if fee == '免费':
-            parts.insert(0, "免费参与")
-        elif fee == '免费需预约':
-            parts.insert(0, "免费需预约")
-        elif fee == '收费':
-            parts.insert(0, "收费活动")
-        elif fee == '部分免费':
-            parts.insert(0, "部分免费")
-        elif fee == '需购票':
-            parts.insert(0, "需购票")
-    
-    result = '，'.join(parts)
-    if len(result) < 10:
-        result = f"{title}，{venue}举办的活动，欢迎参与。"
-    
-    return result[:300]
-
-
-def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
+def normalize_activity(raw, venue_default=''):
     title = raw.get('title') or raw.get('name') or ''
     link = raw.get('link') or raw.get('url') or ''
     venue = raw.get('venue') or venue_default
     start_date = raw.get('start_date') or ''
     end_date = raw.get('end_date') or start_date
     description = raw.get('description') or ''
-    fee_raw = raw.get('fee') or ''
+    fee = raw.get('fee') or '免费'
     contact = raw.get('contact') or ''
     family_friendly = raw.get('family_friendly', False)
     source = raw.get('source') or ''
-    city_val = raw.get('city') or city
-    city_val = CITY_NAME_TO_CODE.get(city_val, city_val)
 
     if not title or not start_date:
         return None
 
-    category = categorize_activity(title, description)
-    fee = standardize_fee(fee_raw, title, description)
+    # ========== 数据质量标准化 ==========
+    # 1. fee 标准化到白名单
+    fee_stripped = str(fee).strip()
+    if fee_stripped not in _ALLOWED_FEE:
+        # 先查别名表
+        fee_lower = fee_stripped
+        matched = None
+        for alias, std in sorted(_FEE_ALIASES.items(), key=lambda kv: -len(kv[0])):
+            if alias in fee_lower:
+                matched = std
+                break
+        if not matched:
+            # 启发式判断
+            if any(k in fee_stripped for k in ['收费', '购票', '买票', '付费', '票价', '元']):
+                matched = '收费'
+            elif any(k in fee_stripped for k in ['免费']) and any(k in fee_stripped for k in ['预约', '需预约']):
+                matched = '免费需预约'
+            elif any(k in fee_stripped for k in ['免费', '免票', '免', '公益']):
+                matched = '免费'
+            elif any(k in fee_stripped for k in ['部分']):
+                matched = '部分免费'
+            else:
+                matched = '免费'  # 缺省免费
+        fee = matched
 
-    if not description or len(description) < 10:
-        description = f"{title}。{venue}举办。"
-        if fee and fee != '免费':
-            description += f"{fee}。"
+    # 2. description 不少于 10 字
+    description = str(description).strip()
+    if len(description) < 10:
+        suffix = f"{title}。详情请访问官方链接了解更多信息。"
+        if description:
+            description = description + '。' + suffix
+        else:
+            description = suffix
+        if len(description) > 500:
+            description = description[:500]
+
+    # 3. source 与 venue 区县对齐
+    # 取 venue 区县作为主锚点（场馆实际所在地更可靠）
+    dist_venue = _get_district(venue)
+    dist_source = _get_district(source)
+    if dist_venue and dist_source and dist_venue != dist_source:
+        # 以 venue 所在区县为准，修正 source（保持原 source 文本，但不强改 key，
+        # 而是在 source 前补 [区县] 标识，保证区县信息可被重新识别）
+        if not source.startswith('['):
+            source = f"[{dist_venue}]" + (source if source else dist_venue)
+
+    category = categorize_activity(title, description)
 
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
-
-    if fee not in ALLOWED_FEE_VALUES:
-        fee = '免费'
-
-    # 始终将 source 代码映射为可读名称
-    if source in SOURCE_CODE_MAP:
-        source = SOURCE_CODE_MAP[source]
-    elif source and source.startswith('http'):
-        source = map_url_source(source)
-
-    venue_city = get_city_from_text(venue) or city_val
-    source_city = get_city_from_text(source) or city_val
-
-    venue_district = get_district_from_text(venue, venue_city)
-    source_district = get_district_from_text(source, source_city)
-
-    if source and source_city and venue_city and source_city != venue_city:
-        pass
-    elif source and venue_district and source_district and venue_district != source_district:
-        city_sources = ['深圳文旅游局', '深圳政府在线', '深圳新闻网', '深圳融媒体中心', '深圳商报', '深圳晚报', '深圳卫视', '深圳广播', '深圳发布']
-        if source in city_sources or (source_district == '深圳' and venue_district != '深圳'):
-            pass
-        else:
-            source = venue
-
-    description = fix_description(title, description, venue, category, fee)
 
     result = {
         'title': title,
         'name': title,
         'venue': venue,
-        'city': city_val,
         'start_date': start_date,
         'end_date': end_date,
         'link': link,
         'url': link,
-        'links': [{'url': link, 'label': '活动详情'}] if link else [],
         'description': description,
         'category': category,
         'fee': fee,
@@ -465,54 +250,7 @@ def normalize_activity(raw, venue_default='', city=DEFAULT_CITY):
     if 'types' in raw:
         result['types'] = raw['types']
 
-    result = validate_and_fix_activity(result)
-
     return result
-
-
-VALID_FEE_TYPES = {'免费', '免费需预约', '收费', '部分免费', '需购票'}
-
-FREE_KEYWORDS = ['免费', '公益', '免门票', '免票', '不要钱', '无需费用', '无费用']
-FREE_RESERVATION_KEYWORDS = ['免费需预约', '免费预约', '预约入馆', '提前预约', '预约免费', '免费但需预约', '需预约']
-CHARGE_KEYWORDS = ['收费', '元', '票价', '门票', '购票', '单人票', '双人票', '亲子票', '学生票', '半价', '早鸟', 'vip', 'VIP', '￥', '¥', '$', 'dollar', '含在门票内']
-PARTIAL_FREE_KEYWORDS = ['部分免费', '部分收费', '有的免费', '有免费有收费', '部分项目免费', '部分活动免费']
-TICKET_REQUIRED_KEYWORDS = ['需购票', '凭票入场', '购票入场', '买票', '需要门票', '需门票']
-
-
-def standardize_fee(fee_raw, title='', description=''):
-    if not fee_raw:
-        return '免费'
-
-    fee_str = str(fee_raw).strip()
-
-    if fee_str in VALID_FEE_TYPES:
-        return fee_str
-
-    combined = f"{fee_str} {title} {description}"
-
-    for kw in FREE_RESERVATION_KEYWORDS:
-        if kw in combined and any(fk in combined for fk in FREE_KEYWORDS):
-            return '免费需预约'
-
-    for kw in TICKET_REQUIRED_KEYWORDS:
-        if kw in combined:
-            return '需购票'
-
-    for kw in PARTIAL_FREE_KEYWORDS:
-        if kw in combined:
-            return '部分免费'
-
-    has_free = any(kw in combined for kw in FREE_KEYWORDS)
-    has_charge = any(kw in combined for kw in CHARGE_KEYWORDS)
-
-    if has_charge and has_free:
-        return '部分免费'
-    if has_charge:
-        return '收费'
-    if has_free:
-        return '免费'
-
-    return '免费'
 
 
 def categorize_activity(title, description):
@@ -562,21 +300,6 @@ def load_manual_data():
         return []
 
 
-def load_zhuhai_data():
-    """加载珠海活动数据"""
-    if not os.path.exists(ZHUHAI_DATA_FILE):
-        return []
-    try:
-        with open(ZHUHAI_DATA_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        for item in data:
-            item['city'] = 'zhuhai'
-        return data
-    except Exception as e:
-        print(f"加载珠海数据失败: {e}")
-        return []
-
-
 def fetch_wechat_activities(max_accounts=10, max_articles_per_account=5):
     try:
         from wechat_crawler import crawl_wechat_articles
@@ -618,21 +341,7 @@ def fetch_wechat_activities(max_accounts=10, max_articles_per_account=5):
 def collect_all_activities():
     all_activities = []
 
-    print("=== 抓取文化馆云平台（全市统一）===\n")
-    try:
-        from scraper_culture_cloud import fetch_culture_cloud_activities
-        cloud_results = fetch_culture_cloud_activities()
-        cloud_normalized = []
-        for raw in cloud_results:
-            activity = normalize_activity(raw, venue_default='文化馆')
-            if activity and is_valid_activity(activity):
-                cloud_normalized.append(activity)
-        print(f"  文化馆云平台有效活动: {len(cloud_normalized)} 条\n")
-        all_activities.extend(cloud_normalized)
-    except Exception as e:
-        print(f"  文化馆云平台抓取失败: {e}\n")
-
-    print("=== 抓取场馆数据 ===\n")
+    print("=== 抓取真实场馆数据 ===\n")
 
     for i, (name, module_name, func_name) in enumerate(REAL_SCRAPERS, 1):
         print(f"{i}. 抓取{name}...")
@@ -660,16 +369,6 @@ def collect_all_activities():
     print(f"有效活动: {len(manual_valid)} 条")
     all_activities.extend(manual_valid)
 
-    print("\n=== 加载珠海活动数据 ===")
-    zhuhai_data = load_zhuhai_data()
-    zhuhai_valid = []
-    for raw in zhuhai_data:
-        activity = normalize_activity(raw, city='zhuhai')
-        if activity and is_valid_activity(activity):
-            zhuhai_valid.append(activity)
-    print(f"有效活动: {len(zhuhai_valid)} 条")
-    all_activities.extend(zhuhai_valid)
-
     print("\n=== 抓取微信公众号数据 ===")
     wechat_data = fetch_wechat_activities(max_accounts=10, max_articles_per_account=3)
     wechat_valid = []
@@ -679,19 +378,6 @@ def collect_all_activities():
             wechat_valid.append(activity)
     print(f"有效活动: {len(wechat_valid)} 条")
     all_activities.extend(wechat_valid)
-
-    # 去重：按 (title, venue, start_date) 去重，保留首次出现的条目
-    seen = set()
-    unique_activities = []
-    for a in all_activities:
-        key = (a.get('title', ''), a.get('venue', ''), a.get('start_date', ''))
-        if key not in seen:
-            seen.add(key)
-            unique_activities.append(a)
-    dup_count = len(all_activities) - len(unique_activities)
-    if dup_count > 0:
-        print(f"\n去重: 移除 {dup_count} 条重复条目")
-    all_activities = unique_activities
 
     all_activities.sort(key=lambda x: x['start_date'])
 
@@ -723,125 +409,21 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     json_path = os.path.join(OUTPUT_DIR, JSON_FILE)
-    
-    existing_activities = []
-    if os.path.exists(json_path):
-        try:
-            with open(json_path, 'r', encoding='utf-8') as f:
-                existing_activities = json.load(f)
-            print(f"\n已读取现有数据: {len(existing_activities)} 条")
-        except Exception as e:
-            print(f"\n读取现有数据失败: {e}")
-            existing_activities = []
-
-    new_activity_keys = set()
-    for a in activities:
-        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
-        new_activity_keys.add(key)
-
-    preserved_activities = []
-    for a in existing_activities:
-        city = a.get('city', '')
-        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
-        if city != 'shenzhen' or key not in new_activity_keys:
-            if not a.get('name') and a.get('title'):
-                a['name'] = a['title']
-            if not city:
-                a['city'] = 'shenzhen'
-            preserved_activities.append(a)
-
-    all_combined = preserved_activities + activities
-    
-    seen = set()
-    unique_activities = []
-    for a in all_combined:
-        key = (a.get('name', a.get('title', '')), a.get('venue', ''), a.get('start_date', ''))
-        if key not in seen:
-            seen.add(key)
-            unique_activities.append(a)
-    
-    unique_activities.sort(key=lambda x: x['start_date'])
-
-    print(f"\n合并后数据: 新抓取 {len(activities)} 条 + 保留其他城市 {len(preserved_activities)} 条 = 去重后 {len(unique_activities)} 条")
-
     with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(unique_activities, f, ensure_ascii=False, indent=2)
-    print(f"JSON数据已保存到 {json_path}")
+        json.dump(activities, f, ensure_ascii=False, indent=2)
+    print(f"\nJSON数据已保存到 {json_path}")
 
-    ics_content = create_ics(unique_activities)
+    ics_content = create_ics(activities)
     ics_path = os.path.join(OUTPUT_DIR, ICS_FILE)
     with open(ics_path, 'w', encoding='utf-8') as f:
         f.write(ics_content)
     print(f"ICS日历已生成到 {ics_path}")
-
-    city_codes = ['shenzhen', 'guangzhou', 'shanghai', 'beijing', 'hangzhou', 'chengdu', 'nanjing', 'wuhan', 'xian', 'chongqing', 'zhuhai']
-    for city_code in city_codes:
-        city_activities = [a for a in unique_activities if a.get('city') == city_code]
-        if not city_activities:
-            continue
-
-        city_json_path = os.path.join(OUTPUT_DIR, f'exhibitions_{city_code}.json')
-        with open(city_json_path, 'w', encoding='utf-8') as f:
-            json.dump(city_activities, f, ensure_ascii=False, indent=2)
-        print(f"  [{city_code}] JSON: {len(city_activities)} 条 -> {city_json_path}")
-
-        city_ics = create_ics(city_activities)
-        city_ics_path = os.path.join(OUTPUT_DIR, f'exhibitions_{city_code}.ics')
-        with open(city_ics_path, 'w', encoding='utf-8') as f:
-            f.write(city_ics)
-        print(f"  [{city_code}] ICS -> {city_ics_path}")
-
-    # 注：单文件兜底 output/venue_info.json 不再从这里复制 scripts/venue_info.json
-    # （那份文件容易过时并退化为 5 城，曾导致手机走兜底时丢失 6 城场馆）。
-    # 改由下方 generate_city_venues.py 以「分城市文件为权威」统一写回单文件。
 
     try:
         generate_rss()
         print("RSS订阅已生成")
     except Exception as e:
         print(f"RSS生成失败: {e}")
-
-    try:
-        import subprocess
-        import sys
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        result = subprocess.run(
-            [sys.executable, os.path.join(script_dir, 'generate_city_venues.py')],
-            capture_output=True, text=True, cwd=script_dir
-        )
-        print(result.stdout.strip())
-        if result.returncode != 0:
-            print(f"分城市场馆文件生成失败: {result.stderr.strip()}")
-    except Exception as e:
-        print(f"分城市场馆文件生成失败: {e}")
-
-    try:
-        import subprocess
-        import sys
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        result = subprocess.run(
-            [sys.executable, os.path.join(script_dir, 'generate_tiered.py')],
-            capture_output=True, text=True, cwd=script_dir
-        )
-        print(result.stdout.strip())
-        if result.returncode != 0:
-            print(f"分级活动文件生成失败: {result.stderr.strip()}")
-    except Exception as e:
-        print(f"分级活动文件生成失败: {e}")
-
-    try:
-        import subprocess
-        import sys
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        result = subprocess.run(
-            [sys.executable, os.path.join(script_dir, 'generate_data_meta.py')],
-            capture_output=True, text=True, cwd=script_dir
-        )
-        print(result.stdout.strip())
-        if result.returncode != 0:
-            print(f"data_meta生成失败: {result.stderr.strip()}")
-    except Exception as e:
-        print(f"data_meta生成失败: {e}")
 
     print("\n=== 完成 ===")
 
