@@ -8,7 +8,8 @@
     "contact": "0755-26661612",
     "description": "免费。需预约报名。培训",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -19,7 +20,8 @@
     "contact": "0755-26661612",
     "description": "免费。需预约报名。培训",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -30,7 +32,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，综合性活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展",
@@ -41,7 +44,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，展览活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）",
@@ -52,7 +56,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，展览活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民健身公益培训(第十六期）",
@@ -63,7 +68,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，培训课程。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十七期）",
@@ -74,7 +80,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，培训课程。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "少儿朗诵（3节课程）",
@@ -85,7 +92,8 @@
     "contact": "0755-26661612",
     "description": "免费。需预约报名。培训",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展",
@@ -96,7 +104,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，展览活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展",
@@ -107,7 +116,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，展览活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展",
@@ -118,7 +128,8 @@
     "contact": "0755-26661612",
     "description": "免费，在南山区青少年活动中心举办，展览活动。",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "2025年桃源公益形体培训活动",
@@ -129,7 +140,8 @@
     "contact": "0755-26661612",
     "description": "免费。2025年桃源公益形体培训活动",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "少儿声乐（3节课程）",
@@ -140,6 +152,7 @@
     "contact": "0755-26661612",
     "description": "免费。需预约报名。培训",
     "source": "nsqsng",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   }
 ]

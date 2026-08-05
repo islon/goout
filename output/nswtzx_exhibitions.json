@@ -8,7 +8,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人书法（6节课程，需自备材料）",
@@ -19,7 +20,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -30,7 +32,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -41,7 +44,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年光明区群众文艺团队培育提升系列活动",
@@ -52,7 +56,8 @@
     "contact": "0755-86051111",
     "description": "免费，在光明区文化馆举办，培训课程。",
     "source": "guangming",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民健身公益培训(第十六期）",
@@ -63,7 +68,8 @@
     "contact": "0755-86051111",
     "description": "免费，在宝安区文化馆燕罗街道分馆举办，培训课程。",
     "source": "baoan",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十七期）",
@@ -74,7 +80,8 @@
     "contact": "0755-86051111",
     "description": "免费，在宝安区文化馆燕罗街道分馆举办，培训课程。",
     "source": "baoan",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿朗诵（3节课程）",
@@ -85,7 +92,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "2026年光明区文化馆“四季村晚”系列活动",
@@ -96,7 +104,8 @@
     "contact": "0755-86051111",
     "description": "免费，在光明区文化馆举办，文艺演出。",
     "source": "guangming",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆“唱享幸福生活”老年人合唱活动",
@@ -107,7 +116,8 @@
     "contact": "0755-86051111",
     "description": "免费，在桂园街道综合文体中心(桂园街道分馆）举办，综合性活动。",
     "source": "nswtzx",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿声乐（3节课程）",
@@ -118,7 +128,8 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -129,6 +140,7 @@
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
     "source": "baoan",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   }
 ]

@@ -23,6 +23,7 @@ SOURCE_DISTRICT_MAP = {
     'nslib': '南山区', 'nsmuseum': '南山区', 'nswhg': '南山区', 'nsqsng': '南山区',
     'nswtzx': '南山区', 'nssxf': '南山区', 'oct_wetland': '南山区', 'sarc': '南山区',
     'skhykpg': '南山区', 'nsaqjy': '南山区', 'ntgc': '南山区', 'zsjbwg': '南山区',
+    'nsqwhg': '南山区',
     'balib': '宝安区', 'baoan_1990': '宝安区',
     'szlib': '福田区', 'sz_children_lib': '福田区',
     'gm_lib': '光明区', 'gm_kjg': '光明区',
@@ -49,6 +50,24 @@ DISTRICT_SOURCE = {
 
 
 def get_source_district(source):
+    import re
+    # Check explicit [区县] prefix
+    m = re.match(r'^\[([^\]]{2,4})\]', source)
+    if m:
+        prefix = m.group(1)
+        if prefix + '区' in SOURCE_DISTRICT_MAP.values() or prefix == '大鹏':
+            return prefix + '区' if prefix != '大鹏' else '大鹏新区'
+
+    # Check URL path components
+    url_match = re.match(r'https?://[^/]+/([^/?#]+)', source)
+    if url_match:
+        path_component = url_match.group(1).lower()
+        if path_component in SOURCE_DISTRICT_MAP:
+            return SOURCE_DISTRICT_MAP[path_component]
+        for prefix, district in SOURCE_DISTRICT_MAP.items():
+            if prefix.lower() in path_component:
+                return district
+
     for prefix, district in SOURCE_DISTRICT_MAP.items():
         if source.startswith(prefix) or prefix in source:
             return district

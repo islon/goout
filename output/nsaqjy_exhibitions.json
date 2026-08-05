@@ -8,7 +8,8 @@
     "contact": "0755-26738119",
     "description": "消防安全隐患排查、灭火器使用模拟、火灾逃生演练等互动体验项目，免费需预约参观。",
     "source": "nsaqjy",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "交通安全体验区",
@@ -19,7 +20,8 @@
     "contact": "0755-26738119",
     "description": "交通安全知识学习、模拟驾驶体验、交通事故应急处理等互动项目，免费需预约参观。",
     "source": "nsaqjy",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "居家安全体验区",
@@ -30,7 +32,8 @@
     "contact": "0755-26738119",
     "description": "居家用电安全、燃气安全、电梯安全等生活安全知识互动体验，免费需预约参观。",
     "source": "nsaqjy",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "自然灾害体验区",
@@ -41,7 +44,8 @@
     "contact": "0755-26738119",
     "description": "地震避险体验、台风模拟、应急救护技能学习等自然灾害应对体验项目，免费需预约参观。",
     "source": "nsaqjy",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "生产安全体验区",
@@ -52,6 +56,7 @@
     "contact": "0755-26738119",
     "description": "建筑施工安全、危化品安全、职业健康防护等生产安全知识体验，免费需预约参观。",
     "source": "nsaqjy",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   }
 ]

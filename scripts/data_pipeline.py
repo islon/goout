@@ -137,6 +137,7 @@ _SOURCE_DISTRICT = {
     'yt_history': '盐田', '中英街历史博物馆': '盐田',
     'lh_paleo': '罗湖', '深圳古生物博物馆': '罗湖',
     'bayarea_eye': '宝安', '湾区之眼': '宝安',
+    'nsqwhg': '南山', 'nsqwhg_web': '南山',
 }
 
 
@@ -158,6 +159,18 @@ def _get_district(text):
         return _SOURCE_DISTRICT[t_low]
     if t_str in _SOURCE_DISTRICT:
         return _SOURCE_DISTRICT[t_str]
+
+    # URL 路径组件提取：从 URL path 中提取 source 标识（如 nsqwhg, nslib 等）
+    url_match = re.match(r'https?://[^/]+/([^/?#]+)', t_str)
+    if url_match:
+        path_component = url_match.group(1).lower()
+        if path_component in _SOURCE_DISTRICT:
+            return _SOURCE_DISTRICT[path_component]
+        # 检查路径中是否包含已知 source 标识
+        for src_key, dist in _SOURCE_DISTRICT.items():
+            if src_key.lower() in path_component:
+                return dist
+
     for dist, keywords in sorted(_DISTRICT_KEYWORDS.items(), key=lambda kv: -sum(len(k) for k in kv[1])):
         for kw in keywords:
             if kw.lower() in t_low or kw in t_str:
