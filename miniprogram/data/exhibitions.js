@@ -1,5 +1,5 @@
 // 童行活动数据 - 自动生成（离线兜底·裁剪快照）
-// 共 447 条活动（来源：islon/goout/output/exhibitions.json）
+// 共 297 条活动（来源：islon/goout/output/exhibitions.json）
 // 注：线上数据走 GitHub raw 实时拉取，本文件仅断网兜底。
 module.exports = [
   {
@@ -15,8 +15,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum",
-    "district": "南山区"
+    "source": "nsmuseum"
   },
   {
     "title": "吉金春秋——深圳博物馆铜器展",
@@ -31,8 +30,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "问陶之旅——深圳博物馆陶瓷展",
@@ -47,8 +45,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "深圳改革开放史展览",
@@ -63,8 +60,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "古代深圳——深圳历史展",
@@ -79,8 +75,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "近代深圳——深圳近代史展",
@@ -95,8 +90,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "深圳民俗文化展",
@@ -111,8 +105,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "世界野生动物标本展",
@@ -127,8 +120,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "珍瓷萃美——中国古代瓷器艺术特展",
@@ -143,8 +135,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum",
-    "district": "南山区"
+    "source": "nsmuseum"
   },
   {
     "title": "贞观长歌——大唐历史文化主题展",
@@ -159,8 +150,52 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum",
-    "district": "南山区"
+    "source": "nsmuseum"
+  },
+  {
+    "title": "2026年光明区群众文艺团队培育提升系列活动",
+    "name": "2026年光明区群众文艺团队培育提升系列活动",
+    "venue": "光明区文化馆",
+    "start_date": "2026-03-13",
+    "end_date": "2027-03-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
+    "description": "培训，深圳市光明区文化广电旅游体育局，在光明区文化馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "光明区文化馆"
+  },
+  {
+    "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
+    "name": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
+    "venue": "光明区文化馆",
+    "start_date": "2026-03-27",
+    "end_date": "2026-12-25",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
+    "description": "演出，光明区公共文化艺术和体育中心（区文化馆），在光明区文化馆举办",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区文化馆"
+  },
+  {
+    "title": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
+    "name": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
+    "venue": "光明区马田街道综合性文化服务中心",
+    "start_date": "2026-04-22",
+    "end_date": "2026-12-31",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fb99268cc44c4f2ebda74282dd8be798",
+    "description": "综合，光明区马田街道办事处，在光明区马田街道综合性文化服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "光明区马田街道综合性文化服务中心"
   },
   {
     "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
@@ -175,40 +210,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum",
-    "district": "南山区"
-  },
-  {
-    "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
-    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
-    "venue": "南山博物馆",
-    "start_date": "2026-06-12",
-    "end_date": "2026-10-07",
-    "link": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
-    "url": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
-    "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "0755-86700071",
-    "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
-  },
-  {
-    "title": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
-    "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
-    "venue": "南山博物馆",
-    "start_date": "2026-06-12",
-    "end_date": "2026-10-07",
-    "link": "https://www.nanshanmuseum.com",
-    "url": "https://www.nanshanmuseum.com",
-    "description": "精选法国国家凯布朗利博物馆馆藏大洋洲艺术珍品171件/套。免费免预约。定点讲解：每个开馆日10:50。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "0755-86700071",
-    "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
+    "source": "nsmuseum"
   },
   {
     "title": "国宝萌友展",
@@ -223,8 +225,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
+    "source": "gm_kjg"
   },
   {
     "title": "深圳博物馆暑期延时开放",
@@ -239,8 +240,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
+    "source": "深圳博物馆官网"
   },
   {
     "title": "太空奥德赛——宇宙探索展",
@@ -255,8 +255,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
+    "source": "gm_kjg"
   },
   {
     "title": "一平米实验室",
@@ -271,8 +270,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
+    "source": "gm_kjg"
   },
   {
     "title": "深圳图书馆暑期系列活动",
@@ -287,8 +285,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网",
-    "district": "福田区"
+    "source": "深圳图书馆官网"
   },
   {
     "title": "龙岗区博物馆暑期展览",
@@ -303,8 +300,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆",
-    "district": "龙岗区"
+    "source": "龙岗区博物馆"
   },
   {
     "title": "深圳少年儿童图书馆暑期活动",
@@ -319,8 +315,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "深圳市少年宫暑期科普活动",
@@ -335,72 +330,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "district": "福田区"
-  },
-  {
-    "title": "深圳博物馆暑期延时开放",
-    "name": "深圳博物馆暑期延时开放",
-    "venue": "深圳博物馆",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://www.shenzhenmuseum.com",
-    "url": "https://www.shenzhenmuseum.com",
-    "description": "金田路馆与同心路馆延时开放至21:00（20:30停止入场），改革开放展览馆10:00-21:00。逢周一闭馆。",
-    "category": "展览",
-    "fee": "免费需预约",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳博物馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "深圳图书馆暑期系列活动",
-    "name": "深圳图书馆暑期系列活动",
-    "venue": "深圳图书馆",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn",
-    "url": "https://www.szlib.org.cn",
-    "description": "暑期公益培训课、AI训练营、经典故事奇遇之旅、走读深圳、少儿阅经典等系列活动。详见深圳图书馆官网活动日历。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "0755-82841247",
-    "family_friendly": true,
-    "source": "深圳图书馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "深圳少年儿童图书馆暑期活动",
-    "name": "深圳少年儿童图书馆暑期活动",
-    "venue": "深圳少年儿童图书馆",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://www.szclib.org.cn",
-    "url": "https://www.szclib.org.cn",
-    "description": "深圳少年儿童图书馆暑期系列活动，包含绘本故事会、科普讲座、手工制作等。免费参与。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "深圳市少年宫暑期科普活动",
-    "name": "深圳市少年宫暑期科普活动",
-    "venue": "深圳市少年宫",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "http://www.szcp.com",
-    "url": "http://www.szcp.com",
-    "description": "深圳市少年宫暑期科普活动，包含科技展览、科学实验、机器人体验等。免费参观。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "district": "福田区"
+    "source": "深圳市少年宫官网"
   },
   {
     "title": "深圳科学技术馆暑期科普展",
@@ -415,24 +345,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
-  },
-  {
-    "title": "龙岗区博物馆暑期展览",
-    "name": "龙岗区博物馆暑期展览",
-    "venue": "龙岗区博物馆",
-    "start_date": "2026-07-01",
-    "end_date": "2026-08-31",
-    "link": "https://www.lgmuseum.cn",
-    "url": "https://www.lgmuseum.cn",
-    "description": "龙岗区博物馆暑期展览，展示龙岗历史文化与民俗风情。免费参观。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "龙岗区博物馆",
-    "district": "龙岗区"
+    "source": "gm_kjg"
   },
   {
     "title": "深圳音乐厅暑期音乐季",
@@ -447,8 +360,7 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "深圳滨海艺术中心暑期演出季",
@@ -463,8 +375,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "巡天探海 舰载未来——科普展览",
@@ -479,8 +390,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "深圳少年儿童图书馆国艺团暑期免费公益活动",
@@ -495,8 +405,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
@@ -511,8 +420,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
+    "source": "南山博物馆官网"
   },
   {
     "title": "南山博物馆暑期延时开放",
@@ -527,8 +435,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
+    "source": "南山博物馆官网"
   },
   {
     "title": "深圳欢乐谷·夏浪狂欢节",
@@ -543,8 +450,7 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "nswtzx",
-    "district": "南山区"
+    "source": "nswtzx"
   },
   {
     "title": "小奶牛故事绘",
@@ -559,8 +465,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "district": "光明区"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "深圳少年儿童图书馆暑期阅读挑战赛",
@@ -575,8 +480,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "光明区图书馆暑期阅读活动",
@@ -591,8 +495,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "district": "光明区"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "南山图书馆暑期阅读推广活动",
@@ -607,8 +510,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
-    "district": "南山区"
+    "source": "南山图书馆"
   },
   {
     "title": "宝安区文化馆暑期公益培训",
@@ -623,8 +525,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆",
-    "district": "宝安区"
+    "source": "宝安区文化馆"
   },
   {
     "title": "岭动手作——暑期手工活动",
@@ -639,8 +540,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "小太阳i阅读故事会",
@@ -655,8 +555,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "district": "光明区"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "宝安图书馆绘本故事会",
@@ -671,24 +570,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "district": "宝安区"
-  },
-  {
-    "title": "宝安图书馆绘本故事会",
-    "name": "宝安图书馆绘本故事会",
-    "venue": "宝安图书馆",
-    "start_date": "2026-07-06",
-    "end_date": "2026-08-31",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
-    "description": "宝安图书馆少儿绘本故事会，每周六上午10:30。适合3-6岁儿童。免费参与。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "district": "宝安区"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "岭阅书香——暑期读书会",
@@ -703,8 +585,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
-    "district": "福田区"
+    "source": "深圳少年儿童图书馆公众号"
   },
   {
     "title": "少儿国际象棋公益班",
@@ -719,8 +600,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "盐田区图书馆暑期活动",
@@ -735,24 +615,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "district": "盐田区"
-  },
-  {
-    "title": "盐田区图书馆暑期活动",
-    "name": "盐田区图书馆暑期活动",
-    "venue": "盐田区图书馆",
-    "start_date": "2026-07-07",
-    "end_date": "2026-08-30",
-    "link": "https://www.ytlib.cn",
-    "url": "https://www.ytlib.cn",
-    "description": "盐田区图书馆暑期系列活动，包含绘本故事、手工制作、科普体验等。免费参与。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "district": "盐田区"
+    "source": "盐田区图书馆官网"
   },
   {
     "title": "深圳市文化馆暑期公益培训班",
@@ -767,8 +630,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "成人古典舞公益班",
@@ -783,8 +645,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "罗湖区图书馆暑期阅读活动",
@@ -799,8 +660,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "district": "罗湖区"
+    "source": "罗湖区图书馆官网"
   },
   {
     "title": "宝安区青少年宫暑期活动",
@@ -815,8 +675,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "district": "宝安区"
+    "source": "宝安区青少年宫"
   },
   {
     "title": "深圳市青少年活动中心暑期活动",
@@ -831,24 +690,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
-    "district": "福田区"
-  },
-  {
-    "title": "罗湖区图书馆暑期阅读活动",
-    "name": "罗湖区图书馆暑期阅读活动",
-    "venue": "罗湖区图书馆",
-    "start_date": "2026-07-08",
-    "end_date": "2026-08-30",
-    "link": "https://szlhlib.org.cn",
-    "url": "https://szlhlib.org.cn",
-    "description": "罗湖区图书馆暑期少儿阅读活动，包含故事屋、手工坊、科普讲座等。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "district": "罗湖区"
+    "source": "深圳市青少年活动中心官网"
   },
   {
     "title": "深圳市文化馆暑期美术培训班",
@@ -863,24 +705,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "宝安区青少年宫暑期活动",
-    "name": "宝安区青少年宫暑期活动",
-    "venue": "宝安区青少年宫",
-    "start_date": "2026-07-08",
-    "end_date": "2026-08-30",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
-    "description": "宝安区青少年宫暑期系列活动，包含书法、绘画、科技制作、舞蹈等公益课程。免费报名。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "district": "宝安区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "南山文体中心暑期少儿游泳班",
@@ -895,8 +720,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
-    "district": "南山区"
+    "source": "南山文体中心"
   },
   {
     "title": "南山区青少年活动中心暑期艺术培训",
@@ -911,8 +735,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
-    "district": "南山区"
+    "source": "南山区青少年活动中心"
   },
   {
     "title": "燕罗街道分馆暑期阅读活动",
@@ -927,8 +750,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆",
-    "district": "宝安区"
+    "source": "宝安区文化馆燕罗分馆"
   },
   {
     "title": "“宝”读诗书，诗词挑战",
@@ -943,8 +765,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "读剧公益班",
@@ -959,8 +780,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "龙华区图书馆暑期少儿活动",
@@ -975,8 +795,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "district": "龙华区"
+    "source": "龙华区图书馆官网"
   },
   {
     "title": "龙华区青少年宫暑期活动",
@@ -991,8 +810,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "district": "龙华区"
+    "source": "龙华区青少年宫"
   },
   {
     "title": "福田区图书馆少儿绘本课堂",
@@ -1007,40 +825,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "龙华区图书馆暑期少儿活动",
-    "name": "龙华区图书馆暑期少儿活动",
-    "venue": "龙华区图书馆",
-    "start_date": "2026-07-09",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlhlib.com.cn",
-    "url": "https://www.szlhlib.com.cn",
-    "description": "龙华区图书馆暑期少儿活动，包含绘本故事会、科学实验、手工制作等。每周一、周三、周五举行。免费参与。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "district": "龙华区"
-  },
-  {
-    "title": "龙华区青少年宫暑期活动",
-    "name": "龙华区青少年宫暑期活动",
-    "venue": "龙华区青少年宫",
-    "start_date": "2026-07-09",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlh.gov.cn",
-    "url": "https://www.szlh.gov.cn",
-    "description": "龙华区青少年宫暑期系列活动，包含舞蹈、音乐、科技等公益课程。免费报名。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "district": "龙华区"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "南山图书馆暑期亲子故事会",
@@ -1055,8 +840,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
-    "district": "南山区"
+    "source": "南山图书馆"
   },
   {
     "title": "朗诵艺术公益班",
@@ -1071,8 +855,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
-    "district": "福田区"
+    "source": "深圳市文化馆官网"
   },
   {
     "title": "福田区图书馆暑期读书分享会",
@@ -1087,8 +870,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "district": "福田区"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "宝安科技馆暑期科普活动",
@@ -1103,8 +885,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
-    "district": "宝安区"
+    "source": "宝安科技馆"
   },
   {
     "title": "深圳湾体育中心暑期青少年体育培训",
@@ -1119,8 +900,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "district": "南山区"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "光明区文化馆暑期公益培训班",
@@ -1135,8 +915,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
-    "district": "光明区"
+    "source": "光明区文化馆"
   },
   {
     "title": "宝安图书馆创客空间暑期活动",
@@ -1151,24 +930,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "district": "宝安区"
-  },
-  {
-    "title": "福田区图书馆暑期读书分享会",
-    "name": "福田区图书馆暑期读书分享会",
-    "venue": "福田区图书馆",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-28",
-    "link": "https://www.ftlib.org.cn",
-    "url": "https://www.ftlib.org.cn",
-    "description": "福田区图书馆暑期读书分享会系列活动，每周四下午举行。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "district": "福田区"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "深圳少年儿童图书馆暑期电影展映",
@@ -1183,24 +945,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "宝安科技馆暑期科普活动",
-    "name": "宝安科技馆暑期科普活动",
-    "venue": "宝安科技馆",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-25",
-    "link": "https://www.baoan.gov.cn",
-    "url": "https://www.baoan.gov.cn",
-    "description": "宝安科技馆暑期科普活动，包含科学实验、机器人体验、科普讲座等。免费参与。",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安科技馆",
-    "district": "宝安区"
+    "source": "深圳少年儿童图书馆官网"
   },
   {
     "title": "深圳科学技术馆科学小课堂",
@@ -1215,8 +960,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
+    "source": "gm_kjg"
   },
   {
     "title": "宝安体育中心暑期篮球训练营",
@@ -1231,24 +975,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
-    "district": "宝安区"
-  },
-  {
-    "title": "深圳湾体育中心暑期青少年体育培训",
-    "name": "深圳湾体育中心暑期青少年体育培训",
-    "venue": "深圳湾体育中心",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-30",
-    "link": "https://www.szns.gov.cn",
-    "url": "https://www.szns.gov.cn",
-    "description": "深圳湾体育中心暑期青少年体育培训，包含篮球、羽毛球、游泳等项目。收费课程。",
-    "category": "体育赛事",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "district": "南山区"
+    "source": "宝安体育中心"
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -1263,24 +990,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
-    "district": "南山区"
-  },
-  {
-    "title": "桃源街道综合性文化服务中心暑期活动",
-    "name": "桃源街道综合性文化服务中心暑期活动",
-    "venue": "桃源街道综合性文化服务中心",
-    "start_date": "2026-07-10",
-    "end_date": "2026-08-25",
-    "link": "https://www.szns.gov.cn",
-    "url": "https://www.szns.gov.cn",
-    "description": "桃源街道综合性文化服务中心暑期社区活动，包含亲子手工、读书分享、健康讲座等。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "桃源街道文化服务中心",
-    "district": "南山区"
+    "source": "南山文体中心"
   },
   {
     "title": "宝安区文化馆暑期少儿艺术团",
@@ -1295,8 +1005,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆",
-    "district": "宝安区"
+    "source": "宝安区文化馆"
+  },
+  {
+    "title": "桃源街道综合性文化服务中心暑期活动",
+    "name": "桃源街道综合性文化服务中心暑期活动",
+    "venue": "桃源街道综合性文化服务中心",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-25",
+    "link": "https://www.szns.gov.cn",
+    "url": "https://www.szns.gov.cn",
+    "description": "桃源街道综合性文化服务中心暑期社区活动，包含亲子手工、读书分享、健康讲座等。免费参与。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "桃源街道文化服务中心"
   },
   {
     "title": "坪山区图书馆暑期阅读季",
@@ -1311,8 +1035,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "district": "坪山区"
+    "source": "坪山区图书馆官网"
   },
   {
     "title": "龙岗区青少年宫暑期公益课",
@@ -1327,8 +1050,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "district": "龙岗区"
+    "source": "龙岗区青少年宫"
   },
   {
     "title": "罗湖区图书馆暑期国学课堂",
@@ -1343,40 +1065,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
-    "district": "罗湖区"
-  },
-  {
-    "title": "坪山区图书馆暑期阅读季",
-    "name": "坪山区图书馆暑期阅读季",
-    "venue": "坪山区图书馆",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-29",
-    "link": "https://www.szpslib.cn",
-    "url": "https://www.szpslib.cn",
-    "description": "坪山区图书馆暑期阅读季活动，包含读书分享会、亲子阅读、科普讲座等。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "district": "坪山区"
-  },
-  {
-    "title": "龙岗区青少年宫暑期公益课",
-    "name": "龙岗区青少年宫暑期公益课",
-    "venue": "龙岗区青少年宫",
-    "start_date": "2026-07-11",
-    "end_date": "2026-08-28",
-    "link": "https://www.lg.gov.cn",
-    "url": "https://www.lg.gov.cn",
-    "description": "龙岗区青少年宫暑期公益课程，包含艺术、科技、体育等课程。免费报名。",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "district": "龙岗区"
+    "source": "罗湖区图书馆官网"
   },
   {
     "title": "与经典同行 ｜《九章算术》：东方算法的源头",
@@ -1391,8 +1080,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "书香乐韵——音乐读书会",
@@ -1407,8 +1095,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "district": "光明区"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "龙岗区图书馆暑期夏令营",
@@ -1423,8 +1110,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "district": "龙岗区"
+    "source": "龙岗区图书馆官网"
   },
   {
     "title": "大鹏地质公园博物馆科普活动",
@@ -1439,8 +1125,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "district": "大鹏新区"
+    "source": "大鹏地质公园博物馆"
   },
   {
     "title": "福田区图书馆暑期电影放映",
@@ -1455,24 +1140,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
-    "district": "福田区"
-  },
-  {
-    "title": "龙岗区图书馆暑期夏令营",
-    "name": "龙岗区图书馆暑期夏令营",
-    "venue": "龙岗区图书馆",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-26",
-    "link": "https://www.szlglib.cn",
-    "url": "https://www.szlglib.cn",
-    "description": "龙岗区图书馆暑期阅读夏令营，每周二、周四举行。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "district": "龙岗区"
+    "source": "福田区图书馆官网"
   },
   {
     "title": "盐田区图书馆海洋文化讲座",
@@ -1487,8 +1155,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
-    "district": "盐田区"
+    "source": "盐田区图书馆官网"
   },
   {
     "title": "深圳湾体育中心暑期网球培训班",
@@ -1503,24 +1170,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
-    "district": "南山区"
-  },
-  {
-    "title": "大鹏地质公园博物馆科普活动",
-    "name": "大鹏地质公园博物馆科普活动",
-    "venue": "大鹏地质公园博物馆",
-    "start_date": "2026-07-12",
-    "end_date": "2026-08-26",
-    "link": "https://www.dapeng.gov.cn",
-    "url": "https://www.dapeng.gov.cn",
-    "description": "大鹏地质公园博物馆暑期科普活动，包含地质科普讲座、户外考察等。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "district": "大鹏新区"
+    "source": "深圳湾体育中心"
   },
   {
     "title": "南山区青少年活动中心暑期科技营",
@@ -1535,8 +1185,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
-    "district": "南山区"
+    "source": "南山区青少年活动中心"
   },
   {
     "title": "大鹏新区图书馆暑期活动",
@@ -1551,24 +1200,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网",
-    "district": "大鹏新区"
-  },
-  {
-    "title": "大鹏新区图书馆暑期活动",
-    "name": "大鹏新区图书馆暑期活动",
-    "venue": "大鹏新区图书馆",
-    "start_date": "2026-07-13",
-    "end_date": "2026-08-27",
-    "link": "https://www.dplib.org.cn",
-    "url": "https://www.dplib.org.cn",
-    "description": "大鹏新区图书馆暑期系列活动，包含读书分享、科普讲座等。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "大鹏新区图书馆官网",
-    "district": "大鹏新区"
+    "source": "大鹏新区图书馆官网"
   },
   {
     "title": "光明区图书馆光明大讲堂",
@@ -1583,8 +1215,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
-    "district": "光明区"
+    "source": "光明区图书馆官网"
   },
   {
     "title": "南山博物馆暑期讲座系列",
@@ -1599,8 +1230,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
+    "source": "南山博物馆官网"
   },
   {
     "title": "坪山区图书馆少儿暑期工坊",
@@ -1615,8 +1245,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
-    "district": "坪山区"
+    "source": "坪山区图书馆官网"
   },
   {
     "title": "中国科幻史里程碑展",
@@ -1631,8 +1260,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "gm_kjg",
-    "district": "光明区"
+    "source": "gm_kjg"
   },
   {
     "title": "宝安图书馆暑期阅读夏令营",
@@ -1647,8 +1275,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "district": "宝安区"
+    "source": "宝安图书馆官网"
   },
   {
     "title": "宝安体育中心暑期游泳培训班",
@@ -1663,8 +1290,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
-    "district": "宝安区"
+    "source": "宝安体育中心"
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -1679,8 +1305,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网",
-    "district": "南山区"
+    "source": "南山区文化馆官网"
   },
   {
     "title": "光明区文化馆少儿暑期营",
@@ -1695,24 +1320,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
-    "district": "光明区"
-  },
-  {
-    "title": "宝安图书馆暑期阅读夏令营",
-    "name": "宝安图书馆暑期阅读夏令营",
-    "venue": "宝安图书馆",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-23",
-    "link": "https://www.balib.cn",
-    "url": "https://www.balib.cn",
-    "description": "宝安图书馆暑期阅读夏令营，包含绘本故事、手工制作、科普讲座等活动。每周三、周五举行。免费参与。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安图书馆官网",
-    "district": "宝安区"
+    "source": "光明区文化馆"
   },
   {
     "title": "龙岗区图书馆少儿编程体验课",
@@ -1727,8 +1335,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
-    "district": "龙岗区"
+    "source": "龙岗区图书馆官网"
   },
   {
     "title": "宝安科技馆暑期创客工坊",
@@ -1743,8 +1350,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
-    "district": "宝安区"
+    "source": "宝安科技馆"
   },
   {
     "title": "龙岗区青少年宫暑期体育训练营",
@@ -1759,8 +1365,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
-    "district": "龙岗区"
+    "source": "龙岗区青少年宫"
   },
   {
     "title": "深圳市少年宫暑期少儿剧场",
@@ -1775,24 +1380,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
-    "district": "福田区"
-  },
-  {
-    "title": "宝安体育中心暑期游泳培训班",
-    "name": "宝安体育中心暑期游泳培训班",
-    "venue": "宝安体育中心",
-    "start_date": "2026-07-15",
-    "end_date": "2026-08-25",
-    "link": "http://www.baoan.gov.cn/bawtlyj/",
-    "url": "http://www.baoan.gov.cn/bawtlyj/",
-    "description": "宝安体育中心暑期游泳培训班，面向6-12岁儿童。收费课程。",
-    "category": "体育赛事",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "宝安体育中心",
-    "district": "宝安区"
+    "source": "深圳市少年宫官网"
   },
   {
     "title": "深圳市体育中心暑期运动营",
@@ -1807,8 +1395,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育中心",
-    "district": "福田区"
+    "source": "深圳市体育中心"
   },
   {
     "title": "大鹏地质公园博物馆暑期探索营",
@@ -1823,8 +1410,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
-    "district": "大鹏新区"
+    "source": "大鹏地质公园博物馆"
   },
   {
     "title": "南山博物馆暑期少儿工作坊",
@@ -1839,8 +1425,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
-    "district": "南山区"
+    "source": "南山博物馆官网"
   },
   {
     "title": "深圳市青少年活动中心暑期科技体验",
@@ -1855,8 +1440,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
-    "district": "福田区"
+    "source": "深圳市青少年活动中心官网"
   },
   {
     "title": "龙华区图书馆暑期科普讲座",
@@ -1871,8 +1455,202 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
-    "district": "龙华区"
+    "source": "龙华区图书馆官网"
+  },
+  {
+    "title": "象棋课",
+    "name": "象棋课",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1357da32df184164996168d7981f186c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1357da32df184164996168d7981f186c",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "美术素描班",
+    "name": "美术素描班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1795cbb1580a44e885342f19b334bf66",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1795cbb1580a44e885342f19b334bf66",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "硬笔书法",
+    "name": "硬笔书法",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4d511d4a74a14440845abdcdcb4e616f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4d511d4a74a14440845abdcdcb4e616f",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "少儿篮球提高班",
+    "name": "少儿篮球提高班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=522a080fa373427d9704e5c18333c17c",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=522a080fa373427d9704e5c18333c17c",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "美术启智班",
+    "name": "美术启智班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53adb88c46a94137a8f48a105eb502e9",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53adb88c46a94137a8f48a105eb502e9",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "主持暑假特色课",
+    "name": "主持暑假特色课",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57d157777e344c4781fbad3f871eceac",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57d157777e344c4781fbad3f871eceac",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "软笔书法",
+    "name": "软笔书法",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5895da3978b54f0c9cb4b104ea4caa5e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5895da3978b54f0c9cb4b104ea4caa5e",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "少儿钢琴",
+    "name": "少儿钢琴",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=943ae2b5ffa5440081f81a9375cd1ccb",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=943ae2b5ffa5440081f81a9375cd1ccb",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "美术启蒙班",
+    "name": "美术启蒙班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c14df5a8bda541888a9e7fd68733f047",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c14df5a8bda541888a9e7fd68733f047",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "少儿街舞",
+    "name": "少儿街舞",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d03b6003006946e59c3a5b84af830982",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d03b6003006946e59c3a5b84af830982",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "少儿篮球基础班",
+    "name": "少儿篮球基础班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ddacec7e5d6d457fb2a792480964e8a8",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ddacec7e5d6d457fb2a792480964e8a8",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "美术创想班",
+    "name": "美术创想班",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec70d3910e034b4b8116c587d01a3c05",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ec70d3910e034b4b8116c587d01a3c05",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
+  },
+  {
+    "title": "主持考级",
+    "name": "主持考级",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-15",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f546f9c1058748baa8c8ed2e72765e0a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f546f9c1058748baa8c8ed2e72765e0a",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
   },
   {
     "title": "宝安区青少年宫暑期科技夏令营",
@@ -1887,8 +1665,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
-    "district": "宝安区"
+    "source": "宝安区青少年宫"
   },
   {
     "title": "南山区文化馆暑期少儿艺术营",
@@ -1903,8 +1680,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网",
-    "district": "南山区"
+    "source": "南山区文化馆官网"
+  },
+  {
+    "title": "成人汉唐舞（4节课程，自备舞蹈练功服）",
+    "name": "成人汉唐舞（4节课程，自备舞蹈练功服）",
+    "venue": "宝安区文化馆",
+    "start_date": "2026-07-22",
+    "end_date": "2026-08-12",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
+    "description": "培训，宝安区公共文化体育服务中心，在宝安区文化馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆"
   },
   {
     "title": "悦读《爱丽丝漫游奇境记》",
@@ -1919,24 +1710,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦答阅经典",
@@ -1951,1758 +1725,58 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
+    "title": "口风琴公益课",
+    "name": "口风琴公益课",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-19",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=36f44d031e6849bab36655095c42ee1f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=36f44d031e6849bab36655095c42ee1f",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
     "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
   },
   {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
+    "title": "流行演唱公益课",
+    "name": "流行演唱公益课",
+    "venue": "大鹏办事处公共事业服务中心",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-19",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef6bb8227d06402494550cd9b274e2b3",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef6bb8227d06402494550cd9b274e2b3",
+    "description": "培训，大鹏新区文体旅游服务中心、大鹏办事处城市建设发展服务中心旅游文体部，在大鹏办事处公共事业服务中心举办",
     "category": "展览",
     "fee": "免费",
     "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "family_friendly": false,
+    "source": "大鹏办事处公共事业服务中心"
   },
   {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=7&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654146&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《爱丽丝漫游奇境记》",
-    "name": "悦读《爱丽丝漫游奇境记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-07",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=654147&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-07-23",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656201&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦答阅经典",
-    "name": "悦答阅经典",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-07-23",
+    "title": "公明街道文化生活·合唱团公益培训文化活动暨文化馆总分馆联动活动",
+    "name": "公明街道文化生活·合唱团公益培训文化活动暨文化馆总分馆联动活动",
+    "venue": "光明区公明街道综合性文化服务中心",
+    "start_date": "2026-08-01",
     "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656202&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：面向6-12岁少儿读者",
-    "category": "亲子活动",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fc3f3316e3f44cb195cfef25b5633185",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fc3f3316e3f44cb195cfef25b5633185",
+    "description": "演出，公明街道办事处，在光明区公明街道综合性文化服务中心举办",
+    "category": "讲座阅读",
     "fee": "免费",
     "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "family_friendly": false,
+    "source": "光明区公明街道综合性文化服务中心"
   },
   {
     "title": "南山博物馆暑期夜间延时开放",
     "name": "南山博物馆暑期夜间延时开放",
     "venue": "南山博物馆",
-    "start_date": "2026-08-04",
+    "start_date": "2026-08-05",
     "end_date": "2026-08-31",
     "link": "https://www.nanshanmuseum.com",
     "url": "https://www.nanshanmuseum.com",
@@ -3711,104 +1785,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "nsmuseum",
-    "district": "南山区"
-  },
-  {
-    "title": "悦创手工课：爱丽丝漫游奇境（二）",
-    "name": "悦创手工课：爱丽丝漫游奇境（二）",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "律动四季系列8月音乐赏析下午场",
-    "name": "律动四季系列8月音乐赏析下午场",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "深圳图书馆服务进社区",
-    "name": "深圳图书馆服务进社区",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658422&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658422&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：馆外（具体见简介）\n地址：具体见活动简介或活动备注\n需预约\n备注：活动地址为龙光书画院，活动内容及预约方式以龙光社区发布的通知为准。",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
-    "name": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "律动四季系列8月音乐赏析晚上场",
-    "name": "律动四季系列8月音乐赏析晚上场",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
-    "category": "演出",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "俄罗斯冰上芭蕾《胡桃夹子》",
-    "name": "俄罗斯冰上芭蕾《胡桃夹子》",
-    "venue": "深圳滨海艺术中心",
-    "start_date": "2026-08-05",
-    "end_date": "2026-08-05",
-    "link": "https://www.szbo.com.cn",
-    "url": "https://www.szbo.com.cn",
-    "description": "俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "nsmuseum"
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（三）",
@@ -3823,8 +1800,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -3839,8 +1815,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -3855,8 +1830,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -3871,8 +1845,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "数智课堂·生活解码：科技与日常的奇妙碰撞",
@@ -3887,8 +1860,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
   },
   {
     "title": "南图创客空间丨摩斯密码机",
@@ -3903,8 +1875,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -3919,8 +1890,22 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "深圳滨海艺术中心官网"
+  },
+  {
+    "title": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第二十一期）",
+    "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第二十一期）",
+    "venue": "宝安区文化馆燕罗街道分馆",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-06",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0dbc776a624838a69f43e10ee43e39",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0dbc776a624838a69f43e10ee43e39",
+    "description": "培训，燕罗街道办事处、宝安区燕罗街道新时代文明实践所，在宝安区文化馆燕罗街道分馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安区文化馆燕罗街道分馆"
   },
   {
     "title": "惊涛骇浪",
@@ -3935,8 +1920,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦创手工课：爱丽丝漫游奇境（四）",
@@ -3951,8 +1935,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《明日战纪》",
@@ -3967,8 +1950,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -3983,8 +1965,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《妈妈咪鸭》",
@@ -3999,8 +1980,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
@@ -4015,8 +1995,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《龙猫》",
@@ -4031,8 +2010,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -4047,8 +2025,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "心理咨询",
@@ -4063,8 +2040,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
   },
   {
     "title": "跟着音乐去旅行——暑期亲子音乐会",
@@ -4079,8 +2055,67 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
+  },
+  {
+    "title": "“虹声飞扬，艺启未来”主题音乐会",
+    "name": "“虹声飞扬，艺启未来”主题音乐会",
+    "venue": "福田音乐馆",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=605332d8a07346e9a1750b97b6eed813",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=605332d8a07346e9a1750b97b6eed813",
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
+    "title": "抢票 | 弦音汇山海，乐韵通人心，“丝路和鸣”音乐分享会共叙文明交融之美",
+    "name": "抢票 | 弦音汇山海，乐韵通人心，“丝路和鸣”音乐分享会共叙文明交融之美",
+    "venue": "盐田区文化馆",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bd61f610b2574ba3be782d2c728a49c9",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bd61f610b2574ba3be782d2c728a49c9",
+    "description": "演出，深圳市盐田区文化馆、深圳市流行音乐协会，在盐田区文化馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "盐田区文化馆"
+  },
+  {
+    "title": "“周末舞飞扬”舞蹈系列专场演出",
+    "name": "“周末舞飞扬”舞蹈系列专场演出",
+    "venue": "福田舞蹈馆",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f1966495f8ea4a13a255d4c32244bf3a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f1966495f8ea4a13a255d4c32244bf3a",
+    "description": "演出，福田区公共文化体育发展中心，在福田舞蹈馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田舞蹈馆"
+  },
+  {
+    "title": "Callout嘻哈脱口秀",
+    "name": "Callout嘻哈脱口秀",
+    "venue": "福田梦工场",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f33358db92c649cbbea7d4d67fec0d90",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f33358db92c649cbbea7d4d67fec0d90",
+    "description": "讲座，福田区公共文化体育发展中心，在福田梦工场举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田梦工场"
   },
   {
     "title": "悦读《骑鹅旅行记》",
@@ -4095,24 +2130,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦读《骑鹅旅行记》",
@@ -4127,8 +2145,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第650场——暑期少儿专场",
@@ -4143,8 +2160,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "绘本半小时：《世界上最懒的国王》",
@@ -4159,8 +2175,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律师公益咨询活动",
@@ -4175,8 +2190,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
+  },
+  {
+    "title": "夏日科幻季——《毒液：致命守护者》",
+    "name": "夏日科幻季——《毒液：致命守护者》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658674&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658674&year=2026&month=8&customizedUrl=salon",
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "szlib"
   },
   {
     "title": "“圳作一夏”主题系列活动 | 沉浸式剧场",
@@ -4191,8 +2220,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第651场——暑期少儿专场",
@@ -4207,8 +2235,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "长津湖之水门桥",
@@ -4223,8 +2250,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "故事小讲堂第153期：“神奇魔法”想象力主题图书会",
@@ -4239,872 +2265,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-14",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656209&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆中心馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656210&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：中心馆 少儿服务区\n地址：福田区福中一路2001号深圳图书馆\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "悦读《骑鹅旅行记》",
-    "name": "悦读《骑鹅旅行记》",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-31",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656211&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆\n地点：北馆 少儿服务区\n地址：深圳市龙华区腾龙路30号\n备注：具体参与方式请关注深圳图书馆微信公众号推文",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
-  },
-  {
-    "title": "践书+|《即兴演讲》",
-    "name": "践书+|《即兴演讲》",
-    "venue": "南山图书馆",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-08",
-    "link": "https://activity.nslib.cn/activity/info/11753",
-    "url": "https://activity.nslib.cn/activity/info/11753",
-    "description": "需预约报名。践书+|《即兴演讲》。详情请访问南山图书馆活动页面了解。",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
-  },
-  {
-    "title": "数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
-    "name": "数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
-    "venue": "南山图书馆",
-    "start_date": "2026-08-08",
-    "end_date": "2026-08-08",
-    "link": "https://activity.nslib.cn/activity/info/11758",
-    "url": "https://activity.nslib.cn/activity/info/11758",
-    "description": "需预约报名。数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "szlib"
   },
   {
     "title": "公益宣讲丨常见眼部疾病——白内障、眼底病、干眼症",
@@ -5119,8 +2280,37 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
+  },
+  {
+    "title": "践书+|《即兴演讲》",
+    "name": "践书+|《即兴演讲》",
+    "venue": "南山图书馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://activity.nslib.cn/activity/info/11753",
+    "url": "https://activity.nslib.cn/activity/info/11753",
+    "description": "需预约报名。践书+|《即兴演讲》。详情请访问南山图书馆活动页面了解。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
+  },
+  {
+    "title": "数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
+    "name": "数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
+    "venue": "南山图书馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://activity.nslib.cn/activity/info/11758",
+    "url": "https://activity.nslib.cn/activity/info/11758",
+    "description": "需预约报名。数智课堂·工程探秘：飞机上的“奇怪图案”不是涂着玩的",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
   },
   {
     "title": "俄罗斯冰上芭蕾《天鹅湖》",
@@ -5135,8 +2325,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "深圳滨海艺术中心官网"
   },
   {
     "title": "鼻涕虫教授的昆虫秀",
@@ -5151,8 +2340,82 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "深圳滨海艺术中心官网"
+  },
+  {
+    "title": "跨越大洋，赴一场百老汇旋律之约百老汇经典音乐剧片段赏析",
+    "name": "跨越大洋，赴一场百老汇旋律之约百老汇经典音乐剧片段赏析",
+    "venue": "福田戏剧馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=15d36bcac4bf4a4cbe052c983e0e1bf2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=15d36bcac4bf4a4cbe052c983e0e1bf2",
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田戏剧馆"
+  },
+  {
+    "title": "“声生不息·唱响华美”2026第五届“华美好声音”歌唱大赛复赛",
+    "name": "“声生不息·唱响华美”2026第五届“华美好声音”歌唱大赛复赛",
+    "venue": "坪山区文化馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=94dae5cf95b7446c937a5a34cb5ad23b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=94dae5cf95b7446c937a5a34cb5ad23b",
+    "description": "综合，深圳市华美兴泰科技股份有限公司，在坪山区文化馆举办",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪山区文化馆"
+  },
+  {
+    "title": "小漫手碟·夏日疗愈音乐会",
+    "name": "小漫手碟·夏日疗愈音乐会",
+    "venue": "福田音乐馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9e53628bae7d4eae988d01f693d96738",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9e53628bae7d4eae988d01f693d96738",
+    "description": "讲座，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "讲座阅读",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
+    "title": "《怦然心动》镜框版",
+    "name": "《怦然心动》镜框版",
+    "venue": "福田音乐馆",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-08",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0d464b9efe4313853b0093bfce2260",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=be0d464b9efe4313853b0093bfce2260",
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
+    "title": "“核” 你一起，点亮未来 —— 核能科普公众开放日",
+    "name": "“核” 你一起，点亮未来 —— 核能科普公众开放日",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656356&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656356&year=2026&month=8&customizedUrl=salon",
+    "description": "主办方：深圳图书馆\n地点：中心馆 一楼南书房\n地址：福田区福中一路2001号深圳图书馆一楼南书房",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "szlib"
   },
   {
     "title": "书海探底第652场——暑期少儿专场",
@@ -5167,8 +2430,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -5183,8 +2445,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -5199,8 +2460,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《明日之战》",
@@ -5215,8 +2475,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "黑胶音乐鉴赏之城市主题：城市，有自己的声音——从黑胶里听见一座城",
@@ -5231,8 +2490,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第653场——暑期少儿专场",
@@ -5247,8 +2505,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "天狗",
@@ -5263,8 +2520,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“深读”读书沙龙 | 一本《西游记》，读懂职场、管理与人生 ——神级经理人的成长智慧",
@@ -5279,8 +2535,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "法律咨询",
@@ -5295,40 +2550,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
-  },
-  {
-    "title": "百姓健康讲坛|青春向阳，健康伴成长",
-    "name": "百姓健康讲坛|青春向阳，健康伴成长",
-    "venue": "南山图书馆",
-    "start_date": "2026-08-09",
-    "end_date": "2026-08-09",
-    "link": "https://activity.nslib.cn/activity/info/11701",
-    "url": "https://activity.nslib.cn/activity/info/11701",
-    "description": "需预约报名。百姓健康讲坛|青春向阳，健康伴成长",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
-  },
-  {
-    "title": "中国文化第一课|岭南画派与生活美学",
-    "name": "中国文化第一课|岭南画派与生活美学",
-    "venue": "南山图书馆",
-    "start_date": "2026-08-09",
-    "end_date": "2026-08-09",
-    "link": "https://activity.nslib.cn/activity/info/11750",
-    "url": "https://activity.nslib.cn/activity/info/11750",
-    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "0755-26520380",
-    "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
   },
   {
     "title": "南图沙龙·读书 | 道德经：时之篇",
@@ -5343,8 +2565,37 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-26520380",
     "family_friendly": true,
-    "source": "nslib",
-    "district": "南山区"
+    "source": "nslib"
+  },
+  {
+    "title": "百姓健康讲坛|青春向阳，健康伴成长",
+    "name": "百姓健康讲坛|青春向阳，健康伴成长",
+    "venue": "南山图书馆",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://activity.nslib.cn/activity/info/11701",
+    "url": "https://activity.nslib.cn/activity/info/11701",
+    "description": "需预约报名。百姓健康讲坛|青春向阳，健康伴成长",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
+  },
+  {
+    "title": "中国文化第一课|岭南画派与生活美学",
+    "name": "中国文化第一课|岭南画派与生活美学",
+    "venue": "南山图书馆",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://activity.nslib.cn/activity/info/11750",
+    "url": "https://activity.nslib.cn/activity/info/11750",
+    "description": "需预约报名。中国文化第一课|岭南画派与生活美学",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "0755-26520380",
+    "family_friendly": true,
+    "source": "nslib"
   },
   {
     "title": "阖家欢电影展映：《浪浪山小妖怪》",
@@ -5359,8 +2610,7 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "俄罗斯冰上芭蕾《胡桃夹子》",
@@ -5375,8 +2625,37 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
-    "district": "宝安区"
+    "source": "深圳滨海艺术中心官网"
+  },
+  {
+    "title": "中外经典音乐剧&歌剧音乐会",
+    "name": "中外经典音乐剧&歌剧音乐会",
+    "venue": "福田音乐馆",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=74634d9f6c1a4bdb9448dfc6d687b3b2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=74634d9f6c1a4bdb9448dfc6d687b3b2",
+    "description": "演出，福田区公共文化体育发展中心，在福田音乐馆举办",
+    "category": "演出",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田音乐馆"
+  },
+  {
+    "title": "以声传情，唱活角色心声音乐剧的歌声与情感表达实操课",
+    "name": "以声传情，唱活角色心声音乐剧的歌声与情感表达实操课",
+    "venue": "福田戏剧馆",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=909b45c81b044b7ba4420f592f03e558",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=909b45c81b044b7ba4420f592f03e558",
+    "description": "综合，福田区公共文化体育发展中心，在福田戏剧馆举办",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": false,
+    "source": "福田戏剧馆"
   },
   {
     "title": "美丽星期天——钢琴独奏会",
@@ -5391,24 +2670,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
   },
   {
-    "title": "跨越世纪的追问：今天为何重读高尔基？",
-    "name": "跨越世纪的追问：今天为何重读高尔基？",
-    "venue": "深圳图书馆 (深圳图书馆北馆)",
-    "start_date": "2026-08-11",
-    "end_date": "2026-08-11",
-    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657475&year=2026&month=8&customizedUrl=salon",
-    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657475&year=2026&month=8&customizedUrl=salon",
-    "description": "主办方：深圳图书馆、广州图书馆、佛山市图书馆、东莞图书馆、俄罗斯科学院高尔基世界文学研究所、莫斯科中国文化中心\n地点：北馆 1F北书房\n地址：深圳市龙华区腾龙路30号\n备注：讲座限12岁以上读者参加",
+    "title": "2026年燕罗街道“惠民艺培润民心・文化提质悦燕罗 ”全民公益艺术普及吉他培训(第一课）",
+    "name": "2026年燕罗街道“惠民艺培润民心・文化提质悦燕罗 ”全民公益艺术普及吉他培训(第一课）",
+    "venue": "宝安区文化馆燕罗街道分馆",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-10",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6bf05d208b4440b48cc82d6da3c98c49",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6bf05d208b4440b48cc82d6da3c98c49",
+    "description": "培训，燕罗街道办事处，在宝安区文化馆燕罗街道分馆举办",
     "category": "讲座阅读",
-    "fee": "免费",
+    "fee": "免费需预约",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "宝安区文化馆燕罗街道分馆"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -5423,8 +2700,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第一天）",
@@ -5439,8 +2715,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -5455,8 +2730,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -5471,8 +2745,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第二天）",
@@ -5487,8 +2760,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -5503,8 +2775,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -5519,8 +2790,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第三天）",
@@ -5535,8 +2805,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -5551,8 +2820,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "长津湖之水门桥",
@@ -5567,8 +2835,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《哥斯拉2：怪兽之王》",
@@ -5583,8 +2850,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -5599,8 +2865,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《愤怒的小鸟大电影》",
@@ -5615,8 +2880,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "金声玉振的千年回响——深图古琴文化艺术周（第四天）",
@@ -5631,8 +2895,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《星际宝贝》",
@@ -5647,8 +2910,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -5663,8 +2925,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第654场——暑期少儿专场",
@@ -5679,8 +2940,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律师公益咨询活动",
@@ -5695,8 +2955,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
+  },
+  {
+    "title": "夏日科幻季——《哥斯拉大战金刚》",
+    "name": "夏日科幻季——《哥斯拉大战金刚》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658675&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658675&year=2026&month=8&customizedUrl=salon",
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "szlib"
   },
   {
     "title": "俄罗斯主题趣味读者沙龙",
@@ -5711,8 +2985,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第655场——暑期少儿专场",
@@ -5727,8 +3000,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦讲：藏在山河里的童话与生命寓言",
@@ -5743,8 +3015,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "二十二",
@@ -5759,8 +3030,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "内在觉醒时代：如何停止内耗，重新活出来",
@@ -5775,8 +3045,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "故事小讲堂第154期：“勇敢做自己”入学准备主题图书会",
@@ -5791,8 +3060,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "龙华区青少年宫暑期艺术展演",
@@ -5807,8 +3075,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
-    "district": "龙华区"
+    "source": "龙华区青少年宫"
+  },
+  {
+    "title": "三脚猪喜剧中国医师节公益拼盘秀",
+    "name": "三脚猪喜剧中国医师节公益拼盘秀",
+    "venue": "福田戏剧馆",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-16",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bdeeafe120774108b04eb5b7b32e2293",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bdeeafe120774108b04eb5b7b32e2293",
+    "description": "（年龄限制：16岁以下小孩不建议观看）",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "福田戏剧馆"
   },
   {
     "title": "巫婆读书会暑期特别篇 ：18岁的答卷，带你看见成长的更多可能性",
@@ -5823,8 +3105,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -5839,8 +3120,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -5855,8 +3135,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第656场——暑期少儿专场",
@@ -5871,8 +3150,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《月球陨落》",
@@ -5887,8 +3165,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第657场——暑期少儿专场",
@@ -5903,8 +3180,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦讲：一场走遍瑞典的成长旅行",
@@ -5919,8 +3195,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "八月",
@@ -5935,8 +3210,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“深读”读书沙龙 | 为什么古人都要读书、练字？ ——从书法中读懂中华文化与修身智慧",
@@ -5951,8 +3225,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "阖家欢电影展映：《熊猫计划之部落奇遇记》",
@@ -5967,8 +3240,7 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "美丽星期天——弦乐鉴赏",
@@ -5983,8 +3255,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（一）",
@@ -5999,8 +3270,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6015,8 +3285,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6031,8 +3300,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（二）",
@@ -6047,8 +3315,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6063,8 +3330,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6079,8 +3345,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（三）",
@@ -6095,8 +3360,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6111,8 +3375,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6127,8 +3390,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "二十二",
@@ -6143,8 +3405,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "悦创手工课：骑鹅旅行记（四）",
@@ -6159,8 +3420,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《流浪地球》",
@@ -6175,8 +3435,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6191,8 +3450,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《萤火奇兵》",
@@ -6207,8 +3465,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《星际宝贝2》",
@@ -6223,8 +3480,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6239,8 +3495,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "艺术疗愈·纾声工坊第1期：听见自己的声音",
@@ -6255,8 +3510,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第658场——暑期少儿专场",
@@ -6271,8 +3525,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律师公益咨询活动",
@@ -6287,8 +3540,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
+  },
+  {
+    "title": "夏日科幻季——《双子杀手》",
+    "name": "夏日科幻季——《双子杀手》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658676&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658676&year=2026&month=8&customizedUrl=salon",
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "szlib"
   },
   {
     "title": "“圳作一夏”主题系列活动 | 沉浸式剧场",
@@ -6303,8 +3570,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第659场——暑期少儿专场",
@@ -6319,8 +3585,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "原版BOOK快乐读：拼图里的大发现",
@@ -6335,8 +3600,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "镖人：风起大漠",
@@ -6351,8 +3615,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "故事小讲堂第155期：“守护最美的太阳“经典主题读书会",
@@ -6367,8 +3630,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "艺术疗愈工作坊第5期：绘画工坊——“画”解压力",
@@ -6383,8 +3645,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "  “插上声音的翅膀” 第三届少儿朗诵艺术沙龙",
@@ -6399,8 +3660,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 浙江",
@@ -6415,8 +3675,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "district": "福田区"
+    "source": "深圳市体育中心"
   },
   {
     "title": "书海探底第660场——暑期少儿专场",
@@ -6431,8 +3690,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "家长课堂：好好说话：从“指责”到“连接”",
@@ -6447,8 +3705,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -6463,8 +3720,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -6479,8 +3735,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《流浪地球2》",
@@ -6495,8 +3750,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第661场——暑期少儿专场",
@@ -6511,8 +3765,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "苏格拉底思辨荟第二季第2期：文化的记忆，何以代代延续？——从《给阿嬷的情书》说起",
@@ -6527,8 +3780,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "故事小讲堂第156期：“泥巴会唱歌”陈伯吹获奖图书读书会",
@@ -6543,8 +3795,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "无蝉的夏天",
@@ -6559,8 +3810,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“深读”读书沙龙 | 业绩增长，靠销售还是靠组织？ ——一本书读懂华为组织型业绩增长法",
@@ -6575,8 +3825,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "阖家欢电影展映：《猪猪侠大电影·星际行动》",
@@ -6591,8 +3840,7 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "美丽星期天——管乐音乐会",
@@ -6607,8 +3855,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6623,8 +3870,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6639,8 +3885,82 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
+  },
+  {
+    "title": "YUE航城公益艺术培训——少儿动漫（第二天）",
+    "name": "YUE航城公益艺术培训——少儿动漫（第二天）",
+    "venue": "宝安区文化馆航城街道分馆",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3ff1c2468acd47db96ae0f98e2b99431",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3ff1c2468acd47db96ae0f98e2b99431",
+    "description": "培训，航城街道办事处党建服务中心，在宝安区文化馆航城街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆航城街道分馆"
+  },
+  {
+    "title": "YUE航城公益艺术培训——少儿动漫（第四天）",
+    "name": "YUE航城公益艺术培训——少儿动漫（第四天）",
+    "venue": "宝安区文化馆航城街道分馆",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b20a2eee8f6c41b7a8218f0692b3890b",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b20a2eee8f6c41b7a8218f0692b3890b",
+    "description": "培训，航城街道办事处   党建服务中心，在宝安区文化馆航城街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆航城街道分馆"
+  },
+  {
+    "title": "YUE航城公益艺术培训——少儿动漫（第一天）",
+    "name": "YUE航城公益艺术培训——少儿动漫（第一天）",
+    "venue": "宝安区文化馆航城街道分馆",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf21802ef82b403098f03c4057cc7791",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf21802ef82b403098f03c4057cc7791",
+    "description": "培训，航城街道办事处党建服务中心，在宝安区文化馆航城街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆航城街道分馆"
+  },
+  {
+    "title": "YUE航城公益艺术培训——少儿动漫（第三天）",
+    "name": "YUE航城公益艺术培训——少儿动漫（第三天）",
+    "venue": "宝安区文化馆航城街道分馆",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e5f9fc999582449cb4d72145d0b3cda7",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e5f9fc999582449cb4d72145d0b3cda7",
+    "description": "培训，航城街道办事处建服务中心，在宝安区文化馆航城街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆航城街道分馆"
+  },
+  {
+    "title": "YUE航城公益艺术培训——少儿动漫（第五天）",
+    "name": "YUE航城公益艺术培训——少儿动漫（第五天）",
+    "venue": "宝安区文化馆航城街道分馆",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-29",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8fd33c073c8443c8ce6d24aa569bf7e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8fd33c073c8443c8ce6d24aa569bf7e",
+    "description": "培训，航城街道办事处党建服务中心，在宝安区文化馆航城街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆航城街道分馆"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6655,8 +3975,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6671,8 +3990,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6687,8 +4005,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6703,8 +4020,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "镖人：风起大漠",
@@ -6719,8 +4035,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《蜘蛛侠》",
@@ -6735,8 +4050,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析下午场",
@@ -6751,8 +4065,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《黑猫警长之翡翠之星》",
@@ -6767,8 +4080,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "听音归心，正念自在——在不确定世界安放情绪，回归生命本真",
@@ -6783,8 +4095,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "观影《借物少女艾莉缇》",
@@ -6799,8 +4110,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律动四季系列8月音乐赏析晚上场",
@@ -6815,8 +4125,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "中超联赛 深圳新鹏城 vs 上海海港",
@@ -6831,8 +4140,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "深圳市体育中心",
-    "district": "福田区"
+    "source": "深圳市体育中心"
   },
   {
     "title": "书海探底第662场——暑期少儿专场",
@@ -6847,8 +4155,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "绘本半小时：《阿兔的小瓷碗》",
@@ -6863,8 +4170,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "律师公益咨询活动",
@@ -6879,8 +4185,22 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
+  },
+  {
+    "title": "夏日科幻季——《蜘蛛侠2》",
+    "name": "夏日科幻季——《蜘蛛侠2》",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-29",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658677&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=658677&year=2026&month=8&customizedUrl=salon",
+    "description": "主办方：深圳图书馆\n地点：中心馆 五楼聚艺厅\n地址：福田区福中一路2001号深圳图书馆五楼聚艺厅\n需预约",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "szlib"
   },
   {
     "title": "书海探底第663场——暑期少儿专场",
@@ -6895,8 +4215,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "超凡蜘蛛侠",
@@ -6911,8 +4230,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第664场——暑期少儿专场",
@@ -6927,8 +4245,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "小博士百科知识挑战擂台赛",
@@ -6943,8 +4260,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -6959,8 +4275,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "夏日科幻季——《星际探索》",
@@ -6975,8 +4290,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "书海探底第665场——暑期少儿专场",
@@ -6991,8 +4305,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "超凡蜘蛛侠2",
@@ -7007,8 +4320,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“深读”读书沙龙 | AI时代来了，你的人才战略准备好了吗？ ——数字人才\"引育留\"体系建设实践",
@@ -7023,8 +4335,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "阖家欢电影展映：《独行月球》",
@@ -7039,8 +4350,7 @@ module.exports = [
     "fee": "免费",
     "contact": "（活动咨询电话）27789800",
     "family_friendly": false,
-    "source": "balib",
-    "district": "宝安区"
+    "source": "balib"
   },
   {
     "title": "美丽星期天——童声合唱",
@@ -7055,8 +4365,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
-    "district": "福田区"
+    "source": "深圳音乐厅官网"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -7071,8 +4380,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -7087,8 +4395,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -7103,8 +4410,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -7119,8 +4425,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "筝韵流芳·沉浸式民乐聆赏会",
@@ -7135,8 +4440,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   },
   {
     "title": "“民断是非”大型思辨性公益普法活动",
@@ -7151,7 +4455,6 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "szlib",
-    "district": "福田区"
+    "source": "szlib"
   }
 ];

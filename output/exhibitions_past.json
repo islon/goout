@@ -1,5 +1,1260 @@
 [
   {
+    "name": "重庆融创雪世界冰雪课堂",
+    "venue": "重庆融创雪世界",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "fee": "需购票",
+    "description": "科普冰雪形成原理与冬奥项目知识，含冰雕制作与雪地科学实验。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "冰雪",
+      "科普",
+      "冬奥"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "重庆融创雪世界冰雪课堂",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "缙云山植物标本制作",
+    "venue": "缙云山自然保护区",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "fee": "免费",
+    "description": "在缙云山采集植物叶片制作标本，学习植物分类与标本保存方法。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "植物标本",
+      "采集",
+      "分类"
+    ],
+    "type": "研学",
+    "is_family_friendly": false,
+    "title": "缙云山植物标本制作",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "四季倒影：光之镜中的自然——赫利顿·希夏个展",
+    "name": "四季倒影：光之镜中的自然——赫利顿·希夏个展",
+    "venue": "广东美术馆（白鹅潭馆区）",
+    "city": "guangzhou",
+    "start_date": "2026-05-28",
+    "end_date": "2026-08-05",
+    "link": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "description": "希夏重写雕塑传统的体量，建构光的回馈场，集中呈现其围绕光、自然与环境的大型雕塑。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "广东美术馆",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "广州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「广州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.gdmoa.org/",
+    "district": "越秀区"
+  },
+  {
+    "title": "风景与想象之间——意大利当代艺术在中国",
+    "name": "风景与想象之间——意大利当代艺术在中国",
+    "venue": "广东美术馆（白鹅潭馆区）",
+    "city": "guangzhou",
+    "start_date": "2026-05-29",
+    "end_date": "2026-08-05",
+    "link": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+    "description": "从西方美术史\"观看\"概念出发，呈现多条相互呼应的创作线索，具地中海文化语境的温和节奏。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "广东美术馆",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "广州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「广州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.gdmoa.org/",
+    "district": "越秀区"
+  },
+  {
+    "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
+    "name": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
+    "venue": "坪地街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-07-05",
+    "end_date": "2026-08-05",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a",
+        "label": "活动详情"
+      }
+    ],
+    "description": "展览，龙岗区文化馆总馆，在坪地街道文化站举办",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坪地街道文化站",
+    "district": "龙岗区"
+  },
+  {
+    "title": "KACE 2026 AI赋能跨境电商与海外达人合作展览会",
+    "name": "KACE 2026 AI赋能跨境电商与海外达人合作展览会",
+    "venue": "深圳会展中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-05",
+    "link": "https://www.szcec.com",
+    "url": "https://www.szcec.com",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "KACE 2026 AI赋能跨境电商与海外达人合作展览会，2026-08-04至2026-08-05，深圳会展中心。高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;",
+    "family_friendly": false,
+    "source": "深圳会展中心",
+    "district": "福田区"
+  },
+  {
+    "title": "2026年光明街道白花社区手链串珠手工活动",
+    "name": "2026年光明街道白花社区手链串珠手工活动",
+    "venue": "白花社区综合性文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f",
+        "label": "活动详情"
+      }
+    ],
+    "description": "公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "白花社区综合性文化服务中心",
+    "district": "光明区"
+  },
+  {
+    "title": "悦创手工课：爱丽丝漫游奇境（二）",
+    "name": "悦创手工课：爱丽丝漫游奇境（二）",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "律动四季系列8月音乐赏析下午场",
+    "name": "律动四季系列8月音乐赏析下午场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "name": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "律动四季系列8月音乐赏析晚上场",
+    "name": "律动四季系列8月音乐赏析晚上场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "俄罗斯冰上芭蕾《胡桃夹子》",
+    "name": "俄罗斯冰上芭蕾《胡桃夹子》",
+    "venue": "深圳滨海艺术中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "link": "https://www.szbo.com.cn",
+    "url": "https://www.szbo.com.cn",
+    "links": [
+      {
+        "url": "https://www.szbo.com.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳滨海艺术中心官网",
+    "district": "宝安区"
+  },
+  {
+    "name": "武汉博物馆近代汉口商埠研学",
+    "venue": "武汉博物馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "fee": "免费",
+    "description": "走进近代汉口商埠展厅，了解东方芝加哥的崛起历程。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "汉口",
+      "商埠",
+      "近代"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "武汉博物馆近代汉口商埠研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "name": "武汉科技馆化学魔术秀",
+    "venue": "武汉科技馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "fee": "免费需预约",
+    "description": "用化学变化演绎魔术奇观，揭秘变色与发光原理。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "化学",
+      "魔术",
+      "科普"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "武汉科技馆化学魔术秀",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "科技馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "武汉动物园鸟类展区研学",
+    "venue": "武汉动物园",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "fee": "收费",
+    "description": "在鸟类展区观察各种珍禽，学习鸟类生态知识。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "鸟类",
+      "研学",
+      "生态"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "武汉动物园鸟类展区研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "第六届IDEA!想法——叙事艺术展",
+    "name": "第六届IDEA!想法——叙事艺术展",
+    "venue": "许燎源当代艺术馆（一楼）",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-04",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "以\"叙事\"为核心集结23位跨领域青年创作者，将创作全脉络与公众共创机制纳入展陈。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "name": "重庆面塑手作体验",
+    "venue": "十八梯",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "fee": "收费",
+    "description": "面塑艺人教授捏面人技艺，用彩色面团捏制卡通人物造型。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "面塑",
+      "捏面人",
+      "非遗"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "重庆面塑手作体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "歌乐山烈士陵园祭扫",
+    "venue": "歌乐山烈士陵园",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "fee": "免费",
+    "description": "在烈士陵园举行祭扫仪式，敬献花圈，重温革命先烈英勇事迹。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "烈士陵园",
+      "祭扫",
+      "缅怀"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": false,
+    "title": "歌乐山烈士陵园祭扫",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "冬病夏治正当时，马峦社区三伏贴义诊",
+    "name": "冬病夏治正当时，马峦社区三伏贴义诊",
+    "venue": "马峦社区公共文化服务中心",
+    "city": "shenzhen",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-04",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，公共文化服务中心，在马峦社区公共文化服务中心举办",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "马峦社区公共文化服务中心",
+    "district": "其他"
+  },
+  {
+    "title": "桂粤少年⺠乐汇——广⻄少儿国乐剧《刘三姐》公益展演",
+    "name": "桂粤少年⺠乐汇——广⻄少儿国乐剧《刘三姐》公益展演",
+    "venue": "宝安区文化馆西乡街道分馆",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，支持单位：中共深圳市宝安区委统战部 深圳市宝安区公共文化体育服务中心 。主办单位：广西文化艺术中心广西文化艺术中心，在宝安区文化馆西乡街道分馆举办",
+    "category": "亲子活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安区文化馆西乡街道分馆",
+    "district": "宝安区"
+  },
+  {
+    "title": "悦创手工课：爱丽丝漫游奇境（一）",
+    "name": "悦创手工课：爱丽丝漫游奇境（一）",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656205&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656205&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656205&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 1F少儿区洞洞剧场\n地址：深圳市龙华区腾龙路30号\n需预约",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "律动四季系列8月音乐赏析下午场",
+    "name": "律动四季系列8月音乐赏析下午场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657529&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657529&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657529&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "name": "萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂",
+    "venue": "深圳图书馆 (深圳图书馆中心馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652475&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652475&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652475&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：中心馆 一楼讲读厅\n地址：福田区福中一路2001号深圳图书馆一楼讲读厅",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "律动四季系列8月音乐赏析晚上场",
+    "name": "律动四季系列8月音乐赏析晚上场",
+    "venue": "深圳图书馆 (深圳图书馆北馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657568&year=2026&month=8&customizedUrl=salon",
+    "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657568&year=2026&month=8&customizedUrl=salon",
+    "links": [
+      {
+        "url": "https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657568&year=2026&month=8&customizedUrl=salon",
+        "label": "活动详情"
+      }
+    ],
+    "description": "主办方：深圳图书馆\n地点：北馆 3F HiFi室\n地址：深圳市龙华区腾龙路30号",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "深圳图书馆",
+    "district": "福田区"
+  },
+  {
+    "title": "“童心”领读：和孩子一起读童书（暑假版）",
+    "name": "“童心”领读：和孩子一起读童书（暑假版）",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话）",
+    "family_friendly": true,
+    "source": "宝安图书馆",
+    "district": "宝安区"
+  },
+  {
+    "title": "“童心”领读：婴幼儿故事会（暑假版）",
+    "name": "“童心”领读：婴幼儿故事会（暑假版）",
+    "venue": "宝安图书馆 (宝安区图书馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "0755-27783514（活动咨询及预约电话）",
+    "family_friendly": true,
+    "source": "宝安图书馆",
+    "district": "宝安区"
+  },
+  {
+    "title": "阅体“yue”|图图姐姐讲故事《阿嬷家》",
+    "name": "阅体“yue”|图图姐姐讲故事《阿嬷家》",
+    "venue": "宝安图书馆 (宝安区图书馆新安街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "本活动隶属新安街道分馆。阿嬷家中堆满承载回忆的旧物件，这里是小孙女探险寻宝的乐园。阿嬷需要搬家，一家人一同整理物品，学习取舍与告别。这个故事带我们感受旧物里珍藏的温情记忆，引导孩子理解珍惜与放下的意义，体会家人之间温暖的陪伴。；地点：新安街道分馆少儿阅览室；地址：宝安区留仙二路庭威工业园东侧约60米（乐动力·新安文体中心二楼）新安街道分馆；方式：线下；主办：宝安区图书馆",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安图书馆",
+    "district": "宝安区"
+  },
+  {
+    "title": "阅体悦|影视漫时光《疯狂动物城2》",
+    "name": "阅体悦|影视漫时光《疯狂动物城2》",
+    "venue": "宝安图书馆 (宝安区图书馆新安街道分馆)",
+    "city": "shenzhen",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "https://www.balib.cn",
+    "url": "https://www.balib.cn",
+    "links": [
+      {
+        "url": "https://www.balib.cn",
+        "label": "活动详情"
+      }
+    ],
+    "description": "此活动隶属于新安街道分馆。一个神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市，一场疯狂动物城的全新冒险即将展开……；地点：新安街道分馆报告厅；地址：宝安区留仙二路庭威工业园东侧约60米（乐动力·新安文体中心二楼）新安街道分馆；方式：线下；主办：宝安区图书馆",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "宝安图书馆",
+    "district": "宝安区"
+  },
+  {
+    "name": "中山舰博物馆抗战历史课堂",
+    "venue": "中山舰博物馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "fee": "免费",
+    "description": "以中山舰为切入点，讲述武汉会战与抗战历史。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "抗战",
+      "武汉会战",
+      "课堂"
+    ],
+    "type": "研学",
+    "is_family_friendly": false,
+    "title": "中山舰博物馆抗战历史课堂",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "name": "辛亥革命武昌起义纪念馆革命文物探秘",
+    "venue": "辛亥革命武昌起义纪念馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "fee": "免费",
+    "description": "探秘馆内革命文物，了解文物背后的故事。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "文物",
+      "探秘",
+      "革命"
+    ],
+    "type": "研学",
+    "is_family_friendly": false,
+    "title": "辛亥革命武昌起义纪念馆革命文物探秘",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "珠海市图书馆电影放映活动",
+    "name": "珠海市图书馆电影放映活动",
+    "venue": "珠海市图书馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-04",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。",
+    "category": "影视放映",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海市图书馆",
+    "district": "其他"
+  },
+  {
+    "title": "明十三陵明代文物主题展",
+    "name": "明十三陵明代文物主题展",
+    "venue": "明十三陵",
+    "city": "beijing",
+    "start_date": "2026-07-06",
+    "end_date": "2026-08-03",
+    "link": "https://bj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+    "description": "\"大明十六帝\"情景剧以第一视角叙事展开明代十六位皇帝生平，配套明代文物展览，暑期历史爱好者必看。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "北京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "北京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「北京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "北京",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.mingshisanling.com/",
+    "district": "房山区"
+  },
+  {
+    "name": "恐龙化石发掘体验营",
+    "venue": "重庆自然博物馆",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-03",
+    "fee": "收费",
+    "description": "模拟古生物学家工作场景，孩子们亲手体验化石发掘、清理与修复全过程。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "恐龙",
+      "化石",
+      "考古"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "恐龙化石发掘体验营",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "仙女山草原野餐派对",
+    "venue": "仙女山国家森林公园",
+    "city": "chongqing",
+    "district": "其他",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "fee": "免费",
+    "description": "在仙女山大草原举办亲子野餐派对，自带美食共享，草原游戏助兴。",
+    "source": "重庆本地宝",
+    "highlights": [
+      "野餐",
+      "草原",
+      "亲子"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "仙女山草原野餐派对",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆群众文化云",
+      "app_type": "web",
+      "search_hint": "访问 cqqyg.cn 重庆群众文化云→所在区县文化馆→培训报名",
+      "platform_url": "https://www.cqqyg.cn/",
+      "city": "重庆",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "话剧《无墙》",
+    "name": "话剧《无墙》",
+    "venue": "上海大剧院",
+    "city": "shanghai",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-03",
+    "link": "http://m.toutiao.com/group/7660419048286487086/",
+    "url": "http://m.toutiao.com/group/7660419048286487086/",
+    "description": "原创话剧《无墙》，随机世界里的意外相遇。地铁1号线/2号线/8号线人民广场站。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": false,
+    "source": "shgtheatre",
+    "is_family_friendly": false,
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "沪小游",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「沪小游」小程序",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "剧院"
+    },
+    "verification": {
+      "status": "suspicious",
+      "link_reachable": false,
+      "http_status": 404,
+      "source_type": "media",
+      "verified_at": "2026-07-18",
+      "verified_by": "http_check"
+    },
+    "verified": false,
+    "district": "黄浦区"
+  },
+  {
+    "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
+    "name": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
+    "venue": "坂田街道文化站",
+    "city": "shenzhen",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=92ee6aa86216405492ab6b439593aa66",
+    "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=92ee6aa86216405492ab6b439593aa66",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=92ee6aa86216405492ab6b439593aa66",
+        "label": "活动详情"
+      }
+    ],
+    "description": "综合，龙岗区坂田街道马安堂社区党群服务中心，在坂田街道文化站举办",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "坂田街道文化站",
+    "district": "龙岗区"
+  },
+  {
+    "title": "美丽星期天——合唱音乐会",
+    "name": "美丽星期天——合唱音乐会",
+    "venue": "深圳音乐厅",
+    "city": "shenzhen",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "https://www.shenzhenconcerthall.com",
+    "url": "https://www.shenzhenconcerthall.com",
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ],
+    "description": "深圳合唱团公益演出，15:00。免费领票。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳音乐厅官网",
+    "district": "福田区"
+  },
+  {
+    "name": "木兰草原草原音乐节",
+    "venue": "木兰草原",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-03",
+    "fee": "收费",
+    "description": "草原音乐节，民谣与摇滚在草原回响。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "音乐节",
+      "民谣",
+      "摇滚"
+    ],
+    "type": "演出",
+    "is_family_friendly": false,
+    "title": "木兰草原草原音乐节",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "name": "湖北省科学技术馆人工智能体验",
+    "venue": "湖北省科学技术馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "fee": "免费需预约",
+    "description": "体验人脸识别与语音交互，初识人工智能原理。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "人工智能",
+      "体验",
+      "科技"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "湖北省科学技术馆人工智能体验",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "name": "湖北省图书馆少儿编程公益课",
+    "venue": "湖北省图书馆",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "fee": "免费",
+    "description": "少儿编程公益课，图形化编程启蒙计算思维。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "编程",
+      "公益",
+      "启蒙"
+    ],
+    "type": "亲子活动",
+    "is_family_friendly": true,
+    "title": "湖北省图书馆少儿编程公益课",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "图书馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "name": "黄鹤楼公园楚文化研学",
+    "venue": "黄鹤楼公园",
+    "city": "wuhan",
+    "district": "其他",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "fee": "收费",
+    "description": "以黄鹤楼为窗口，开展楚文化主题深度研学。",
+    "source": "武汉本地宝",
+    "highlights": [
+      "楚文化",
+      "研学",
+      "深度"
+    ],
+    "type": "研学",
+    "is_family_friendly": true,
+    "title": "黄鹤楼公园楚文化研学",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉文旅码",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉文旅码」小程序→活动预约",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "公园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": null,
+      "http_status": null,
+      "source_type": "unknown",
+      "verified_at": "2026-07-18",
+      "verified_by": "source_crawl"
+    },
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "珠海博物馆考古体验活动",
+    "name": "珠海博物馆考古体验活动",
+    "venue": "珠海博物馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "珠海博物馆",
+    "district": "其他"
+  },
+  {
+    "title": "斗门区文化馆粤剧表演",
+    "name": "斗门区文化馆粤剧表演",
+    "venue": "斗门区文化馆",
+    "city": "zhuhai",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "link": "",
+    "url": "",
+    "links": [],
+    "description": "斗门区文化馆粤剧表演活动，本地粤剧团体演出经典曲目，免费观看。",
+    "category": "演出",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "斗门区文化馆",
+    "district": "其他"
+  },
+  {
     "title": "薛之谦\"万兽之王\"演唱会-北京站",
     "name": "薛之谦\"万兽之王\"演唱会-北京站",
     "venue": "国家体育场（鸟巢）",
@@ -3103,29 +4358,6 @@
     "family_friendly": true,
     "source": "深圳少年儿童图书馆公众号",
     "district": "福田区"
-  },
-  {
-    "title": "《海洋奇缘：起航》迪士尼电影主题展",
-    "name": "《海洋奇缘：起航》迪士尼电影主题展",
-    "venue": "南山区深圳人才公园潮汐广场",
-    "city": "shenzhen",
-    "start_date": "2026-07-01",
-    "end_date": "2026-07-31",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "links": [
-      {
-        "url": "http://m.toutiao.com/group/7658324154139148850/",
-        "label": "活动详情"
-      }
-    ],
-    "description": "还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "南山融媒体中心",
-    "district": "南山区"
   },
   {
     "title": "2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展",
@@ -7147,24 +8379,6 @@
   {
     "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
     "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
-    "venue": "福田区深圳音乐厅五楼小剧场",
-    "city": "shenzhen",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-25",
-    "link": "https://www.shenzhenconcerthall.com",
-    "url": "https://www.shenzhenconcerthall.com",
-    "links": [],
-    "description": "柴可夫斯基经典作品《天鹅湖》主题音乐会，在深圳音乐厅上演。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "自动化发现",
-    "district": "福田区"
-  },
-  {
-    "title": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
-    "name": "第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会",
     "venue": "深圳音乐厅五楼小剧场",
     "city": "shenzhen",
     "start_date": "2026-07-25",
@@ -10909,23 +12123,6 @@
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "district": "其他"
-  },
-  {
-    "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
-    "name": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
-    "venue": "深圳音乐厅",
-    "city": "shenzhen",
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-18",
-    "link": "https://www.szyyt.com/performance/show_100000954193225.html",
-    "url": "https://www.szyyt.com/performance/show_100000954193225.html",
-    "description": "漫步古典夜系列，长笛与吉他二重奏，演绎时光的折痕。",
-    "category": "演出",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": false,
-    "source": "深圳音乐厅",
-    "district": "福田区"
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
