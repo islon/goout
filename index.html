@@ -2870,6 +2870,12 @@
         // - 区县：所有城市都按数据补充缺失项
         // - 来源：所有城市都按数据补充缺失的场馆按钮（已有写死按钮的保留，只补充新增的）
         // - 同时处理顶部筛选栏与侧边栏（移动端）两组容器
+        function isUrlLike(v) {
+            if (!v) return false;
+            const s = String(v).trim().toLowerCase();
+            return s.startsWith('http://') || s.startsWith('https://') || s.startsWith('www.');
+        }
+
         function ensureCityFilters(city) {
             if (!allExhibitions || !allExhibitions.length) return;
             const cityNorm = normalizeCity(city);
@@ -2878,16 +2884,16 @@
             allExhibitions.forEach(e => {
                 if (normalizeCity(e.city) !== cityNorm) return;
                 const d = getActivityDistrict(e);
-                if (d && d !== '其他') districts.add(d);
+                if (d && d !== '其他' && !isUrlLike(d)) districts.add(d);
                 const s = e.source;
-                if (s && !sources.has(s)) {
-                    let label = cleanSourceLabel(s);
-                    // 若 source 是英文/代码 key 且活动带中文场馆名，用场馆名更友好（新城市无 curated 标签时）
-                    if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
-                        label = e.venue;
-                    }
-                    sources.set(s, { label: label, district: d });
+                // UI 层防御：跳过 URL 作为筛选选项，避免大量无效按钮挤压活动区域
+                if (!s || isUrlLike(s) || sources.has(s)) return;
+                let label = cleanSourceLabel(s);
+                // 若 source 是英文/代码 key 且活动带中文场馆名，用场馆名更友好（新城市无 curated 标签时）
+                if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
+                    label = e.venue;
                 }
+                sources.set(s, { label: label, district: d });
             });
 
             const pairs = [
