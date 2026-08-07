@@ -13,7 +13,7 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻",
+    "source": "zjam",
     "district": "西湖区"
   },
   {
@@ -30,7 +30,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院官网",
+    "source": "杭州本地宝",
     "district": "余杭区"
   },
   {
@@ -172,7 +172,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻",
+    "source": "杭州本地宝",
     "district": "西湖区"
   },
   {
@@ -189,7 +189,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局",
+    "source": "杭州本地宝",
     "district": "拱墅区"
   },
   {
@@ -314,7 +314,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局",
+    "source": "zjam",
     "district": "西湖区"
   },
   {
@@ -331,7 +331,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆",
+    "source": "杭州本地宝",
     "district": "拱墅区"
   },
   {
@@ -365,7 +365,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博",
+    "source": "杭州本地宝",
     "district": "上城区"
   },
   {
@@ -487,7 +487,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆",
+    "source": "杭州本地宝",
     "district": "西湖区"
   },
   {
@@ -691,7 +691,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西泠印社",
+    "source": "other_hangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -876,7 +876,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宋城演艺",
+    "source": "other_hangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -2920,7 +2920,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -3931,7 +3931,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6056,7 +6056,7 @@
     "end_date": "2027-02-15",
     "fee": "免费",
     "description": "浙博新馆，更大展区更多文物，浙江文化新地标。",
-    "source": "浙江省博物馆",
+    "source": "zjam",
     "highlights": [
       "浙博之江",
       "新馆",
@@ -6136,7 +6136,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "良渚博物院官网",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -6283,7 +6283,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省博物馆（官方微信公众号）",
+    "source": "zjam",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6654,7 +6654,7 @@
     "end_date": "2027-02-18",
     "fee": "免费",
     "description": "浙江历史文化展，越地长歌，十万年前到近现代。",
-    "source": "浙江省博物馆",
+    "source": "zjam",
     "highlights": [
       "浙博",
       "越地长歌",
@@ -6734,7 +6734,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省文化馆",
+    "source": "other_hangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6805,7 +6805,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7331,7 +7331,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -7441,7 +7441,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局",
+    "source": "zjam",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -7929,7 +7929,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8190,7 +8190,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8226,7 +8226,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省博物馆（官方微信公众号）",
+    "source": "zjam",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -9385,7 +9385,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9570,7 +9570,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -10242,7 +10242,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10429,7 +10429,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -11325,7 +11325,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -11887,7 +11887,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州网",
+    "source": "other_hangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -11923,7 +11923,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江自然博物院（官方微信公众号）",
+    "source": "other_hangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -12220,7 +12220,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州网",
+    "source": "other_hangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -12256,7 +12256,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -12833,7 +12833,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -14532,7 +14532,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -15056,7 +15056,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国茶叶博物馆",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -15352,7 +15352,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -15573,7 +15573,7 @@
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻",
+    "source": "zjam",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -15872,7 +15872,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -16805,7 +16805,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -16841,7 +16841,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -17755,7 +17755,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -18015,7 +18015,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江省科技馆",
+    "source": "杭州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -18538,7 +18538,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州青少年活动中心",
+    "source": "杭州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18722,7 +18722,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江美术馆",
+    "source": "other_hangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18963,7 +18963,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浙江交响乐团",
+    "source": "other_hangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",

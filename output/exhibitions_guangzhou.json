@@ -13,7 +13,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -83,7 +83,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州艺术博物院",
+    "source": "广州本地宝",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -119,7 +119,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -388,7 +388,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -405,7 +405,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网",
+    "source": "广州本地宝",
     "district": "番禺区"
   },
   {
@@ -490,7 +490,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆",
+    "source": "gzmuseum",
     "district": "越秀区"
   },
   {
@@ -507,7 +507,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -524,7 +524,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -541,7 +541,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -611,7 +611,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "district": "番禺区"
   },
   {
@@ -645,7 +645,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -662,7 +662,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆",
+    "source": "other_guangzhou",
     "district": "海珠区"
   },
   {
@@ -679,7 +679,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -696,7 +696,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -732,7 +732,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -768,7 +768,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -990,7 +990,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "从化温泉旅游度假区",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1063,7 +1063,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙天后宫",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -1098,7 +1098,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "增城1978文化创意园",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1321,7 +1321,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1656,7 +1656,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "广东艺术剧院",
+    "source": "other_guangzhou",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -1691,7 +1691,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1952,7 +1952,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文化和旅游厅",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2214,7 +2214,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2362,7 +2362,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": false,
-    "source": "广东艺术剧院",
+    "source": "other_guangzhou",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -2397,7 +2397,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2509,7 +2509,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2768,7 +2768,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "gdartmuseum",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2804,7 +2804,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2989,7 +2989,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆",
+    "source": "gzlib",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3137,7 +3137,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "新瑞金票",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3173,7 +3173,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市文化广电旅游局",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3209,7 +3209,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "gzdjy",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -3451,7 +3451,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆",
+    "source": "gzlib",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3487,7 +3487,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州图书馆",
+    "source": "gzlib",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -4161,7 +4161,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市文化馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -4922,7 +4922,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州少年儿童图书馆",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -4958,7 +4958,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5106,7 +5106,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "增城区图书馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5326,7 +5326,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5880,7 +5880,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -6136,7 +6136,7 @@
     "end_date": "2027-02-14",
     "fee": "免费",
     "description": "广东历史文化展，潮州木雕端砚牙雕，岭南文化精华。",
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "highlights": [
       "省博",
       "岭南文化",
@@ -6366,7 +6366,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6476,7 +6476,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6511,7 +6511,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "花都湖公园",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6659,7 +6659,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙区图书馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7476,7 +7476,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "gzlib",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7775,7 +7775,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7923,7 +7923,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "gdmuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8518,7 +8518,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8811,7 +8811,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -9110,7 +9110,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "农讲所纪念馆",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9145,7 +9145,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzdjy",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9293,7 +9293,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9947,7 +9947,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "花都区图书馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10358,7 +10358,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南沙湿地景区",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10562,7 +10562,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "gdmuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -10598,7 +10598,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10860,7 +10860,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -11152,7 +11152,7 @@
     "end_date": "2027-03-09",
     "fee": "免费",
     "description": "广东自然资源展，矿物宝石古生物，地质科普。",
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "highlights": [
       "省博",
       "自然资源",
@@ -11474,7 +11474,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州民俗博物馆（花都）",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -11960,7 +11960,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "百度百家号（广州科普Citywalk）",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -11995,7 +11995,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "从化区图书馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -12254,7 +12254,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "正佳极地海洋世界",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13055,7 +13055,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆",
+    "source": "gzmuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13727,7 +13727,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "白水寨风景名胜区",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -14627,7 +14627,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "黄埔军校旧址纪念馆",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -14887,7 +14887,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "gzam",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -15669,7 +15669,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -16866,7 +16866,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -17127,7 +17127,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州市政府门户",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -17163,7 +17163,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆",
+    "source": "gzmuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -17199,7 +17199,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "羊城晚报",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -17512,7 +17512,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -17736,7 +17736,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "长隆官方",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18072,7 +18072,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "nanyuewang",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18107,7 +18107,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18925,7 +18925,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -18996,7 +18996,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -19176,7 +19176,7 @@
     "end_date": "2027-04-15",
     "fee": "免费",
     "description": "端砚专题展，端溪名砚，文房四宝，中国四大名砚之首。",
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "highlights": [
       "端砚",
       "文房四宝",
@@ -19219,7 +19219,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南汉二陵博物馆",
+    "source": "other_guangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -19255,7 +19255,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "广州本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",

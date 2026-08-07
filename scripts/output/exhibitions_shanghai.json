@@ -84,7 +84,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "shstm",
     "district": "浦东新区"
   },
   {
@@ -101,7 +101,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆",
+    "source": "shstm",
     "district": "浦东新区"
   },
   {
@@ -262,7 +262,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网",
+    "source": "上海本地宝",
     "district": "长宁区"
   },
   {
@@ -279,7 +279,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "district": "静安区"
   },
   {
@@ -364,7 +364,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海昌海洋公园",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -381,7 +381,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -398,7 +398,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -415,7 +415,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -432,7 +432,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "other_shanghai",
     "district": "浦东新区"
   },
   {
@@ -449,7 +449,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -466,7 +466,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园",
+    "source": "上海本地宝",
     "district": "金山区"
   },
   {
@@ -483,7 +483,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆",
+    "source": "other_shanghai",
     "district": "黄浦区"
   },
   {
@@ -536,7 +536,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -553,7 +553,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -570,7 +570,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "district": "静安区"
   },
   {
@@ -587,7 +587,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -640,7 +640,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -712,7 +712,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -823,7 +823,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "legoland",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -932,7 +932,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1042,7 +1042,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼度假区",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -1377,7 +1377,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -1677,7 +1677,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海大剧院",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2647,7 +2647,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -2909,7 +2909,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -2945,7 +2945,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shgtheatre",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -2981,7 +2981,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -3539,7 +3539,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3872,7 +3872,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中共一大纪念馆",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -3907,7 +3907,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -4782,7 +4782,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -4853,7 +4853,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -5039,7 +5039,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "浦东美术馆",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5637,7 +5637,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5784,7 +5784,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海展览中心",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -5932,7 +5932,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海玻璃博物馆",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6158,7 +6158,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6381,7 +6381,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -6547,7 +6547,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "chinaartmuseum",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -6735,7 +6735,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -7478,7 +7478,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆",
+    "source": "shstm",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7514,7 +7514,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海当代艺术博物馆",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -7550,7 +7550,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "shstm",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -7923,7 +7923,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8142,7 +8142,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8589,7 +8589,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "shanghai-astronomy",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -8699,7 +8699,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9072,7 +9072,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -9348,7 +9348,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "shstm",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -9909,7 +9909,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -9945,7 +9945,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -10130,7 +10130,7 @@
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海文化广场",
+    "source": "other_shanghai",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10707,7 +10707,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海植物园",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10849,7 +10849,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "misa",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -11330,7 +11330,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -11366,7 +11366,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "shhistorymuseum",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -12090,7 +12090,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -12126,7 +12126,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -12837,7 +12837,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "shcstheatre",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -13301,7 +13301,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "shstm",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13337,7 +13337,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13449,7 +13449,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13782,7 +13782,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -13947,7 +13947,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -13982,7 +13982,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "乐高探索中心",
+    "source": "北京本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -14130,7 +14130,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "shanghaimuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -14166,7 +14166,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -14388,7 +14388,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -14799,7 +14799,7 @@
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "shanghaimuseum",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -15242,7 +15242,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -15278,7 +15278,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "haichang",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -15314,7 +15314,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -16518,7 +16518,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -16554,7 +16554,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -16852,7 +16852,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -17036,7 +17036,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆",
+    "source": "shstm",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -17520,7 +17520,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "shstm",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -18208,7 +18208,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": false,
-    "source": "expomuseum",
+    "source": "other_shanghai",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -18429,7 +18429,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园",
+    "source": "上海本地宝",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -19215,7 +19215,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中华艺术宫（上海美术馆）",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -19394,7 +19394,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -19467,7 +19467,7 @@
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -19540,7 +19540,7 @@
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海图书馆",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",

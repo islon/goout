@@ -22,7 +22,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -217,7 +217,7 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "腾讯新闻",
+    "source": "zjam",
     "district": "西湖区"
   },
   {
@@ -240,7 +240,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）",
+    "source": "bayarea_eye",
     "district": "宝安区"
   },
   {
@@ -263,7 +263,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -286,7 +286,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -309,7 +309,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -332,7 +332,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -355,7 +355,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -378,7 +378,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -401,7 +401,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -509,7 +509,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "景山公园",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -604,7 +604,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -621,7 +621,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -661,7 +661,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -720,7 +720,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -743,7 +743,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
+    "source": "gmwhg",
     "district": "光明区"
   },
   {
@@ -766,7 +766,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "光明区文化馆",
+    "source": "gmwhg",
     "district": "光明区"
   },
   {
@@ -806,7 +806,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科学技术馆官网",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -895,7 +895,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州艺术博物院",
+    "source": "广州本地宝",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -931,7 +931,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -1056,7 +1056,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都之窗",
+    "source": "other_beijing",
     "district": "西城区"
   },
   {
@@ -1108,7 +1108,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1137,7 +1137,7 @@ module.exports = [
     "category": "展览",
     "description": "描述\n\n从全市1400余件投稿中遴选出140幅少儿佳作，涵盖国画、油画、水彩、数字艺术等。免费免预约。",
     "fee": "免费需预约",
-    "source": "南山融媒体中心",
+    "source": "szartm",
     "link": "http://m.toutiao.com/group/7658324154139148850/",
     "url": "http://m.toutiao.com/group/7658324154139148850/",
     "contact": "",
@@ -1166,7 +1166,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆（罗湖区）",
+    "source": "szartm",
     "district": "福田区"
   },
   {
@@ -1271,7 +1271,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网",
+    "source": "other_beijing",
     "district": "东城区"
   },
   {
@@ -1324,7 +1324,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "京报网",
+    "source": "chnmuseum",
     "district": "东城区"
   },
   {
@@ -1491,7 +1491,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -1580,7 +1580,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1651,7 +1651,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1686,7 +1686,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1721,7 +1721,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "万象天地",
+    "source": "other_shenzhen",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1756,7 +1756,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳本地宝",
+    "source": "szworld",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1797,7 +1797,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "迳口社区综合性文化服务中心",
+    "source": "jkwh",
     "district": "光明区"
   },
   {
@@ -1820,7 +1820,7 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐",
+    "source": "szworld",
     "district": "南山区"
   },
   {
@@ -1908,7 +1908,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -1972,7 +1972,7 @@ module.exports = [
     "category": "展览",
     "description": "描述\n\n全面呈现林墉'霸悍恣丽'的水墨人物风骨与苏华'豪迈雄放'的书画才情。免费免预约。",
     "fee": "免费需预约",
-    "source": "南山融媒体中心",
+    "source": "hxngallery",
     "link": "http://m.toutiao.com/group/7658324154139148850/",
     "url": "http://m.toutiao.com/group/7658324154139148850/",
     "contact": "",
@@ -2001,7 +2001,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -2024,7 +2024,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山融媒体中心",
+    "source": "hxngallery",
     "district": "南山区"
   },
   {
@@ -2047,7 +2047,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "马峦街道公共文化服务中心",
+    "source": "other_shenzhen",
     "district": "其他"
   },
   {
@@ -2136,7 +2136,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "潮新闻",
+    "source": "杭州本地宝",
     "district": "西湖区"
   },
   {
@@ -2153,7 +2153,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳美术馆",
+    "source": "szartm",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -2188,7 +2188,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "shstm",
     "district": "浦东新区"
   },
   {
@@ -2205,7 +2205,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文旅局",
+    "source": "杭州本地宝",
     "district": "拱墅区"
   },
   {
@@ -2222,7 +2222,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海科技馆",
+    "source": "shstm",
     "district": "浦东新区"
   },
   {
@@ -2245,7 +2245,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
+    "source": "gmarts",
     "district": "光明区"
   },
   {
@@ -2262,7 +2262,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆官网",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2279,7 +2279,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "新华网",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -2296,7 +2296,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -2313,7 +2313,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -2330,7 +2330,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京天文馆",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2364,7 +2364,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2381,7 +2381,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2398,7 +2398,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网",
+    "source": "北京本地宝",
     "district": "丰台区"
   },
   {
@@ -2415,7 +2415,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "首都图书馆",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -2432,7 +2432,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家图书馆",
+    "source": "北京本地宝",
     "district": "海淀区"
   },
   {
@@ -2449,7 +2449,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京海洋馆",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2466,7 +2466,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "中国国家博物馆",
+    "source": "chnmuseum",
     "district": "东城区"
   },
   {
@@ -2483,7 +2483,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京动物园",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -2500,7 +2500,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "天坛公园",
+    "source": "北京本地宝",
     "district": "东城区"
   },
   {
@@ -2517,7 +2517,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "颐和园",
+    "source": "北京本地宝",
     "district": "海淀区"
   },
   {
@@ -2551,7 +2551,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "中国科技馆",
+    "source": "other_beijing",
     "district": "朝阳区"
   },
   {
@@ -2568,7 +2568,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "国家自然博物馆",
+    "source": "北京本地宝",
     "district": "东城区"
   },
   {
@@ -2602,7 +2602,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京环球度假区",
+    "source": "北京本地宝",
     "district": "通州区"
   },
   {
@@ -2619,7 +2619,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京欢乐谷",
+    "source": "北京本地宝",
     "district": "朝阳区"
   },
   {
@@ -2851,7 +2851,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -2868,7 +2868,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方网",
+    "source": "广州本地宝",
     "district": "番禺区"
   },
   {
@@ -2953,7 +2953,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广州博物馆",
+    "source": "gzmuseum",
     "district": "越秀区"
   },
   {
@@ -2970,7 +2970,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -2987,7 +2987,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州动物园",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -3004,7 +3004,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广州海洋馆",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -3129,7 +3129,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州市文化广电旅游局",
+    "source": "zjam",
     "district": "西湖区"
   },
   {
@@ -3398,7 +3398,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "人民网",
+    "source": "上海本地宝",
     "district": "长宁区"
   },
   {
@@ -3415,7 +3415,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "district": "静安区"
   },
   {
@@ -3500,7 +3500,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海昌海洋公园",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -3517,7 +3517,7 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "上海天文馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -3534,7 +3534,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海海洋水族馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -3551,7 +3551,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海迪士尼乐园",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -3568,7 +3568,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳国际美术馆",
+    "source": "other_shenzhen",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -3609,7 +3609,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳特区报（宝安区）",
+    "source": "bayarea_eye",
     "district": "宝安区"
   },
   {
@@ -3632,7 +3632,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "园岭街道综合性文化服务中心",
+    "source": "ylwh",
     "district": "福田区"
   },
   {
@@ -3655,7 +3655,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆官网",
+    "source": "szmuseum",
     "district": "福田区"
   },
   {
@@ -3678,7 +3678,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -3701,7 +3701,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -3724,7 +3724,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-82841247",
     "family_friendly": true,
-    "source": "深圳图书馆官网",
+    "source": "szlib",
     "district": "福田区"
   },
   {
@@ -3747,7 +3747,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区博物馆",
+    "source": "lgmuseum",
     "district": "龙岗区"
   },
   {
@@ -3770,7 +3770,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -3793,7 +3793,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
+    "source": "szcp",
     "district": "福田区"
   },
   {
@@ -3816,7 +3816,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -3839,7 +3839,7 @@ module.exports = [
     "fee": "部分免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳音乐厅官网",
+    "source": "szconcert",
     "district": "福田区"
   },
   {
@@ -3862,7 +3862,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳滨海艺术中心官网",
+    "source": "szbo",
     "district": "宝安区"
   },
   {
@@ -3885,7 +3885,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -3908,7 +3908,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳新闻网",
+    "source": "szlib",
     "district": "福田区"
   },
   {
@@ -3931,7 +3931,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南方都市报",
+    "source": "bayarea_eye",
     "district": "其他"
   },
   {
@@ -3954,7 +3954,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "湾区之眼",
+    "source": "bayarea_eye",
     "district": "宝安区"
   },
   {
@@ -4317,7 +4317,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明文化艺术中心",
+    "source": "gmarts",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -4352,7 +4352,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳本地宝",
+    "source": "szworld",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -4381,7 +4381,7 @@ module.exports = [
     "category": "展览",
     "description": "描述\n\n汇聚《丁丁历险记》《蓝精灵》等九大比利时国宝级漫画IP，百余件珍贵手稿、版画、雕塑。免费开放，适合全年龄段。蓝精灵户外装置同步展出。",
     "fee": "免费",
-    "source": "光明文化艺术中心/今日头条",
+    "source": "gmarts",
     "link": "http://m.toutiao.com/group/7658235446731784744/",
     "url": "http://m.toutiao.com/group/7658235446731784744/",
     "contact": "",
@@ -4457,7 +4457,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上观新闻",
+    "source": "other_shanghai",
     "district": "浦东新区"
   },
   {
@@ -4474,7 +4474,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海美术馆",
+    "source": "上海本地宝",
     "district": "浦东新区"
   },
   {
@@ -4497,7 +4497,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -4729,7 +4729,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳本地宝",
+    "source": "hlgj",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -4764,7 +4764,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳本地宝",
+    "source": "theme_park",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -4805,7 +4805,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "凤凰网深圳（宝安区）",
+    "source": "other_shenzhen",
     "district": "宝安区"
   },
   {
@@ -4828,7 +4828,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -4851,7 +4851,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -4874,7 +4874,7 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐",
+    "source": "theme_park",
     "district": "南山区"
   },
   {
@@ -4897,7 +4897,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳梦/搜狐",
+    "source": "hoha",
     "district": "南山区"
   },
   {
@@ -4950,7 +4950,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "杭州博物馆官方微博",
+    "source": "杭州本地宝",
     "district": "上城区"
   },
   {
@@ -4967,7 +4967,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海乐高乐园",
+    "source": "上海本地宝",
     "district": "金山区"
   },
   {
@@ -4990,7 +4990,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
+    "source": "gmlib",
     "district": "光明区"
   },
   {
@@ -5013,7 +5013,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -5036,7 +5036,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
+    "source": "gmlib",
     "district": "光明区"
   },
   {
@@ -5059,7 +5059,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
+    "source": "nslib",
     "district": "南山区"
   },
   {
@@ -5105,7 +5105,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -5164,7 +5164,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
+    "source": "gmlib",
     "district": "光明区"
   },
   {
@@ -5187,7 +5187,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -5210,7 +5210,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆公众号",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -5262,7 +5262,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海世博会博物馆",
+    "source": "other_shanghai",
     "district": "黄浦区"
   },
   {
@@ -5285,7 +5285,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5308,7 +5308,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
+    "source": "ytlib",
     "district": "盐田区"
   },
   {
@@ -5331,7 +5331,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5384,7 +5384,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -5401,7 +5401,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -5418,7 +5418,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京科学中心",
+    "source": "北京本地宝",
     "district": "西城区"
   },
   {
@@ -5441,7 +5441,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5464,7 +5464,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
+    "source": "lhlib",
     "district": "罗湖区"
   },
   {
@@ -5487,7 +5487,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
+    "source": "baoan_qsng",
     "district": "宝安区"
   },
   {
@@ -5510,7 +5510,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
+    "source": "szaac",
     "district": "福田区"
   },
   {
@@ -5533,7 +5533,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5556,7 +5556,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
+    "source": "nswtzx",
     "district": "南山区"
   },
   {
@@ -5579,7 +5579,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
+    "source": "nsqsng",
     "district": "南山区"
   },
   {
@@ -5602,7 +5602,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区文化馆燕罗分馆",
+    "source": "other_shenzhen",
     "district": "宝安区"
   },
   {
@@ -5691,7 +5691,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆官网",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -5708,7 +5708,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -5731,7 +5731,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -5754,7 +5754,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5777,7 +5777,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
+    "source": "lhxqlib",
     "district": "龙华区"
   },
   {
@@ -5800,7 +5800,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区青少年宫",
+    "source": "lhqsng",
     "district": "龙华区"
   },
   {
@@ -5823,7 +5823,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
+    "source": "ftlib",
     "district": "福田区"
   },
   {
@@ -5846,7 +5846,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山图书馆",
+    "source": "nslib",
     "district": "南山区"
   },
   {
@@ -5880,7 +5880,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东科学中心",
+    "source": "广州本地宝",
     "district": "番禺区"
   },
   {
@@ -5920,7 +5920,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市文化馆官网",
+    "source": "szmassart",
     "district": "福田区"
   },
   {
@@ -5943,7 +5943,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
+    "source": "ftlib",
     "district": "福田区"
   },
   {
@@ -5966,7 +5966,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
+    "source": "baoan_kjg",
     "district": "宝安区"
   },
   {
@@ -5989,7 +5989,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
+    "source": "szwty",
     "district": "南山区"
   },
   {
@@ -6012,7 +6012,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
+    "source": "gmwhg",
     "district": "光明区"
   },
   {
@@ -6035,7 +6035,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -6058,7 +6058,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳少年儿童图书馆官网",
+    "source": "sz_children_lib",
     "district": "福田区"
   },
   {
@@ -6081,7 +6081,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -6104,7 +6104,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
+    "source": "baoan_ty",
     "district": "宝安区"
   },
   {
@@ -6127,7 +6127,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心",
+    "source": "nswtzx",
     "district": "南山区"
   },
   {
@@ -6150,7 +6150,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化服务中心",
+    "source": "tywh",
     "district": "南山区"
   },
   {
@@ -6267,7 +6267,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南越王博物院",
+    "source": "广州本地宝",
     "district": "越秀区"
   },
   {
@@ -6284,7 +6284,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "孙中山大元帅府纪念馆",
+    "source": "other_guangzhou",
     "district": "海珠区"
   },
   {
@@ -6301,7 +6301,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海自然博物馆",
+    "source": "上海本地宝",
     "district": "静安区"
   },
   {
@@ -6318,7 +6318,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "上海博物馆",
+    "source": "shanghaimuseum",
     "district": "黄浦区"
   },
   {
@@ -6370,7 +6370,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳书城",
+    "source": "szbook",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -6411,7 +6411,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -6434,7 +6434,7 @@ module.exports = [
     "fee": "免费",
     "contact": "赣州三凯文旅发展有限公司 袁先生&nbsp; 13711993351",
     "family_friendly": false,
-    "source": "深圳会展中心",
+    "source": "szcec",
     "district": "福田区"
   },
   {
@@ -6457,7 +6457,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
+    "source": "pslib",
     "district": "坪山区"
   },
   {
@@ -6480,7 +6480,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
+    "source": "lgqsng",
     "district": "龙岗区"
   },
   {
@@ -6503,7 +6503,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "罗湖区图书馆官网",
+    "source": "lhlib",
     "district": "罗湖区"
   },
   {
@@ -6526,7 +6526,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "宝安图书馆",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -6549,7 +6549,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
+    "source": "gmlib",
     "district": "光明区"
   },
   {
@@ -6572,7 +6572,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
+    "source": "lglib",
     "district": "龙岗区"
   },
   {
@@ -6595,7 +6595,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
+    "source": "dpgeopark",
     "district": "大鹏新区"
   },
   {
@@ -6618,7 +6618,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆官网",
+    "source": "ftlib",
     "district": "福田区"
   },
   {
@@ -6641,7 +6641,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "盐田区图书馆官网",
+    "source": "ytlib",
     "district": "盐田区"
   },
   {
@@ -6664,7 +6664,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心",
+    "source": "szwty",
     "district": "南山区"
   },
   {
@@ -6687,7 +6687,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区青少年活动中心",
+    "source": "nsqsng",
     "district": "南山区"
   },
   {
@@ -6710,7 +6710,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏新区图书馆官网",
+    "source": "dplib",
     "district": "大鹏新区"
   },
   {
@@ -6733,7 +6733,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区图书馆官网",
+    "source": "gmlib",
     "district": "光明区"
   },
   {
@@ -6756,7 +6756,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -6779,7 +6779,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化广电旅游体育局",
+    "source": "gmwhg",
     "district": "光明区"
   },
   {
@@ -6796,7 +6796,7 @@ module.exports = [
     "fee": "需购票",
     "contact": "",
     "family_friendly": true,
-    "source": "故宫博物院",
+    "source": "gugong",
     "district": "东城区"
   },
   {
@@ -6819,7 +6819,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区委宣传部",
+    "source": "bayarea_eye",
     "district": "宝安区"
   },
   {
@@ -6842,7 +6842,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "坪山区图书馆官网",
+    "source": "pslib",
     "district": "坪山区"
   },
   {
@@ -6919,7 +6919,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳科学技术馆（光明新馆）官网",
+    "source": "szstm",
     "district": "光明区"
   },
   {
@@ -6942,7 +6942,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安图书馆官网",
+    "source": "balib",
     "district": "宝安区"
   },
   {
@@ -6965,7 +6965,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安体育中心",
+    "source": "baoan_ty",
     "district": "宝安区"
   },
   {
@@ -6988,7 +6988,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山区文化馆官网",
+    "source": "nswhg",
     "district": "南山区"
   },
   {
@@ -7011,7 +7011,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "光明区文化馆",
+    "source": "gmwhg",
     "district": "光明区"
   },
   {
@@ -7034,7 +7034,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区图书馆官网",
+    "source": "lglib",
     "district": "龙岗区"
   },
   {
@@ -7057,7 +7057,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安科技馆",
+    "source": "baoan_kjg",
     "district": "宝安区"
   },
   {
@@ -7080,7 +7080,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙岗区青少年宫",
+    "source": "lgqsng",
     "district": "龙岗区"
   },
   {
@@ -7103,7 +7103,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市少年宫官网",
+    "source": "szcp",
     "district": "福田区"
   },
   {
@@ -7126,7 +7126,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市体育中心",
+    "source": "szsports",
     "district": "福田区"
   },
   {
@@ -7149,7 +7149,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大鹏地质公园博物馆",
+    "source": "dpgeopark",
     "district": "大鹏新区"
   },
   {
@@ -7172,7 +7172,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆官网",
+    "source": "nsmuseum",
     "district": "南山区"
   },
   {
@@ -7195,7 +7195,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市青少年活动中心官网",
+    "source": "szaac",
     "district": "福田区"
   },
   {
@@ -7415,7 +7415,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "龙华区图书馆官网",
+    "source": "lhxqlib",
     "district": "龙华区"
   },
   {
@@ -7806,7 +7806,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省文旅厅湾区展讯",
+    "source": "gdmuseum",
     "district": "天河区"
   },
   {
@@ -7823,7 +7823,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "广东省博物馆",
+    "source": "gdmuseum",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "广州本地宝",
@@ -8085,7 +8085,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": false,
-    "source": "马峦街道公共文化服务中心",
+    "source": "other_shenzhen",
     "district": "其他"
   },
   {
@@ -8255,7 +8255,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "北京旅游网",
+    "source": "北京本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10161,7 +10161,7 @@ module.exports = [
     "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "manual",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -10234,7 +10234,7 @@ module.exports = [
     "fee": "免费",
     "contact": "0755-86700071",
     "family_friendly": true,
-    "source": "南山博物馆",
+    "source": "nsmuseum",
     "booking_method": {
       "type": "city_aggregated",
       "app_name": "深圳读书月",
@@ -10310,7 +10310,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "宝安区青少年宫",
+    "source": "baoan_qsng",
     "district": "宝安区"
   },
   {
@@ -11522,7 +11522,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "从化温泉旅游度假区",
+    "source": "other_guangzhou",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -11669,7 +11669,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西泠印社",
+    "source": "other_hangzhou",
     "is_family_friendly": false,
     "booking_method": {
       "type": "city_aggregated",
@@ -12343,7 +12343,7 @@ module.exports = [
     "fee": "收费",
     "contact": "",
     "family_friendly": true,
-    "source": "legoland",
+    "source": "上海本地宝",
     "is_family_friendly": true,
     "booking_method": {
       "type": "city_aggregated",
@@ -12416,7 +12416,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "海上世界滨海公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区望海路海上世界沿线",
     "metro": "2号线海上世界站",
@@ -12448,7 +12448,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "塘朗山郊野公园（龙珠门）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区龙珠大道",
     "metro": "5号线塘朗站",
@@ -12480,7 +12480,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "塘朗山公园桃源入口",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区桃源街道",
     "metro": "5号线塘朗站",
@@ -12512,7 +12512,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大沙河生态长廊（全线南山段）",
+    "source": "dshslc",
     "booking_method": "免预约",
     "address": "南山区大沙河两岸",
     "metro": "5号线沿线站点",
@@ -12544,7 +12544,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大沙河公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区北环大道旁",
     "metro": "5号线留仙洞站",
@@ -12576,7 +12576,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾红树林生态公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区滨海大道西段",
     "metro": "9号线深圳湾站",
@@ -12608,7 +12608,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口海滨公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区蛇口望海路",
     "metro": "2号线水湾站",
@@ -12640,7 +12640,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "四海公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区蛇口公园路",
     "metro": "2号线海月站",
@@ -12672,7 +12672,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "松坪公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区松坪山",
     "metro": "5号线西丽站",
@@ -12704,7 +12704,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西丽湖公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区西丽湖路",
     "metro": "7号线西丽湖站",
@@ -12736,7 +12736,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "石鼓山公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区西丽茶光片区",
     "metro": "5号线茶光站",
@@ -12768,7 +12768,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "丽湖公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区西丽丽湖片区",
     "metro": "5号线大学城站",
@@ -12800,7 +12800,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "留仙洞公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区留仙洞总部基地旁",
     "metro": "5号线留仙洞站",
@@ -12832,7 +12832,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "后海中心河公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区后海片区",
     "metro": "11号线后海站",
@@ -12864,7 +12864,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "前海石公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区前海桂湾",
     "metro": "5号线桂湾站",
@@ -12896,7 +12896,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桂湾公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区前海桂湾片区",
     "metro": "5号线桂湾站",
@@ -12928,7 +12928,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "前海演艺公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区前海临海大道",
     "metro": "5号线前湾站",
@@ -12960,7 +12960,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾体育中心户外公园",
+    "source": "szwty",
     "booking_method": "免预约",
     "address": "南山区滨海大道",
     "metro": "11号线后海站",
@@ -12992,7 +12992,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华侨城生态广场",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区华侨城核心区",
     "metro": "1号线华侨城站",
@@ -13024,7 +13024,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "欢乐谷外围市政公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区华侨城",
     "metro": "1号线华侨城站",
@@ -13056,7 +13056,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "世界之窗外围广场公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区深南大道",
     "metro": "1号线世界之窗站",
@@ -13088,7 +13088,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "锦绣中华外围绿地公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区华侨城",
     "metro": "1号线华侨城站",
@@ -13120,7 +13120,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳水土保持科技示范园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区沙河西路4148号",
     "metro": "5号线西丽站",
@@ -13152,7 +13152,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口渔港公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区蛇口渔港沿岸",
     "metro": "2号线东角头站",
@@ -13184,7 +13184,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口渔人码头公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区蛇口望海路西段",
     "metro": "2号线海上世界站",
@@ -13216,7 +13216,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城文化街区全域",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区南头天桥北",
     "metro": "12号线南头古城站",
@@ -13248,7 +13248,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城文创展示馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "古城内部主街",
     "metro": "12号线南头古城站",
@@ -13280,7 +13280,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头古城城墙遗址公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "古城北侧",
     "metro": "12号线南头古城站",
@@ -13312,7 +13312,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "海上世界明华轮广场",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区望海路",
     "metro": "2号线海上世界站",
@@ -13344,7 +13344,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心户外广场",
+    "source": "nswtzx",
     "booking_method": "免预约",
     "address": "南山区南山大道",
     "metro": "1号线桃园站",
@@ -13376,7 +13376,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山文体中心阅览区",
+    "source": "nswtzx",
     "booking_method": "免预约",
     "address": "文体中心内",
     "metro": "1号线桃园站",
@@ -13408,7 +13408,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大学杜鹃山公园",
+    "source": "other_shenzhen",
     "booking_method": "凭身份证登记",
     "address": "深大校园内",
     "metro": "1号线深大站",
@@ -13440,7 +13440,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳大学文山湖公园",
+    "source": "other_shenzhen",
     "booking_method": "凭身份证登记",
     "address": "深大校内",
     "metro": "1号线深大站",
@@ -13472,7 +13472,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "粤海街道文体中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区科技园",
     "metro": "1号线高新园站",
@@ -13504,7 +13504,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "沙河街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区白石洲",
     "metro": "1号线白石洲站",
@@ -13536,7 +13536,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西丽街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区西丽",
     "metro": "5号线西丽站",
@@ -13568,7 +13568,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "桃源街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区塘朗",
     "metro": "5号线塘朗站",
@@ -13600,7 +13600,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "招商街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区蛇口",
     "metro": "2号线海上世界站",
@@ -13632,7 +13632,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区南山村",
     "metro": "1号线桃园站",
@@ -13664,7 +13664,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南头街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "南山区南头古城旁",
     "metro": "12号线南头古城站",
@@ -13696,7 +13696,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾公园运动乐园片区",
+    "source": "szhbgy",
     "booking_method": "免预约",
     "address": "深圳湾公园中段",
     "metro": "9号线深圳湾站",
@@ -13728,7 +13728,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳湾潮汐科普园区",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "深圳湾公园西段",
     "metro": "11号线后海站",
@@ -13760,7 +13760,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大沙河长廊大学城段",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区西丽大学城",
     "metro": "5号线大学城站",
@@ -13792,7 +13792,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "大沙河万象城段",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区科技园南区",
     "metro": "1号线高新园站",
@@ -13824,7 +13824,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山妇女儿童活动中心",
+    "source": "other_shenzhen",
     "booking_method": "预约报名",
     "address": "南山区前海片区",
     "metro": "5号线桂湾站",
@@ -13856,7 +13856,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南山生态环境科普基地",
+    "source": "other_shenzhen",
     "booking_method": "公众号预约",
     "address": "南山区留仙洞",
     "metro": "5号线留仙洞站",
@@ -13888,7 +13888,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "学府社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区学府路",
     "metro": "1号线桃园站",
@@ -13920,7 +13920,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "科技园社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区科技园",
     "metro": "1号线高新园站",
@@ -13952,7 +13952,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "蛇口社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区蛇口新街",
     "metro": "2号线东角头站",
@@ -13984,7 +13984,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "西丽湖社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区西丽湖",
     "metro": "7号线西丽湖站",
@@ -14016,7 +14016,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "前海社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区前海前湾",
     "metro": "5号线前湾站",
@@ -14048,7 +14048,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华侨城社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区华侨城",
     "metro": "1号线华侨城站",
@@ -14080,7 +14080,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "赤湾天后博物馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区赤湾六路",
     "metro": "5号线赤湾站",
@@ -14112,7 +14112,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "陈郁故居纪念馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "南山区南山街道",
     "metro": "1号线桃园站",
@@ -14146,7 +14146,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳博物馆（市民中心总馆）",
+    "source": "szmuseum",
     "booking_method": "免预约",
     "address": "福田区福中路市民中心 A 区",
     "metro": "2/4 号线市民中心站 B 口",
@@ -14179,7 +14179,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳改革开放展览馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福华一路当代艺术中心",
     "metro": "2/3/11 号线福田站",
@@ -14212,7 +14212,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "关山月美术馆",
+    "source": "gsyart",
     "booking_method": "免预约",
     "address": "福田区红荔路 6026 号",
     "metro": "3/4 号线少年宫站 F2",
@@ -14245,7 +14245,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区科学馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区上步中路 1003 号",
     "metro": "1/2 号线科学馆站",
@@ -14278,7 +14278,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳市妇儿大厦儿童探索馆",
+    "source": "other_shenzhen",
     "booking_method": "公众号预约",
     "address": "福田区景田路 70 号",
     "metro": "7/9 号线景田站",
@@ -14311,7 +14311,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区应急安全教育基地",
+    "source": "other_shenzhen",
     "booking_method": "团体提前预约",
     "address": "福田区梅林街道梅坳五路",
     "metro": "4/9 号线梅林站",
@@ -14344,7 +14344,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田香蜜公园垃圾分类科普馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区农园路 30 号香蜜公园内",
     "metro": "7 号线农林站",
@@ -14377,7 +14377,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田红树林生态公园科普展厅",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福荣路红树林园区",
     "metro": "7/11 号线下沙站",
@@ -14410,7 +14410,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区非物质文化遗产馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区景田路 88 号福田图书馆内",
     "metro": "7/9 号线景田站",
@@ -14443,7 +14443,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳金融文化中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福华三路星河 COOPark 旁",
     "metro": "1/3 号线会展中心站",
@@ -14476,7 +14476,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区城市规划展览馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区市民中心西区一层",
     "metro": "2/4 号线市民中心站",
@@ -14509,7 +14509,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区禁毒科普教育馆",
+    "source": "other_shenzhen",
     "booking_method": "团体预约",
     "address": "福田区梅林街道梅华二路",
     "metro": "4 号线莲花北站",
@@ -14542,7 +14542,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田河科普展厅（中心公园）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区皇岗路中心公园 E 区",
     "metro": "3 号线华新站",
@@ -14575,7 +14575,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强北电子博物馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区华强北路赛格广场负一层",
     "metro": "1/2 号线华强路站",
@@ -14608,7 +14608,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳当代艺术馆市民中心展区",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福中路市民中心东翼",
     "metro": "2/4 号线市民中心站",
@@ -14641,7 +14641,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "东江游击队指挥部旧址纪念馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区南园街道南园路",
     "metro": "1 号线科学馆站",
@@ -14674,7 +14674,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田青少年宫航天体验区",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区红荔路少年宫",
     "metro": "3/4 号线少年宫站",
@@ -14707,7 +14707,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区中医药科普馆",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区竹子林海景公寓旁",
     "metro": "1/7 号线竹子林站",
@@ -14740,7 +14740,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "会展中心地铁站科普长廊",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区会展中心地铁站站内",
     "metro": "1/3 号线会展中心站",
@@ -14773,7 +14773,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田绘本博物馆（香蜜分馆）（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区香蜜公园图书馆内",
     "metro": "7 号线农林站",
@@ -14806,7 +14806,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区图书馆总馆",
+    "source": "ftlib",
     "booking_method": "免预约",
     "address": "福田区景田路 88 号",
     "metro": "7/9 号线景田站",
@@ -14839,7 +14839,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜公园儿童图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区农园路 30 号香蜜公园内",
     "metro": "7 号线农林站",
@@ -14872,7 +14872,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中心公园海滨图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区皇岗路中心公园 E 区",
     "metro": "3 号线华新站",
@@ -14905,7 +14905,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林公园梅林书院（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区梅林公园东门",
     "metro": "4 号线梅林站",
@@ -14938,7 +14938,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花山蓝书坊图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区莲花山公园南门旁",
     "metro": "3/4 号线少年宫站",
@@ -14971,7 +14971,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花街道图书馆（莲花北社区）（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区莲花北村吉莲大厦",
     "metro": "4 号线莲花北站",
@@ -15004,7 +15004,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强北街道文化图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区华强北街道文化站 3 楼",
     "metro": "1 号线华强路站",
@@ -15037,7 +15037,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "沙头街道图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区沙头街道文化中心",
     "metro": "7/11 号线下沙站",
@@ -15070,7 +15070,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南园街道非遗主题图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区南园街道文化站",
     "metro": "1 号线科学馆站",
@@ -15103,7 +15103,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福保街道图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福保文化中心二楼",
     "metro": "7 号线福民站",
@@ -15136,7 +15136,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "园岭街道图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区园岭新村文化广场",
     "metro": "3 号线园岭站",
@@ -15169,7 +15169,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福华社区图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福华社区党群中心",
     "metro": "1/3 号线会展中心站",
@@ -15202,7 +15202,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "竹子林街道图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区竹子林光大社区",
     "metro": "1/7 号线竹子林站",
@@ -15235,7 +15235,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜湖街道图书馆（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区香蜜湖街道文化中心",
     "metro": "7 号线香蜜湖站",
@@ -15268,7 +15268,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强书房（24 小时自助）（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区华强北步行街中段",
     "metro": "1/2 号线华强路站",
@@ -15301,7 +15301,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "中心书房 24 小时阅读空间（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区市民中心地下一层",
     "metro": "2/4 号线市民中心站",
@@ -15334,7 +15334,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "下沙滨海书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区下沙村党群中心",
     "metro": "7/11 号线下沙站",
@@ -15367,7 +15367,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林半山书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区梅林街道半山社区",
     "metro": "4 号线梅林站",
@@ -15400,7 +15400,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲北亲子书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区莲花北村社区一楼",
     "metro": "4 号线莲花北站",
@@ -15433,7 +15433,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福民港湾书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区福民路福保片区",
     "metro": "7 号线福民站",
@@ -15466,7 +15466,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "园岭老街书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区园岭街道老社区",
     "metro": "3 号线园岭站",
@@ -15499,7 +15499,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "竹林生态书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区竹子林园林社区",
     "metro": "1/7 号线竹子林站",
@@ -15532,7 +15532,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜艺术书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区香蜜湖街道",
     "metro": "7 号线香蜜湖站",
@@ -15565,7 +15565,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南园非遗书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区南园街道文化站旁",
     "metro": "1 号线科学馆站",
@@ -15598,7 +15598,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "少年星空书房（福田区）",
+    "source": "other_shenzhen",
     "booking_method": "线上预约",
     "address": "福田区红荔路少年宫一楼",
     "metro": "3/4 号线少年宫站",
@@ -15631,7 +15631,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花山公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区红荔路 6030 号",
     "metro": "3/4 号线少年宫站",
@@ -15664,7 +15664,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田红树林生态公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福荣路与新洲路交汇处",
     "metro": "7/11 号线下沙站",
@@ -15697,7 +15697,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "深圳中心公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区皇岗路沿线",
     "metro": "3 号线华新站",
@@ -15730,7 +15730,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区农园路 30 号",
     "metro": "7 号线农林站",
@@ -15763,7 +15763,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区梅林路梅林一村旁",
     "metro": "4 号线梅林站",
@@ -15796,7 +15796,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林后山",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区梅林街道北部",
     "metro": "4 号线莲花北站",
@@ -15829,7 +15829,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "笔架山公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区笋岗西路",
     "metro": "7 号线黄木岗站",
@@ -15862,7 +15862,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田河碧道（全线）",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福田河两岸（笋岗至福强）",
     "metro": "多地铁沿线覆盖",
@@ -15895,7 +15895,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福海河滨水公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福强路福海河沿线",
     "metro": "7 号线沙尾站",
@@ -15928,7 +15928,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "皇岗公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福强路皇岗片区",
     "metro": "7 号线福民站",
@@ -15961,7 +15961,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福保海滨休闲公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福保片区桂花路",
     "metro": "7 号线福民站",
@@ -15994,7 +15994,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "园岭公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区园岭新村内",
     "metro": "3 号线园岭站",
@@ -16027,7 +16027,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "荔园社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区华强北荔园片区",
     "metro": "1 号线华强路站",
@@ -16060,7 +16060,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花北社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区莲花北村中心",
     "metro": "4 号线莲花北站",
@@ -16093,7 +16093,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "竹子林海滨公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区竹子林滨海大道旁",
     "metro": "1/7 号线竹子林站",
@@ -16126,7 +16126,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜湖休闲公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区香蜜湖街道侨香路",
     "metro": "7 号线香蜜湖站",
@@ -16159,7 +16159,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "市民中心南广场公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区市民中心南侧绿地",
     "metro": "2/4 号线市民中心站",
@@ -16192,7 +16192,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "会展中心市政公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区会展中心外围绿地",
     "metro": "1/3 号线会展中心站",
@@ -16225,7 +16225,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强北中心广场",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区华强北步行街中心绿地",
     "metro": "1/2 号线华强路站",
@@ -16258,7 +16258,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "下沙村社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区下沙村内文化广场绿地",
     "metro": "7/11 号线下沙站",
@@ -16291,7 +16291,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "侨香路沿线绿道公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区侨香路全线滨河绿地",
     "metro": "7 号线农林站",
@@ -16324,7 +16324,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "安托山公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区安托山片区",
     "metro": "7/8 号线安托山站",
@@ -16357,7 +16357,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "景田社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区景田片区妇儿大厦旁",
     "metro": "7/9 号线景田站",
@@ -16390,7 +16390,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "红荔路市政绿道",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区红荔路沿线绿地",
     "metro": "3/4 号线少年宫站",
@@ -16423,7 +16423,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林一村社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区梅林一村中心绿地",
     "metro": "4 号线梅林站",
@@ -16456,7 +16456,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "保税区中央公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福保保税区中央绿地",
     "metro": "7 号线福民站",
@@ -16489,7 +16489,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "新洲河滨水公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区新洲河两岸绿地",
     "metro": "7 号线沙尾站",
@@ -16522,7 +16522,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "沙头文体公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区沙头街道文化中心旁绿地",
     "metro": "7/11 号线下沙站",
@@ -16555,7 +16555,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南园滨河公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区南园街道深圳河沿岸",
     "metro": "1 号线科学馆站",
@@ -16588,7 +16588,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "黄木岗社区公园",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区笋岗西路黄木岗片区",
     "metro": "7 号线黄木岗站",
@@ -16621,7 +16621,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区莲花北吉莲大厦二楼",
     "metro": "4 号线莲花北站",
@@ -16654,7 +16654,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强北街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区华强北路赛格旁",
     "metro": "1/2 号线华强路站",
@@ -16687,7 +16687,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "沙头街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区下沙村党群大楼",
     "metro": "7/11 号线下沙站",
@@ -16720,7 +16720,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南园街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区南园路南园大厦",
     "metro": "1 号线科学馆站",
@@ -16753,7 +16753,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福保街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区福保桂花路",
     "metro": "7 号线福民站",
@@ -16786,7 +16786,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "园岭街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区园岭新村文化广场",
     "metro": "3 号线园岭站",
@@ -16819,7 +16819,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区梅林一村文化楼",
     "metro": "4 号线梅林站",
@@ -16852,7 +16852,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜湖街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区侨香路香蜜湖片区",
     "metro": "7 号线香蜜湖站",
@@ -16885,7 +16885,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "竹子林街道文化中心",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区竹子林光大社区",
     "metro": "1/7 号线竹子林站",
@@ -16918,7 +16918,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区青少年宫",
+    "source": "other_shenzhen",
     "booking_method": "课程预约",
     "address": "福田区红荔路 6002 号",
     "metro": "3/4 号线少年宫站",
@@ -16951,7 +16951,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福田区妇女儿童活动中心",
+    "source": "other_shenzhen",
     "booking_method": "预约报名",
     "address": "福田区景田路 70 号妇儿大厦",
     "metro": "7/9 号线景田站",
@@ -16984,7 +16984,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "莲花北社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区莲花北村吉莲大厦一楼",
     "metro": "4 号线莲花北站",
@@ -17017,7 +17017,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "华强北社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区华强北步行街旁",
     "metro": "1/2 号线华强路站",
@@ -17050,7 +17050,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "下沙社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区下沙村文化广场",
     "metro": "7/11 号线下沙站",
@@ -17083,7 +17083,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "南园社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区南园路南园大厦一楼",
     "metro": "1 号线科学馆站",
@@ -17116,7 +17116,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "福保社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区福保桂花路",
     "metro": "7 号线福民站",
@@ -17149,7 +17149,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "园岭社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区园岭新村广场",
     "metro": "3 号线园岭站",
@@ -17182,7 +17182,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "梅林社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区梅林一村一楼",
     "metro": "4 号线梅林站",
@@ -17215,7 +17215,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "香蜜湖社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区侨香路香蜜湖片区",
     "metro": "7 号线香蜜湖站",
@@ -17248,7 +17248,7 @@ module.exports = [
     "fee": "免费",
     "contact": "",
     "family_friendly": true,
-    "source": "竹子林社区党群服务中心",
+    "source": "other_shenzhen",
     "booking_method": "免预约",
     "address": "福田区竹子林光大社区一楼",
     "metro": "1/7 号线竹子林站",

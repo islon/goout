@@ -1239,93 +1239,6 @@
             margin: 0 !important;
             padding: 0 !important;
         }
-        /* sticky 快捷导航条 */
-        .filter-nav-bar {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            background: var(--surface);
-            border-bottom: 1px solid var(--border);
-            box-shadow: var(--shadow-sm);
-            transition: transform 0.3s ease, box-shadow 0.2s ease;
-        }
-        .filter-nav-bar.hidden {
-            transform: translateY(-100%);
-            box-shadow: none;
-        }
-        .filter-nav-inner {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            padding: 10px 16px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .filter-nav-search {
-            flex: 1;
-            min-width: 0;
-            position: relative;
-        }
-        .filter-nav-search input {
-            width: 100%;
-            padding: 8px 12px 8px 32px;
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            font-size: 13px;
-            background: var(--bg-warm);
-            color: var(--text-primary);
-            outline: none;
-            transition: border-color 0.2s, box-shadow 0.2s;
-            font-family: inherit;
-        }
-        .filter-nav-search input:focus {
-            border-color: var(--sand-primary);
-            box-shadow: 0 0 0 3px rgba(212, 163, 115, 0.1);
-        }
-        .filter-nav-search .nav-search-icon {
-            position: absolute;
-            left: 10px;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 13px;
-            opacity: 0.55;
-            pointer-events: none;
-        }
-        .smart-toggle-btn {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-            padding: 8px 14px;
-            background: var(--bg-warm);
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--text-primary);
-            cursor: pointer;
-            white-space: nowrap;
-            flex-shrink: 0;
-            transition: all 0.2s;
-            font-family: inherit;
-        }
-        .smart-toggle-btn:hover {
-            border-color: var(--sand-primary);
-            color: var(--sand-dark);
-        }
-        .smart-toggle-btn .toggle-arrow {
-            display: inline-block;
-            font-size: 11px;
-            transition: transform 0.3s;
-        }
-        .smart-toggle-btn.expanded .toggle-arrow {
-            transform: rotate(180deg);
-        }
-        /* 适配移动端 */
-        @media (max-width: 480px) {
-            .filter-nav-inner { padding: 8px 12px; gap: 6px; }
-            .smart-toggle-btn { padding: 7px 10px; font-size: 12px; }
-            .filter-nav-search input { font-size: 12px; padding: 7px 10px 7px 28px; }
-        }
     </style>
     <!-- 不蒜子统计 -->
     <script async src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
@@ -1363,13 +1276,13 @@
         </div>
     </div>
 
-    <!-- 顶部搜索栏：移动端 / 桌面端共用唯一搜索框，始终可见 -->
-    <div class="filter-nav-bar" id="filter-nav-bar">
-        <div class="filter-nav-inner">
-            <div class="filter-nav-search">
-                <span class="nav-search-icon">🔍</span>
-                <input type="text" id="nav-search-input" placeholder="搜索活动、场馆、地点…" oninput="handleSearch()">
-            </div>
+    <!-- 可折叠的筛选面板 -->
+    <div class="smart-filter-panel" id="smart-filter-panel">
+
+    <div class="filter-section-mobile">
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="search-input" id="search-input" placeholder="搜索活动名称、地点..." oninput="handleSearch()">
         </div>
     </div>
 
@@ -1697,6 +1610,14 @@
     <div class="main-wrapper" id="main-wrapper">
         <aside class="sidebar">
             <div class="sidebar-card">
+                <div class="sidebar-title">🔍 搜索</div>
+                <div class="search-container">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" class="search-input" id="search-input-desktop" placeholder="搜索活动..." oninput="handleSearch()">
+                </div>
+            </div>
+
+            <div class="sidebar-card">
                 <div class="sidebar-title">📍 城市</div>
                 <div class="filter-bar" id="city-filter-sidebar" style="flex-direction: column; gap: 6px;"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
             </div>
@@ -1991,6 +1912,7 @@
             </div>
         </aside>
 
+    </div>
     <!-- end 可折叠筛选面板 -->
 
         <main class="content">
@@ -2825,8 +2747,9 @@
         });
 
         function handleSearch() {
-            const navInput = document.getElementById('nav-search-input');
-            currentSearchQuery = navInput ? (navInput.value || '') : '';
+            const mobileInput = document.getElementById('search-input');
+            const desktopInput = document.getElementById('search-input-desktop');
+            currentSearchQuery = (mobileInput ? mobileInput.value : '') || (desktopInput ? desktopInput.value : '') || '';
             currentPage = 1;
             renderExhibitions();
         }
@@ -2849,8 +2772,8 @@
             localStorage.setItem('schedule_family_filter', 'family');
             localStorage.setItem('schedule_duration_filter', '3months');
 
-            const navInput = document.getElementById('nav-search-input');
-            if (navInput) navInput.value = '';
+            document.getElementById('search-input').value = '';
+            document.getElementById('search-input-desktop').value = '';
 
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
 
@@ -2947,23 +2870,47 @@
         // - 区县：所有城市都按数据补充缺失项
         // - 来源：所有城市都按数据补充缺失的场馆按钮（已有写死按钮的保留，只补充新增的）
         // - 同时处理顶部筛选栏与侧边栏（移动端）两组容器
+        function isUrlLike(v) {
+            if (!v) return false;
+            const s = String(v).trim().toLowerCase();
+            return s.startsWith('http://') || s.startsWith('https://') || s.startsWith('www.');
+        }
+
         function ensureCityFilters(city) {
             if (!allExhibitions || !allExhibitions.length) return;
             const cityNorm = normalizeCity(city);
+            const MIN_SOURCE_BUTTON_COUNT = 3; // 动态按钮最低频次阈值，避免低频杂项淹没 UI
             const districts = new Set();
-            const sources = new Map(); // source -> {label, district}
+            // 第一轮：按城市汇总每个 source 的频次 + label 候选
+            const srcRaw = new Map(); // source -> {label, district, count}
             allExhibitions.forEach(e => {
                 if (normalizeCity(e.city) !== cityNorm) return;
                 const d = getActivityDistrict(e);
-                if (d && d !== '其他') districts.add(d);
+                if (d && d !== '其他' && !isUrlLike(d) && !String(d).startsWith('other_')) districts.add(d);
                 const s = e.source;
-                if (s && !sources.has(s)) {
+                // 防御 1：空 / URL / other_* fallback 一律不生成按钮
+                if (!s || isUrlLike(s) || String(s).startsWith('other_')) return;
+                let rec = srcRaw.get(s);
+                if (!rec) {
                     let label = cleanSourceLabel(s);
-                    // 若 source 是英文/代码 key 且活动带中文场馆名，用场馆名更友好（新城市无 curated 标签时）
-                    if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
+                    // 优先用 venue_info 中权威中文名（英文 key 场景）
+                    if (_venueInfoMap && _venueInfoMap[s] && _venueInfoMap[s].name) {
+                        label = _venueInfoMap[s].name;
+                    } else if (e.venue && /[一-龥]/.test(e.venue) && /^[A-Za-z0-9_.\-]+$/.test(s)) {
+                        // 英文/代码 key，兜底用首次出现的中文 venue 作为显示名
                         label = e.venue;
                     }
-                    sources.set(s, { label: label, district: d });
+                    rec = { label: label, district: d, count: 0 };
+                    srcRaw.set(s, rec);
+                }
+                rec.count += 1;
+                if (!rec.district && d && d !== '其他') rec.district = d;
+            });
+            // 第二轮：只保留频次 ≥ 阈值的 source 做动态补充（写死按钮不走这里）
+            const sources = new Map();
+            srcRaw.forEach((rec, s) => {
+                if (rec.count >= MIN_SOURCE_BUTTON_COUNT) {
+                    sources.set(s, { label: rec.label, district: rec.district, count: rec.count });
                 }
             });
 
@@ -3301,77 +3248,6 @@
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') hideMiniappModal();
         });
-
-        // ===== 智能筛选：上滑收起/下滑展开 =====
-        let filterPanelCollapsed = false;
-        let userToggledFilter = false;
-        let lastScrollY2 = window.scrollY;
-        let scrollTicking2 = false;
-
-        function toggleSmartFilter() {
-            const panel = document.getElementById('smart-filter-panel');
-            const btn = document.getElementById('smart-toggle-btn');
-            if (!panel || !btn) return;
-            userToggledFilter = true;
-            filterPanelCollapsed = !filterPanelCollapsed;
-            if (filterPanelCollapsed) {
-                panel.classList.add('collapsed');
-                btn.classList.remove('expanded');
-            } else {
-                panel.classList.remove('collapsed');
-                btn.classList.add('expanded');
-            }
-            // 3s 后恢复自动滚动感应
-            setTimeout(() => { userToggledFilter = false; }, 3000);
-        }
-
-        function handleSmartScrollDirection() {
-            const currentY = window.scrollY;
-            const deltaY = currentY - lastScrollY2;
-            const nav = document.getElementById('filter-nav-bar');
-            if (!nav) { scrollTicking2 = false; return; }
-
-            // 靠近顶部时不收起
-            if (currentY < 100) {
-                nav.classList.remove('hidden');
-                lastScrollY2 = currentY;
-                scrollTicking2 = false;
-                return;
-            }
-
-            if (userToggledFilter) {
-                lastScrollY2 = currentY;
-                scrollTicking2 = false;
-                return;
-            }
-
-            const panel = document.getElementById('smart-filter-panel');
-            const btn = document.getElementById('smart-toggle-btn');
-            // 上滑 → 收起筛选面板
-            if (deltaY > 8 && !filterPanelCollapsed && panel) {
-                filterPanelCollapsed = true;
-                panel.classList.add('collapsed');
-                if (btn) btn.classList.remove('expanded');
-            }
-            // 下滑 → 展开筛选面板
-            else if (deltaY < -10 && filterPanelCollapsed && panel) {
-                filterPanelCollapsed = false;
-                panel.classList.remove('collapsed');
-                if (btn) btn.classList.add('expanded');
-            }
-
-            lastScrollY2 = currentY;
-            scrollTicking2 = false;
-        }
-
-        window.addEventListener('scroll', function() {
-            if (!scrollTicking2) {
-                window.requestAnimationFrame(handleSmartScrollDirection);
-                scrollTicking2 = true;
-            }
-        }, { passive: true });
-
-        // 搜索框已合并为顶部唯一输入框，无需多框同步
     </script>
 
     <div class="miniapp-modal-mask" id="miniapp-modal" onclick="hideMiniappModal()">
