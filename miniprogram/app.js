@@ -26,6 +26,10 @@ const DATA_SOURCES = [
   { base: 'https://raw.githubusercontent.com/islon/goout/main/', bust: true }
 ];
 
+// 当云端 data_meta 版本号变化时置 true，本次拉取改用 raw 优先（jsDelivr CDN 缓存可能滞后数小时）。
+// 拉取完成后重置为 false，后续静默更新恢复 jsDelivr 优先（速度更好）。
+var _preferRawForThisFetch = false;
+
 // 缓存 key（v3：数据已净化移除合成条目、场馆库扩充至2964个，旧缓存需重新播种）
 const CACHE_KEY = 'goout_exhibitions_cache_v3';
 const CACHE_TIME_KEY = 'goout_exhibitions_cache_time_v3';
@@ -39,7 +43,7 @@ const VENUE_PARTIAL_KEY = 'goout_venues_cache_partial_v3'; // true=场馆缓存�
 const DATA_META_VERSION_KEY = 'goout_data_meta_version_v1';       // 活动版本号
 const VENUE_META_VERSION_KEY = 'goout_venue_meta_version_v1';     // 场馆版本号（独立）
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.20.17';
+const APP_VERSION = '2026.08.08.01';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -86,13 +90,18 @@ function requestWithRetry(url, options) {
 // 多数据源顺序容灾拉取 relPath（相对仓库根路径）：依次尝试 DATA_SOURCES 中每个源，
 // 每个源内部由 requestWithRetry 做指数退避重试；全部失败 resolve(null)。
 // 任一源返回有效 JSON 数组即胜出，彻底规避“单一域名被墙则全盘拉取失败”。
+//
+// opts.preferRaw=true 时反转为 raw 优先、jsDelivr 兜底。
+// 用于版本号刚变化时拉取活动/场馆数据——jsDelivr CDN 缓存可能滞后数小时，
+// 此时 raw 实时性更好；raw 被墙时 jsDelivr 仍可兜底。
 function fetchJsonFromSources(relPath, opts) {
   opts = opts || {};
+  var sources = opts.preferRaw ? DATA_SOURCES.slice().reverse() : DATA_SOURCES;
   return new Promise(function(resolve) {
     var idx = 0;
     function tryNext() {
-      if (idx >= DATA_SOURCES.length) { resolve(null); return; }
-      var s = DATA_SOURCES[idx++];
+      if (idx >= sources.length) { resolve(null); return; }
+      var s = sources[idx++];
       var url = s.base + relPath + (s.bust ? ('?t=' + Date.now()) : '');
       requestWithRetry(url, opts).then(function(res) {
         var arr = toArray(res && res.data);
@@ -159,17 +168,31 @@ function fetchCities() {
 
 // 拉取云端数据版本清单 data_meta.json（极小文件，~200B）：含 version(数据内容哈希) + updatedAt + 活动/场馆计数。
 // 用于「云侧数据无更新则不下载」的精准判定，避免每次进 App 都重复下载几 MB 分城市大文件。
+//
+// 关键：data_meta 必须直接从 raw.githubusercontent.com 拉取（实时性最好），
+// 而不是走 fetchJsonFromSources（jsDelivr 优先）。因为 jsDelivr CDN 有缓存延迟
+// （最长数小时），会导致版本号判定滞后——云侧已更新但 jsDelivr 仍返回旧版本号，
+// 小程序误判"无更新"而不拉新数据，用户看不到刚推送的活动（如林丹杯问题）。
+// raw 失败时再退回 jsDelivr（有总比没有好）。
 function fetchDataMeta() {
-  return fetchJsonFromSources('output/data_meta.json', { timeout: 10000, maxRetries: 2 }).then(function(res) {
+  // raw 优先（实时），jsDelivr 兜底（可能有缓存延迟但可达性好）
+  var RAW_BASE = 'https://raw.githubusercontent.com/islon/goout/main/';
+  var rawUrl = RAW_BASE + 'output/data_meta.json?t=' + Date.now();
+  return requestWithRetry(rawUrl, { timeout: 10000, maxRetries: 2 }).then(function(res) {
     var o = (res && res.data) ? res.data : null;
     if (o && typeof o === 'object' && o.version) return o;
-    return null;
+    // raw 未拿到（被墙），退回 jsDelivr（注意可能有缓存延迟）
+    console.warn('[童行] raw data_meta 不可达，退回 jsDelivr（可能有缓存延迟）');
+    return fetchJsonFromSources('output/data_meta.json', { timeout: 10000, maxRetries: 2 }).then(function(r2) {
+      var o2 = (r2 && r2.data) ? r2.data : null;
+      return (o2 && typeof o2 === 'object' && o2.version) ? o2 : null;
+    });
   });
 }
 
 // 拉取单个城市分文件，规整为数组；被墙/非数组时返回 null（不污染整体）
 function fetchCityArray(key) {
-  return fetchJsonFromSources('output/exhibitions_' + key + '.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+  return fetchJsonFromSources('output/exhibitions_' + key + '.json', { timeout: 15000, maxRetries: 2, preferRaw: _preferRawForThisFetch }).then(function(res) {
     if (!res) {
       console.warn('[童行] 城市分文件全部数据源不可用:', key);
       return null;
@@ -183,7 +206,7 @@ function fetchCityArray(key) {
 
 // 拉取「近期活动」小文件（首屏优先·Tier1：离当前时间最近、即将举办的活动），单请求、体积小
 function fetchRecent() {
-  return fetchJsonFromSources('output/exhibitions_recent.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+  return fetchJsonFromSources('output/exhibitions_recent.json', { timeout: 15000, maxRetries: 2, preferRaw: _preferRawForThisFetch }).then(function(res) {
     if (!res) {
       console.warn('[童行] 近期活动文件全部数据源不可用');
       return null;
@@ -198,7 +221,7 @@ function fetchRecent() {
 // 拉取「历史活动」小文件（Tier3：已结束的活动），优先级最低、最后再拉取，不挤占首屏带宽。
 // 历史活动可能为空（都还是未来活动），此时返回 null，不影响“已完整加载”判定。
 function fetchPast() {
-  return fetchJsonFromSources('output/exhibitions_past.json', { timeout: 15000, maxRetries: 2 }).then(function(res) {
+  return fetchJsonFromSources('output/exhibitions_past.json', { timeout: 15000, maxRetries: 2, preferRaw: _preferRawForThisFetch }).then(function(res) {
     if (!res) return null;
     var arr = toArray(res.data);
     return (arr && arr.length > 0) ? arr : null;
@@ -251,7 +274,7 @@ function fetchAllExhibitions() {
 // 注：这批分城市文件是新建的，jsDelivr 首次命中为冷缓存，可能较慢/偶发超时，
 // 故拉高超时与重试次数，降低弱网/冷缓存导致的整城失败概率。
 function fetchVenueArray(cityKey) {
-  return fetchJsonFromSources('output/venue_info_' + cityKey + '.json', { timeout: 25000, maxRetries: 3 }).then(function(res) {
+  return fetchJsonFromSources('output/venue_info_' + cityKey + '.json', { timeout: 25000, maxRetries: 3, preferRaw: _preferRawForThisFetch }).then(function(res) {
     if (!res) return null;
     var arr = toArray(res.data);
     return (arr && arr.length > 0) ? arr : null;
@@ -496,6 +519,12 @@ App({
           console.log('[童行] 云侧活动与场馆均无更新，跳过下载，复用本地缓存');
           return;
         }
+        // 云侧版本变化时，本次拉取改用 raw 优先（jsDelivr CDN 缓存可能滞后数小时，
+        // 导致刚推送的新活动拉不到）。拉取完成后在 flushStaged 重置。
+        if (dataChanged || venueChanged) {
+          _preferRawForThisFetch = true;
+          console.log('[童行] 检测到云侧版本变化，本次拉取 raw 优先（规避 jsDelivr 缓存滞后）');
+        }
         if (needExhibitions) {
           console.log('[童行] 开始更新活动数据' + (dataChanged ? '(云侧有更新)' : '(强制/残缺)'));
           self.silentUpdateExhibitions();
@@ -571,6 +600,7 @@ App({
     var self = this;
     self._setLoading(true); // 开始下载活动数据，驱动首页刷新图标旋转
     this.loadStagedData(false, function() {
+      _preferRawForThisFetch = false; // 静默更新完成，恢复 jsDelivr 优先
       self._setLoading(false); // 活动数据加载完成（含各级补齐），停止旋转
     });
   },
@@ -832,8 +862,11 @@ App({
       }
       self._pendingMetaVersion = (r.meta && r.meta.version) || null;
       self.globalData.dataMeta = r.meta || null; // 供关于页展示“预期场馆数”
+      // 强制刷新时：云侧有变化或首次/升级，本次拉取 raw 优先（规避 jsDelivr 缓存滞后）
+      if (dataChanged || force) _preferRawForThisFetch = true;
       // 三级分级拉取：近期 → 全量 → 历史；完成后回调
       self.loadStagedData(true, function(ok) {
+        _preferRawForThisFetch = false; // 拉取完成，恢复 jsDelivr 优先
         self._setLoading(false);
         if (ok) console.log('[童行] 强制刷新完成');
         if (callback) callback(ok);
