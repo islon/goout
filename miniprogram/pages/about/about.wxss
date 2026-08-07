@@ -362,6 +362,149 @@
   flex-shrink: 0;
 }
 
+/* ========== 活动反馈区块 ========== */
+.activity-feedback {
+  margin-top: 20rpx;
+  padding: 24rpx;
+  background: linear-gradient(135deg, #DCFCE7 0%, #F0FDF4 100%);
+  border-radius: 20rpx;
+  border: 2rpx solid #BBF7D0;
+  border-left: 8rpx solid #166534;
+}
+
+.activity-feedback-title {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #166534;
+  margin-bottom: 8rpx;
+}
+
+.activity-feedback-desc {
+  font-size: 24rpx;
+  color: #6B7280;
+  line-height: 1.6;
+  margin-bottom: 16rpx;
+}
+
+.activity-feedback-input {
+  width: 100%;
+  min-height: 180rpx;
+  padding: 20rpx;
+  background: #FFFFFF;
+  border: 2rpx solid #E5E7EB;
+  border-radius: 14rpx;
+  font-size: 28rpx;
+  color: #3D3229;
+  box-sizing: border-box;
+  line-height: 1.6;
+}
+
+.activity-feedback-counter {
+  font-size: 22rpx;
+  color: #9CA3AF;
+  text-align: right;
+  margin-top: 6rpx;
+}
+
+.activity-feedback-actions {
+  display: flex;
+  gap: 12rpx;
+  margin-top: 16rpx;
+}
+
+.activity-feedback-send {
+  flex: 1;
+  background: #166534;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: 600;
+  border-radius: 14rpx;
+  padding: 0;
+  line-height: 80rpx;
+  height: 80rpx;
+  border: none;
+  margin: 0;
+}
+
+.activity-feedback-send[disabled] {
+  background: #9CA3AF;
+  color: #FFFFFF;
+}
+
+.activity-feedback-send::after {
+  border: none;
+}
+
+.activity-feedback-cloud {
+  background: #FFFFFF;
+  color: #166534;
+  font-size: 26rpx;
+  font-weight: 500;
+  border-radius: 14rpx;
+  padding: 0 24rpx;
+  line-height: 80rpx;
+  height: 80rpx;
+  border: 2rpx solid #166534;
+  margin: 0;
+}
+
+.activity-feedback-cloud::after {
+  border: none;
+}
+
+.activity-feedback-history {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8rpx;
+  margin-top: 16rpx;
+  font-size: 22rpx;
+  color: #9CA3AF;
+}
+
+.history-arrow {
+  font-size: 20rpx;
+}
+
+.feedback-history-panel {
+  margin-top: 14rpx;
+  padding: 16rpx;
+  background: #FFFFFF;
+  border-radius: 12rpx;
+  border: 2rpx solid #E5E7EB;
+  max-height: 400rpx;
+  overflow-y: auto;
+}
+
+.feedback-history-item {
+  padding: 14rpx 0;
+  border-bottom: 2rpx solid #F1F5F9;
+}
+
+.feedback-history-item:last-child {
+  border-bottom: none;
+}
+
+.feedback-history-time {
+  font-size: 20rpx;
+  color: #9CA3AF;
+  margin-bottom: 4rpx;
+}
+
+.feedback-history-content {
+  font-size: 24rpx;
+  color: #57534E;
+  line-height: 1.6;
+  word-break: break-all;
+}
+
+.feedback-history-empty {
+  font-size: 24rpx;
+  color: #9CA3AF;
+  text-align: center;
+  padding: 24rpx 0;
+}
+
 /* 开源与共建 */
 .open-card {
   background: #FFFFFF;

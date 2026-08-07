@@ -60,11 +60,17 @@ Page({
     venuesCount: 0,       // 当前已加载场馆数
     venuesExpected: '',   // 预期场馆数（来自 data_meta，取不到时按 2964 兜底）
     venuesSynced: false,  // 已加载数是否已达预期（决定「已同步」标签）
-    venuesSyncing: false  // 是否正在加载中（决定「同步中」标签，仅在真正下载时显示）
+    venuesSyncing: false, // 是否正在加载中（决定「同步中」标签，仅在真正下载时显示）
+    feedbackText: '',
+    feedbackSubmitting: false,
+    feedbackHistoryOpen: false,
+    feedbackHistory: [],
+    feedbackCloudUrl: 'https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg'
   },
 
   onLoad() {
     this.refreshFromGlobal();
+    this._loadFeedbackHistory();
   },
 
   onUnload() {
@@ -178,6 +184,102 @@ Page({
         wx.showToast({ title: '仓库链接已复制', icon: 'success' });
       }
     });
+  },
+
+  // ========== 活动反馈 ==========
+  _FEEDBACK_KEY: 'activity_feedback_history',
+
+  onFeedbackInput(e) {
+    this.setData({ feedbackText: e.detail.value || '' });
+  },
+
+  _shortTime(iso) {
+    try {
+      const d = new Date(iso);
+      const pad = n => (n < 10 ? '0' + n : '' + n);
+      return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) +
+        ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes());
+    } catch (e) { return ''; }
+  },
+
+  _loadFeedbackHistory() {
+    let list = [];
+    try {
+      const raw = wx.getStorageSync(this._FEEDBACK_KEY);
+      if (raw) list = JSON.parse(raw) || [];
+    } catch (e) { list = []; }
+    const mapped = (list || []).map(item => ({
+      content: item.content,
+      time: item.time,
+      timeShort: this._shortTime(item.time)
+    }));
+    this.setData({ feedbackHistory: mapped });
+  },
+
+  _saveFeedbackHistory(list) {
+    try {
+      wx.setStorageSync(this._FEEDBACK_KEY, JSON.stringify(list || []));
+    } catch (e) {}
+  },
+
+  onSubmitFeedback() {
+    const self = this;
+    const text = (this.data.feedbackText || '').trim();
+    if (!text) {
+      wx.showToast({ title: '请先输入活动信息', icon: 'none' });
+      return;
+    }
+    this.setData({ feedbackSubmitting: true });
+    // 记录本地反馈历史
+    let history = [];
+    try {
+      const raw = wx.getStorageSync(this._FEEDBACK_KEY);
+      if (raw) history = JSON.parse(raw) || [];
+    } catch (e) {}
+    const item = { content: text, time: new Date().toISOString() };
+    history.unshift(item);
+    if (history.length > 20) history.length = 20;
+    this._saveFeedbackHistory(history);
+    // 同时尝试复制到剪贴板，方便用户粘贴到云表单
+    wx.setClipboardData({
+      data: text,
+      complete: function() {
+        self.setData({
+          feedbackText: '',
+          feedbackSubmitting: false,
+          feedbackHistoryOpen: true,
+          feedbackHistory: history.map(function(i) {
+            return { content: i.content, time: i.time, timeShort: self._shortTime(i.time) };
+          })
+        });
+        wx.showToast({
+          title: '已收到，内容已复制\n可粘贴到云表单提交',
+          icon: 'none',
+          duration: 3000
+        });
+      }
+    });
+  },
+
+  onOpenCloudForm() {
+    const url = this.data.feedbackCloudUrl;
+    if (!url) return;
+    wx.setClipboardData({
+      data: url,
+      success: function() {
+        wx.showModal({
+          title: '反馈云表单',
+          content: '云表单链接已复制到剪贴板，可在浏览器打开并粘贴访问。',
+          showCancel: false,
+          confirmText: '好的',
+          confirmColor: '#166534'
+        });
+      }
+    });
+  },
+
+  onToggleFeedbackHistory() {
+    this.setData({ feedbackHistoryOpen: !this.data.feedbackHistoryOpen });
   },
 
   onShareAppMessage() {

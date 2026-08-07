@@ -2133,5 +2133,63 @@
     "city": "shenzhen",
     "district": "宝安区",
     "verified": false
+  },
+  {
+    "id": "manual_nj_lindan_cup_open_20260814",
+    "title": "2026林丹杯羽毛球公开赛（南京站）",
+    "city": "南京",
+    "district": "建邺区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-16",
+    "venue": "南京奥林匹克体育中心",
+    "venue_url": "https://www.njaoti.com/",
+    "address": "江苏省南京市建邺区江东中路222号",
+    "category": "体育赛事",
+    "fee": "paid",
+    "source_name": "百科",
+    "source_url": "https://m.baike.com/wiki/2026%E6%9E%97%E4%B8%B9%E6%9D%AF%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B/7641471348163100722",
+    "source_type": "manual",
+    "images": [],
+    "detail_url": "",
+    "description": "2026林丹杯羽毛球公开赛南京站，8月14-16日在南京奥林匹克体育中心国缘V9体育馆挥拍开赛。",
+    "tags": [
+      "林丹杯",
+      "羽毛球",
+      "体育赛事"
+    ],
+    "rating": 0,
+    "review_count": 0,
+    "status": "published",
+    "source": "manual",
+    "last_updated": "2026-08-07T00:00:00+08:00"
+  },
+  {
+    "id": "manual_sz_lindan_cup_open_20260528",
+    "title": "2026林丹杯羽毛球公开赛（深圳站）",
+    "city": "深圳",
+    "district": "宝安区",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "venue": "深圳宝安体育馆",
+    "venue_url": "https://www.bacg.org.cn/",
+    "address": "广东省深圳市宝安区新湖路2112号",
+    "category": "体育赛事",
+    "fee": "paid",
+    "source_name": "百科 / 读特",
+    "source_url": "https://www.dutenews.com/n/article/10672325",
+    "source_type": "manual",
+    "images": [],
+    "detail_url": "",
+    "description": "第七届林丹杯深圳站，设男单/混合团体/宝企羽动/青少年四组，753名选手完成923场比拼。刘亮获男单冠军。",
+    "tags": [
+      "林丹杯",
+      "羽毛球",
+      "体育赛事"
+    ],
+    "rating": 0,
+    "review_count": 0,
+    "status": "published",
+    "source": "manual",
+    "last_updated": "2026-08-07T00:00:00+08:00"
   }
 ]

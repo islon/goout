@@ -47,7 +47,9 @@ GMQSNG_URL = "https://www.szgmlib.com.cn"
 PSQSNG_URL = "https://www.szpslib.cn"
 
 # ========== 区级体育中心 ==========
-BAOAN_TY_URL = "http://www.baoan.gov.cn/bawtlyj/"
+BAOAN_TY_URL = "https://www.bacg.org.cn/"
+BAOAN_TY_TRAINING_NAME = "宝安体育中心综合训练馆"
+BAOAN_TY_TRAINING_URL = "https://www.bacg.org.cn/"
 NSWTZX_URL = "https://www.szns.gov.cn"
 SZWTY_URL = "https://www.szns.gov.cn"
 LHTYZX_URL = "https://www.lg.gov.cn"
@@ -145,6 +147,8 @@ PSQSNG_NAME = "坪山区青少年宫"
 
 # 体育中心
 BAOAN_TY_NAME = "宝安体育中心"
+BAOAN_GYM_NAME = "深圳宝安体育馆"
+BAOAN_GYM_URL = "https://www.bacg.org.cn/"
 NSWTZX_NAME = "南山文体中心"
 SZWTY_NAME = "深圳湾体育中心"
 LHTYZX_NAME = "龙岗体育中心"
@@ -153,6 +157,8 @@ GMTYZX_NAME = "光明区群众体育中心"
 LHTYZX2_NAME = "罗湖区体育中心"
 PSTYZX_NAME = "坪山体育中心"
 YTTYZX_NAME = "盐田体育中心"
+NJ_AOTI_NAME = "南京奥林匹克体育中心"
+NJ_AOTI_URL = "https://www.njaoti.com/"
 
 # 其他
 NSWHG_NAME = "南山区文化馆"

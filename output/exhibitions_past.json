@@ -12638,5 +12638,37 @@
     },
     "verified": true,
     "district": "福田区"
+  },
+  {
+    "id": "manual_sz_lindan_cup_open_20260528",
+    "title": "2026林丹杯羽毛球公开赛（深圳站）",
+    "name": "2026林丹杯羽毛球公开赛（深圳站）",
+    "venue": "深圳宝安体育馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "link": "https://www.bacg.org.cn/",
+    "url": "https://www.bacg.org.cn/",
+    "links": [
+      {
+        "url": "https://www.dutenews.com/n/article/10672325",
+        "label": "活动详情"
+      }
+    ],
+    "description": "第七届林丹杯深圳站，设男单/混合团体/宝企羽动/青少年四组，753名选手完成923场比拼。刘亮获男单冠军。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "百科 / 读特",
+    "address": "广东省深圳市宝安区新湖路2112号",
+    "source_type": "manual",
+    "tags": [
+      "林丹杯",
+      "羽毛球",
+      "体育赛事"
+    ],
+    "last_updated": "2026-08-07T00:00:00+08:00"
   }
 ]

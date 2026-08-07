@@ -19300,5 +19300,37 @@
     },
     "verified": true,
     "category": "科普活动"
+  },
+  {
+    "id": "manual_nj_lindan_cup_open_20260814",
+    "title": "2026林丹杯羽毛球公开赛（南京站）",
+    "name": "2026林丹杯羽毛球公开赛（南京站）",
+    "venue": "南京奥林匹克体育中心",
+    "city": "nanjing",
+    "district": "建邺区",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-16",
+    "link": "https://www.njaoti.com/",
+    "url": "https://www.njaoti.com/",
+    "links": [
+      {
+        "url": "https://m.baike.com/wiki/2026%E6%9E%97%E4%B8%B9%E6%9D%AF%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B/7641471348163100722",
+        "label": "活动详情"
+      }
+    ],
+    "description": "2026林丹杯羽毛球公开赛南京站，8月14-16日在南京奥林匹克体育中心国缘V9体育馆挥拍开赛。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "百科",
+    "address": "江苏省南京市建邺区江东中路222号",
+    "source_type": "manual",
+    "tags": [
+      "林丹杯",
+      "羽毛球",
+      "体育赛事"
+    ],
+    "last_updated": "2026-08-07T00:00:00+08:00"
   }
 ]

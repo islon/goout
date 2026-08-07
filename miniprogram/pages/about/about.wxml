@@ -91,6 +91,42 @@
       <view class="data-row"><text class="data-label">数据来源</text><text class="data-value">各场馆官方渠道或网络，最终请以官方为准</text></view>
       <view class="data-row"><text class="data-label">更新频率</text><text class="data-value">每日自动抓取</text></view>
     </view>
+
+    <!-- 反馈新活动 -->
+    <view class="activity-feedback">
+      <view class="activity-feedback-title">🎯 发现好活动？告诉我们</view>
+      <view class="activity-feedback-desc">粘贴活动链接，或输入活动名称、时间、地点。收到后我们会快速核实并添加到日历。</view>
+      <textarea
+        class="activity-feedback-input"
+        placeholder="例如：&#10;8月15日 宝安体育馆 XXX演唱会&#10;或直接粘贴微信文章 / 网页链接"
+        value="{{feedbackText}}"
+        bindinput="onFeedbackInput"
+        maxlength="500"
+        auto-height
+      ></textarea>
+      <view class="activity-feedback-counter">{{feedbackText.length}}/500</view>
+      <view class="activity-feedback-actions">
+        <button class="activity-feedback-send" bindtap="onSubmitFeedback" disabled="{{feedbackSubmitting}}">
+          <text wx:if="{{!feedbackSubmitting}}">📤 发送反馈</text>
+          <text wx:else>发送中...</text>
+        </button>
+        <button class="activity-feedback-cloud" bindtap="onOpenCloudForm">☁️ 云表单</button>
+      </view>
+      <view class="activity-feedback-history" bindtap="onToggleFeedbackHistory">
+        <text>查看我的反馈记录</text>
+        <text class="history-arrow">{{feedbackHistoryOpen ? '▲' : '▼'}}</text>
+      </view>
+      <view wx:if="{{feedbackHistoryOpen}}" class="feedback-history-panel">
+        <block wx:if="{{feedbackHistory && feedbackHistory.length}}">
+          <view wx:for="{{feedbackHistory}}" wx:key="time" class="feedback-history-item">
+            <view class="feedback-history-time">{{item.timeShort}}</view>
+            <view class="feedback-history-content">{{item.content}}</view>
+          </view>
+        </block>
+        <view wx:else class="feedback-history-empty">还没有反馈记录</view>
+      </view>
+    </view>
+
     <view class="feedback-row">
       <button class="feedback-wx-btn" open-type="feedback">微信反馈</button>
     </view>
