@@ -1239,93 +1239,6 @@
             margin: 0 !important;
             padding: 0 !important;
         }
-        /* sticky 快捷导航条 */
-        .filter-nav-bar {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            background: var(--surface);
-            border-bottom: 1px solid var(--border);
-            box-shadow: var(--shadow-sm);
-            transition: transform 0.3s ease, box-shadow 0.2s ease;
-        }
-        .filter-nav-bar.hidden {
-            transform: translateY(-100%);
-            box-shadow: none;
-        }
-        .filter-nav-inner {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            padding: 10px 16px;
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        .filter-nav-search {
-            flex: 1;
-            min-width: 0;
-            position: relative;
-        }
-        .filter-nav-search input {
-            width: 100%;
-            padding: 8px 12px 8px 32px;
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            font-size: 13px;
-            background: var(--bg-warm);
-            color: var(--text-primary);
-            outline: none;
-            transition: border-color 0.2s, box-shadow 0.2s;
-            font-family: inherit;
-        }
-        .filter-nav-search input:focus {
-            border-color: var(--sand-primary);
-            box-shadow: 0 0 0 3px rgba(212, 163, 115, 0.1);
-        }
-        .filter-nav-search .nav-search-icon {
-            position: absolute;
-            left: 10px;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 13px;
-            opacity: 0.55;
-            pointer-events: none;
-        }
-        .smart-toggle-btn {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-            padding: 8px 14px;
-            background: var(--bg-warm);
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--text-primary);
-            cursor: pointer;
-            white-space: nowrap;
-            flex-shrink: 0;
-            transition: all 0.2s;
-            font-family: inherit;
-        }
-        .smart-toggle-btn:hover {
-            border-color: var(--sand-primary);
-            color: var(--sand-dark);
-        }
-        .smart-toggle-btn .toggle-arrow {
-            display: inline-block;
-            font-size: 11px;
-            transition: transform 0.3s;
-        }
-        .smart-toggle-btn.expanded .toggle-arrow {
-            transform: rotate(180deg);
-        }
-        /* 适配移动端 */
-        @media (max-width: 480px) {
-            .filter-nav-inner { padding: 8px 12px; gap: 6px; }
-            .smart-toggle-btn { padding: 7px 10px; font-size: 12px; }
-            .filter-nav-search input { font-size: 12px; padding: 7px 10px 7px 28px; }
-        }
     </style>
     <!-- 不蒜子统计 -->
     <script async src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
@@ -1360,20 +1273,6 @@
         </div>
         <div style="font-size: 11px; color: rgba(255,255,255,0.85); text-align: center; margin-top: 4px;">
             📊 本站使用匿名统计，不收集任何个人信息
-        </div>
-    </div>
-
-    <!-- sticky 筛选导航条（上滑收起时保留） -->
-    <div class="filter-nav-bar" id="filter-nav-bar">
-        <div class="filter-nav-inner">
-            <div class="filter-nav-search">
-                <span class="nav-search-icon">🔍</span>
-                <input type="text" id="nav-search-input" placeholder="搜索活动、场馆...">
-            </div>
-            <button class="smart-toggle-btn expanded" id="smart-toggle-btn" onclick="toggleSmartFilter()">
-                <span>筛选</span>
-                <span class="toggle-arrow">▲</span>
-            </button>
         </div>
     </div>
 
@@ -3324,90 +3223,6 @@
 
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') hideMiniappModal();
-        });
-
-        // ===== 智能筛选：上滑收起/下滑展开 =====
-        let filterPanelCollapsed = false;
-        let userToggledFilter = false;
-        let lastScrollY2 = window.scrollY;
-        let scrollTicking2 = false;
-
-        function toggleSmartFilter() {
-            const panel = document.getElementById('smart-filter-panel');
-            const btn = document.getElementById('smart-toggle-btn');
-            if (!panel || !btn) return;
-            userToggledFilter = true;
-            filterPanelCollapsed = !filterPanelCollapsed;
-            if (filterPanelCollapsed) {
-                panel.classList.add('collapsed');
-                btn.classList.remove('expanded');
-            } else {
-                panel.classList.remove('collapsed');
-                btn.classList.add('expanded');
-            }
-            // 3s 后恢复自动滚动感应
-            setTimeout(() => { userToggledFilter = false; }, 3000);
-        }
-
-        function handleSmartScrollDirection() {
-            const currentY = window.scrollY;
-            const deltaY = currentY - lastScrollY2;
-            const nav = document.getElementById('filter-nav-bar');
-            if (!nav) { scrollTicking2 = false; return; }
-
-            // 靠近顶部时不收起
-            if (currentY < 100) {
-                nav.classList.remove('hidden');
-                lastScrollY2 = currentY;
-                scrollTicking2 = false;
-                return;
-            }
-
-            if (userToggledFilter) {
-                lastScrollY2 = currentY;
-                scrollTicking2 = false;
-                return;
-            }
-
-            const panel = document.getElementById('smart-filter-panel');
-            const btn = document.getElementById('smart-toggle-btn');
-            // 上滑 → 收起筛选面板
-            if (deltaY > 8 && !filterPanelCollapsed && panel) {
-                filterPanelCollapsed = true;
-                panel.classList.add('collapsed');
-                if (btn) btn.classList.remove('expanded');
-            }
-            // 下滑 → 展开筛选面板
-            else if (deltaY < -10 && filterPanelCollapsed && panel) {
-                filterPanelCollapsed = false;
-                panel.classList.remove('collapsed');
-                if (btn) btn.classList.add('expanded');
-            }
-
-            lastScrollY2 = currentY;
-            scrollTicking2 = false;
-        }
-
-        window.addEventListener('scroll', function() {
-            if (!scrollTicking2) {
-                window.requestAnimationFrame(handleSmartScrollDirection);
-                scrollTicking2 = true;
-            }
-        }, { passive: true });
-
-        // sticky 搜索框与原始搜索框双向同步
-        document.addEventListener('DOMContentLoaded', function() {
-            const navInput = document.getElementById('nav-search-input');
-            const origInput = document.getElementById('search-input');
-            if (navInput && origInput) {
-                navInput.addEventListener('input', function() {
-                    origInput.value = navInput.value;
-                    if (typeof handleSearch === 'function') handleSearch();
-                });
-                origInput.addEventListener('input', function() {
-                    navInput.value = origInput.value;
-                });
-            }
         });
     </script>
 
