@@ -105788,6 +105788,41 @@
     "district": "其他"
   },
   {
+    "id": "manual_sz_ppa_pickleball_20260820",
+    "title": "2026 PPA 亚洲职业匹克球巡回赛 500 · 斯凯奇深圳公开赛",
+    "name": "2026 PPA 亚洲职业匹克球巡回赛 500 · 斯凯奇深圳公开赛",
+    "venue": "深圳宝安体育中心体育馆",
+    "city": "shenzhen",
+    "district": "宝安区",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-23",
+    "link": "https://www.bacg.org.cn/",
+    "url": "https://www.bacg.org.cn/",
+    "links": [
+      {
+        "url": "https://www.bacg.org.cn/",
+        "label": "活动详情"
+      }
+    ],
+    "description": "深圳首次引进 PPA 体系国际职业匹克球赛事。涵盖男单、女单、男双、女双、混双五大项目，设置职业组与业余组，汇聚全球顶尖选手与业余爱好者同台竞技。购票渠道：「票星球」「壹票达」「湾游记」三大平台均已开放门票预售预约。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "宝安文体通 / 官方信息",
+    "address": "广东省深圳市宝安区新湖路2112号",
+    "source_type": "manual",
+    "tags": [
+      "匹克球",
+      "PPA",
+      "职业巡回赛",
+      "斯凯奇",
+      "国际赛事",
+      "体育赛事"
+    ],
+    "last_updated": "2026-08-08T00:00:00+08:00"
+  },
+  {
     "title": "自然科普与陶艺",
     "name": "自然科普与陶艺",
     "venue": "丰台区青少年宫",
