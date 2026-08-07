@@ -1,20 +1,20 @@
 // 打包内 cities 仅作离线兜底；运行期优先用 app.getCities()（远程 cities.json），
 // 云侧新增城市后无需重新发布小程序版本即可出现在城市 tab。
-const { cities: bundledCities, timeFilters, familyFilters, typeFilters, feeFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
+const { cities: bundledCities, timeFilters, typeFilters, feeFilters, durationFilters, districtsByCity, venuesByCity, sourceToVenue } = require('../../data/filters.js');
 const { getFilteredExhibitions, buildDisplayItems, getActivityType, getFeeType, getDistrict, getPresentDistricts, matchSource, normalizeCity } = require('../../utils/helpers.js');
 
 const PAGE_SIZE = 20;
 const FILTER_STORAGE_KEY = 'goout_filter_state';
-const FILTER_KEYS = ['cityFilter', 'timeFilter', 'familyFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
+const FILTER_KEYS = ['cityFilter', 'timeFilter', 'durationFilter', 'typeFilter', 'districtFilter', 'sourceFilter', 'feeFilter', 'searchQuery'];
 const app = getApp();
 
 Page({
   data: {
     cities: bundledCities,
     timeFilters,
-    familyFilters,
     typeFilters,
     feeFilters,
+    durationFilters,
     districts: [],
     venues: [],
     displayVenues: [],
@@ -22,7 +22,7 @@ Page({
     // 当前筛选状态
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
-    familyFilter: 'all',
+    durationFilter: '3months',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',
@@ -99,7 +99,7 @@ Page({
     // 如果从详情页返回，不需要重新加载
   },
 
-  // 恢复上次保存的筛选条件（城市/时间/亲子/类型/区县/场馆/费用/搜索）
+  // 恢复上次保存的筛选条件（城市/时间/类型/区县/场馆/费用/搜索）
   restoreFilters() {
     try {
       const saved = wx.getStorageSync(FILTER_STORAGE_KEY);
@@ -220,6 +220,18 @@ Page({
       );
     }
 
+    // 过滤掉没有任何活动的场馆——首页日程筛选只展示有活动的场馆；
+    // 全部场馆(含无活动的)仍在场馆指南页完整显示，不受影响。
+    var activeVenueNames = {};
+    (app.globalData.exhibitions || []).forEach(function(e) {
+      if ((e._cityKey || normalizeCity(e.city)) === city && e.venue) {
+        activeVenueNames[String(e.venue).trim()] = true;
+      }
+    });
+    allVenues = allVenues.filter(function(v) {
+      return v.key === 'all' || activeVenueNames[v.name] || activeVenueNames[v.key];
+    });
+
     const displayVenues = this.data.showAllSources
       ? allVenues
       : allVenues.filter(function(v, i) { return i < 8 || v.key === 'all'; });
@@ -235,10 +247,11 @@ Page({
   },
 
   loadData() {
+    try {
     const filters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
-      family: this.data.familyFilter,
+      duration: this.data.durationFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -260,7 +273,7 @@ Page({
       }
     }
 
-    filtered.sort(function(a, b) { return a.start_date.localeCompare(b.start_date); });
+    filtered.sort(function(a, b) { return (a.start_date || '').localeCompare(b.start_date || ''); });
 
     const displayItems = buildDisplayItems(filtered);
     const totalPages = Math.ceil(displayItems.length / PAGE_SIZE) || 1;
@@ -276,7 +289,23 @@ Page({
       emptyHint: emptyHint
     });
 
-    this.updateFilterAvailability(filtered);
+    // 选项置灰是重计算（对每个筛选项各跑一次全量过滤），异步化 + 防抖：
+    // 列表已先 setData 渲染（用户立即看到切换结果），置灰推到下一 tick 计算，
+    // 不阻塞点击的即时反馈，从根本上消除筛选切换的卡顿感。
+    const self = this;
+    if (this._availTimer) clearTimeout(this._availTimer);
+    this._availTimer = setTimeout(function() {
+      try {
+        self._availTimer = null;
+        self.updateFilterAvailability(filtered);
+      } catch (e) {
+        console.error('[童行] updateFilterAvailability 异常', e);
+      }
+    }, 0);
+    } catch (err) {
+      console.error('[童行] loadData 渲染异常，已降级为空列表:', err);
+      this.setData({ totalCount: 0, totalPages: 1, currentPage: 1, pageItems: [], loading: false, emptyHint: '数据加载异常，请下拉刷新重试' });
+    }
   },
 
   // 检查筛选器是否有结果
@@ -285,7 +314,7 @@ Page({
     const baseFilters = {
       city: this.data.cityFilter,
       time: this.data.timeFilter,
-      family: this.data.familyFilter,
+      duration: this.data.durationFilter,
       type: this.data.typeFilter,
       district: this.data.districtFilter,
       source: this.data.sourceFilter,
@@ -293,17 +322,26 @@ Page({
       search: this.data.searchQuery
     };
 
+    const allExhibitions = app.globalData.exhibitions || [];
+    // 城市池：本城活动子集。非城市维度(时间/类型/费用/区县)的置灰测试只需在本城池上跑，
+    // 基数从「全量数千条(11城)」降到「单城数百条」，约 10 倍提速；仅城市维度需全量。
+    const cityPool = allExhibitions.filter(function(e) {
+      return (e._cityKey || normalizeCity(e.city)) === baseFilters.city;
+    });
+
     function checkResult(type, testValue) {
       const testFilters = Object.assign({}, baseFilters);
+      var pool;
       if (type === 'city') {
         testFilters.city = testValue;
         testFilters.district = 'all';
         testFilters.source = 'all';
+        pool = allExhibitions;
       } else {
         testFilters[type] = testValue;
+        pool = cityPool;
       }
-      const allExhibitions = app.globalData.exhibitions || [];
-      return getFilteredExhibitions(allExhibitions, testFilters).length > 0;
+      return getFilteredExhibitions(pool, testFilters).length > 0;
     }
 
     // 城市置灰仅在“远程/完整数据已加载”后才生效；本地兜底阶段、或仅加载到「近期」子集
@@ -317,16 +355,16 @@ Page({
       return Object.assign({}, t, { disabled: !checkResult('time', t.key) && t.key !== self.data.timeFilter });
     });
 
+    const durationAvail = (this.data.durationFilters || []).map(function(d) {
+      return Object.assign({}, d, { disabled: !checkResult('duration', d.key) && d.key !== self.data.durationFilter });
+    });
+
     const typeAvail = this.data.typeFilters.map(function(t) {
       return Object.assign({}, t, { disabled: !checkResult('type', t.key) && t.key !== self.data.typeFilter });
     });
 
     const feeAvail = this.data.feeFilters.map(function(f) {
       return Object.assign({}, f, { disabled: !checkResult('fee', f.key) && f.key !== self.data.feeFilter });
-    });
-
-    const familyAvail = this.data.familyFilters.map(function(f) {
-      return Object.assign({}, f, { disabled: !checkResult('family', f.key) && f.key !== self.data.familyFilter });
     });
 
     const districtsAvail = (this.data.districts || []).map(function(d) {
@@ -337,9 +375,9 @@ Page({
     this.setData({
       cities: citiesAvail,
       timeFilters: timeAvail,
+      durationFilters: durationAvail,
       typeFilters: typeAvail,
       feeFilters: feeAvail,
-      familyFilters: familyAvail,
       districts: districtsAvail
     });
   },
@@ -370,11 +408,11 @@ Page({
     this.loadData();
   },
 
-  onFamilyTap(e) {
+  onDurationTap(e) {
     if (e.currentTarget.dataset.disabled) return;
     const key = e.currentTarget.dataset.key;
-    if (key === this.data.familyFilter) return;
-    this.setData({ familyFilter: key, currentPage: 1 });
+    if (key === this.data.durationFilter) return;
+    this.setData({ durationFilter: key, currentPage: 1 });
     this.saveFilters();
     this.loadData();
   },

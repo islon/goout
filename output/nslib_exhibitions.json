@@ -6,9 +6,10 @@
     "end_date": "2026-07-12",
     "url": "https://activity.nslib.cn/activity/info/11639",
     "contact": "0755-26520380",
-    "description": "需预约报名",
+    "description": "需预约报名，在南山图书馆举办，预约报名活动。",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "心理咨询",
@@ -17,9 +18,10 @@
     "end_date": "2026-07-17",
     "url": "https://activity.nslib.cn/activity/info/11635",
     "contact": "0755-26520380",
-    "description": "需预约报名",
+    "description": "需预约报名，在南山图书馆举办，预约报名活动。",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "南图创客空间丨自动往返车",
@@ -30,7 +32,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。南图创客空间丨自动往返车",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "艺术荟·音阅共生 | 音乐与电影（下）——映象中的影像",
@@ -41,7 +44,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。艺术荟·音阅共生 | 音乐与电影（下）——映象中的影像",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "走进图书馆丨图书馆的特别读者",
@@ -52,7 +56,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。走进图书馆丨图书馆的特别读者",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "悦读乐学——南图&amp;学爱学习困难知识科普公益行丨解锁汉字密码，玩出读写能力",
@@ -63,7 +68,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。悦读乐学——南图&amp;学爱学习困难知识科普公益行丨解锁汉字密码，玩出读写能力",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "书影英语 | 《楚门的世界》",
@@ -74,7 +80,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。书影英语 | 《楚门的世界》",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "馆员故事会《小壁虎借尾巴》",
@@ -85,7 +92,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。馆员故事会《小壁虎借尾巴》",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "南图沙龙·读书 | 道德经：法之篇",
@@ -96,7 +104,8 @@
     "contact": "0755-26520380",
     "description": "需预约报名。南图沙龙·读书 | 道德经：法之篇",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "心理咨询",
@@ -105,8 +114,9 @@
     "end_date": "2026-07-10",
     "url": "https://activity.nslib.cn/activity/info/11634",
     "contact": "0755-26520380",
-    "description": "需预约报名",
+    "description": "需预约报名，在南山图书馆举办，预约报名活动。",
     "source": "nslib",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   }
 ]

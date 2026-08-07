@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-07-20 09:26",
+  "activities": [
+    {
+      "title": "南山文体中心暑期少儿游泳班",
+      "venue": "南山文体中心",
+      "start_date": "2026-07-08",
+      "end_date": "2026-08-30",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山文体中心暑期少儿游泳培训班，面向6-14岁儿童。收费课程。",
+      "category": "体育赛事",
+      "fee": "收费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山文体中心",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    },
+    {
+      "title": "南山区青少年活动中心暑期艺术培训",
+      "venue": "南山区青少年活动中心",
+      "start_date": "2026-07-08",
+      "end_date": "2026-08-28",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山区青少年活动中心暑期艺术培训，包含美术、书法、舞蹈、声乐等课程。免费报名。",
+      "category": "亲子活动",
+      "fee": "免费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山区青少年活动中心",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    },
+    {
+      "title": "南山文体中心暑期公益培训",
+      "venue": "南山文体中心",
+      "start_date": "2026-07-10",
+      "end_date": "2026-08-25",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山文体中心暑期公益培训，包含羽毛球、乒乓球、游泳、舞蹈等课程。免费报名。",
+      "category": "体育赛事",
+      "fee": "免费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山文体中心",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    },
+    {
+      "title": "南山区青少年活动中心暑期科技营",
+      "venue": "南山区青少年活动中心",
+      "start_date": "2026-07-12",
+      "end_date": "2026-08-22",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山区青少年活动中心暑期科技营，包含编程、机器人、3D打印等课程。免费报名。",
+      "category": "科普活动",
+      "fee": "免费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山区青少年活动中心",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    },
+    {
+      "title": "南山区文化馆暑期公益培训",
+      "venue": "南山区文化馆",
+      "start_date": "2026-07-15",
+      "end_date": "2026-08-30",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山区文化馆暑期公益艺术培训，包含舞蹈、声乐、书法、国画、摄影等课程。免费报名。",
+      "category": "亲子活动",
+      "fee": "免费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山区文化馆官网",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    },
+    {
+      "title": "南山区文化馆暑期少儿艺术营",
+      "venue": "南山区文化馆",
+      "start_date": "2026-07-20",
+      "end_date": "2026-08-25",
+      "link": "https://www.szns.gov.cn/nsqwhg/",
+      "description": "南山区文化馆暑期少儿艺术营，包含儿童绘画、手工制作、音乐启蒙等课程。免费报名。",
+      "category": "亲子活动",
+      "fee": "免费",
+      "contact": "",
+      "family_friendly": true,
+      "source": "南山区文化馆官网",
+      "verification": {
+        "status": "suspicious",
+        "link_reachable": false,
+        "http_status": 404,
+        "source_type": "government",
+        "verified_at": "2026-07-20",
+        "verified_by": "http_check"
+      },
+      "verified": false
+    }
+  ],
+  "venues": [],
+  "counts": {
+    "activities": 6,
+    "venues": 0
+  }
+}

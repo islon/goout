@@ -81,18 +81,59 @@ def trim_exhibitions(exhibitions):
     return upcoming
 
 
-def select_venues_for(activities, all_venues):
+def select_venues_for(activities, all_venues, per_city=80):
     """
-    只保留被打包活动引用到的场馆（按场馆名精确匹配），保证离线时
-    活动详情页的场馆介绍能对得上。其余场馆由线上实时数据补充。
+    离线兜底场馆选择策略（兼顾「活动详情对得上」与「每城可浏览」）：
+
+    1) 活动关联的场馆：用「模糊匹配」(活动 venue 含场馆名 或 反之)，
+       解决场馆库扩张后「深圳博物馆（市民中心馆）」与库中「深圳博物馆」
+       精确匹配失败、导致离线兜底场馆骤降(1042→46)的回归。
+    2) 每城保底 per_city 条：即使真机 CDN 不可达(微信 request 合法域名
+       白名单/网络问题)，每座城市也能浏览到场馆，避免非深圳城市全空。
+
+    离线兜底只是断网兜底，线上全量仍由「分城市文件」实时拉取补充。
     """
     needed = set()
     for a in activities:
         v = a.get("venue")
         if v:
-            needed.add(v)
-    selected = [v for v in all_venues if v.get("name") in needed]
-    print(f"  · 关联场馆 {len(selected)} 条（全量 {len(all_venues)} 条）")
+            needed.add(v.strip())
+
+    selected = []
+    selected_names = set()
+
+    # 1) 活动关联场馆（模糊匹配）
+    for v in all_venues:
+        name = (v.get("name") or "").strip()
+        if not name:
+            continue
+        if name in needed:
+            selected.append(v)
+            selected_names.add(name)
+            continue
+        for nv in needed:
+            if nv and (name in nv or nv in name):
+                selected.append(v)
+                selected_names.add(name)
+                break
+
+    # 2) 每城保底，确保离线时每城都有场馆可看
+    by_city = {}
+    for v in all_venues:
+        by_city.setdefault(v.get("city", ""), []).append(v)
+    for city, vs in by_city.items():
+        cnt = sum(1 for v in vs if (v.get("name") or "").strip() in selected_names)
+        if cnt < per_city:
+            for v in vs:
+                nm = (v.get("name") or "").strip()
+                if nm and nm not in selected_names:
+                    selected.append(v)
+                    selected_names.add(nm)
+                    cnt += 1
+                    if cnt >= per_city:
+                        break
+
+    print(f"  · 关联+每城保底场馆 {len(selected)} 条（全量 {len(all_venues)} 条，每城保底 {per_city}）")
     return selected
 
 

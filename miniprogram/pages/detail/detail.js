@@ -3,6 +3,14 @@ const { getActivityType, getFeeType, formatDate, getDuration, normalizeCity, fin
 
 const app = getApp();
 
+// 提取链接数组（向后兼容 link/url 旧格式）
+function getLinks(item) {
+  if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+  var url = item.link || item.url;
+  if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
+  return [];
+}
+
 Page({
   data: {
     activity: null,
@@ -11,7 +19,8 @@ Page({
     dateDisplay: '',
     duration: '',
     venueAddress: '',
-    showLink: false,
+    hasLinks: false,
+    links: [],
     showBooking: false,
     bookingApp: '',
     bookingHint: '',
@@ -24,6 +33,7 @@ Page({
   onLoad(options) {
     const self = this;
     const id = decodeURIComponent(options.id || '');
+    this._activityId = id;
 
     function findActivity() {
       const allExhibitions = app.globalData.exhibitions || [];
@@ -39,6 +49,12 @@ Page({
       }
 
       if (!activity) {
+        // 数据还在加载中（isPartial=true）时不报错，等 onDataUpdated 再试
+        // 只有数据全部加载完仍找不到，才提示"活动不存在"
+        var isPartial = app.globalData.isPartial;
+        if (isPartial) {
+          return;
+        }
         wx.showToast({ title: '活动不存在', icon: 'none' });
         setTimeout(function() { wx.navigateBack(); }, 1500);
         return;
@@ -70,6 +86,8 @@ Page({
         verifiedClass = 'warn';
       }
 
+      const links = getLinks(activity);
+
       self.setData({
         activity: activity,
         activityType: activityType,
@@ -77,12 +95,14 @@ Page({
         dateDisplay: dateDisplay,
         duration: duration,
         venueAddress: venueAddress,
-        showLink: !!activity.url,
+        hasLinks: links.length > 0,
+        links: links,
         showBooking: !!(activity.booking_method && activity.booking_method.app_name),
         bookingApp: activity.booking_method ? activity.booking_method.app_name : '',
         bookingHint: activity.booking_method ? (activity.booking_method.search_hint || '') : '',
         venue: venue,
         hasVenue: !!venue,
+        hasVenueCoords: !!(venue && venue.latitude && venue.longitude),
         verifiedLabel: verifiedLabel,
         verifiedClass: verifiedClass
       });
@@ -100,6 +120,13 @@ Page({
     app.onReady(function() {
       findActivity();
     });
+
+    // 订阅数据更新：Tier2/Tier3 加载完成后重新查找活动（避免从分享链接进入时找不到）
+    if (app && typeof app.onDataUpdated === 'function') {
+      app.onDataUpdated(function() {
+        findActivity();
+      });
+    }
   },
 
   onVenueTap() {
@@ -109,18 +136,92 @@ Page({
     });
   },
 
+  noop() {},
+
   onGoVenues() {
     wx.switchTab({
       url: '/pages/venues/venues'
     });
   },
 
-  onCopyLink() {
-    if (!this.data.activity || !this.data.activity.url) return;
+  onCopyLink(e) {
+    const url = e.currentTarget.dataset.url;
+    if (!url) return;
     wx.setClipboardData({
-      data: this.data.activity.url,
+      data: url,
       success: function() {
         wx.showToast({ title: '链接已复制', icon: 'success' });
+      }
+    });
+  },
+
+  // 通用复制：通过 data-text 传入要复制的文本，确保复制内容与显示一致
+  onCopyText(e) {
+    const text = e.currentTarget.dataset.text;
+    if (!text) return;
+    wx.setClipboardData({
+      data: text,
+      success: () => wx.showToast({ title: '已复制', icon: 'success' })
+    });
+  },
+
+  onOpenMap() {
+    const venueName = this.data.venue ? this.data.venue.name : (this.data.activity && this.data.activity.venue);
+    const addr = this.data.venueAddress || (this.data.venue && this.data.venue.address);
+    const lat = this.data.venue && this.data.venue.latitude;
+    const lng = this.data.venue && this.data.venue.longitude;
+    const searchText = venueName + (addr ? (' ' + addr) : '');
+
+    if (lat && lng) {
+      wx.openLocation({
+        latitude: Number(lat),
+        longitude: Number(lng),
+        name: venueName || '',
+        address: addr || '',
+        scale: 16,
+        fail: () => {
+          this.showMapOptions(searchText, lat, lng);
+        }
+      });
+    } else {
+      this.showMapOptions(searchText);
+    }
+  },
+
+  showMapOptions(searchText, lat, lng) {
+    const items = [];
+    if (lat && lng) {
+      items.push({ text: '高德地图', url: 'amapuri://route/plan/?sourceApplication=童行&dlat=' + lat + '&dlon=' + lng + '&dname=' + encodeURIComponent(searchText) + '&dev=0&t=0' });
+      items.push({ text: '百度地图', url: 'baidumap://map/direction?destination=name:' + encodeURIComponent(searchText) + '|latlng:' + lat + ',' + lng + '&mode=driving&src=童行' });
+      items.push({ text: '腾讯地图', url: 'qqmap://map/routeplan?type=drive&to=' + encodeURIComponent(searchText) + '&tocoord=' + lat + ',' + lng + '&referer=童行' });
+    }
+    items.push({ text: '复制地址', url: null });
+
+    wx.showActionSheet({
+      itemList: items.map(item => item.text),
+      success: (res) => {
+        const selected = items[res.tapIndex];
+        if (selected.url) {
+          wx.setClipboardData({
+            data: selected.url,
+            success: () => {
+              wx.showModal({
+                title: '已复制链接',
+                content: '请打开「' + selected.text + '」粘贴链接导航',
+                showCancel: false,
+                confirmText: '知道了',
+                confirmColor: '#D4A373'
+              });
+            }
+          });
+        } else {
+          wx.setClipboardData({
+            data: searchText,
+            success: () => {
+              wx.showToast({ title: '已复制地址', icon: 'success' });
+            }
+          });
+        }
       }
     });
   },
@@ -132,36 +233,27 @@ Page({
     const hint = bm.search_hint || '';
     const appType = bm.app_type || 'wechat_mini_program';
 
-    // 小程序/公众号类型：复制小程序名，提示用户去微信搜索
     if (appType === 'wechat_mini_program' || appType === 'wechat_official_account') {
       wx.setClipboardData({
         data: appName,
         success: function() {
-          wx.showModal({
-            title: '报名入口已复制',
-            content: '小程序/公众号名称「' + appName + '」已复制。\n\n操作步骤：\n1. 退出本小程序，回到微信首页\n2. 点击顶部搜索框，粘贴并搜索\n3. ' + hint + '\n\n由于微信限制，需手动搜索进入对应场馆官方小程序。',
-            showCancel: false,
-            confirmText: '我知道了',
-            confirmColor: '#D4A373'
-          });
+          wx.showToast({ title: '已复制「' + appName + '」', icon: 'success' });
         }
       });
       return;
     }
 
-    // App 类型：提示用户下载
     if (appType === 'app') {
       wx.showModal({
-        title: '报名入口提示',
-        content: '本活动需通过 App 报名：\n\n' + appName + '\n\n操作步骤：\n' + hint,
+        title: '报名入口',
+        content: '通过「' + appName + '」App 报名\n\n' + hint,
         showCancel: false,
-        confirmText: '我知道了',
+        confirmText: '知道了',
         confirmColor: '#D4A373'
       });
       return;
     }
 
-    // Web 类型：直接复制 URL
     if (appType === 'web' && bm.platform_url) {
       wx.setClipboardData({
         data: bm.platform_url,
@@ -172,7 +264,6 @@ Page({
       return;
     }
 
-    // 兜底
     wx.showModal({
       title: '报名入口',
       content: hint || appName,

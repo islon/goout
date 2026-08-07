@@ -3,7 +3,7 @@
 
   <!-- 标题区 -->
   <view class="detail-header">
-    <view class="detail-title">{{activity.name}}</view>
+    <view class="detail-title" bindlongpress="onCopyText" data-text="{{activity.name}}">{{activity.name}}</view>
     <view class="detail-badges">
       <text class="badge badge-type">{{activityType}}</text>
       <text wx:if="{{feeType === 'free'}}" class="badge badge-free">免费</text>
@@ -21,11 +21,19 @@
     </view>
     <view class="info-row">
       <view class="info-label">地点</view>
-      <view class="info-value">{{activity.venue}}</view>
+      <view class="info-value">
+        <text bindlongpress="onCopyText" data-text="{{activity.venue}}">{{activity.venue}}</text>
+      </view>
     </view>
     <view wx:if="{{venueAddress}}" class="info-row">
       <view class="info-label">地址</view>
-      <view class="info-value">{{venueAddress}}</view>
+      <view class="info-value">
+        <text class="addr-text" bindlongpress="onCopyText" data-text="{{venueAddress}}">{{venueAddress}}</text>
+        <view class="addr-actions">
+          <text wx:if="{{hasVenueCoords}}" class="copy-link" bindtap="onCopyText" data-text="{{venueAddress}}">复制</text>
+          <text class="map-link" bindtap="onOpenMap">导航</text>
+        </view>
+      </view>
     </view>
     <view class="info-row">
       <view class="info-label">时长</view>
@@ -43,8 +51,16 @@
       <view class="intro-title">场馆介绍</view>
       <view class="intro-more">详情 →</view>
     </view>
-    <view class="intro-name">{{venue.name}}</view>
-    <view wx:if="{{venue.address}}" class="intro-row">{{venue.address}}</view>
+    <view class="intro-name-row">
+      <view class="intro-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+      <view class="intro-name-actions" catchtap="noop">
+        <text class="intro-action-btn" catchtap="onCopyText" data-text="{{venue.name}}">复制</text>
+        <text class="intro-action-btn primary" catchtap="onOpenMap">导航</text>
+      </view>
+    </view>
+    <view wx:if="{{venue.address}}" class="intro-row">
+      <text bindlongpress="onCopyText" data-text="{{venue.address}}">{{venue.address}}</text>
+    </view>
     <view wx:if="{{venue.transport}}" class="intro-row">{{venue.transport}}</view>
     <view wx:if="{{venue.description}}" class="intro-desc">{{venue.description}}</view>
     <view class="intro-highlights" wx:if="{{hasHighlights}}">
@@ -70,16 +86,26 @@
     <view class="desc-content">{{activity.description}}</view>
   </view>
 
-  <!-- 原始链接 + 报名入口 -->
-  <view class="link-section" wx:if="{{showLink || showBooking}}">
-    <view class="link-actions">
-      <button wx:if="{{showLink}}" class="link-btn link-btn-origin" bindtap="onCopyLink">原始链接</button>
+  <!-- 核验链接 + 报名入口 -->
+  <view class="link-section" wx:if="{{hasLinks || showBooking}}">
+    <view wx:if="{{hasLinks}}" class="link-title">🔗 核验链接</view>
+    <view wx:for="{{links}}" wx:key="url" class="link-card">
+      <view class="link-label">{{item.label}}</view>
+      <view class="link-url">{{item.url}}</view>
+      <button class="link-copy-btn" bindtap="onCopyLink" data-url="{{item.url}}">复制链接</button>
+    </view>
+    <view wx:if="{{hasLinks}}" class="link-hint">复制后在浏览器中打开查看详情</view>
+    
+    <view wx:if="{{showBooking}}" class="link-actions" style="margin-top:{{hasLinks ? '16rpx' : '0'}}">
       <button wx:if="{{showBooking}}" class="link-btn link-btn-booking" bindtap="onBookingTap">报名入口</button>
     </view>
-    <view wx:if="{{showLink}}" class="link-hint">复制原始链接后，在浏览器中打开查看官方详情</view>
-    <view wx:if="{{showBooking}}" class="link-hint booking-hint">
-      <text class="booking-app">{{bookingApp}}</text>
-      <text class="booking-step">{{bookingHint}}</text>
+    <view wx:if="{{showBooking}}" class="booking-card" bindtap="onBookingTap">
+      <view class="booking-card-icon">📱</view>
+      <view class="booking-card-content">
+        <view class="booking-card-title">{{bookingApp}}</view>
+        <view class="booking-card-desc">{{bookingHint}}</view>
+      </view>
+      <view class="booking-card-arrow">复制 →</view>
     </view>
   </view>
 
@@ -89,10 +115,18 @@
       <image class="remind-icon" src="{{hasReminded ? '/assets/about-check.png' : '/assets/about-bell.png'}}" mode="aspectFit"></image>
       <view class="remind-text">
         <view class="remind-title">{{hasReminded ? '已设置提醒' : '提醒我'}}</view>
-        <view class="remind-desc">{{hasReminded ? '活动前1天将通过微信通知你' : '活动开始前1天微信通知你'}}</view>
+        <view class="remind-desc">活动前1天微信通知</view>
       </view>
       <view class="remind-arrow">{{hasReminded ? '✓' : '→'}}</view>
     </view>
+  </view>
+
+  <!-- 分享入口 -->
+  <view class="share-section">
+    <button class="share-btn" open-type="share">
+      <image class="share-icon" src="/assets/about-share.png" mode="aspectFit"></image>
+      <text class="share-text">分享给朋友</text>
+    </button>
   </view>
 
   <!-- 联系信息 -->

@@ -22,7 +22,7 @@ var activeCities = bundledCities;
 // 多数据源容灾：国内优先 jsDelivr 镜像，raw.githubusercontent 兜底。
 // 两者被墙相互独立——任一可达即可加载，根治“单源被墙导致全量拉不到/卡在近期子集”的问题。
 const DATA_SOURCES = [
-  { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: false },
+  { base: 'https://cdn.jsdelivr.net/gh/islon/goout@main/', bust: true },
   { base: 'https://raw.githubusercontent.com/islon/goout/main/', bust: true }
 ];
 
@@ -35,9 +35,11 @@ const VENUE_CACHE_TIME_KEY = 'goout_venues_cache_time_v3';
 const VENUE_PARTIAL_KEY = 'goout_venues_cache_partial_v3'; // true=场馆缓存残缺(部分城市缺失)，下次启动应强制补齐
 // 云端数据版本标记：CI 生成的 data_meta.json 里的 version(数据内容哈希)。本地存上次成功拉到的版本，
 // 下次启动先比版本——相同则说明云侧数据无变化，直接复用本地缓存、不再下载几 MB 的分城市大文件。
-const DATA_META_VERSION_KEY = 'goout_data_meta_version_v1';
+// 注意：活动与场馆分别落盘独立版本号，避免活动先成功而场馆残缺时版本号被提前覆盖、场馆永不重试。
+const DATA_META_VERSION_KEY = 'goout_data_meta_version_v1';       // 活动版本号
+const VENUE_META_VERSION_KEY = 'goout_venue_meta_version_v1';     // 场馆版本号（独立）
 // 小程序代码版本标记：当其变化时（升级后），onLaunch 会强制拉取最新数据，不受 5 分钟 TTL 节流影响。
-const APP_VERSION = '2026.07.18.16';
+const APP_VERSION = '2026.07.20.17';
 
 // 带重试的 wx.request 封装：GitHub raw 在中国大陆常被拦截/超时，
 // 这里做指数退避重试（默认 3 次，间隔 0.7s / 1.4s / 2.1s），显著提升首屏拉取成功率。
@@ -278,6 +280,7 @@ App({
   globalData: {
     cityFilter: 'shenzhen',
     timeFilter: 'upcoming',
+    durationFilter: '3months',
     typeFilter: 'all',
     districtFilter: 'all',
     sourceFilter: 'all',
@@ -286,6 +289,7 @@ App({
     searchQuery: '',
     exhibitions: localExhibitions,
     venues: localVenues,
+    _bundledVenues: localVenues,  // 打包内离线兜底（场馆页CDN未到达时用于判断是否需显示loading）
     venueMap: {},
     cities: bundledCities,  // 运行期城市清单：默认打包兜底，拉取 cities.json 后覆盖（各页面 tab 据此渲染）
     dataReady: false,
@@ -300,16 +304,22 @@ App({
 
   onLaunch() {
     console.log('[童行] 启动中...');
+    var hasCache = false;
 
-    // 1. 构建场馆映射（基于当前 venues 数据）
-    this.buildVenueMap();
+    try {
+      // 1. 构建场馆映射（基于当前 venues 数据）
+      this.buildVenueMap();
 
-    // 2. 首次启动：将打包数据写入本地缓存作为基线
-    //    这样即使从未联网，后续启动也能从缓存读取较新的数据
-    this.seedCacheIfNeeded();
+      // 2. 首次启动：将打包数据写入本地缓存作为基线
+      //    这样即使从未联网，后续启动也能从缓存读取较新的数据
+      this.seedCacheIfNeeded();
 
-    // 3. 优先从本地缓存加载（无论是否过期，保证即时渲染）
-    const hasCache = this.loadFromCache();
+      // 3. 优先从本地缓存加载（无论是否过期，保证即时渲染）
+      hasCache = this.loadFromCache();
+    } catch (e) {
+      // 任何初始化异常都不应阻断页面渲染：保留打包兜底数据并继续
+      console.error('[童行] 启动初始化异常，已回退打包兜底数据:', e);
+    }
 
     if (hasCache) {
       console.log('[童行] 从本地缓存加载数据');
@@ -328,11 +338,12 @@ App({
       if (!lastVer || lastVer !== APP_VERSION) {
         this._versionChanged = true;
         wx.setStorageSync('goout_app_version', APP_VERSION);
-        // 清掉可能过期的场馆缓存（避免旧裁剪兜底 481 被当成完整数据沿用），升级后重新拉全量分城市场馆
+        // 清掉可能过期的场馆缓存与版本号（避免旧裁剪兜底被当成完整数据沿用），升级后重新拉全量分城市场馆
         try {
           wx.removeStorageSync(VENUE_CACHE_KEY);
           wx.removeStorageSync(VENUE_CACHE_TIME_KEY);
           wx.removeStorageSync(VENUE_PARTIAL_KEY);
+          wx.removeStorageSync(VENUE_META_VERSION_KEY); // 清除场馆版本号，强制重新拉取
         } catch (e) {}
         console.log('[童行] 检测到版本变化/首次使用，将强制拉取最新数据');
       }
@@ -348,15 +359,15 @@ App({
     // 6. 检测小程序新版本（真机 / 体验版 / 正式版生效）
     this.checkForUpdate();
 
-    // 7. 场馆数保险：启动数秒后若场馆仍未拉满（远少于全量），强制用单文件全量兜底再试一次，
-    //    覆盖分城市请求慢/部分卡住等时序边界，避免长期停在打包兜底(378)。
+    // 7. 场馆数保险：启动数秒后若仍有城市场馆未加载（按城市覆盖判断，非数量阈值），
+    //    触发缺失城市补齐重试，覆盖分城市请求慢/部分卡住的时序边界，避免长期停在打包兜底(378)。
     var self = this;
     setTimeout(function() {
-      var v = self.globalData.venues || [];
-      var expect = (self._pendingMeta && self._pendingMeta.venues) || 2500;
-      if (v.length < expect * 0.6) {
-        console.warn('[童行] 启动后场馆数仍偏少(' + v.length + ')，触发单文件兜底保险');
-        self.fetchVenueFullFallback();
+      // 用「是否所有城市都已加载」判断，而非数量阈值；避免首屏渲染(打包378)被误判为偏少去拉 861KB 大单文件
+      if (!self._allVenueCitiesLoaded()) {
+        var missing = self._missingVenueCities();
+        console.warn('[童行] 启动后仍有城市场馆未加载(' + missing.join(',') + ')，触发补齐');
+        self._fillMissingVenueCities(missing, 6);
       }
     }, 5000);
   },
@@ -392,6 +403,16 @@ App({
     // 活动数据
     var cached = toArray(wx.getStorageSync(CACHE_KEY));
     if (cached && cached.length > 0) {
+      // 防脏缓存：旧版本/被墙期缓存可能混入缺 start_date 的条目，
+      // 会导致首页 loadData 的 sort 崩溃而白屏。检测到即丢弃，回退打包兜底。
+      var dirty = cached.some(function(x) { return !x || !x.start_date; });
+      if (dirty) {
+        console.warn('[童行] 检测到缓存活动数据损坏(缺 start_date)，丢弃并回退打包兜底');
+        try { wx.removeStorageSync(CACHE_KEY); wx.removeStorageSync(CACHE_TIME_KEY); wx.removeStorageSync(CACHE_PARTIAL_KEY); } catch (e) {}
+        cached = null;
+      }
+    }
+    if (cached && cached.length > 0) {
       precomputeDerived(cached); // 旧缓存可能未含派生字段，补齐以保证筛选 O(1)
       this.globalData.exhibitions = cached;
       // 若缓存已是完整 10 城数据（来自此前远程），则视为可信数据源，城市筛选器可正常置灰
@@ -425,12 +446,18 @@ App({
 
   // 拉取云端数据版本清单并与本地比对：返回 { meta, changed }
   // changed=true 表示云侧数据相对本地有变化（或拿不到版本信息，按“需下载”处理，等价于旧 TTL 行为）
+  // venueChanged=true 表示场馆需要重新拉取（独立版本号判定，避免活动先成功导致场馆被跳过）
   _checkMeta() {
     var self = this;
     return fetchDataMeta().then(function(meta) {
-      var cached = wx.getStorageSync(DATA_META_VERSION_KEY) || '';
-      var changed = !meta || !meta.version || meta.version !== cached;
-      return { meta: meta, changed: changed };
+      var cachedAct = wx.getStorageSync(DATA_META_VERSION_KEY) || '';
+      var cachedVen = wx.getStorageSync(VENUE_META_VERSION_KEY) || '';
+      var version = (meta && meta.version) || '';
+      var changed = !meta || !version || version !== cachedAct;
+      // 场馆独立判定：场馆版本号未落盘 / 与云端不同 / 场馆标记为残缺 => 需要重新拉取
+      var venuePartial = !!wx.getStorageSync(VENUE_PARTIAL_KEY);
+      var venueChanged = !version || version !== cachedVen || venuePartial;
+      return { meta: meta, changed: changed, venueChanged: venueChanged };
     });
   },
 
@@ -451,26 +478,36 @@ App({
       // 拉取云端数据版本清单，与本地比对：版本相同 => 云侧数据无变化，直接复用缓存、不再下载几 MB 大文件
       self._checkMeta().then(function(r) {
         var dataChanged = r.changed;
+        var venueChanged = r.venueChanged;
         var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
         var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
         var force = self._seededThisLaunch || self._versionChanged || self.globalData.isPartial || self.globalData.venuesPartial;
-      // 跳过下载：云侧数据无变化 + 城市清单无增减 + 非强制（首启/升级/上次残缺）
-      // 注意：即便云侧无变化，只要本地场馆明显未拉满(<90% 预期)也要继续尝试补齐，
-      // 否则活动曾成功缓存并落盘版本号后，场馆会永久被"跳过下载"卡在打包兜底(378)。
-      var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
-      if (!dataChanged && !citiesChanged && !force && venuesSatisfied) {
-        console.log('[童行] 云侧数据无更新且场馆已拉满，跳过下载，复用本地缓存');
-        return;
-      }
-      if (!dataChanged && !citiesChanged && !force) {
-        console.warn('[童行] 云侧数据无更新，但本地场馆仅 ' + self.globalData.venues.length + ' 条(预期~' + (r.meta && r.meta.venues) + ')，仍尝试补齐场馆');
-      }
-        // 有更新或强制 => 下载最新数据；成功写入后把版本号落盘，供下次启动精准比对
         self._pendingMeta = r.meta || null;
         self._pendingMetaVersion = (r.meta && r.meta.version) || null;
         self.globalData.dataMeta = r.meta || null; // 供关于页展示“预期场馆数”
-        self.silentUpdateExhibitions();
-        self.silentUpdateVenues();
+
+        // 活动判定：云侧有变化 / 强制 / 城市清单变化 => 重新拉取活动
+        var needExhibitions = dataChanged || force || citiesChanged;
+        // 场馆判定：场馆版本变化 / 强制 / 城市清单变化 => 重新拉取场馆
+        // 场馆用独立版本号，不再因活动先成功就认为场馆也无变化
+        var needVenues = venueChanged || force || citiesChanged;
+
+        if (!needExhibitions && !needVenues) {
+          console.log('[童行] 云侧活动与场馆均无更新，跳过下载，复用本地缓存');
+          return;
+        }
+        if (needExhibitions) {
+          console.log('[童行] 开始更新活动数据' + (dataChanged ? '(云侧有更新)' : '(强制/残缺)'));
+          self.silentUpdateExhibitions();
+        } else {
+          console.log('[童行] 活动数据无更新，跳过活动拉取');
+        }
+        if (needVenues) {
+          console.log('[童行] 开始更新场馆数据' + (venueChanged ? '(场馆版本有更新/残缺)' : '(强制)'));
+          self.silentUpdateVenues();
+        } else {
+          console.log('[童行] 场馆数据无更新，跳过场馆拉取');
+        }
       });
     });
   },
@@ -509,7 +546,8 @@ App({
       console.warn('[童行] 远程场馆数(' + arr.length + ')远少于当前(' + cur.length + ')，疑似异常，保留现有数据');
       return false;
     }
-    precomputeDerived(arr);
+    // 注意：场馆数据不含 start_date 等字段，不可调用活动的 precomputeDerived（会读 start_date.substring 崩溃）。
+    // 场馆页面仅依赖 name/city/type 等原始字段，无需派生字段预计算。
     this.globalData.venues = arr;
     this.globalData.venuesPartial = !!isPartial;
     this.buildVenueMap();
@@ -517,9 +555,9 @@ App({
       wx.setStorageSync(VENUE_CACHE_KEY, arr);
       wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
       wx.setStorageSync(VENUE_PARTIAL_KEY, !!isPartial);
-      // 全量写入成功 => 同步落盘云端数据版本号（与活动同理，避免下次误判为有变化而重下）
+      // 场馆全量写入成功 => 落盘场馆独立版本号（不与活动共用，避免活动先成功而场馆残缺时被跳过）
       if (!isPartial && this._pendingMetaVersion) {
-        wx.setStorageSync(DATA_META_VERSION_KEY, this._pendingMetaVersion);
+        wx.setStorageSync(VENUE_META_VERSION_KEY, this._pendingMetaVersion);
       }
     } catch (e) {}
     return true;
@@ -671,28 +709,23 @@ App({
   silentUpdateVenues() {
     var self = this;
     self._venueStaged = { fullCities: {} };
-    // 基于 data_meta 的场馆计数（真实全量），用于判断“是否拉满”；取不到时按 2500 兜底阈值
-    var expect = (self._pendingMeta && self._pendingMeta.venues) || 2500;
     fetchAllVenues().then(function(result) {
       var merged = result.merged, failed = result.failed;
-      var loaded = (merged && merged.length) || 0;
-      if (loaded) {
+      if (merged && merged.length) {
+        // 分城市部分成功：先显示已拉到的子集，再补缺失城市（与活动加载策略一致，不依赖大单文件）
         merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
         var ok = self.applyVenues(merged, failed.length > 0);
         if (ok) {
           self.notifyDataUpdated();
-          console.log('[童行] 场馆已加载', loaded, '条' + (failed.length ? ('，缺失城市：' + failed.join(',')) : ''));
+          console.log('[童行] 场馆已加载', merged.length, '条' + (failed.length ? ('，缺失城市：' + failed.join(',')) : ''));
         }
-      }
-      // 任何“未拉满”的情况：分城市有失败 或 数量明显偏少(<90% 预期) → 用单文件全量兜底补全到 ~2964，
-      // 避免分城市冷缓存/弱网部分失败却长期停在打包兜底(378)。
-      if (failed.length || loaded < expect * 0.9) {
         if (failed.length) {
           console.warn('[童行] 部分城市场馆未取到，开始补齐：', failed.join(','));
-          self._fillMissingVenueCities(failed, 6); // 分城市补齐与单文件兜底双管齐下
-        } else {
-          console.warn('[童行] 场馆加载量(' + loaded + ')低于预期(' + expect + ')，启用单文件全量兜底');
+          self._fillMissingVenueCities(failed, 6);
         }
+      } else {
+        // 分城市全部失败（弱网/被墙）：最后才用单文件全量兜底，而非放弃分城市数据
+        console.warn('[童行] 场馆分城市全部未取到，启用单文件全量兜底');
         self.fetchVenueFullFallback();
       }
     }).catch(function() {
@@ -704,7 +737,7 @@ App({
   // 当分城市小文件整体/部分不可达时，用一次请求拿到完整场馆库，根治真机长期停在打包兜底(378) 的问题。
   fetchVenueFullFallback() {
     var self = this;
-    fetchJsonFromSources('output/venue_info.json', { timeout: 25000, maxRetries: 3 }).then(function(res) {
+    fetchJsonFromSources('output/venue_info.json', { timeout: 60000, maxRetries: 2 }).then(function(res) {
       var arr = toArray(res && res.data);
       if (arr && arr.length) {
         self._venueStaged = self._venueStaged || { fullCities: {} };
@@ -771,7 +804,8 @@ App({
     var self = this;
     self._setLoading(true);
     console.log('[童行] 强制刷新中...');
-    // 先拉城市清单（新增城市立即可见）
+    // 先拉城市清单（新增城市立即可见）；必须等城市清单更新完成再拉场馆，
+    // 否则 fetchAllVenues 仍用旧 activeCities（不含新增城市），导致新城市场馆永远拉不到。
     fetchCities().then(function(arr) {
       if (arr && !sameCityKeys(self.globalData.cities, arr)) {
         self.globalData.cities = arr;
@@ -779,9 +813,9 @@ App({
         self.notifyCitiesUpdated();
         console.log('[童行] 城市清单已更新，共', arr.length, '城');
       }
-    });
-    // 拉云端数据版本清单，决定是否真的需要下载（云侧无更新则提示已是最新、不下载）
-    self._checkMeta().then(function(r) {
+      // 城市清单就绪后再拉数据版本清单，决定是否真的需要下载
+      return self._checkMeta();
+    }).then(function(r) {
       var dataChanged = r.changed;
       var force = self._seededThisLaunch || self._versionChanged;
       // 主动刷新时，即便云侧无变化，只要场馆未拉满也要继续补齐（避免被活动缓存版本号永久跳过）
@@ -805,18 +839,53 @@ App({
         if (callback) callback(ok);
       });
       // 同时刷新场馆（分城市并行拉取 + 缺失补齐 + 单文件兜底）
-      self._venueStaged = self._venueStaged || { fullCities: {} };
+      // 此时 activeCities 已被 fetchCities 更新，fetchAllVenues 会覆盖新增城市
+      self._venueStaged = { fullCities: {} };
       fetchAllVenues().then(function(result) {
         var merged = result.merged, failed = result.failed;
         if (merged && merged.length) {
           merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
           self.applyVenues(merged, failed.length > 0);
+          self.notifyDataUpdated();
           console.log('[童行] 场馆已刷新', merged.length, '条' + (failed.length ? ('，缺失：' + failed.join(',')) : ''));
         }
         if (failed.length) {
           self._fillMissingVenueCities(failed, 6);
           self.fetchVenueFullFallback();
         }
+      });
+    }).catch(function(err) {
+      // fetchCities 失败时回退到旧的并行逻辑，保证刷新不中断
+      console.warn('[童行] 城市清单拉取失败，沿用旧清单继续刷新', err);
+      self._checkMeta().then(function(r) {
+        var dataChanged = r.changed;
+        var force = self._seededThisLaunch || self._versionChanged;
+        var venuesSatisfied = r.meta && r.meta.venues && (self.globalData.venues.length >= r.meta.venues * 0.9);
+        if (!dataChanged && !force && venuesSatisfied) {
+          self._setLoading(false);
+          self.notifyDataUpdated();
+          if (callback) callback(true);
+          return;
+        }
+        self._pendingMetaVersion = (r.meta && r.meta.version) || null;
+        self.globalData.dataMeta = r.meta || null;
+        self.loadStagedData(true, function(ok) {
+          self._setLoading(false);
+          if (callback) callback(ok);
+        });
+        self._venueStaged = self._venueStaged || { fullCities: {} };
+        fetchAllVenues().then(function(result) {
+          var merged = result.merged, failed = result.failed;
+          if (merged && merged.length) {
+            merged.forEach(function(v) { if (v.city) self._venueStaged.fullCities[v.city] = true; });
+            self.applyVenues(merged, failed.length > 0);
+            self.notifyDataUpdated();
+          }
+          if (failed.length) {
+            self._fillMissingVenueCities(failed, 6);
+            self.fetchVenueFullFallback();
+          }
+        });
       });
     });
   },
@@ -861,6 +930,10 @@ App({
   onLoadingChange(callback) {
     this.loadingCallbacks.push(callback);
     try { callback(this.globalData.isLoading); } catch (e) {}
+  },
+
+  offLoadingChange(callback) {
+    this.loadingCallbacks = this.loadingCallbacks.filter(function(cb) { return cb !== callback; });
   },
 
   _setLoading(v) {

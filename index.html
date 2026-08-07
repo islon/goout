@@ -94,71 +94,41 @@
             pointer-events: none;
         }
 
-        .header-top {
+        .quick-nav {
             display: flex;
-            justify-content: space-between;
+            justify-content: space-around;
             align-items: center;
-            margin-bottom: 12px;
-            max-width: 1200px;
-            margin-left: auto;
-            margin-right: auto;
-            flex-wrap: wrap;
-            gap: 8px;
+            background: white;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
         }
 
-        .subscribe-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
+        .quick-nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
             text-decoration: none;
-            font-weight: 500;
+            color: #6B7280;
             transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .subscribe-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .feedback-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
-        }
-
-        .feedback-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-1px);
-        }
-
-        .miniapp-link {
-            padding: 6px 14px;
-            background: rgba(255, 255, 255, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            color: white;
-            border-radius: 20px;
-            font-size: 12px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.2s;
-            backdrop-filter: blur(10px);
             cursor: pointer;
+            padding: 4px 12px;
+            flex: 1;
         }
 
-        .miniapp-link:hover {
-            background: rgba(255, 255, 255, 0.3);
+        .quick-nav-item:hover,
+        .quick-nav-item:active {
+            color: #D97706;
             transform: translateY(-1px);
+        }
+
+        .quick-nav-icon {
+            font-size: 22px;
+        }
+
+        .quick-nav-text {
+            font-size: 11px;
+            font-weight: 500;
         }
 
         .miniapp-modal-mask {
@@ -1012,6 +982,11 @@
             border: 1px solid var(--border);
         }
 
+        .modal-action-area {
+            padding: 16px 24px 24px;
+            border-top: 1px solid var(--border);
+        }
+
         .modal-header {
             background: linear-gradient(135deg, var(--sand-primary) 0%, var(--sand-dark) 100%);
             color: white;
@@ -1167,9 +1142,91 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 16px rgba(212, 163, 115, 0.4);
         }
+
+        /* 复制/导航/分享按钮 */
+        .modal-action-bar {
+            display: flex;
+            gap: 10px;
+            margin-top: 16px;
+            flex-wrap: wrap;
+        }
+
+        .modal-action-btn {
+            flex: 1;
+            min-width: 100px;
+            padding: 10px 14px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            transition: all 0.2s;
+        }
+
+        .modal-action-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .modal-action-btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-copy {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-copy:hover {
+            background: var(--sand-200);
+        }
+
+        .btn-navigate {
+            background: var(--ocean-light);
+            color: var(--ocean);
+            border: 1px solid rgba(8, 145, 178, 0.2);
+        }
+
+        .btn-navigate:hover {
+            background: rgba(8, 145, 178, 0.15);
+        }
+
+        .btn-share {
+            background: linear-gradient(135deg, #FCD34D 0%, #F59E0B 100%);
+            color: #92400E;
+            box-shadow: 0 2px 8px rgba(245, 158, 11, 0.25);
+        }
+
+        .btn-share:hover {
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.35);
+        }
+
+        .modal-copied-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.75);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            z-index: 2000;
+            opacity: 0;
+            transition: opacity 0.2s;
+            pointer-events: none;
+        }
+
+        .modal-copied-toast.show {
+            opacity: 1;
+        }
     </style>
     <!-- 不蒜子统计 -->
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script async src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
     <!-- 百度统计（匿名模式，不收集个人信息） -->
     <script>
     var _hmt = _hmt || [];
@@ -1193,19 +1250,11 @@
 </head>
 <body>
     <div class="header">
-        <div class="header-top">
-            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="feedback-link" target="_blank" rel="noopener">📝 反馈</a>
-            <div>
-                <a href="venue-guide.html" class="subscribe-link">🏛️ 场馆指南</a>
-                <a href="https://islon.github.io/goout/schedule.html" class="subscribe-link" target="_blank">📅 订阅日程</a>
-                <span class="miniapp-link" onclick="showMiniappModal()">📱 小程序</span>
-            </div>
-        </div>
         <h1>👨‍👩‍👧‍👦 童行</h1>
         <div class="header-subtitle">全国亲子活动日历 · 真实 · 可溯源</div>
         <div class="visit-stats" style="font-size: 12px; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.2); margin-top: 10px; text-align: center; font-weight: 500;">
-            <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
-            <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_value_site_uv"></span> 人</span>
+            <span id="busuanzi_container_site_pv">本站访问量：<span id="busuanzi_site_pv">加载中...</span> 次</span>
+            <span style="margin-left: 12px;" id="busuanzi_container_site_uv">访客数：<span id="busuanzi_site_uv">加载中...</span> 人</span>
         </div>
         <div style="font-size: 11px; color: rgba(255,255,255,0.85); text-align: center; margin-top: 4px;">
             📊 本站使用匿名统计，不收集任何个人信息
@@ -1219,49 +1268,30 @@
         </div>
     </div>
 
+    <div class="quick-nav">
+        <a href="venue-guide.html" class="quick-nav-item">
+            <span class="quick-nav-icon">🏛️</span>
+            <span class="quick-nav-text">场馆指南</span>
+        </a>
+        <a href="https://islon.github.io/goout/schedule.html" class="quick-nav-item" target="_blank">
+            <span class="quick-nav-icon">📅</span>
+            <span class="quick-nav-text">订阅日程</span>
+        </a>
+        <span class="quick-nav-item miniapp-trigger" onclick="showMiniappModal()">
+            <span class="quick-nav-icon">📱</span>
+            <span class="quick-nav-text">小程序</span>
+        </span>
+        <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="quick-nav-item" target="_blank" rel="noopener">
+            <span class="quick-nav-icon">📝</span>
+            <span class="quick-nav-text">反馈</span>
+        </a>
+    </div>
+
     <div class="filter-section-mobile">
-        <div class="filter-label">城市</div>
         <div class="filter-bar" id="city-filter-bar"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
     </div>
 
     <div class="filter-section-mobile">
-        <div class="filter-label">时间筛选</div>
-        <div class="filter-bar" id="time-filter-bar">
-            <button class="filter-btn" data-filter="upcoming">最近活动</button>
-            <button class="filter-btn" data-filter="today">今天</button>
-            <button class="filter-btn" data-filter="tomorrow">明天</button>
-            <button class="filter-btn" data-filter="week">本周</button>
-            <button class="filter-btn" data-filter="month">本月</button>
-            <button class="filter-btn" data-filter="next_month">下月</button>
-            <button class="filter-btn" data-filter="all">全部活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">亲子筛选</div>
-        <div class="filter-bar" id="family-filter-bar">
-            <button class="filter-btn" data-family="all">全部活动</button>
-            <button class="filter-btn" data-family="family">适合亲子</button>
-            <button class="filter-btn" data-family="other">其他活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">类型筛选</div>
-        <div class="filter-bar" id="type-filter-bar">
-            <button class="filter-btn" data-type="all">全部类型</button>
-            <button class="filter-btn" data-type="展览">展览</button>
-            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
-            <button class="filter-btn" data-type="科普活动">科普活动</button>
-            <button class="filter-btn" data-type="演出">演出</button>
-            <button class="filter-btn" data-type="影视放映">影视放映</button>
-            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
-            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
-        </div>
-    </div>
-
-    <div class="filter-section-mobile">
-        <div class="filter-label">区县</div>
         <div class="filter-bar" id="district-filter-bar">
             <button class="filter-btn" data-district="all">全部区县</button>
             <button class="filter-btn" data-district="宝安区" data-city="shenzhen">宝安区</button>
@@ -1368,8 +1398,42 @@
         </div>
     </div>
 
+    <div class="filter-section-mobile">
+        <div class="filter-bar" id="time-filter-bar">
+            <button class="filter-btn" data-filter="upcoming">最近活动</button>
+            <button class="filter-btn" data-filter="today">今天</button>
+            <button class="filter-btn" data-filter="tomorrow">明天</button>
+            <button class="filter-btn" data-filter="week">本周</button>
+            <button class="filter-btn" data-filter="month">本月</button>
+            <button class="filter-btn" data-filter="next_month">下月</button>
+            <button class="filter-btn" data-filter="all">全部活动</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-bar" id="duration-filter-bar">
+            <button class="filter-btn" data-duration="all" title="不限活动持续时长">全部时长活动</button>
+            <button class="filter-btn" data-duration="week" title="持续7天及以内的活动">1周内</button>
+            <button class="filter-btn" data-duration="3months" title="持续90天及以内的活动">3个月内</button>
+            <button class="filter-btn" data-duration="long" title="持续超过90天的活动">3个月以上</button>
+        </div>
+    </div>
+
+    <div class="filter-section-mobile">
+        <div class="filter-bar" id="type-filter-bar">
+            <button class="filter-btn" data-type="all">全部类型</button>
+            <button class="filter-btn" data-type="展览">展览</button>
+            <button class="filter-btn" data-type="讲座阅读">讲座阅读</button>
+            <button class="filter-btn" data-type="科普活动">科普活动</button>
+            <button class="filter-btn" data-type="演出">演出</button>
+            <button class="filter-btn" data-type="影视放映">影视放映</button>
+            <button class="filter-btn" data-type="体育赛事">体育赛事</button>
+            <button class="filter-btn" data-type="亲子活动">亲子活动</button>
+            <button class="filter-btn" data-type="其他">其他</button>
+        </div>
+    </div>
+
     <div class="filter-section-mobile filter-section-mobile--right-align">
-        <div class="filter-label">地点</div>
         <div class="filter-bar source-filter-collapsed" id="source-filter-bar">
             <button class="filter-btn" data-source="all">全部地点</button>
             <!-- 深圳市级核心场馆 -->
@@ -1518,7 +1582,6 @@
     </div>
 
     <div class="filter-section-mobile">
-        <div class="filter-label">收费筛选</div>
         <div class="filter-bar" id="fee-filter-bar">
             <button class="filter-btn" data-fee="all">全部</button>
             <button class="filter-btn" data-fee="free">免费</button>
@@ -1555,6 +1618,17 @@
             </div>
 
             <div class="sidebar-card">
+                <div class="sidebar-title">⏳ 活动持续时长</div>
+                <div style="font-size: 11px; color: var(--text-muted); margin-bottom: 8px;">按活动从开始到结束的总天数筛选</div>
+                <div class="filter-bar" id="sidebar-duration-filter-bar" style="flex-direction: column; gap: 6px;">
+                    <button class="filter-btn" data-duration="all" title="不限时长">全部时长活动</button>
+                    <button class="filter-btn" data-duration="week" title="持续7天及以内">1周内</button>
+                    <button class="filter-btn" data-duration="3months" title="持续90天及以内">3个月内</button>
+                    <button class="filter-btn" data-duration="long" title="持续超过90天">3个月以上</button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
                 <div class="sidebar-title">🏷️ 类型筛选</div>
                 <div class="filter-bar" style="flex-direction: column; gap: 6px;">
                     <button class="filter-btn" data-type="all">全部类型</button>
@@ -1565,6 +1639,7 @@
             <button class="filter-btn" data-type="影视放映">影视放映</button>
             <button class="filter-btn" data-type="体育赛事">体育赛事</button>
             <button class="filter-btn" data-type="亲子活动">亲子活动</button>
+            <button class="filter-btn" data-type="其他">其他</button>
                 </div>
             </div>
 
@@ -1815,15 +1890,6 @@
             </div>
 
             <div class="sidebar-card">
-                <div class="sidebar-title">👨‍👩‍👧‍👦 亲子筛选</div>
-                <div class="filter-bar" style="flex-direction: column; gap: 6px;">
-                    <button class="filter-btn" data-family="all">全部活动</button>
-                    <button class="filter-btn" data-family="family">适合亲子</button>
-                    <button class="filter-btn" data-family="other">其他活动</button>
-                </div>
-            </div>
-
-            <div class="sidebar-card">
                 <button class="clear-filters-btn" onclick="clearAllFilters()">🗑️ 清除所有筛选</button>
             </div>
         </aside>
@@ -1846,8 +1912,10 @@
                 <button class="modal-close" onclick="closeModal()">×</button>
             </div>
             <div class="modal-body" id="modal-body"></div>
+            <div class="modal-action-area" id="modal-action-area"></div>
         </div>
     </div>
+    <div class="modal-copied-toast" id="modal-copied-toast">已复制</div>
 
     <script>
         // 兼容隐私模式/受限环境：localStorage 不可用时用内存替代，避免抛 SecurityError 中断脚本
@@ -1906,6 +1974,8 @@
         let currentTypeFilter = localStorage.getItem('schedule_type_filter') || 'all';
         let currentDistrictFilter = localStorage.getItem('schedule_district_filter') || 'all';
         let currentFamilyFriendlyFilter = localStorage.getItem('schedule_family_filter') || 'all';
+        // 活动持续时长筛选：week=1周内 / 3months=3月内 / long=3月以上 / all=全部
+        let currentDurationFilter = localStorage.getItem('schedule_duration_filter') || '3months';
         let currentSearchQuery = '';
         let currentPage = 1;
         const PAGE_SIZE = 50;
@@ -2025,6 +2095,18 @@
                 filtered = filtered.filter(e => e.family_friendly !== true);
             }
 
+            // 活动持续时长筛选（按 end_date - start_date + 1 天数判断）
+            if (currentDurationFilter !== 'all') {
+                filtered = filtered.filter(e => {
+                    if (!e.start_date || !e.end_date) return false;
+                    const days = Math.floor((new Date(e.end_date) - new Date(e.start_date)) / 86400000) + 1;
+                    if (currentDurationFilter === 'week') return days <= 7;
+                    if (currentDurationFilter === '3months') return days <= 90;
+                    if (currentDurationFilter === 'long') return days > 90;
+                    return true;
+                });
+            }
+
             switch (currentTimeFilter) {
                 case 'today':
                     return filtered.filter(e => e.start_date === today || 
@@ -2113,6 +2195,7 @@
             const savedType = currentTypeFilter;
             const savedDistrict = currentDistrictFilter;
             const savedFamily = currentFamilyFriendlyFilter;
+            const savedDuration = currentDurationFilter;
 
             switch (filterType) {
                 case 'city': currentCityFilter = testValue; currentDistrictFilter = 'all'; currentSourceFilter = 'all'; break;
@@ -2122,6 +2205,7 @@
                 case 'source': currentSourceFilter = testValue; break;
                 case 'fee': currentFeeFilter = testValue; break;
                 case 'family': currentFamilyFriendlyFilter = testValue; break;
+                case 'duration': currentDurationFilter = testValue; break;
             }
 
             const result = getFilteredExhibitions().length > 0;
@@ -2133,6 +2217,7 @@
             currentTypeFilter = savedType;
             currentDistrictFilter = savedDistrict;
             currentFamilyFriendlyFilter = savedFamily;
+            currentDurationFilter = savedDuration;
 
             return result;
         }
@@ -2180,6 +2265,12 @@
             document.querySelectorAll('[data-family]').forEach(btn => {
                 if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
                 btn.classList.toggle('disabled', !checkFilterHasResult('family', btn.dataset.family));
+            });
+
+            // 活动持续时长
+            document.querySelectorAll('[data-duration]').forEach(btn => {
+                if (btn.classList.contains('active')) { btn.classList.remove('disabled'); return; }
+                btn.classList.toggle('disabled', !checkFilterHasResult('duration', btn.dataset.duration));
             });
         }
 
@@ -2326,6 +2417,15 @@
         // ========== 场馆信息功能 ==========
         // 使用上面定义的 _venueInfoMap / _venueInfoList，不再重复加载
 
+        // 提取链接数组（向后兼容 official_url / link / url 旧格式）
+        function getLinks(item) {
+            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+            if (item.official_url && item.official_url.trim()) return [{ url: item.official_url.trim(), label: '官方网站' }];
+            var url = item.link || item.url;
+            if (url && url.trim()) return [{ url: url.trim(), label: '活动详情' }];
+            return [];
+        }
+
         async function loadVenueInfo() {
             return await ensureVenueInfoLoaded();
         }
@@ -2345,8 +2445,18 @@
                 html += '<div class="modal-info-row" style="flex-direction:column;align-items:flex-start;"><div class="modal-info-label">💡 介绍</div><div class="modal-info-value" style="margin-top:4px;line-height:1.6;">' + info.description + '</div></div>';
             if (info.highlights && info.highlights.length)
                 html += '<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:6px;">' + info.highlights.map(h => '<span style="font-size:12px;padding:2px 8px;background:var(--sand-100);border-radius:10px;color:var(--sand-dark);">' + h + '</span>').join('') + '</div>';
-            if (info.official_url)
-                html += '<div style="margin-top:8px;"><a href="' + info.official_url + '" target="_blank" rel="noopener" style="font-size:13px;color:var(--ocean);text-decoration:none;">🔗 场馆官网 →</a></div>';
+            var links = getLinks(info);
+            if (links.length > 0) {
+                html += '<div style="margin-top:10px;padding-top:8px;border-top:1px dashed var(--border);">';
+                html += '<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">🔗 核验链接</div>';
+                links.forEach(function(l) {
+                    html += '<div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;padding:4px 8px;background:var(--sand-50);border-radius:6px;font-size:12px;">' +
+                        '<span style="font-size:11px;font-weight:600;color:var(--sand-dark);white-space:nowrap;padding:1px 5px;background:var(--sand-200);border-radius:3px;">' + l.label + '</span>' +
+                        '<a href="' + l.url + '" target="_blank" rel="noopener" style="flex:1;color:var(--ocean);text-decoration:none;word-break:break-all;">' + l.url + '</a>' +
+                    '</div>';
+                });
+                html += '</div>';
+            }
             return html;
         }
 
@@ -2359,8 +2469,10 @@
             const title = document.getElementById('modal-title');
             const badges = document.getElementById('modal-badges');
             const body = document.getElementById('modal-body');
+            const actionArea = document.getElementById('modal-action-area');
 
-            title.textContent = exhibition.title || exhibition.name || '';
+            const activityName = exhibition.title || exhibition.name || '';
+            title.textContent = activityName;
 
             const feeType = getFeeType(exhibition);
             const activityType = getActivityType(exhibition);
@@ -2376,6 +2488,10 @@
                 ? formatDate(startDate) 
                 : `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
 
+            const address = getVenueAddress(exhibition.source);
+            const venueInfo = _venueInfoMap ? (_venueInfoMap[exhibition.source] || _venueInfoMap[exhibition.venue]) : null;
+            const hasVenueCoords = !!(venueInfo && venueInfo.latitude && venueInfo.longitude);
+
             body.innerHTML = `
                 <div class="modal-info-row">
                     <div class="modal-info-label">📅 时间</div>
@@ -2383,12 +2499,12 @@
                 </div>
                 <div class="modal-info-row">
                     <div class="modal-info-label">📍 地点</div>
-                    <div class="modal-info-value">${exhibition.venue}</div>
+                    <div class="modal-info-value" onclick="copyText('${activityName}')" style="cursor:pointer;">${exhibition.venue}</div>
                 </div>
-                ${getVenueAddress(exhibition.source) ? `
+                ${address ? `
                 <div class="modal-info-row">
                     <div class="modal-info-label">🏠 地址</div>
-                    <div class="modal-info-value">${getVenueAddress(exhibition.source)}</div>
+                    <div class="modal-info-value" onclick="copyText('${address}')" style="cursor:pointer;">${address}</div>
                 </div>
                 ` : ''}
                 <div class="modal-info-row">
@@ -2407,11 +2523,16 @@
                     ${getVenueInfoHTML(exhibition)}
                 </div>
                 ` : ''}
-                ${(exhibition.link || exhibition.url) ? `
+                ${getLinks(exhibition).length > 0 ? `
                 <div class="modal-original-link">
-                    <a href="${exhibition.link || exhibition.url}" target="_blank" rel="noopener" class="original-link-btn" id="original-link-btn">
-                        🔗 查看原始活动详情
-                    </a>
+                    ${getLinks(exhibition).map(function(l, i) {
+                        var isFirst = i === 0;
+                        return '<div style="margin-bottom:6px;">' +
+                            '<a href="' + l.url + '" target="_blank" rel="noopener" class="original-link-btn"' + (isFirst ? ' id="original-link-btn"' : '') + '>' +
+                                '🔗 ' + l.label + '：查看详情' +
+                            '</a>' +
+                        '</div>';
+                    }).join('')}
                     <div style="font-size: 11px; color: #999; margin-top: 6px;" id="click-stats-display"></div>
                 </div>
                 ` : ''}
@@ -2419,17 +2540,42 @@
                     <div class="modal-contact-title">📞 联系信息</div>
                     <div class="modal-contact-info">
                         ${exhibition.contact ? `<div>电话：${exhibition.contact}</div>` : ''}
-                        ${!(exhibition.link || exhibition.url) && exhibition.source_url ? `<div>官网：<a href="${exhibition.source_url}" target="_blank" class="modal-url">${exhibition.source_url}</a></div>` : ''}
                     </div>
                 </div>
             `;
+
+            const navText = exhibition.venue + (address ? ' ' + address : '');
+            actionArea.innerHTML = `
+                <div class="modal-action-bar">
+                    <button class="modal-action-btn btn-copy" data-text="${encodeURIComponent(activityName)}">📋 复制名称</button>
+                    ${(address && hasVenueCoords) ? '<button class="modal-action-btn btn-copy" data-text="' + encodeURIComponent(address) + '">📋 复制地址</button>' : ''}
+                    <button class="modal-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
+                    <button class="modal-action-btn btn-share" data-name="${encodeURIComponent(activityName)}" data-venue="${encodeURIComponent(exhibition.venue)}">📤 分享</button>
+                </div>
+            `;
+
+            actionArea.querySelectorAll('.btn-copy').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    copyText(decodeURIComponent(this.dataset.text));
+                });
+            });
+            actionArea.querySelectorAll('.btn-navigate').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    openMap(decodeURIComponent(this.dataset.text));
+                });
+            });
+            actionArea.querySelectorAll('.btn-share').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    shareActivity(decodeURIComponent(this.dataset.name), decodeURIComponent(this.dataset.venue));
+                });
+            });
 
             overlay.classList.add('active');
 
             // 绑定点击统计
             const linkBtn = document.getElementById('original-link-btn');
             const statsDisplay = document.getElementById('click-stats-display');
-            if (linkBtn && (exhibition.link || exhibition.url)) {
+            if (linkBtn) {
                 const currentSource = exhibition.source;
                 const stats = getClickStats();
                 const count = stats[currentSource] || 0;
@@ -2438,12 +2584,76 @@
                 }
 
                 linkBtn.addEventListener('click', function() {
-                    trackClick(currentSource, exhibition.title || exhibition.name || '');
+                    trackClick(currentSource, activityName);
                     if (statsDisplay) {
                         statsDisplay.textContent = `已点击查看: ${stats[currentSource] || 1} 次`;
                     }
                 }, { once: true });
             }
+        }
+
+        function copyText(text) {
+            if (!text) return;
+            navigator.clipboard.writeText(text).then(function() {
+                showCopiedToast();
+            }).catch(function() {
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showCopiedToast();
+            });
+        }
+
+        function showCopiedToast() {
+            const toast = document.getElementById('modal-copied-toast');
+            toast.classList.add('show');
+            setTimeout(function() { toast.classList.remove('show'); }, 1500);
+        }
+
+        function openMap(text) {
+            const encoded = encodeURIComponent(text);
+            const mapOptions = [
+                { name: '微信地图', url: 'https://map.weixin.qq.com/mapsearch/mapsearch/index?query=' + encoded },
+                { name: '高德地图', url: 'https://uri.amap.com/search?keyword=' + encoded },
+                { name: '百度地图', url: 'https://api.map.baidu.com/search?query=' + encoded + '&output=html' },
+                { name: '腾讯地图', url: 'https://map.qq.com/marker?marker=coord:,;title:' + encoded + '&zoom=16' },
+                { name: 'Google Maps', url: 'https://maps.google.com/?q=' + encoded }
+            ];
+            
+            const mapNames = mapOptions.map(m => m.name).join('|');
+            const choice = prompt('选择导航地图：\n' + mapOptions.map((m, i) => (i + 1) + '. ' + m.name).join('\n'), '1');
+            
+            if (choice && !isNaN(choice)) {
+                const index = parseInt(choice) - 1;
+                if (index >= 0 && index < mapOptions.length) {
+                    window.open(mapOptions[index].url, '_blank');
+                }
+            }
+        }
+
+        function shareActivity(name, venue) {
+            const shareText = name + ' - ' + venue + '\n查看详情：https://islon.github.io/goout/';
+            if (navigator.share) {
+                navigator.share({
+                    title: name,
+                    text: shareText,
+                    url: window.location.href
+                }).catch(function() {
+                    fallbackShare(shareText);
+                });
+            } else {
+                fallbackShare(shareText);
+            }
+        }
+
+        function fallbackShare(text) {
+            copyText(text);
+            setTimeout(function() {
+                alert('分享内容已复制到剪贴板，请粘贴分享给朋友');
+            }, 300);
         }
 
         function closeModal() {
@@ -2530,27 +2740,30 @@
             currentTypeFilter = 'all';
             currentDistrictFilter = 'all';
             currentFamilyFriendlyFilter = 'all';
+            currentDurationFilter = '3months';
             currentSearchQuery = '';
-            
+
             localStorage.setItem('schedule_time_filter', 'upcoming');
             localStorage.setItem('schedule_source_filter', 'all');
             localStorage.setItem('schedule_fee_filter', 'all');
             localStorage.setItem('schedule_type_filter', 'all');
             localStorage.setItem('schedule_district_filter', 'all');
             localStorage.setItem('schedule_family_filter', 'family');
-            
+            localStorage.setItem('schedule_duration_filter', '3months');
+
             document.getElementById('search-input').value = '';
             document.getElementById('search-input-desktop').value = '';
-            
+
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            
+
             document.querySelectorAll('[data-filter="upcoming"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-type="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-district="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-source="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-fee="all"]').forEach(btn => btn.classList.add('active'));
             document.querySelectorAll('[data-family="family"]').forEach(btn => btn.classList.add('active'));
-            
+            document.querySelectorAll('[data-duration="3months"]').forEach(btn => btn.classList.add('active'));
+
             currentPage = 1;
             renderExhibitions();
         }
@@ -2751,6 +2964,22 @@
                     btn.classList.add('active');
                     currentTimeFilter = btn.dataset.filter;
                     localStorage.setItem('schedule_time_filter', currentTimeFilter);
+                    currentPage = 1;
+                    renderExhibitions();
+                });
+            });
+
+            // 活动持续时长筛选
+            const durationButtons = document.querySelectorAll('[data-duration]');
+            durationButtons.forEach(btn => {
+                if (btn.dataset.duration === currentDurationFilter) {
+                    btn.classList.add('active');
+                }
+                btn.addEventListener('click', () => {
+                    durationButtons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentDurationFilter = btn.dataset.duration;
+                    localStorage.setItem('schedule_duration_filter', currentDurationFilter);
                     currentPage = 1;
                     renderExhibitions();
                 });
@@ -2982,7 +3211,7 @@
             <h3>📱 童行小程序</h3>
             <p class="miniapp-modal-desc">微信扫码，打开小程序</p>
             <div class="miniapp-qrcode">
-                <img src="miniapp-qrcode.png" alt="童行小程序码" onerror="this.parentElement.innerHTML='<div style=&quot;font-size:14px;color:#A8A29E;padding:40px 0;&quot;>小程序码加载中...</div>'">
+                <img src="miniapp-qrcode.png" alt="童行小程序码" style="width:100%;height:100%;object-fit:contain;border-radius:8px;">
             </div>
             <div class="miniapp-modal-tip">
                 <strong>微信「扫一扫」</strong>上方小程序码<br>

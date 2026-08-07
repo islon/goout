@@ -109,6 +109,44 @@
   line-height: 1.5;
 }
 
+/* 地址相关操作（复制/导航） */
+.addr-text {
+  display: block;
+  margin-bottom: 8rpx;
+}
+
+.addr-actions {
+  display: flex;
+  gap: 16rpx;
+  align-items: center;
+}
+
+.copy-link,
+.map-link {
+  display: inline-block;
+  padding: 4rpx 16rpx;
+  font-size: 22rpx;
+  border-radius: 8rpx;
+  line-height: 1.6;
+}
+
+.copy-link {
+  color: #D4A373;
+  background: #FFF8F0;
+  border: 1rpx solid #E8D5BC;
+}
+
+.map-link {
+  color: #0891B2;
+  background: #E0F2F7;
+  border: 1rpx solid #B9E4F0;
+}
+
+.intro-row .map-link {
+  margin-left: 12rpx;
+  vertical-align: middle;
+}
+
 /* 活动介绍 */
 .desc-card {
   background: #FFFFFF;
@@ -132,9 +170,64 @@
   line-height: 1.7;
 }
 
-/* 链接按钮 */
+/* 链接区域 */
 .link-section {
   margin-bottom: 20rpx;
+}
+
+.link-title {
+  font-size: 28rpx;
+  font-weight: 700;
+  color: #292524;
+  margin-bottom: 16rpx;
+}
+
+.link-card {
+  display: flex;
+  flex-direction: column;
+  padding: 20rpx;
+  margin-bottom: 12rpx;
+  background: #FAFAF8;
+  border-radius: 12rpx;
+  border: 1rpx solid #F0ECE5;
+}
+
+.link-label {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 600;
+  margin-bottom: 8rpx;
+}
+
+.link-url {
+  font-size: 22rpx;
+  color: #78716C;
+  word-break: break-all;
+  line-height: 1.5;
+  margin-bottom: 12rpx;
+}
+
+.link-copy-btn {
+  align-self: flex-start;
+  padding: 8rpx 24rpx;
+  font-size: 22rpx;
+  color: #D4A373;
+  background: #FFF8F0;
+  border: 1rpx solid #E8D5BC;
+  border-radius: 8rpx;
+  line-height: 1.4;
+}
+
+.link-copy-btn::after {
+  border: none;
+}
+
+.link-hint {
+  text-align: center;
+  font-size: 22rpx;
+  color: #A8A29E;
+  margin-top: 8rpx;
+  line-height: 1.5;
 }
 
 .link-actions {
@@ -158,14 +251,6 @@
   border: none;
 }
 
-/* 原始链接按钮（次要，浅色边框样式） */
-.link-btn-origin {
-  background: #FFFFFF;
-  color: #D4A373;
-  border: 2rpx solid #D4A373;
-  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.1);
-}
-
 /* 报名入口按钮（主要，渐变色突出） */
 .link-btn-booking {
   background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
@@ -186,27 +271,50 @@
   line-height: 1.5;
 }
 
-.booking-hint {
-  background: #FFF8F0;
-  border: 2rpx solid #F5E4D0;
-  border-radius: 12rpx;
-  padding: 16rpx 20rpx;
-  color: #78716C;
-  text-align: left;
+.booking-card {
   display: flex;
-  flex-direction: column;
-  gap: 6rpx;
+  align-items: center;
+  gap: 16rpx;
+  background: linear-gradient(135deg, #FFF9F5 0%, #FFFFFF 100%);
+  border: 2rpx solid #F5E4D0;
+  border-radius: 16rpx;
+  padding: 20rpx 24rpx;
+  margin-top: 12rpx;
 }
 
-.booking-app {
-  font-size: 24rpx;
+.booking-card:active {
+  background: #FFF0E5;
+}
+
+.booking-card-icon {
+  font-size: 40rpx;
+  flex-shrink: 0;
+}
+
+.booking-card-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4rpx;
+}
+
+.booking-card-title {
+  font-size: 26rpx;
   font-weight: 600;
   color: #B8895A;
 }
 
-.booking-step {
+.booking-card-desc {
   font-size: 22rpx;
   color: #78716C;
+  line-height: 1.5;
+}
+
+.booking-card-arrow {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 600;
+  flex-shrink: 0;
 }
 
 /* 活动提醒 */
@@ -268,6 +376,49 @@
   color: #16A34A;
 }
 
+/* 分享入口 */
+.share-section {
+  margin-bottom: 20rpx;
+}
+
+.share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16rpx;
+  background: linear-gradient(135deg, #FCD34D 0%, #F59E0B 100%);
+  border-radius: 20rpx;
+  padding: 28rpx;
+  border: none;
+  box-shadow: 0 4rpx 16rpx rgba(245, 158, 11, 0.25);
+  width: 100%;
+  line-height: 1.2;
+}
+
+.share-btn .share-icon {
+  display: block;
+}
+
+.share-btn:active {
+  transform: scale(0.98);
+  opacity: 0.9;
+}
+
+.share-btn::after {
+  border: none;
+}
+
+.share-icon {
+  width: 48rpx;
+  height: 48rpx;
+}
+
+.share-text {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #92400E;
+}
+
 /* 场馆介绍 */
 .venue-intro-card {
   background: #FFFFFF;
@@ -301,11 +452,42 @@
   color: #D4A373;
 }
 
+.intro-name-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16rpx;
+  margin-bottom: 16rpx;
+}
+
 .intro-name {
   font-size: 32rpx;
   font-weight: 600;
   color: #3D3229;
-  margin-bottom: 16rpx;
+  flex: 1;
+}
+
+.intro-name-actions {
+  display: flex;
+  gap: 12rpx;
+  flex-shrink: 0;
+}
+
+.intro-action-btn {
+  padding: 8rpx 20rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  font-weight: 600;
+  background: var(--sand-100, #FAF5EE);
+  color: #B8895A;
+  border: 1rpx solid #E8DDD0;
+  line-height: 1.4;
+}
+
+.intro-action-btn.primary {
+  background: linear-gradient(135deg, #7DD3FC 0%, #0891B2 100%);
+  color: #fff;
+  border-color: #0891B2;
 }
 
 .intro-row {

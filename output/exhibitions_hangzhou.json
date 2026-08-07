@@ -1,9 +1,500 @@
 [
   {
+    "title": "相无古今——石窟艺术超感沉浸体验",
+    "name": "相无古今——石窟艺术超感沉浸体验",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "start_date": "2026-01-01",
+    "end_date": "2026-10-31",
+    "link": "http://news.qq.com/rain/a/20250711A05A3P00",
+    "url": "http://news.qq.com/rain/a/20250711A05A3P00",
+    "description": "XR/AR/VR沉浸式石窟艺术展，利用数字技术还原石窟艺术之美。",
+    "category": "展览",
+    "fee": "部分免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "腾讯新闻",
+    "district": "西湖区"
+  },
+  {
+    "title": "古希腊的旅程——希腊31家博物馆文物展",
+    "name": "古希腊的旅程——希腊31家博物馆文物展",
+    "venue": "良渚博物院",
+    "city": "hangzhou",
+    "start_date": "2026-01-30",
+    "end_date": "2026-07-31",
+    "link": "https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html",
+    "url": "https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html",
+    "description": "希腊31家博物馆163件精品文物+9件复制品，跨文明对话大展。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "良渚博物院官网",
+    "district": "余杭区"
+  },
+  {
+    "title": "万物始兴·寒武纪化石展",
+    "name": "万物始兴·寒武纪化石展",
+    "venue": "浙江自然博物院",
+    "city": "hangzhou",
+    "start_date": "2026-06-01",
+    "end_date": "2026-08-31",
+    "link": "https://m.weibo.cn/detail/5318191891881429",
+    "url": "https://m.weibo.cn/detail/5318191891881429",
+    "description": "展出三叶虫、鱼龙、猛犸象化石骨架，配套化石挖掘体验、火山爆发科学实验秀、AR恐龙互动。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "浙江自然博物院",
+    "district": "拱墅区"
+  },
+  {
+    "title": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
+    "name": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
+    "venue": "杭州宋城（之江路148号）",
+    "city": "hangzhou",
+    "start_date": "2026-06-17",
+    "end_date": "2026-08-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "20个室内外剧场暑期每日百场演出，《宋城千古情》单日固定2场；7.4-8.23\"随意节\"电音泼水狂欢。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.songcn.com/",
+    "district": "西湖区"
+  },
+  {
+    "title": "万物之始·种子的远行 科普展",
+    "name": "万物之始·种子的远行 科普展",
+    "venue": "杭州植物园（展览小花园）",
+    "city": "hangzhou",
+    "start_date": "2026-06-24",
+    "end_date": "2026-07-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "持卡（公园年卡）免费入园，陈列植物实物标本、显微摄影与图文展板，直观了解种子传播方式。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "http://www.hzbg.cn/",
+    "district": "西湖区"
+  },
+  {
+    "title": "钱王祠 夏日莲荷展",
+    "name": "钱王祠 夏日莲荷展",
+    "venue": "钱王祠",
+    "city": "hangzhou",
+    "start_date": "2026-06-24",
+    "end_date": "2026-09-30",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "持卡（公园年卡）免费入园，上百盆荷花、睡莲次第开放，打造\"莫奈花园\"般荷景打卡地。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "展览"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://westlake.hangzhou.gov.cn/",
+    "district": "西湖区"
+  },
+  {
+    "title": "月照银山：丝绸之路上的高昌与龟兹",
+    "name": "月照银山：丝绸之路上的高昌与龟兹",
+    "venue": "中国丝绸博物馆",
+    "city": "hangzhou",
+    "start_date": "2026-06-24",
+    "end_date": "2026-09-01",
+    "link": "https://tidenews.com.cn/news.html?id=3475919",
+    "url": "https://tidenews.com.cn/news.html?id=3475919",
+    "description": "2026丝绸之路周核心大展，200余件/组文物，展示丝绸之路上高昌与龟兹的文化交融。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "潮新闻",
+    "district": "西湖区"
+  },
+  {
+    "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
+    "name": "大道匠行——浙江工艺美术的历史经典与时代价值展",
+    "venue": "杭州工艺美术博物馆",
+    "city": "hangzhou",
+    "start_date": "2026-06-26",
+    "end_date": "2026-10-12",
+    "link": "https://m.sohu.com/a/1046660218_121106994/",
+    "url": "https://m.sohu.com/a/1046660218_121106994/",
+    "description": "展示浙江工艺美术的历史经典与当代创新，手工体验区适合亲子参与。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州市文旅局",
+    "district": "拱墅区"
+  },
+  {
+    "title": "中国动漫博物馆 暑期免费观影",
+    "name": "中国动漫博物馆 暑期免费观影",
+    "venue": "中国动漫博物馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "暑期面向公众免费观影活动，领票时间见馆方公告，亲子动画文化好去处。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "亲子"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.ccam.org.cn/",
+    "district": "滨江区"
+  },
+  {
+    "title": "西湖夜游船·三潭印月",
+    "name": "西湖夜游船·三潭印月",
+    "venue": "西湖（湖滨/钱王祠码头）",
+    "city": "hangzhou",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "夏夜乘船赏三潭印月与湖心亭灯影，含演艺观赏，暑期亲子夜游经典线路。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "亲子"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://westlake.hangzhou.gov.cn/",
+    "district": "西湖区"
+  },
+  {
+    "title": "浙江省博物馆 跟着浙博游西湖 体验式讲解",
+    "name": "浙江省博物馆 跟着浙博游西湖 体验式讲解",
+    "venue": "浙江省博物馆（孤山馆区）",
+    "city": "hangzhou",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "清行宫遗址体验式讲解服务，双人/家庭票可选，边游西湖边听浙博文物故事。",
+    "category": "讲座阅读",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.zhejiangmuseum.com/",
+    "district": "西湖区"
+  },
+  {
+    "title": "太平年·天下同宁——交互艺术大展",
+    "name": "太平年·天下同宁——交互艺术大展",
+    "venue": "浙江省博物馆之江馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "description": "融合实物文物、数字展陈与沉浸式演出的交互艺术大展。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
+  },
+  {
+    "title": "科学实验秀——浙江省科技馆暑期活动",
+    "name": "科学实验秀——浙江省科技馆暑期活动",
+    "venue": "浙江省科技馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31",
+    "link": "https://m.sohu.com/a/1044289750_121106994/",
+    "url": "https://m.sohu.com/a/1044289750_121106994/",
+    "description": "每天2场科学实验秀，含《寻心记》《物体的倔脾气》《静电碰撞》等十几个主题轮番上演。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "浙江省科技馆",
+    "district": "拱墅区"
+  },
+  {
+    "title": "2026杭州奇妙夜——百日星悦游",
+    "name": "2026杭州奇妙夜——百日星悦游",
+    "venue": "天目里",
+    "city": "hangzhou",
+    "start_date": "2026-07-03",
+    "end_date": "2026-10-10",
+    "link": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+    "description": "3大夜主场+10大主题产品+全域联动营销夜游格局。",
+    "category": "其他",
+    "fee": "部分免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州市文化广电旅游局",
+    "district": "西湖区"
+  },
+  {
+    "title": "考古探险队——杭州博物馆青少年模拟考古活动",
+    "name": "考古探险队——杭州博物馆青少年模拟考古活动",
+    "venue": "杭州博物馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-05",
+    "end_date": "2026-08-31",
+    "link": "https://m.weibo.cn/detail/5317002210313637",
+    "url": "https://m.weibo.cn/detail/5317002210313637",
+    "description": "沉浸式触摸历史、探索地层、动手创造的青少年模拟考古活动，面向8-17岁青少年。",
+    "category": "科普活动",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州博物馆官方微博",
+    "district": "上城区"
+  },
+  {
+    "title": "宇宙炉火：技术时代的共同生活",
+    "name": "宇宙炉火：技术时代的共同生活",
+    "venue": "杭州中心美术馆（L3 A展厅）",
+    "city": "hangzhou",
+    "start_date": "2026-07-07",
+    "end_date": "2026-09-07",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "2026\"ECP-星星策展人\"计划获选展，集结国内外青年艺术家，探讨技术时代人与社会的共同生活。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "西湖区"
+  },
+  {
+    "title": "机器狗AI编程夏令营",
+    "name": "机器狗AI编程夏令营",
+    "venue": "杭州图书馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-07",
+    "end_date": "2026-07-31",
+    "link": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+    "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+    "description": "四期连开的机器狗AI编程夏令营，面向7岁以上少儿，通过编程控制机器狗完成任务。",
+    "category": "科普活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州图书馆官网",
+    "district": "上城区"
+  },
+  {
+    "title": "杭州宋城 千古情狂欢节",
+    "name": "杭州宋城 千古情狂欢节",
+    "venue": "杭州宋城（之江路148号）",
+    "city": "hangzhou",
+    "start_date": "2026-07-15",
+    "end_date": "2026-08-13",
+    "link": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+    "description": "集结泼水狂欢、电音派对、千古情音乐节等10大主题活动，覆盖亲子、青年、全家庭多类人群。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "杭州本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "杭州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「杭州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "杭州",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.songcn.com/",
+    "district": "西湖区"
+  },
+  {
+    "title": "欢迎来到恐龙时代——知识视界科普讲座",
+    "name": "欢迎来到恐龙时代——知识视界科普讲座",
+    "venue": "杭州图书馆少儿分馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-16",
+    "link": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+    "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+    "description": "杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。",
+    "category": "讲座阅读",
+    "fee": "免费",
+    "contact": "86535086",
+    "family_friendly": true,
+    "source": "杭州图书馆官网",
+    "district": "上城区"
+  },
+  {
+    "title": "2026年茶人之家亲子公益培训（二期）",
+    "name": "2026年茶人之家亲子公益培训（二期）",
+    "venue": "中国茶叶博物馆",
+    "city": "hangzhou",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-19",
+    "link": "https://m.sohu.com/a/1038933302_121107011/",
+    "url": "https://m.sohu.com/a/1038933302_121107011/",
+    "description": "四天17节亲子课程，涵盖茶文化、茶叶冲泡、茶礼仪等，面向亲子家庭。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "中国茶叶博物馆",
+    "district": "西湖区"
+  },
+  {
     "name": "青少年杭州淳安县影视放映讲座",
     "venue": "杭州淳安县海洋馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -33,13 +524,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州临安区科普活动活动",
     "venue": "杭州临安区青少年宫",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -70,13 +562,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州桐庐县演出月",
     "venue": "杭州桐庐县公园",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -107,7 +600,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州宋城映山红",
@@ -143,7 +637,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "杭州野生动物园森林剧场",
@@ -179,7 +674,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "title": "叩石问印·浦东篆刻会十周年特展",
@@ -214,7 +710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "title": "西湖非遗体验周",
@@ -249,7 +746,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西湖区"
   },
   {
     "name": "精彩杭州西湖区体育赛事节",
@@ -286,13 +784,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式杭州上城区讲座阅读探索",
     "venue": "杭州上城区体育馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "免费",
@@ -323,13 +822,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州萧山区体育赛事日",
     "venue": "杭州萧山区海洋馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -359,7 +859,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "title": "《宋城千古情》大型演艺",
@@ -393,13 +894,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-92",
     "venue": "西湖博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "免费",
@@ -430,13 +932,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州余杭区展览嘉年华",
     "venue": "杭州余杭区美术馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "免费",
@@ -467,13 +970,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-173",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "收费",
@@ -503,13 +1007,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-109",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -539,13 +1044,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童杭州滨江区科普活动课程",
     "venue": "杭州滨江区体育馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "免费",
@@ -576,13 +1082,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州临安区亲子活动比赛",
     "venue": "杭州临安区艺术中心",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -613,13 +1120,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州下城区影视放映季",
     "venue": "杭州下城区美术馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-22",
     "end_date": "2027-01-21",
     "fee": "收费",
@@ -650,13 +1158,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州烂苹果乐园荒诞小镇",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -686,13 +1195,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览",
     "venue": "杭州工艺美术博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "拱墅区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -723,13 +1233,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-31",
     "venue": "杭州博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "上城区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -760,13 +1271,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-123",
     "venue": "中国茶叶博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "收费",
@@ -797,13 +1309,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州下城区展览探秘",
     "venue": "杭州下城区剧院",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -834,13 +1347,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州烂苹果乐园爱的故事屋",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -870,7 +1384,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州白龙潭景区",
@@ -907,13 +1422,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州小河直街历史街区",
     "venue": "小河直街",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -943,7 +1459,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "第34届全国书博会",
@@ -960,30 +1477,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "is_family_friendly": false,
-    "booking_method": {
-      "type": "city_aggregated",
-      "app_name": "浙里文化圈",
-      "app_type": "wechat_mini_program",
-      "search_hint": "微信搜索「浙里文化圈」小程序→艺培→线下课程",
-      "platform_url": null,
-      "city": "杭州"
-    },
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-18",
-      "verified_by": "http_check"
-    },
-    "verified": true
+    "district": "萧山区"
   },
   {
     "name": "实践杭州雷峰塔研学-47",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1013,13 +1513,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-153",
     "venue": "中国茶叶博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1050,13 +1551,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州建德市影视放映周",
     "venue": "杭州建德市体育场",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1086,13 +1588,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州江干区演出发现",
     "venue": "杭州江干区博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1123,13 +1626,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "免费",
@@ -1160,13 +1664,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西溪湿地研学",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "收费",
@@ -1196,13 +1701,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州淳安县演出探索",
     "venue": "杭州淳安县文化馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "收费",
@@ -1233,13 +1739,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州淳安县影视放映探秘",
     "venue": "杭州淳安县艺术中心",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "收费",
@@ -1270,7 +1777,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州西湖区影视放映探索",
@@ -1307,13 +1815,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州富阳区科普活动发现",
     "venue": "杭州富阳区动物园",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-07-25",
     "end_date": "2027-01-24",
     "fee": "免费",
@@ -1343,7 +1852,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州西湖区科普活动课程",
@@ -1380,7 +1890,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖荷花展",
@@ -1417,13 +1928,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州龙井亲子活动-51",
     "venue": "龙井",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-07-26",
     "end_date": "2027-01-25",
     "fee": "收费",
@@ -1453,7 +1965,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州云栖竹径避暑",
@@ -1489,7 +2002,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "杭州动物园熊猫主题日",
@@ -1523,13 +2037,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动",
     "venue": "中国茶叶博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1560,13 +2075,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-103",
     "venue": "杭州工艺美术博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "拱墅区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1597,13 +2113,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州淳安县讲座阅读之旅",
     "venue": "杭州淳安县美术馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "免费",
@@ -1634,13 +2151,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻杭州上城区亲子活动之旅",
     "venue": "杭州上城区海洋馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -1670,13 +2188,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州扇博物馆",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -1707,13 +2226,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1744,13 +2264,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-63",
     "venue": "中国茶叶博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1781,13 +2302,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-75",
     "venue": "杭州西湖",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1817,13 +2339,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州中国扇博物馆展览-162",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "免费",
@@ -1854,13 +2377,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州余杭区演出日",
     "venue": "杭州余杭区艺术中心",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-07-28",
     "end_date": "2027-01-27",
     "fee": "收费",
@@ -1891,13 +2415,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -1928,13 +2453,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-86",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -1964,13 +2490,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-169",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2000,13 +2527,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动杭州上城区影视放映科普",
     "venue": "杭州上城区公园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2037,13 +2565,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州上城区展览周",
     "venue": "杭州上城区植物园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "免费",
@@ -2073,13 +2602,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩杭州滨江区亲子活动节",
     "venue": "杭州滨江区文化馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2110,7 +2640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国美术学院美术馆",
@@ -2147,13 +2678,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西溪湿地研学-53",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2183,13 +2715,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-105",
     "venue": "杭州西湖",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2219,13 +2752,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州滨江区影视放映探索",
     "venue": "杭州滨江区科技馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2256,13 +2790,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州临安区讲座阅读工作坊",
     "venue": "杭州临安区公园",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2293,13 +2828,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩杭州拱墅区演出节",
     "venue": "杭州拱墅区剧院",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -2330,7 +2866,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州野生动物园自驾区",
@@ -2366,7 +2903,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "撒马尔罕：中亚之心的千年古城特展",
@@ -2400,13 +2938,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "余杭区"
   },
   {
     "name": "杭州杭州乐园展览",
     "venue": "杭州乐园",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "萧山区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2436,7 +2975,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-158",
@@ -2473,13 +3013,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州萧山区亲子活动展览",
     "venue": "杭州萧山区植物园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "收费",
@@ -2509,13 +3050,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州萧山区科普活动探索",
     "venue": "杭州萧山区动物园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-07-31",
     "end_date": "2027-01-30",
     "fee": "免费",
@@ -2545,7 +3087,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州西溪湿地茭芦田庄",
@@ -2582,13 +3125,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读杭州萧山区讲座阅读周",
     "venue": "杭州萧山区图书馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "免费",
@@ -2619,13 +3163,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼杭州下城区演出发现",
     "venue": "杭州下城区文化馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "收费",
@@ -2656,13 +3201,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州上城区讲座阅读嘉年华",
     "venue": "杭州上城区创意园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-01",
     "end_date": "2027-01-31",
     "fee": "免费",
@@ -2692,13 +3238,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "浙江自然博物院杭州馆",
     "venue": "浙江自然博物院杭州馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "拱墅区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -2728,7 +3275,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州博物馆",
@@ -2765,13 +3313,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-160",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -2802,13 +3351,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州下城区亲子活动探索",
     "venue": "杭州下城区创意园",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "收费",
@@ -2838,13 +3388,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州桐庐县讲座阅读演出",
     "venue": "杭州桐庐县海洋馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -2874,13 +3425,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州烂苹果乐园糖果小镇",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -2910,13 +3462,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州长乔极地海洋公园北极熊",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -2947,13 +3500,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-73",
     "venue": "杭州工艺美术博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "拱墅区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -2984,13 +3538,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州龙井亲子活动-81",
     "venue": "龙井",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3020,13 +3575,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-113",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3056,13 +3612,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州桐庐县影视放映科普",
     "venue": "杭州桐庐县剧院",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3093,13 +3650,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-101",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3130,13 +3688,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-151",
     "venue": "杭州博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "上城区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3167,13 +3726,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州滨江区体育赛事讲座",
     "venue": "杭州滨江区公园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3204,13 +3764,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州建德市演出课程",
     "venue": "杭州建德市动物园",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3240,13 +3801,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州下城区演出展览",
     "venue": "杭州下城区青少年宫",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3277,13 +3839,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典杭州滨江区体育赛事探秘",
     "venue": "杭州滨江区体育场",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -3313,13 +3876,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩杭州江干区讲座阅读节",
     "venue": "杭州江干区青少年宫",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -3350,7 +3914,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "茶和天下 芳传古今——中国传统制茶技艺非遗展",
@@ -3385,13 +3950,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-66",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "免费",
@@ -3422,13 +3988,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "实践杭州雷峰塔研学-167",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-05",
     "end_date": "2027-02-04",
     "fee": "收费",
@@ -3458,13 +4025,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州大运河夜游",
     "venue": "京杭大运河杭州景区",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3495,13 +4063,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州拱宸桥夜游船",
     "venue": "拱宸桥",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3531,13 +4100,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻杭州九溪演出",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3567,13 +4137,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-61",
     "venue": "杭州博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "上城区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3604,13 +4175,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现杭州中国扇博物馆展览-102",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -3641,13 +4213,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-116",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "免费",
@@ -3677,13 +4250,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州萧山区演出探秘",
     "venue": "杭州萧山区博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3714,13 +4288,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州富阳区演出课程",
     "venue": "杭州富阳区体育场",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-06",
     "end_date": "2027-02-05",
     "fee": "收费",
@@ -3750,7 +4325,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026年蒲熠星杭州演唱会时间安排",
+    "name": "2026年蒲熠星杭州演唱会时间安排",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-10",
+    "link": "",
+    "url": "",
+    "description": "2026年蒲熠星杭州演唱会时间安排。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "杭州图书馆亲子阅读季",
@@ -3785,13 +4378,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "上城区"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-38",
     "venue": "中国湿地博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "免费",
@@ -3822,13 +4416,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-117",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -3859,13 +4454,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-148",
     "venue": "杭州野生动物园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -3895,13 +4491,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-163",
     "venue": "杭州工艺美术博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "拱墅区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -3932,13 +4529,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州下城区亲子活动演出",
     "venue": "杭州下城区体育馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -3969,13 +4567,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州富阳区演出季",
     "venue": "杭州富阳区公园",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "收费",
@@ -4006,13 +4605,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州江干区科普活动体验营",
     "venue": "杭州江干区美术馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-07",
     "end_date": "2027-02-06",
     "fee": "免费",
@@ -4043,13 +4643,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026黄霄雲杭州演唱会观演攻略",
+    "name": "2026黄霄雲杭州演唱会观演攻略",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-13",
+    "link": "",
+    "url": "",
+    "description": "2026黄霄雲杭州演唱会观演攻略。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-121",
     "venue": "杭州博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "上城区",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -4080,13 +4698,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州临安区影视放映讲座",
     "venue": "杭州临安区会展中心",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -4116,7 +4735,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026黄霄雲杭州演唱会场馆地址及交通指南",
+    "name": "2026黄霄雲杭州演唱会场馆地址及交通指南",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-22",
+    "link": "",
+    "url": "",
+    "description": "2026黄霄雲杭州演唱会场馆地址及交通指南。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州宋城丽江恋歌",
@@ -4152,13 +4789,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "杭州浙江省博物馆展览-30",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "免费",
@@ -4189,13 +4827,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州萧山区演出讲座",
     "venue": "杭州萧山区体育场",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "收费",
@@ -4225,13 +4864,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州富阳区体育赛事演出",
     "venue": "杭州富阳区文化中心",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "收费",
@@ -4261,13 +4901,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "儿童杭州萧山区展览课程",
     "venue": "杭州萧山区创意园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-09",
     "end_date": "2027-02-08",
     "fee": "免费",
@@ -4297,13 +4938,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "胡庆余堂中药博物馆",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4334,7 +4976,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州灵山风景区",
@@ -4371,13 +5014,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州南宋官窑博物馆研学-95",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4408,13 +5052,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-118",
     "venue": "杭州野生动物园",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4444,13 +5089,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州淳安县科普活动周",
     "venue": "杭州淳安县博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -4481,13 +5127,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州淳安县展览发现",
     "venue": "杭州淳安县剧院",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -4518,13 +5165,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州江干区影视放映之旅",
     "venue": "杭州江干区体育馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-10",
     "end_date": "2027-02-09",
     "fee": "收费",
@@ -4555,7 +5203,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "许嵩杭州演唱会在哪里2026？",
+    "name": "许嵩杭州演唱会在哪里2026？",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-21",
+    "link": "",
+    "url": "",
+    "description": "许嵩杭州演唱会在哪里2026？。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国茶叶博物馆",
@@ -4592,7 +5258,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "中国杭帮菜博物馆",
@@ -4629,7 +5296,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "韩美林艺术馆",
@@ -4665,13 +5333,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "实践杭州雷峰塔研学",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4701,13 +5370,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-99",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4738,13 +5408,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "实践杭州雷峰塔研学-137",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4774,13 +5445,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州滨江区展览日",
     "venue": "杭州滨江区美术馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "免费",
@@ -4811,13 +5483,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州滨江区亲子活动研学营",
     "venue": "杭州滨江区青少年宫",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -4848,7 +5521,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -4882,13 +5556,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "体验杭州湘湖研学-149",
     "venue": "湘湖",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "收费",
@@ -4918,13 +5593,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州余杭区体育赛事季",
     "venue": "杭州余杭区创意园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "收费",
@@ -4954,13 +5630,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期杭州滨江区展览体验营",
     "venue": "杭州滨江区海洋馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "免费",
@@ -4990,7 +5667,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州西湖区演出周",
@@ -5027,7 +5705,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国湿地博物馆",
@@ -5064,13 +5743,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-96",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "免费",
@@ -5101,13 +5781,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州拱墅区亲子活动展览",
     "venue": "杭州拱墅区体育馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5138,13 +5819,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州建德市影视放映季",
     "venue": "杭州建德市植物园",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -5174,13 +5856,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-100",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -5211,13 +5894,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-170",
     "venue": "虎跑",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5247,13 +5931,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州下城区展览节",
     "venue": "杭州下城区艺术中心",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5284,7 +5969,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘杭州西湖区亲子活动月",
@@ -5320,13 +6006,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州拱墅区展览季",
     "venue": "杭州拱墅区艺术中心",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-15",
     "end_date": "2027-02-14",
     "fee": "免费",
@@ -5357,7 +6044,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "浙江省博物馆之江馆",
@@ -5394,7 +6082,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城失落古城",
@@ -5430,7 +6119,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -5464,7 +6154,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "余杭区"
   },
   {
     "name": "发现杭州中国扇博物馆展览-132",
@@ -5501,13 +6192,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典杭州拱墅区科普活动探秘",
     "venue": "杭州拱墅区创意园",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "免费",
@@ -5537,13 +6229,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州拱墅区展览工作坊",
     "venue": "杭州拱墅区海洋馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "免费",
@@ -5573,7 +6266,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "未命名的房间",
@@ -5608,13 +6302,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-127",
     "venue": "中国杭帮菜博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5645,13 +6340,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-134",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5682,13 +6378,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州临安区科普活动嘉年华",
     "venue": "杭州临安区剧院",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "免费",
@@ -5719,13 +6416,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州淳安县体育赛事研学营",
     "venue": "杭州淳安县科技馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5756,13 +6454,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻杭州建德市演出之旅",
     "venue": "杭州建德市文化中心",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -5792,13 +6491,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-32",
     "venue": "西湖博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -5829,13 +6529,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州桐庐县演出日",
     "venue": "杭州桐庐县体育馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -5866,13 +6567,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州富阳区讲座阅读科普",
     "venue": "杭州富阳区艺术中心",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -5903,13 +6605,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索杭州江干区展览演出",
     "venue": "杭州江干区体育场",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "免费",
@@ -5939,13 +6642,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "浙江省博物馆武林馆",
     "venue": "浙江省博物馆武林馆区",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "免费",
@@ -5976,13 +6680,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州西溪湿地洪园摇橹船",
     "venue": "西溪湿地洪园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6012,7 +6717,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "2026浙江省全民艺术季·文艺赋美",
@@ -6047,7 +6753,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -6081,7 +6788,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "title": "浙江省科技馆2026夏令营·科技馆科学院",
@@ -6116,13 +6824,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "name": "经典杭州杭州野生动物园演出-58",
     "venue": "杭州野生动物园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6152,13 +6861,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-152",
     "venue": "西湖博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "免费",
@@ -6189,13 +6899,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州建德市亲子活动探秘",
     "venue": "杭州建德市海洋馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "收费",
@@ -6225,13 +6936,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州临安区科普活动周",
     "venue": "杭州临安区文化馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "免费",
@@ -6262,13 +6974,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州桐庐县演出体验营",
     "venue": "杭州桐庐县创意园",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6298,13 +7011,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州余杭区亲子活动周",
     "venue": "杭州余杭区剧院",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-20",
     "end_date": "2027-02-19",
     "fee": "收费",
@@ -6335,13 +7049,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-164",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -6372,13 +7087,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州下城区讲座阅读体验营",
     "venue": "杭州下城区科技馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -6409,13 +7125,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州江干区影视放映课程",
     "venue": "杭州江干区文化馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "收费",
@@ -6446,13 +7163,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州江干区亲子活动嘉年华",
     "venue": "杭州江干区科技馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "收费",
@@ -6483,13 +7201,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州下城区展览讲座",
     "venue": "杭州下城区图书馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -6520,13 +7239,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中国刀剪剑博物馆",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "免费",
@@ -6557,13 +7277,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州烂苹果乐园魔法丛林",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-22",
     "end_date": "2027-02-21",
     "fee": "收费",
@@ -6593,7 +7314,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "良夜寻踪夜游",
@@ -6627,7 +7349,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "余杭区"
   },
   {
     "name": "浙江美术馆",
@@ -6664,7 +7387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州野生动物园游乐场",
@@ -6700,7 +7424,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "太平年·天下同宁——交互艺术大展",
@@ -6735,7 +7460,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动",
@@ -6772,7 +7498,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-41",
@@ -6809,13 +7536,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-57",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6846,13 +7574,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-130",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6883,13 +7612,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-143",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6919,13 +7649,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-161",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6956,13 +7687,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州富阳区亲子活动节",
     "venue": "杭州富阳区博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -6993,13 +7725,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州桐庐县讲座阅读探秘",
     "venue": "杭州桐庐县美术馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "免费",
@@ -7030,13 +7763,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末杭州富阳区影视放映活动",
     "venue": "杭州富阳区剧院",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-23",
     "end_date": "2027-02-22",
     "fee": "收费",
@@ -7067,7 +7801,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖音乐喷泉",
@@ -7103,13 +7838,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州长乔极地海洋公园海豚表演",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7140,7 +7876,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "title": "良渚文化探索营",
@@ -7175,7 +7912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "余杭区"
   },
   {
     "title": "非遗手作营",
@@ -7209,13 +7947,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西湖区"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-104",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "免费",
@@ -7246,13 +7985,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州上城区演出月",
     "venue": "杭州上城区科技馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7283,7 +8023,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州西湖区演出活动",
@@ -7319,13 +8060,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州淳安县演出嘉年华",
     "venue": "杭州淳安县体育馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7356,7 +8098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州宋城大地震",
@@ -7392,13 +8135,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州伞博物馆",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -7429,7 +8173,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "茶文化研学",
@@ -7464,7 +8209,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "title": "光影对话：新中国海报设计作品巡展",
@@ -7499,13 +8245,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "梦幻杭州拱墅区亲子活动之旅",
     "venue": "杭州拱墅区文化馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -7536,13 +8283,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州拱墅区科普活动演出",
     "venue": "杭州拱墅区公园",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -7573,13 +8321,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-68",
     "venue": "中国湿地博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "免费",
@@ -7610,13 +8359,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-76",
     "venue": "灵隐寺",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7646,13 +8396,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-94",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7683,13 +8434,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-135",
     "venue": "杭州西湖",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7719,13 +8471,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州拱墅区讲座阅读活动",
     "venue": "杭州拱墅区科技馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "免费",
@@ -7756,13 +8509,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年杭州富阳区亲子活动讲座",
     "venue": "杭州富阳区植物园",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7792,13 +8546,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州萧山区亲子活动比赛",
     "venue": "杭州萧山区科技馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-26",
     "end_date": "2027-02-25",
     "fee": "收费",
@@ -7829,7 +8584,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026黄霄雲杭州演唱会购票入口官网",
+    "name": "2026黄霄雲杭州演唱会购票入口官网",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-09",
+    "link": "",
+    "url": "",
+    "description": "2026黄霄雲杭州演唱会购票入口官网。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国丝绸博物馆",
@@ -7866,13 +8639,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州岳庙展览",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -7902,13 +8676,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州临安区展览之旅",
     "venue": "杭州临安区科技馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -7939,13 +8714,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州淳安县亲子活动日",
     "venue": "杭州淳安县公园",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -7976,13 +8752,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州余杭区展览探索",
     "venue": "杭州余杭区文化中心",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -8012,13 +8789,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州桐庐县体育赛事展览",
     "venue": "杭州桐庐县文化中心",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8048,13 +8826,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州虎跑亲子活动-50",
     "venue": "虎跑",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "免费",
@@ -8084,13 +8863,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-52",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8120,13 +8900,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-62",
     "venue": "西湖博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "免费",
@@ -8157,7 +8938,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-80",
@@ -8193,13 +8975,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州余杭区亲子活动活动",
     "venue": "杭州余杭区图书馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8230,13 +9013,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州余杭区演出科普",
     "venue": "杭州余杭区海洋馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "收费",
@@ -8266,13 +9050,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州余杭区科普活动月",
     "venue": "杭州余杭区文化馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-29",
     "end_date": "2027-02-28",
     "fee": "免费",
@@ -8303,7 +9088,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州西湖区讲座阅读展览",
@@ -8340,13 +9126,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2026黄霄雲杭州演唱会时间安排",
+    "name": "2026黄霄雲杭州演唱会时间安排",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-08-29",
+    "end_date": "2026-09-11",
+    "link": "",
+    "url": "",
+    "description": "2026黄霄雲杭州演唱会时间安排。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州跨湖桥遗址博物馆",
     "venue": "跨湖桥遗址博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8377,13 +9181,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8413,13 +9218,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-44",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8450,13 +9256,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-97",
     "venue": "中国杭帮菜博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "收费",
@@ -8487,13 +9294,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-111",
     "venue": "龙井",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "收费",
@@ -8523,13 +9331,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州下城区科普活动科普",
     "venue": "杭州下城区体育场",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-08-30",
     "end_date": "2027-03-01",
     "fee": "免费",
@@ -8559,7 +9368,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "重逢之约主题展",
@@ -8594,7 +9404,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "拱墅区"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-67",
@@ -8631,13 +9442,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-172",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "收费",
@@ -8667,13 +9479,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州拱墅区科普活动探索",
     "venue": "杭州拱墅区体育场",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "免费",
@@ -8703,7 +9516,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州宋城辣椒节",
@@ -8739,7 +9553,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "良渚博物院文明探索之旅",
@@ -8773,7 +9588,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "余杭区"
   },
   {
     "name": "杭州宋城清明上河图电影馆",
@@ -8809,13 +9625,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "影视放映"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-39",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8846,7 +9663,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览-91",
@@ -8883,7 +9701,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-93",
@@ -8920,13 +9739,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-125",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -8957,13 +9777,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州临安区讲座阅读季",
     "venue": "杭州临安区体育场",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "免费",
@@ -8993,13 +9814,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩杭州建德市展览节",
     "venue": "杭州建德市科技馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "免费",
@@ -9030,13 +9852,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式杭州杭州博物馆展览",
     "venue": "杭州博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "上城区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9067,13 +9890,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-40",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9104,13 +9928,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州岳庙展览-138",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9140,13 +9965,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-156",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "免费",
@@ -9177,13 +10003,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州上城区影视放映日",
     "venue": "杭州上城区体育场",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9213,13 +10040,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州临安区亲子活动科普",
     "venue": "杭州临安区图书馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9250,7 +10078,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -9285,13 +10114,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "上城区"
   },
   {
     "name": "走进杭州岳庙展览-78",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "免费",
@@ -9321,13 +10151,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州杭州乐园展览-115",
     "venue": "杭州乐园",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "萧山区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "收费",
@@ -9357,13 +10188,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读杭州宋城展览-144",
     "venue": "宋城",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "免费",
@@ -9393,7 +10225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -9428,13 +10261,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "上城区"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9465,13 +10299,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州中国扇博物馆展览-42",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9502,13 +10337,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-56",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9538,13 +10374,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州建德市影视放映工作坊",
     "venue": "杭州建德市博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "收费",
@@ -9575,7 +10412,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "中国丝绸博物馆丝路文化体验",
@@ -9610,13 +10448,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "发现杭州中国扇博物馆展览-72",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9647,13 +10486,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州桐庐县展览嘉年华",
     "venue": "杭州桐庐县青少年宫",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9684,13 +10524,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州富阳区讲座阅读日",
     "venue": "杭州富阳区图书馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -9721,7 +10562,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2026杭州萧山城市幸福生活节房展会活动（消费券额度+线上看房入口）",
+    "name": "2026杭州萧山城市幸福生活节房展会活动（消费券额度+线上看房入口）",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-09",
+    "link": "",
+    "url": "",
+    "description": "2026杭州萧山城市幸福生活节房展会活动（消费券额度+线上看房入口）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州虎跑泉水",
@@ -9758,13 +10617,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索杭州临安区演出演出",
     "venue": "杭州临安区美术馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "收费",
@@ -9795,13 +10655,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州下城区讲座阅读月",
     "venue": "杭州下城区动物园",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -9831,13 +10692,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子杭州滨江区演出工作坊",
     "venue": "杭州滨江区图书馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-07",
     "end_date": "2027-03-09",
     "fee": "收费",
@@ -9868,13 +10730,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-43",
     "venue": "杭州工艺美术博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "拱墅区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -9905,13 +10768,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-124",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -9942,13 +10806,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州萧山区体育赛事科普",
     "venue": "杭州萧山区美术馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-08",
     "end_date": "2027-03-10",
     "fee": "收费",
@@ -9979,7 +10844,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "发现杭州西湖区展览比赛",
@@ -10015,13 +10881,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-147",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10052,13 +10919,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览-174",
     "venue": "宋城",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "免费",
@@ -10088,13 +10956,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州余杭区影视放映展览",
     "venue": "杭州余杭区会展中心",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10124,13 +10993,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州桐庐县展览活动",
     "venue": "杭州桐庐县文化馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "免费",
@@ -10161,13 +11031,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期杭州淳安县亲子活动体验营",
     "venue": "杭州淳安县体育场",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-09",
     "end_date": "2027-03-11",
     "fee": "收费",
@@ -10197,7 +11068,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "自然导览课程",
@@ -10232,13 +11104,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西湖区"
   },
   {
     "name": "体验杭州湘湖研学-89",
     "venue": "湘湖",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10268,13 +11141,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州桐庐县影视放映比赛",
     "venue": "杭州桐庐县图书馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10305,7 +11179,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州西湖区讲座阅读发现",
@@ -10342,13 +11217,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州岳庙展览-168",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-11",
     "end_date": "2027-03-13",
     "fee": "免费",
@@ -10378,13 +11254,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026年蒲熠星杭州演唱会观演攻略（持续更新）",
+    "name": "2026年蒲熠星杭州演唱会观演攻略（持续更新）",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-15",
+    "link": "",
+    "url": "",
+    "description": "2026年蒲熠星杭州演唱会观演攻略（持续更新）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州湘湖花海",
     "venue": "湘湖旅游度假区",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -10414,7 +11308,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "AI科学工坊",
@@ -10449,13 +11344,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "拱墅区"
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-33",
     "venue": "中国茶叶博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -10486,13 +11382,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-34",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -10523,13 +11420,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-122",
     "venue": "西湖博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -10560,13 +11458,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-128",
     "venue": "中国湿地博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -10597,13 +11496,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-141",
     "venue": "龙井",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -10633,13 +11533,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州淳安县展览比赛",
     "venue": "杭州淳安县青少年宫",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -10670,13 +11571,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -10707,13 +11609,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览",
     "venue": "宋城",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -10743,13 +11646,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "研学杭州中国伞博物馆研学-131",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -10780,13 +11684,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州西湖亲子活动-165",
     "venue": "杭州西湖",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -10816,7 +11721,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动-171",
@@ -10852,13 +11758,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州上城区亲子活动课程",
     "venue": "杭州上城区美术馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -10889,13 +11796,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州临安区体育赛事月",
     "venue": "杭州临安区创意园",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -10925,13 +11833,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典杭州余杭区讲座阅读探秘",
     "venue": "杭州余杭区植物园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "免费",
@@ -10961,7 +11870,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "运博20年·何以动人影像与故事展",
@@ -10996,7 +11906,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "title": "浙江自然博物院2026暑期科普之旅（线上预约开放）",
@@ -11030,13 +11941,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "name": "暑期杭州临安区体育赛事体验营",
     "venue": "杭州临安区体育馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11067,13 +11979,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州临安区影视放映节",
     "venue": "杭州临安区植物园",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11103,13 +12016,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州余杭区影视放映发现",
     "venue": "杭州余杭区科技馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11140,13 +12054,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式杭州临安区演出探索",
     "venue": "杭州临安区海洋馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11176,13 +12091,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州上城区展览工作坊",
     "venue": "杭州上城区会展中心",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "免费",
@@ -11212,7 +12128,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州西溪湿地火柿节",
@@ -11249,7 +12166,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖桂花节",
@@ -11285,7 +12203,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "印鉴西湖·西湖美学系列展",
@@ -11320,7 +12239,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "上城区"
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -11355,13 +12275,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11392,13 +12313,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州九溪演出-142",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11428,13 +12350,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州拱墅区体育赛事比赛",
     "venue": "杭州拱墅区博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11465,7 +12388,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "互动杭州西湖区展览科普",
@@ -11502,13 +12426,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味杭州江干区影视放映展览",
     "venue": "杭州江干区创意园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -11538,13 +12463,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州东方文化园",
     "venue": "东方文化园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -11574,13 +12500,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州虎跑亲子活动",
     "venue": "虎跑",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -11610,13 +12537,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-136",
     "venue": "灵隐寺",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -11646,13 +12574,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州富阳区展览体验营",
     "venue": "杭州富阳区文化馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -11683,13 +12612,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进杭州江干区科普活动日",
     "venue": "杭州江干区文化中心",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -11719,13 +12649,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州上城区演出研学营",
     "venue": "杭州上城区动物园",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "收费",
@@ -11755,13 +12686,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "杭州展会3月展会一览表",
+    "name": "杭州展会3月展会一览表",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-27",
+    "link": "",
+    "url": "",
+    "description": "杭州展会3月展会一览表。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "京杭大运河博物馆",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "免费",
@@ -11792,13 +12741,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州湘湖游船",
     "venue": "湘湖旅游度假区",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -11828,7 +12778,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪湿地电瓶船",
@@ -11865,7 +12816,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "自然探秘公益课",
@@ -11899,13 +12851,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西湖区"
   },
   {
     "name": "杭州南宋官窑博物馆研学-155",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -11936,13 +12889,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州滨江区演出周",
     "venue": "杭州滨江区艺术中心",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -11973,13 +12927,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州萧山区亲子活动发现",
     "venue": "杭州萧山区会展中心",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -12009,13 +12964,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州滨江区科普活动之旅",
     "venue": "杭州滨江区创意园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "免费",
@@ -12045,7 +13001,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026黄霄雲杭州演唱会门票价格及档位",
+    "name": "2026黄霄雲杭州演唱会门票价格及档位",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-27",
+    "link": "",
+    "url": "",
+    "description": "2026黄霄雲杭州演唱会门票价格及档位。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州野生动物园步行区",
@@ -12081,7 +13055,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州九溪烟树漂流",
@@ -12117,13 +13092,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-98",
     "venue": "中国湿地博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "免费",
@@ -12154,13 +13130,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州江干区体育赛事季",
     "venue": "杭州江干区图书馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-18",
     "end_date": "2027-03-20",
     "fee": "收费",
@@ -12191,13 +13168,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进杭州建德市讲座阅读日",
     "venue": "杭州建德市创意园",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费",
@@ -12227,13 +13205,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年杭州上城区科普活动讲座",
     "venue": "杭州上城区艺术中心",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费",
@@ -12264,7 +13243,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "2026西溪火柿节",
@@ -12299,13 +13279,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动",
     "venue": "中国湿地博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "免费",
@@ -12336,13 +13317,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州龙井亲子活动",
     "venue": "龙井",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12372,7 +13354,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出",
@@ -12408,7 +13391,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-106",
@@ -12444,13 +13428,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-145",
     "venue": "杭州乐园",
     "city": "hangzhou",
-    "district": "西湖区",
+    "district": "萧山区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12480,7 +13465,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州西湖区影视放映演出",
@@ -12516,13 +13502,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州余杭区体育赛事课程",
     "venue": "杭州余杭区公园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12553,13 +13540,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州江干区亲子活动活动",
     "venue": "杭州江干区动物园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-20",
     "end_date": "2027-03-22",
     "fee": "收费",
@@ -12589,13 +13577,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览-90",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "免费",
@@ -12626,13 +13615,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩杭州灵隐寺演出-166",
     "venue": "灵隐寺",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12662,13 +13652,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州建德市体育赛事嘉年华",
     "venue": "杭州建德市文化馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12699,13 +13690,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州萧山区展览之旅",
     "venue": "杭州萧山区公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "免费",
@@ -12736,13 +13728,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州建德市体育赛事活动",
     "venue": "杭州建德市体育馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-21",
     "end_date": "2027-03-23",
     "fee": "收费",
@@ -12773,13 +13766,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-36",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "免费",
@@ -12810,13 +13804,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-159",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "收费",
@@ -12847,13 +13842,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州建德市亲子活动演出",
     "venue": "杭州建德市艺术中心",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-22",
     "end_date": "2027-03-24",
     "fee": "收费",
@@ -12884,13 +13880,48 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026杭州许嵩演唱会购票入口",
+    "name": "2026杭州许嵩演唱会购票入口",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-22",
+    "end_date": "2026-10-03",
+    "link": "",
+    "url": "",
+    "description": "2026杭州许嵩演唱会购票入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "2026杭州国际生物发酵展时间+地点+报名入口",
+    "name": "2026杭州国际生物发酵展时间+地点+报名入口",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-25",
+    "link": "",
+    "url": "",
+    "description": "2026杭州国际生物发酵展时间+地点+报名入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "中国扇博物馆",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -12921,13 +13952,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-35",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -12958,13 +13990,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-85",
     "venue": "杭州乐园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "萧山区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -12994,13 +14027,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进杭州岳庙展览-108",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -13030,13 +14064,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州烂苹果乐园亲子活动-146",
     "venue": "烂苹果乐园",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -13066,13 +14101,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州上城区亲子活动季",
     "venue": "杭州上城区文化中心",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13102,13 +14138,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童杭州淳安县讲座阅读课程",
     "venue": "杭州淳安县文化中心",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "免费",
@@ -13138,13 +14175,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读杭州富阳区影视放映周",
     "venue": "杭州富阳区青少年宫",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13175,13 +14213,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州桐庐县亲子活动季",
     "venue": "杭州桐庐县博物馆",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -13212,7 +14251,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州西湖博物馆",
@@ -13249,7 +14289,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城狂欢节",
@@ -13285,7 +14326,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州杭州工艺美术博物馆展览-133",
@@ -13322,13 +14364,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末杭州上城区展览活动",
     "venue": "杭州上城区博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13359,13 +14402,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州江干区讲座阅读研学营",
     "venue": "杭州江干区剧院",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13396,13 +14440,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童杭州下城区影视放映课程",
     "venue": "杭州下城区海洋馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "收费",
@@ -13432,13 +14477,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州余杭区科普活动研学营",
     "venue": "杭州余杭区体育馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "免费",
@@ -13469,7 +14515,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "杭州科技馆暑期科学营",
@@ -13504,13 +14551,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "拱墅区"
   },
   {
     "name": "实践杭州雷峰塔研学-107",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -13540,13 +14588,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州建德市展览研学营",
     "venue": "杭州建德市会展中心",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "免费",
@@ -13576,13 +14625,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园白鲸表演",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13613,13 +14663,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现杭州中国扇博物馆展览",
     "venue": "中国扇博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "免费",
@@ -13650,13 +14701,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-157",
     "venue": "中国杭帮菜博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13687,13 +14739,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州上城区体育赛事展览",
     "venue": "杭州上城区剧院",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13724,13 +14777,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州淳安县科普活动工作坊",
     "venue": "杭州淳安县植物园",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "免费",
@@ -13760,13 +14814,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州拱墅区体育赛事科普",
     "venue": "杭州拱墅区植物园",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13796,7 +14851,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "解读杭州宋城展览-54",
@@ -13832,13 +14888,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "实践杭州雷峰塔研学-77",
     "venue": "雷峰塔",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -13868,7 +14925,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州西湖区科普活动工作坊",
@@ -13905,13 +14963,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州拱墅区演出讲座",
     "venue": "杭州拱墅区青少年宫",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -13942,13 +15001,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州刀剪剑博物馆",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -13979,7 +15039,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -14014,13 +15075,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "经典杭州江干区展览探秘",
     "venue": "杭州江干区公园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -14051,13 +15113,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期杭州拱墅区影视放映体验营",
     "venue": "杭州拱墅区文化中心",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "收费",
@@ -14087,13 +15150,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州上城区科普活动探秘",
     "venue": "杭州上城区图书馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -14124,13 +15188,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州下城区讲座阅读研学营",
     "venue": "杭州下城区文化中心",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-09-28",
     "end_date": "2027-03-30",
     "fee": "免费",
@@ -14160,7 +15225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杭州野生动物园熊猫馆",
@@ -14196,7 +15262,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西湖音乐喷泉夜游",
@@ -14232,7 +15299,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "宋韵故事会",
@@ -14267,7 +15335,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "上城区"
   },
   {
     "title": "小小考古家体验营",
@@ -14301,7 +15370,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "余杭区"
   },
   {
     "name": "杭州杭州西湖亲子活动",
@@ -14337,13 +15407,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-140",
     "venue": "虎跑",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14373,7 +15444,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州西湖区亲子活动体验营",
@@ -14409,13 +15481,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州滨江区影视放映嘉年华",
     "venue": "杭州滨江区动物园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "收费",
@@ -14445,13 +15518,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州萧山区讲座阅读工作坊",
     "venue": "杭州萧山区剧院",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-09-29",
     "end_date": "2027-03-31",
     "fee": "免费",
@@ -14482,7 +15556,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "title": "相无古今——石窟艺术超感沉浸体验",
@@ -14517,13 +15592,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "研学杭州中国伞博物馆研学",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -14554,13 +15630,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-64",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -14591,13 +15668,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州江干区演出比赛",
     "venue": "杭州江干区植物园",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -14627,13 +15705,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州拱墅区影视放映月",
     "venue": "杭州拱墅区美术馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -14664,13 +15743,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州淳安县体育赛事节",
     "venue": "杭州淳安县动物园",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "收费",
@@ -14700,13 +15780,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "中国伞博物馆",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -14737,7 +15818,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杭州宋城天灯节",
@@ -14773,7 +15855,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "手工艺体验",
@@ -14808,13 +15891,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "拱墅区"
   },
   {
     "name": "发现杭州富阳区讲座阅读比赛",
     "venue": "杭州富阳区海洋馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -14844,7 +15928,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2026杭州许嵩演唱会演出座位图",
+    "name": "2026杭州许嵩演唱会演出座位图",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-11",
+    "link": "",
+    "url": "",
+    "description": "2026杭州许嵩演唱会演出座位图。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杭州工艺美术博物馆",
@@ -14881,13 +15983,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览",
     "venue": "中国杭帮菜博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -14918,13 +16021,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州灵隐寺演出-46",
     "venue": "灵隐寺",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -14954,13 +16058,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-74",
     "venue": "浙江美术馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "免费",
@@ -14991,13 +16096,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读杭州宋城展览-114",
     "venue": "宋城",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "免费",
@@ -15027,13 +16133,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州萧山区科普活动嘉年华",
     "venue": "杭州萧山区文化中心",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "免费",
@@ -15063,13 +16170,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15099,13 +16207,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州浙江省博物馆展览-60",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -15136,13 +16245,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州浙江省博物馆展览-150",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -15173,13 +16283,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼杭州滨江区讲座阅读发现",
     "venue": "杭州滨江区植物园",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -15209,13 +16320,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式杭州富阳区体育赛事探索",
     "venue": "杭州富阳区美术馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -15246,13 +16358,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "杭州太子湾郁金香展会时间2026",
+    "name": "杭州太子湾郁金香展会时间2026",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-17",
+    "link": "",
+    "url": "",
+    "description": "杭州太子湾郁金香展会时间2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15283,13 +16413,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-37",
     "venue": "中国杭帮菜博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15320,13 +16451,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-129",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15357,13 +16489,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州余杭区展览演出",
     "venue": "杭州余杭区动物园",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15393,13 +16526,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年杭州余杭区讲座阅读讲座",
     "venue": "杭州余杭区博物馆",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "免费",
@@ -15430,13 +16564,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读杭州下城区体育赛事周",
     "venue": "杭州下城区会展中心",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-10-04",
     "end_date": "2027-04-05",
     "fee": "收费",
@@ -15466,13 +16601,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻杭州九溪演出-112",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "收费",
@@ -15502,13 +16638,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州浙江省博物馆展览-120",
     "venue": "浙江省博物馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "免费",
@@ -15539,13 +16676,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州湖滨步行街夜景",
     "venue": "湖滨步行街",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -15575,13 +16713,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进杭州岳庙展览-48",
     "venue": "岳庙",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -15611,13 +16750,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园水母宫",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -15648,7 +16788,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "中国湿地博物馆科普艺术季·博物馆临时展览推介案例展",
@@ -15683,7 +16824,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "title": "夜观昆虫自然活动",
@@ -15717,7 +16859,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "西湖区"
   },
   {
     "name": "梦幻杭州西湖区讲座阅读之旅",
@@ -15754,13 +16897,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味杭州富阳区科普活动展览",
     "venue": "杭州富阳区科技馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -15791,13 +16935,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现杭州建德市科普活动比赛",
     "venue": "杭州建德市剧院",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费",
@@ -15828,13 +16973,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -15865,13 +17011,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州湘湖研学",
     "venue": "湘湖",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -15901,13 +17048,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游杭州六和塔展览-49",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -15937,13 +17085,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游杭州六和塔展览-79",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -15973,13 +17122,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "欢乐杭州长乔极地海洋公园亲子活动-87",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16010,13 +17160,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州中国丝绸博物馆演出-154",
     "venue": "中国丝绸博物馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16047,13 +17198,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州建德市科普活动发现",
     "venue": "杭州建德市图书馆",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -16084,13 +17236,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子杭州桐庐县亲子活动工作坊",
     "venue": "杭州桐庐县体育场",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16120,13 +17273,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州桐庐县体育赛事之旅",
     "venue": "杭州桐庐县动物园",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "收费",
@@ -16156,13 +17310,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩杭州灵隐寺演出",
     "venue": "灵隐寺",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16192,13 +17347,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动-69",
     "venue": "中国京杭大运河博物馆",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16229,13 +17385,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验杭州拱墅区讲座阅读嘉年华",
     "venue": "杭州拱墅区会展中心",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -16265,13 +17422,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘杭州萧山区影视放映月",
     "venue": "杭州萧山区青少年宫",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16302,13 +17460,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末杭州下城区体育赛事活动",
     "venue": "杭州下城区植物园",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -16338,13 +17497,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘杭州富阳区展览月",
     "venue": "杭州富阳区体育馆",
     "city": "hangzhou",
-    "district": "富阳区",
+    "district": "西湖区",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -16375,7 +17535,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "title": "杭州西湖博物馆奇妙夜",
@@ -16410,13 +17571,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": false
+    "verified": false,
+    "district": "上城区"
   },
   {
     "name": "体验杭州湘湖研学-59",
     "venue": "湘湖",
     "city": "hangzhou",
-    "district": "余杭区",
+    "district": "西湖区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -16446,13 +17608,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州南宋官窑博物馆研学-65",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -16483,13 +17646,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "研学杭州中国伞博物馆研学-71",
     "venue": "中国伞博物馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "收费",
@@ -16520,13 +17684,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州虎跑亲子活动-110",
     "venue": "虎跑",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-10",
     "end_date": "2027-04-11",
     "fee": "免费",
@@ -16556,7 +17721,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026杭州CP32最新消息(持续更新)",
+    "name": "2026杭州CP32最新消息(持续更新)",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-20",
+    "link": "",
+    "url": "",
+    "description": "2026杭州CP32最新消息(持续更新)。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -16591,13 +17774,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "梦幻杭州九溪演出-82",
     "venue": "九溪",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16627,13 +17811,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典杭州杭州野生动物园演出-88",
     "venue": "杭州野生动物园",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16663,13 +17848,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘杭州淳安县体育赛事月",
     "venue": "杭州淳安县会展中心",
     "city": "hangzhou",
-    "district": "淳安县",
+    "district": "西湖区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16699,7 +17885,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游杭州西湖区科普活动季",
@@ -16735,13 +17922,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼杭州上城区体育赛事发现",
     "venue": "杭州上城区青少年宫",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -16772,7 +17960,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年杭州西湖区体育赛事讲座",
@@ -16809,7 +17998,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -16844,13 +18034,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "name": "杭州杭州西湖亲子活动-45",
     "venue": "杭州西湖",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -16880,13 +18071,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "杭州杭州乐园展览-55",
     "venue": "杭州乐园",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "萧山区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -16916,13 +18108,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-126",
     "venue": "胡庆余堂中药博物馆",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "免费",
@@ -16953,13 +18146,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游杭州六和塔展览-139",
     "venue": "六和塔",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -16989,13 +18183,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子杭州江干区体育赛事工作坊",
     "venue": "杭州江干区艺术中心",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17026,13 +18221,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探索杭州滨江区体育赛事演出",
     "venue": "杭州滨江区博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-10-12",
     "end_date": "2027-04-13",
     "fee": "收费",
@@ -17063,13 +18259,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "杭州清河坊历史街区",
     "venue": "清河坊街",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17099,13 +18296,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读杭州宋城展览-84",
     "venue": "宋城",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17135,13 +18333,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭杭州桐庐县科普活动研学营",
     "venue": "杭州桐庐县植物园",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17171,13 +18370,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州萧山区影视放映研学营",
     "venue": "杭州萧山区文化馆",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "收费",
@@ -17208,13 +18408,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现杭州滨江区讲座阅读比赛",
     "venue": "杭州滨江区会展中心",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17244,13 +18445,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进杭州下城区科普活动日",
     "venue": "杭州下城区博物馆",
     "city": "hangzhou",
-    "district": "下城区",
+    "district": "西湖区",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17281,13 +18483,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南宋官窑博物馆",
     "venue": "南宋官窑博物馆",
     "city": "hangzhou",
-    "district": "上城区",
+    "district": "西湖区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17318,7 +18521,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "title": "杭州青少年活动中心2026夏令营·少年长成营",
@@ -17352,7 +18556,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "西湖区"
   },
   {
     "name": "体验杭州湘湖研学-119",
@@ -17388,13 +18593,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩杭州桐庐县科普活动节",
     "venue": "杭州桐庐县会展中心",
     "city": "hangzhou",
-    "district": "桐庐县",
+    "district": "西湖区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17424,13 +18630,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味杭州临安区展览展览",
     "venue": "杭州临安区动物园",
     "city": "hangzhou",
-    "district": "临安区",
+    "district": "西湖区",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "免费",
@@ -17460,13 +18667,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州长乔极地海洋公园企鹅馆",
     "venue": "长乔极地海洋公园",
     "city": "hangzhou",
-    "district": "萧山区",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17497,7 +18705,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "title": "繁天录——中国动画英雄潮流特展",
@@ -17532,13 +18741,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "上城区"
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-70",
     "venue": "中国刀剪剑博物馆",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17569,13 +18779,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索杭州西溪湿地研学-83",
     "venue": "西溪湿地",
     "city": "hangzhou",
-    "district": "滨江区",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17605,13 +18816,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭杭州拱墅区演出研学营",
     "venue": "杭州拱墅区图书馆",
     "city": "hangzhou",
-    "district": "拱墅区",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17642,13 +18854,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期杭州建德市讲座阅读体验营",
     "venue": "杭州建德市公园",
     "city": "hangzhou",
-    "district": "建德市",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "免费",
@@ -17679,13 +18892,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动杭州江干区演出科普",
     "venue": "杭州江干区会展中心",
     "city": "hangzhou",
-    "district": "江干区",
+    "district": "西湖区",
     "start_date": "2026-10-15",
     "end_date": "2027-04-16",
     "fee": "收费",
@@ -17715,7 +18929,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026杭州市发展会展业服务中心工作人员招聘公告",
+    "name": "2026杭州市发展会展业服务中心工作人员招聘公告",
+    "venue": "杭州文化场馆",
+    "city": "hangzhou",
+    "start_date": "2026-10-20",
+    "end_date": "2026-11-02",
+    "link": "",
+    "url": "",
+    "description": "2026杭州市发展会展业服务中心工作人员招聘公告。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "title": "浙江交响乐团2026音乐季·英雄的诗篇",
@@ -17750,7 +18982,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "拱墅区"
   },
   {
     "name": "杭州西湖菊花展",
@@ -17786,7 +19019,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州宋城火把节",
@@ -17822,7 +19056,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州宋城花灯节",
@@ -17858,7 +19093,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪探梅节",
@@ -17895,13 +19131,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州超山探梅",
     "venue": "超山风景区",
     "city": "hangzhou",
-    "district": "临平区",
+    "district": "西湖区",
     "start_date": "2027-02-01",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -17932,7 +19169,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州灵峰探梅",
@@ -17968,7 +19206,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州西溪花朝节",
@@ -18005,7 +19244,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杭州太子湾郁金香展",
@@ -18042,7 +19282,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州太子湾樱花展",
@@ -18079,7 +19320,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "杭州龙井茶园采茶",
@@ -18115,7 +19357,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "西湖音乐节",
@@ -18151,7 +19394,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",
@@ -18186,6 +19430,7 @@
       "verified_at": "2026-07-18",
       "verified_by": "http_check"
     },
-    "verified": true
+    "verified": true,
+    "district": "上城区"
   }
 ]

@@ -1,0 +1,13 @@
+name = "goout-api"
+main = "api/worker.js"
+compatibility_date = "2024-09-23"
+
+# Worker 读取的公开数据源（GitHub Pages 上的 JSON，已开启 CORS）
+# 部署后默认即生效；如需指向自己的仓库，改这里即可。
+[vars]
+BASE_URL = "https://islon.github.io/goout/output"
+
+# 如需绑定自定义域名（可选）：
+# routes = [
+#   { pattern = "api.goout.example.com", custom_domain = true }
+# ]

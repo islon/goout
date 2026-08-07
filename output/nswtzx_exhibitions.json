@@ -7,8 +7,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": true
+    "source": "baoan",
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人书法（6节课程，需自备材料）",
@@ -18,8 +19,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "source": "baoan",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿民族打击乐B班（面向10-12岁少年招募）",
@@ -29,8 +31,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": true
+    "source": "baoan",
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人汉唐舞（4节课程，自备舞蹈练功服）",
@@ -40,8 +43,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1d5b10a078ea414286122536c8ed1227",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "source": "baoan",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年光明区群众文艺团队培育提升系列活动",
@@ -50,9 +54,10 @@
     "end_date": "2027-03-31",
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2389c0ce666645158dc6c28b1ccfe2f2",
     "contact": "0755-86051111",
-    "description": "免费。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "description": "免费，在光明区文化馆举办，培训课程。",
+    "source": "guangming",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民健身公益培训(第十六期）",
@@ -61,9 +66,10 @@
     "end_date": "2026-07-08",
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f32222619784e11801f4697687cd1e8",
     "contact": "0755-86051111",
-    "description": "免费。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "description": "免费，在宝安区文化馆燕罗街道分馆举办，培训课程。",
+    "source": "baoan",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十七期）",
@@ -72,9 +78,10 @@
     "end_date": "2026-07-09",
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6eda873911bb41e7accb4facb04dff54",
     "contact": "0755-86051111",
-    "description": "免费。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "description": "免费，在宝安区文化馆燕罗街道分馆举办，培训课程。",
+    "source": "baoan",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿朗诵（3节课程）",
@@ -84,8 +91,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7c1a6802e201441593f1366949ba0865",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": true
+    "source": "baoan",
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "2026年光明区文化馆“四季村晚”系列活动",
@@ -94,9 +102,10 @@
     "end_date": "2026-12-25",
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b7b4c478dd7248dfb2afd5edee35c3d5",
     "contact": "0755-86051111",
-    "description": "免费。演出",
-    "source": "nswtzx",
-    "family_friendly": false
+    "description": "免费，在光明区文化馆举办，文艺演出。",
+    "source": "guangming",
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "罗湖区文化馆总分馆系列活动——桂园街道分馆“唱享幸福生活”老年人合唱活动",
@@ -105,9 +114,10 @@
     "end_date": "2026-07-08",
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bca4f02623cb4f1898f4617cd0cd828d",
     "contact": "0755-86051111",
-    "description": "免费。综合",
+    "description": "免费，在桂园街道综合文体中心(桂园街道分馆）举办，综合性活动。",
     "source": "nswtzx",
-    "family_friendly": false
+    "family_friendly": false,
+    "fee": "免费"
   },
   {
     "name": "少儿声乐（3节课程）",
@@ -117,8 +127,9 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": true
+    "source": "baoan",
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "成人零基础芭蕾形体（10节课程，自备舞蹈练功服）",
@@ -128,7 +139,8 @@
     "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3",
     "contact": "0755-86051111",
     "description": "免费。需预约报名。培训",
-    "source": "nswtzx",
-    "family_friendly": false
+    "source": "baoan",
+    "family_friendly": false,
+    "fee": "免费"
   }
 ]

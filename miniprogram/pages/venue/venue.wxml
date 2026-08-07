@@ -3,7 +3,13 @@
 
   <!-- 头部 -->
   <view class="venue-header">
-    <view class="venue-name">{{venue.name}}</view>
+    <view class="venue-name-row">
+      <view class="venue-name" bindlongpress="onCopyText" data-text="{{venue.name}}">{{venue.name}}</view>
+      <view class="venue-name-actions">
+        <text class="venue-action-btn" bindtap="onCopyText" data-text="{{venue.name}}">复制</text>
+        <text class="venue-action-btn primary" bindtap="onOpenMap">导航</text>
+      </view>
+    </view>
     <view class="venue-badges">
       <view class="badge badge-type">{{venue.type}}</view>
       <view class="badge badge-city">{{cityName}}</view>
@@ -25,8 +31,11 @@
     <view wx:if="{{hasAddress}}" class="info-row">
       <view class="info-label">地址</view>
       <view class="info-value">
-        <text>{{venue.address}}</text>
-        <text class="copy-link" bindtap="onCopyAddress">复制</text>
+        <text class="addr-text" bindlongpress="onCopyText" data-text="{{venue.address}}">{{venue.address}}</text>
+        <view class="addr-actions">
+          <text wx:if="{{hasCoords}}" class="copy-link" bindtap="onCopyText" data-text="{{venue.address}}">复制</text>
+          <text class="map-link" bindtap="onOpenMap">导航</text>
+        </view>
       </view>
     </view>
     <view wx:if="{{hasTransport}}" class="info-row">
@@ -45,15 +54,20 @@
     <view class="info-desc">{{venue.description}}</view>
   </view>
 
-  <!-- 官网链接 -->
-  <view class="link-section" wx:if="{{hasOfficialUrl}}">
-    <button class="link-btn" bindtap="onCopyUrl">复制官网链接</button>
-    <view class="link-hint">复制后在浏览器中打开查看场馆官网</view>
+  <!-- 核验链接 -->
+  <view class="link-section" wx:if="{{hasLinks}}">
+    <view class="link-title">🔗 核验链接</view>
+    <view wx:for="{{links}}" wx:key="url" class="link-card">
+      <view class="link-label">{{item.label}}</view>
+      <view class="link-url">{{item.url}}</view>
+      <button class="link-copy-btn" bindtap="onCopyLink" data-url="{{item.url}}">复制链接</button>
+    </view>
+    <view class="link-hint">复制后在浏览器中打开查看详情</view>
   </view>
 
   <!-- 该场馆的活动 -->
   <view class="activities-section" wx:if="{{hasActivities}}">
-    <view class="section-title">该场馆的近期活动</view>
+    <view class="section-title">近期活动</view>
     <view class="activity-list">
       <view wx:for="{{activities}}" wx:key="cardId" class="activity-item" bindtap="onActivityTap" data-id="{{item.cardId}}">
         <view class="activity-title">{{item.name}}</view>
@@ -69,13 +83,21 @@
   <view class="empty-tip" wx:if="{{!hasActivities}}">
     <image class="empty-icon" src="/assets/about-cal.png" mode="aspectFit"></image>
     <view class="empty-title">暂无近期活动</view>
-    <view class="empty-desc">这个场馆本身就值得逛逛，可以先收藏，有活动再来~</view>
+    <view class="empty-desc">场馆本身就值得逛逛</view>
   </view>
 
   <!-- 反馈入口 -->
   <view class="feedback-bar" bindtap="onFeedbackTap">
-    <view class="feedback-text">场馆信息有误或想补充？</view>
+    <view class="feedback-text">信息有误或想补充？</view>
     <view class="feedback-action">提交反馈</view>
+  </view>
+
+  <!-- 分享入口 -->
+  <view class="share-section">
+    <button class="share-btn" open-type="share">
+      <image class="share-icon" src="/assets/about-share.png" mode="aspectFit"></image>
+      <text class="share-text">分享给朋友</text>
+    </button>
   </view>
 
   <view style="height: 60rpx;"></view>

@@ -221,6 +221,11 @@
   "start_date": "YYYY-MM-DD",
   "end_date": "YYYY-MM-DD",
   "link": "原始来源链接（必须保留）",
+  "url": "原始来源链接（与 link 一致）",
+  "links": [
+    {"url": "https://...", "label": "活动详情"},
+    {"url": "https://...", "label": "官方公告"}
+  ],
   "description": "活动描述（含时间/地点/嘉宾/报名方式）",
   "category": "展览/演出/讲座阅读/科普活动/亲子活动/体育赛事/影视放映/其他",
   "fee": "免费/免费需预约/收费",
@@ -229,6 +234,21 @@
   "source": "数据来源说明"
 }
 ```
+
+场馆数据新增 `links` 字段（替代旧的 `official_url`）：
+```json
+{
+  "name": "场馆名称",
+  "links": [
+    {"url": "https://www.nanshanmuseum.com/", "label": "官方网站"},
+    {"url": "https://...gov.cn/...", "label": "政府公告"}
+  ]
+}
+```
+**links 规则**：
+- 每条记录不超过 2 个链接
+- 官方链接优先，无官方则放政府/媒体三方链接
+- label 需清晰标识来源类型
 
 ### 5. 常见问题与解决
 

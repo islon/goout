@@ -4,7 +4,7 @@
   <!-- 加载状态 -->
   <view wx:if="{{loading}}" class="loading-mask">
     <view class="loading-spinner"></view>
-    <text class="loading-text">正在加载最新活动数据...</text>
+    <text class="loading-text">加载中...</text>
   </view>
 
   <!-- 搜索框 -->
@@ -31,7 +31,6 @@
 
   <!-- 城市筛选 -->
   <view class="filter-section">
-    <view class="filter-label">城市</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{cities}}" wx:key="key"
@@ -43,49 +42,8 @@
     </scroll-view>
   </view>
 
-  <!-- 时间筛选 -->
-  <view class="filter-section">
-    <view class="filter-label">时间筛选</view>
-    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
-      <view class="filter-bar">
-        <view wx:for="{{timeFilters}}" wx:key="key"
-          class="filter-btn {{timeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
-          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTimeTap">
-          {{item.name}}
-        </view>
-      </view>
-    </scroll-view>
-  </view>
-
-  <!-- 亲子筛选 -->
-  <view class="filter-section">
-    <view class="filter-label">亲子筛选</view>
-    <view class="filter-bar">
-      <view wx:for="{{familyFilters}}" wx:key="key"
-        class="filter-btn {{familyFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
-        data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onFamilyTap">
-        {{item.name}}
-      </view>
-    </view>
-  </view>
-
-  <!-- 类型筛选 -->
-  <view class="filter-section">
-    <view class="filter-label">类型筛选</view>
-    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
-      <view class="filter-bar">
-        <view wx:for="{{typeFilters}}" wx:key="key"
-          class="filter-btn {{typeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
-          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTypeTap">
-          {{item.name}}
-        </view>
-      </view>
-    </scroll-view>
-  </view>
-
   <!-- 区县筛选 -->
   <view class="filter-section">
-    <view class="filter-label">区县</view>
     <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar">
         <view wx:for="{{districts}}" wx:key="name"
@@ -97,9 +55,47 @@
     </scroll-view>
   </view>
 
+  <!-- 时间筛选 -->
+  <view class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{timeFilters}}" wx:key="key"
+          class="filter-btn {{timeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTimeTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 活动持续时长筛选 -->
+  <view class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{durationFilters}}" wx:key="key"
+          class="filter-btn {{durationFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onDurationTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 类型筛选 -->
+  <view class="filter-section">
+    <scroll-view scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="filter-bar">
+        <view wx:for="{{typeFilters}}" wx:key="key"
+          class="filter-btn {{typeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"
+          data-key="{{item.key}}" data-disabled="{{item.disabled}}" bindtap="onTypeTap">
+          {{item.name}}
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
   <!-- 地点筛选 -->
   <view class="filter-section">
-    <view class="filter-label">地点</view>
     <!-- 收起状态：横向滚动，只显示前8个 -->
     <scroll-view wx:if="{{!showAllSources}}" scroll-x class="filter-scroll" enhanced show-scrollbar="{{false}}">
       <view class="filter-bar filter-bar-inline">
@@ -125,7 +121,6 @@
 
   <!-- 费用筛选 -->
   <view class="filter-section">
-    <view class="filter-label">收费筛选</view>
     <view class="filter-bar">
       <view wx:for="{{feeFilters}}" wx:key="key"
         class="filter-btn {{feeFilter === item.key ? 'active' : ''}} {{item.disabled ? 'disabled' : ''}}"

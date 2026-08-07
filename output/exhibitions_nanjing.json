@@ -1,9 +1,187 @@
 [
   {
+    "title": "高淳区龙虾啤酒·夏夜嘉年华",
+    "name": "高淳区龙虾啤酒·夏夜嘉年华",
+    "venue": "固城湾景区",
+    "city": "nanjing",
+    "start_date": "2026-06-20",
+    "end_date": "2026-07-25",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "吹晚风、看比赛、吃龙虾的夏夜嘉年华，暑期消暑夜游。",
+    "category": "体育赛事",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "市集"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "南京博物院 延时开放·博物馆奇妙夜",
+    "name": "南京博物院 延时开放·博物馆奇妙夜",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-30",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "7.1-8.30每周日至周四至20:00、周五六至21:00，特展馆《世界珍宝——印度莫卧儿王朝艺术展》等夜场开放。",
+    "category": "展览",
+    "fee": "部分免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.njmuseum.com/",
+    "district": "其他"
+  },
+  {
+    "title": "灯影——南京博物院藏陕西皮影艺术展",
+    "name": "灯影——南京博物院藏陕西皮影艺术展",
+    "venue": "南京博物院",
+    "city": "nanjing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-30",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "暑假上新特展之一，以光影呈现陕西皮影艺术，夜游南博时顺道邂逅千年皮影。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.njmuseum.com/",
+    "district": "其他"
+  },
+  {
+    "title": "银杏湖乐园 暑期亲子",
+    "name": "银杏湖乐园 暑期亲子",
+    "venue": "南京银杏湖乐园",
+    "city": "nanjing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "设施先进的亲子主题乐园，暑期戏水与游乐项目全开，家庭票2大1小可选。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "http://www.gingkolake.com/",
+    "district": "其他"
+  },
+  {
+    "title": "徐良\"时间折叠\"巡回演唱会-南京站",
+    "name": "徐良\"时间折叠\"巡回演唱会-南京站",
+    "venue": "梦之蓝青奥体育公园体育馆",
+    "city": "nanjing",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-19",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "徐良\"时间折叠\"巡演南京站，暑期青奥体育馆开唱。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
     "name": "江苏科技馆奇妙科学夜",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -33,13 +211,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玄武湖亲子骑行",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-17",
     "fee": "免费",
@@ -70,13 +249,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "红山动物园灵长类科普",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -106,13 +286,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玛雅海滩水上电音节",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-16",
     "fee": "收费",
@@ -143,13 +324,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京泥人非遗手作",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -179,13 +361,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京鸭文化体验",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-11-17",
     "fee": "免费",
@@ -215,13 +398,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆经典诵读",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -252,13 +436,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆科普阅读",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -289,13 +474,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京市少儿图书馆亲子手工",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -326,13 +512,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心击剑体验",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -362,7 +549,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "探秘南京高淳区影视放映月",
@@ -399,7 +587,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京溧水区影视放映季",
@@ -436,7 +625,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京浦口区体育赛事节",
@@ -472,13 +662,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "南京科技馆机械原理实验",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-23",
     "fee": "免费需预约",
@@ -509,13 +700,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玄武湖环湖亲子跑",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -546,13 +738,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "老门东民俗体验",
     "venue": "老门东",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "免费",
@@ -582,13 +775,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京白局体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "免费需预约",
@@ -618,13 +812,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆少儿英语角",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-23",
     "fee": "免费",
@@ -655,13 +850,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "乌衣巷历史文化研学",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -691,13 +887,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园定向越野",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -728,13 +925,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园攀岩体验",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-09-13",
     "fee": "收费",
@@ -765,13 +963,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心射箭体验",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -801,13 +1000,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "阳山碑材研学",
     "venue": "阳山碑材",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -837,13 +1037,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "游子山登山",
     "venue": "游子山",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-12-18",
     "fee": "免费",
@@ -873,7 +1074,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京江宁区影视放映科普",
@@ -910,7 +1112,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京鼓楼区讲座阅读发现",
@@ -946,7 +1149,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京雨花台区体育赛事研学营",
@@ -983,13 +1187,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "朝天宫馆藏精品文物研学",
     "venue": "南京市博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-20",
     "fee": "免费需预约",
@@ -1020,13 +1225,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "六朝博物馆小小讲解员",
     "venue": "六朝博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-26",
     "fee": "免费需预约",
@@ -1057,13 +1263,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆航天主题研学",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -1094,13 +1301,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆环保主题研学",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-24",
     "fee": "免费需预约",
@@ -1130,13 +1338,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "莫愁湖公园植物寻宝",
     "venue": "莫愁湖公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-20",
     "fee": "免费",
@@ -1167,13 +1376,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园主题夏令营",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -1203,13 +1413,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京绒花非遗手作体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -1239,13 +1450,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心足球夏令营",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-31",
     "fee": "收费",
@@ -1275,13 +1487,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "五台山体育中心跆拳道",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-21",
     "fee": "收费",
@@ -1311,13 +1524,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台红色夏令营",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "免费",
@@ -1347,13 +1561,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梅园新村小小讲解员",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -1383,13 +1598,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "大金山国防园军事夏令营",
     "venue": "大金山国防园",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -1419,7 +1635,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘南京六合区演出月",
@@ -1456,7 +1673,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京建邺区科普活动探索",
@@ -1492,7 +1710,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "家庭南京六合区展览研学营",
@@ -1528,7 +1747,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读南京高淳区体育赛事周",
@@ -1564,7 +1784,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "家庭南京溧水区科普活动研学营",
@@ -1601,13 +1822,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆少儿编程营",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-21",
     "fee": "收费",
@@ -1638,13 +1860,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中山植物园热带植物探秘",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-09-16",
     "fee": "收费",
@@ -1674,13 +1897,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "流徽榭民国建筑研学",
     "venue": "中山陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-22",
     "fee": "免费需预约",
@@ -1710,7 +1934,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京江宁区展览比赛",
@@ -1746,7 +1971,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩南京江宁区演出节",
@@ -1783,7 +2009,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现南京浦口区科普活动比赛",
@@ -1820,13 +2047,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "朝天宫明代建筑研学",
     "venue": "南京市博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-09-02",
     "fee": "免费需预约",
@@ -1857,7 +2085,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京雨花台区科普活动节",
@@ -1893,7 +2122,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京玄武区科普活动体验营",
@@ -1930,13 +2160,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "玛雅海滩造浪池派对",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-23",
     "fee": "收费",
@@ -1967,13 +2198,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆经纬书签手作",
     "venue": "江宁织造博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-07",
     "fee": "免费需预约",
@@ -2004,13 +2236,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京市少儿图书馆暑期营",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-15",
     "fee": "免费",
@@ -2041,13 +2274,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园国防教育",
     "venue": "南京国防园",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "免费",
@@ -2077,7 +2311,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京溧水区演出周",
@@ -2114,7 +2349,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京溧水区体育赛事月",
@@ -2150,13 +2386,50 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "汪苏泷2026\"明日世界\"世界巡回演唱会-南京站",
+    "name": "汪苏泷2026\"明日世界\"世界巡回演唱会-南京站",
+    "venue": "南京奥体中心体育场",
+    "city": "nanjing",
+    "start_date": "2026-07-24",
+    "end_date": "2026-08-02",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "巡演歌曲全新编排、顶级舞美再创新，奥体连开多场。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.njaoti.com/",
+    "district": "其他"
   },
   {
     "name": "江宁织造博物馆曹雪芹文化讲堂",
     "venue": "江宁织造博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-29",
     "fee": "免费需预约",
@@ -2187,13 +2460,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "江苏科技馆机器人擂台赛",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -2223,13 +2497,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玄武湖夜探自然",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-05",
     "fee": "收费",
@@ -2260,13 +2535,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京海底世界触摸池体验",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-11-24",
     "fee": "收费",
@@ -2296,13 +2572,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "秦淮灯会研学",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -2332,13 +2609,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆手工书制作",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -2369,13 +2647,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆绘本故事会",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -2406,13 +2685,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆名家讲座",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -2443,13 +2723,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金陵图书馆英语角",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -2480,13 +2761,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆绘本剧场",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -2517,13 +2799,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "南京市少儿图书馆科普讲座",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -2554,13 +2837,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "明孝陵神道研学",
     "venue": "明孝陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -2590,13 +2874,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "玄武湖环湖跑",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "免费",
@@ -2627,7 +2912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京雨花台区体育赛事展览",
@@ -2664,7 +2950,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童南京玄武区科普活动课程",
@@ -2701,7 +2988,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京鼓楼区演出体验营",
@@ -2737,13 +3025,49 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "罗云熙\"熙界无限剧场\"巡回演唱会-南京站",
+    "name": "罗云熙\"熙界无限剧场\"巡回演唱会-南京站",
+    "venue": "梦之蓝青奥体育公园体育馆",
+    "city": "nanjing",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "罗云熙熙界无限剧场巡回演唱会南京站，7月25日19:00开唱。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "龙蟠虎踞南京城市史研学",
     "venue": "南京市博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-25",
     "fee": "免费需预约",
@@ -2774,13 +3098,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "江苏科技馆物理大闯关",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-20",
     "fee": "免费需预约",
@@ -2810,13 +3135,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中山植物园药用植物认知",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-25",
     "fee": "收费",
@@ -2846,13 +3172,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京图书馆写作工坊",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -2883,13 +3210,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "总统府太平天国研学",
     "venue": "总统府",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-06",
     "fee": "收费",
@@ -2919,13 +3247,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "明城墙中华门段研学",
     "venue": "中华门瓮城",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -2955,13 +3284,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园桨板体验",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -2992,13 +3322,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "珍珠泉野营体验",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -3029,7 +3360,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京雨花台区科普活动发现",
@@ -3066,13 +3398,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆生命科学营",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-07-31",
     "fee": "收费",
@@ -3102,13 +3435,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玄武湖自然观察课",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-14",
     "fee": "免费",
@@ -3139,13 +3473,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "红山森林动物园夜探",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-21",
     "fee": "收费",
@@ -3175,13 +3510,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京云锦织造体验",
     "venue": "南京云锦博物馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-26",
     "fee": "收费",
@@ -3212,13 +3548,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心体操培训",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-06",
     "fee": "收费",
@@ -3248,13 +3585,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖帆船体验",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-07",
     "fee": "收费",
@@ -3285,13 +3623,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园军事夏令营",
     "venue": "南京国防园",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-07-31",
     "fee": "收费",
@@ -3321,7 +3660,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验南京浦口区讲座阅读嘉年华",
@@ -3357,7 +3697,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京秦淮区演出工作坊",
@@ -3394,7 +3735,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京雨花台区演出探秘",
@@ -3431,7 +3773,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京鼓楼区科普活动探秘",
@@ -3468,7 +3811,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京江宁区展览工作坊",
@@ -3504,13 +3848,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南博镇院之宝导览研学",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-27",
     "fee": "免费需预约",
@@ -3540,13 +3885,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院民国馆沉浸研学",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-27",
     "fee": "免费需预约",
@@ -3576,13 +3922,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中山陵博爱精神研学",
     "venue": "中山陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-07",
     "fee": "免费需预约",
@@ -3612,13 +3959,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "王导谢安纪念馆研学",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-22",
     "fee": "收费",
@@ -3648,7 +3996,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京雨花台区影视放映体验营",
@@ -3684,7 +4033,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读南京建邺区展览周",
@@ -3720,7 +4070,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味南京浦口区讲座阅读展览",
@@ -3757,7 +4108,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京江宁区科普活动嘉年华",
@@ -3793,7 +4145,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京鼓楼区演出探索",
@@ -3829,7 +4182,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京浦口区讲座阅读研学营",
@@ -3865,13 +4219,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "老门东非遗市集",
     "venue": "老门东",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-11-28",
     "fee": "免费",
@@ -3901,13 +4256,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆研学",
     "venue": "侵华日军南京大屠杀遇难同胞纪念馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-28",
     "fee": "免费需预约",
@@ -3937,7 +4293,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻南京浦口区影视放映之旅",
@@ -3974,7 +4331,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京江宁区影视放映季",
@@ -4010,13 +4368,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖亲子皮划艇",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-10-29",
     "fee": "收费",
@@ -4047,13 +4406,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京欢乐谷暑期狂欢节",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-29",
     "fee": "收费",
@@ -4083,13 +4443,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京海底世界夜宿海洋馆",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -4119,13 +4480,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "江宁织造博物馆红楼梦文化体验",
     "venue": "江宁织造博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-29",
     "fee": "免费需预约",
@@ -4156,13 +4518,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "五台山体育中心网球",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-21",
     "fee": "收费",
@@ -4192,7 +4555,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进南京雨花台区展览日",
@@ -4229,7 +4593,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘南京鼓楼区展览月",
@@ -4266,7 +4631,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游南京高淳区亲子活动季",
@@ -4303,13 +4669,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026李健万物安生时巡回演唱会南京站演出时间+地点+门票",
+    "name": "2026李健万物安生时巡回演唱会南京站演出时间+地点+门票",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-09",
+    "link": "",
+    "url": "",
+    "description": "2026李健万物安生时巡回演唱会南京站演出时间+地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "银杏湖乐园童话王国",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-11-30",
     "fee": "收费",
@@ -4339,13 +4723,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "溧水傅家边采摘",
     "venue": "傅家边",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -4375,13 +4760,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "六合桂子山石柱林研学",
     "venue": "桂子山石柱林",
     "city": "nanjing",
-    "district": "六合区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-11",
     "fee": "收费",
@@ -4411,7 +4797,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京建邺区亲子活动嘉年华",
@@ -4448,7 +4835,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京栖霞区演出月",
@@ -4485,7 +4873,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京秦淮区演出科普",
@@ -4521,13 +4910,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京剪纸非遗体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-31",
     "fee": "收费",
@@ -4557,13 +4947,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆手工绘本",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-31",
     "fee": "免费",
@@ -4594,13 +4985,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "中山植物园民国建筑研学",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-31",
     "fee": "收费",
@@ -4630,13 +5022,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "六合平山森林公园徒步",
     "venue": "南京平山森林公园",
     "city": "nanjing",
-    "district": "六合区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-12-31",
     "fee": "收费",
@@ -4667,13 +5060,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "雨花台红色诗歌朗诵",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-31",
     "fee": "免费",
@@ -4703,13 +5097,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026周杰伦南京演唱会开票时间",
+    "name": "2026周杰伦南京演唱会开票时间",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-07",
+    "link": "",
+    "url": "",
+    "description": "2026周杰伦南京演唱会开票时间。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京科技馆天文观测活动",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-09-20",
     "fee": "免费需预约",
@@ -4740,13 +5152,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京科技馆化学魔法秀",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "免费需预约",
@@ -4777,13 +5190,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "红山动物园鸟类科普",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -4813,13 +5227,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "古琴艺术体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -4849,13 +5264,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆历史讲座",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -4886,13 +5302,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "颐和路十二片区研学",
     "venue": "颐和路",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-09-12",
     "fee": "免费",
@@ -4922,13 +5339,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "阅江楼朱元璋故事研学",
     "venue": "阅江楼",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -4958,13 +5376,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心亲子马拉松",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "收费",
@@ -4994,13 +5413,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "科举博物馆科举文化课堂",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -5031,13 +5451,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "六朝博物馆六朝文化研学",
     "venue": "六朝博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -5068,13 +5489,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "朝天宫虎踞龙盘研学营",
     "venue": "南京市博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-07",
     "fee": "收费",
@@ -5105,13 +5527,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "江苏科技馆天文馆研学",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-07",
     "fee": "收费",
@@ -5141,13 +5564,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京绿博园亲子定向越野",
     "venue": "南京绿博园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-09-07",
     "fee": "收费",
@@ -5177,13 +5601,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园骑行活动",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-12-03",
     "fee": "免费",
@@ -5214,13 +5639,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉亲子划竹筏",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-11-02",
     "fee": "收费",
@@ -5251,13 +5677,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利馆红色研学营",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-07",
     "fee": "免费",
@@ -5287,13 +5714,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷亲子剧场",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-12-04",
     "fee": "收费",
@@ -5323,13 +5751,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "溧水东庐山徒步",
     "venue": "东庐山",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-12-30",
     "fee": "免费",
@@ -5359,7 +5788,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末南京溧水区亲子活动活动",
@@ -5396,7 +5826,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京秦淮区亲子活动节",
@@ -5433,7 +5864,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京雨花台区展览演出",
@@ -5469,13 +5901,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京科技馆人工智能课堂",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-09",
     "fee": "收费",
@@ -5506,7 +5939,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "精彩南京鼓楼区讲座阅读节",
@@ -5543,13 +5977,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京图书馆亲子阅读会",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-09-24",
     "fee": "免费",
@@ -5580,13 +6015,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台红色文化讲堂",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-10-01",
     "fee": "免费",
@@ -5616,7 +6052,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末南京玄武区展览活动",
@@ -5653,7 +6090,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式南京栖霞区演出探索",
@@ -5690,7 +6128,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京江宁区科普活动月",
@@ -5727,7 +6166,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京溧水区演出讲座",
@@ -5764,7 +6204,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现南京秦淮区亲子活动比赛",
@@ -5801,13 +6242,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "明孝陵世界遗产研学",
     "venue": "明孝陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-07",
     "fee": "收费",
@@ -5837,13 +6279,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山徒步登山",
     "venue": "牛首山文化旅游区",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2027-01-06",
     "fee": "收费",
@@ -5873,7 +6316,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京江宁区体育赛事探索",
@@ -5910,13 +6354,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "2026年6月南京展会汇总（时间+地点+门票）",
+    "name": "2026年6月南京展会汇总（时间+地点+门票）",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-10",
+    "link": "",
+    "url": "",
+    "description": "2026年6月南京展会汇总（时间+地点+门票）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京云锦博物馆织造体验",
     "venue": "南京云锦博物馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-10-08",
     "fee": "收费",
@@ -5947,13 +6409,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆剪纸体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -5983,13 +6446,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "老门东手工体验",
     "venue": "老门东",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -6019,7 +6483,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京江宁区演出发现",
@@ -6056,7 +6521,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京六合区体育赛事科普",
@@ -6093,7 +6559,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京江宁区展览讲座",
@@ -6130,13 +6597,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "科举博物馆号舍体验日",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "收费",
@@ -6167,13 +6635,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "金陵图书馆阅读马拉松",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费",
@@ -6204,13 +6673,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "明孝陵明文化讲堂",
     "venue": "明孝陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -6240,13 +6710,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "玄武湖亲子皮划艇赛",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "收费",
@@ -6277,7 +6748,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现南京鼓楼区体育赛事比赛",
@@ -6314,7 +6786,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "体验南京六合区演出嘉年华",
@@ -6351,13 +6824,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "六朝博物馆建康城研学",
     "venue": "六朝博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-20",
     "fee": "收费",
@@ -6388,13 +6862,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玛雅海滩亲子漂流",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -6425,13 +6900,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "总统府民国历史研学",
     "venue": "总统府",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -6461,13 +6937,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梅园新村周恩来精神研学",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-20",
     "fee": "免费",
@@ -6497,13 +6974,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "国防园现代军事研学",
     "venue": "南京国防园",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-20",
     "fee": "免费",
@@ -6533,7 +7011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭南京秦淮区科普活动研学营",
@@ -6569,7 +7048,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京六合区体育赛事季",
@@ -6606,13 +7086,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "老山森林植物认知",
     "venue": "老山国家森林公园",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-10-06",
     "fee": "收费",
@@ -6643,13 +7124,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "弘阳欢乐世界亲子游",
     "venue": "弘阳欢乐世界",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-12-11",
     "fee": "收费",
@@ -6679,13 +7161,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "弘阳欢乐世界室内乐园",
     "venue": "弘阳欢乐世界",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -6715,13 +7198,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京图书馆名家讲坛",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-10-06",
     "fee": "免费",
@@ -6752,7 +7236,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京六合区影视放映节",
@@ -6788,13 +7273,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026爱在南京嘉年华2026周杰伦世界巡回演唱会时间+地点+门票",
+    "name": "2026爱在南京嘉年华2026周杰伦世界巡回演唱会时间+地点+门票",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-14",
+    "link": "",
+    "url": "",
+    "description": "2026爱在南京嘉年华2026周杰伦世界巡回演唱会时间+地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京博物院艺术馆亲子研学",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-10-07",
     "fee": "免费需预约",
@@ -6824,13 +7327,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆光影魔术实验",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-08-16",
     "fee": "免费需预约",
@@ -6861,7 +7365,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "暑期南京秦淮区讲座阅读体验营",
@@ -6898,13 +7403,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心亲子游泳",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-10-13",
     "fee": "收费",
@@ -6934,13 +7440,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆研学",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-10-13",
     "fee": "免费",
@@ -6970,13 +7477,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "渡江胜利纪念馆红色课堂",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-10-08",
     "fee": "免费",
@@ -7006,7 +7514,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘南京玄武区亲子活动月",
@@ -7042,13 +7551,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京地质博物馆矿物探秘研学",
     "venue": "南京地质博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-14",
     "fee": "免费",
@@ -7079,13 +7589,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京绿博园植物大观研学",
     "venue": "南京绿博园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-14",
     "fee": "免费",
@@ -7115,13 +7626,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "高淳老街非遗市集",
     "venue": "高淳老街",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-12-14",
     "fee": "免费",
@@ -7151,13 +7663,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆暑期阅读季",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-14",
     "fee": "免费",
@@ -7188,13 +7701,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "栖霞山千佛岩研学",
     "venue": "栖霞山风景区",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-09-29",
     "fee": "收费",
@@ -7225,7 +7739,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京浦口区体育赛事活动",
@@ -7261,7 +7776,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典南京江宁区影视放映探秘",
@@ -7298,13 +7814,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "古生物博物馆达尔文课堂",
     "venue": "南京古生物博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "免费需预约",
@@ -7335,13 +7852,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆VR科技体验",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-10-15",
     "fee": "免费需预约",
@@ -7371,13 +7889,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆生物多样性科普",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-11-14",
     "fee": "免费需预约",
@@ -7407,13 +7926,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京市少儿图书馆故事大王比赛",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "免费",
@@ -7444,13 +7964,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "雨花英烈精神宣讲",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "免费",
@@ -7480,7 +8001,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京玄武区影视放映比赛",
@@ -7517,13 +8039,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆水科学实验",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-10-04",
     "fee": "免费需预约",
@@ -7553,13 +8076,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "中山植物园植物科普营",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-20",
     "fee": "收费",
@@ -7589,13 +8113,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "玄武湖亲子骑行赛",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "免费",
@@ -7626,7 +8151,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京建邺区演出研学营",
@@ -7663,7 +8189,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京建邺区讲座阅读探秘",
@@ -7700,7 +8227,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京栖霞区演出之旅",
@@ -7736,7 +8264,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京秦淮区讲座阅读之旅",
@@ -7773,7 +8302,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京建邺区展览比赛",
@@ -7810,13 +8340,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京科技馆太空探索营",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-08-21",
     "fee": "收费",
@@ -7847,13 +8378,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "红山动物园动物丰容体验",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-09-21",
     "fee": "收费",
@@ -7883,13 +8415,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆皮影戏体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-10-17",
     "fee": "收费",
@@ -7919,13 +8452,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京城墙博物馆研学",
     "venue": "南京城墙博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-11-16",
     "fee": "免费需预约",
@@ -7956,13 +8490,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奥体中心网球培训",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-09-25",
     "fee": "收费",
@@ -7992,13 +8527,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "渡江战役史研学",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-08-21",
     "fee": "免费",
@@ -8028,7 +8564,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游南京浦口区演出季",
@@ -8065,7 +8602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末南京六合区展览活动",
@@ -8102,13 +8640,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "江苏科技馆无人机体验",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-06",
     "fee": "收费",
@@ -8138,13 +8677,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "老山国家森林公园徒步",
     "venue": "老山国家森林公园",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2027-01-17",
     "fee": "收费",
@@ -8175,13 +8715,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园高尔夫体验",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-12-18",
     "fee": "收费",
@@ -8211,13 +8752,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "弘阳欢乐世界欢乐城堡",
     "venue": "弘阳欢乐世界",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2027-02-17",
     "fee": "收费",
@@ -8247,13 +8789,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "阅江楼郑和航海研学",
     "venue": "阅江楼",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-09-29",
     "fee": "收费",
@@ -8283,13 +8826,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山祈福文化游",
     "venue": "牛首山文化旅游区",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-12-18",
     "fee": "收费",
@@ -8319,7 +8863,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京江宁区亲子活动展览",
@@ -8355,7 +8900,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京溧水区科普活动展览",
@@ -8392,7 +8938,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期南京栖霞区亲子活动体验营",
@@ -8428,13 +8975,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园兵器体验",
     "venue": "南京国防园",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2026-09-30",
     "fee": "免费",
@@ -8464,7 +9012,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京秦淮区体育赛事月",
@@ -8500,7 +9049,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "震撼南京玄武区展览发现",
@@ -8537,13 +9087,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "云锦博物馆大花楼木织机研学",
     "venue": "南京云锦博物馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -8574,13 +9125,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "大报恩寺琉璃塔文化研学",
     "venue": "大报恩寺遗址公园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-04",
     "fee": "收费",
@@ -8611,13 +9163,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心暑期游泳培训",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-12",
     "fee": "收费",
@@ -8647,13 +9200,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青奥公园亲子运动",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-12-20",
     "fee": "免费",
@@ -8684,13 +9238,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "珍珠泉戏水",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-11-19",
     "fee": "收费",
@@ -8721,13 +9276,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "六合金牛湖游船",
     "venue": "金牛湖",
     "city": "nanjing",
-    "district": "六合区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-12-20",
     "fee": "收费",
@@ -8757,13 +9313,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梅园新村红色文化研学",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-05",
     "fee": "免费",
@@ -8793,13 +9350,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "雨花台小小讲解员",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-08-27",
     "fee": "免费",
@@ -8829,7 +9387,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "互动南京鼓楼区科普活动科普",
@@ -8865,7 +9424,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末南京高淳区讲座阅读活动",
@@ -8902,7 +9462,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年南京玄武区影视放映讲座",
@@ -8938,7 +9499,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京六合区科普活动课程",
@@ -8975,7 +9537,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京玄武区科普活动探索",
@@ -9011,13 +9574,65 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "title": "2026周杰伦南京演唱会购票须知（退票规则+禁带物品）",
+    "name": "2026周杰伦南京演唱会购票须知（退票规则+禁带物品）",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "description": "2026周杰伦南京演唱会购票须知（退票规则+禁带物品）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "2026年东南大学开放日60余所参展高校名单",
+    "name": "2026年东南大学开放日60余所参展高校名单",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-21",
+    "end_date": "2026-09-03",
+    "link": "",
+    "url": "",
+    "description": "2026年东南大学开放日60余所参展高校名单。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "2025南京展会排期表",
+    "name": "2025南京展会排期表",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-08-21",
+    "end_date": "2026-09-02",
+    "link": "",
+    "url": "",
+    "description": "2025南京展会排期表。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "红山动物园本土物种研学",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-10-22",
     "fee": "收费",
@@ -9047,13 +9662,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京海底世界美人鱼表演",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-12-22",
     "fee": "收费",
@@ -9083,7 +9699,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京栖霞区影视放映活动",
@@ -9120,7 +9737,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京建邺区体育赛事课程",
@@ -9157,13 +9775,49 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "王源2026宇宙超级无敌大大狂欢巡回演唱会-南京站",
+    "name": "王源2026宇宙超级无敌大大狂欢巡回演唱会-南京站",
+    "venue": "梦之蓝青奥体育公园体育馆",
+    "city": "nanjing",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-23",
+    "link": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+    "description": "王源2026巡回演唱会南京站，8月22-23日青奥体育馆。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "南京本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "南京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「南京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "南京",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
   },
   {
     "name": "瞻园太平天国历史研学",
     "venue": "瞻园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -9193,13 +9847,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "牛首山禅修体验",
     "venue": "牛首山文化旅游区",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -9229,13 +9884,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "雨花台烈士事迹研学",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-10-07",
     "fee": "免费",
@@ -9265,7 +9921,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京浦口区亲子活动工作坊",
@@ -9301,13 +9958,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆国学课堂",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-10-02",
     "fee": "免费",
@@ -9338,13 +9996,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "雨花英烈事迹宣讲营",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -9374,7 +10033,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末南京雨花台区体育赛事活动",
@@ -9411,13 +10071,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "五台山体育中心乒乓",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-10-17",
     "fee": "收费",
@@ -9447,13 +10108,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "汤山猿人洞探秘",
     "venue": "汤山古猿人洞",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-10-06",
     "fee": "收费",
@@ -9483,13 +10145,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "溧水天生桥游船",
     "venue": "天生桥",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-12-25",
     "fee": "收费",
@@ -9519,7 +10182,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验南京秦淮区体育赛事嘉年华",
@@ -9556,7 +10220,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京栖霞区影视放映发现",
@@ -9593,13 +10258,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆科学实验秀",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-08-26",
     "end_date": "2026-10-26",
     "fee": "免费需预约",
@@ -9630,7 +10296,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "梦幻南京六合区亲子活动之旅",
@@ -9666,13 +10333,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆国学启蒙",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-08",
     "fee": "免费",
@@ -9703,13 +10371,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "音乐台历史研学",
     "venue": "中山陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-12",
     "fee": "收费",
@@ -9739,13 +10408,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心羽毛球培训",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-19",
     "fee": "收费",
@@ -9775,13 +10445,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "五台山体育中心武术培训",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-05",
     "fee": "收费",
@@ -9811,7 +10482,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京溧水区影视放映日",
@@ -9847,7 +10519,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进南京建邺区讲座阅读日",
@@ -9884,7 +10557,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京六合区讲座阅读工作坊",
@@ -9921,13 +10595,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "中山植物园自然笔记课",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-08-29",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -9957,7 +10632,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子南京鼓楼区科普活动工作坊",
@@ -9994,7 +10670,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进南京玄武区体育赛事日",
@@ -10030,7 +10707,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京鼓楼区体育赛事讲座",
@@ -10067,13 +10745,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江苏科技馆少儿科学家培养计划",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -10103,13 +10782,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "银杏湖乐园水上乐园",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -10139,13 +10819,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆小小讲解员",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-09-05",
     "fee": "免费",
@@ -10175,7 +10856,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京玄武区影视放映周",
@@ -10211,7 +10893,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京建邺区演出发现",
@@ -10248,13 +10931,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉动物表演",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-08-31",
     "end_date": "2026-12-31",
     "fee": "收费",
@@ -10285,7 +10969,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读南京六合区影视放映周",
@@ -10322,13 +11007,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京欢乐谷花车巡游",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2027-01-01",
     "fee": "收费",
@@ -10358,13 +11044,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷欢乐大巡游",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2026-10-31",
     "fee": "收费",
@@ -10394,13 +11081,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梅园新村革命历史研学",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2026-10-31",
     "fee": "免费",
@@ -10430,7 +11118,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式南京浦口区影视放映探索",
@@ -10467,7 +11156,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京秦淮区讲座阅读探索",
@@ -10504,7 +11194,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验南京雨花台区讲座阅读嘉年华",
@@ -10540,7 +11231,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京雨花台区科普活动周",
@@ -10577,7 +11269,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京高淳区讲座阅读发现",
@@ -10614,13 +11307,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆暑期科学营",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2026-09-07",
     "fee": "收费",
@@ -10651,13 +11345,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "牛首山佛顶宫研学",
     "venue": "牛首山文化旅游区",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2026-10-19",
     "fee": "收费",
@@ -10687,7 +11382,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京高淳区讲座阅读研学营",
@@ -10724,7 +11420,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京栖霞区体育赛事工作坊",
@@ -10761,13 +11458,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "江南丝竹体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-10-16",
     "fee": "免费需预约",
@@ -10797,7 +11495,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童南京雨花台区影视放映课程",
@@ -10834,7 +11533,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京溧水区亲子活动发现",
@@ -10870,7 +11570,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京高淳区展览探索",
@@ -10906,7 +11607,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读南京江宁区演出周",
@@ -10943,7 +11645,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼南京秦淮区科普活动发现",
@@ -10979,7 +11682,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京高淳区影视放映展览",
@@ -11015,13 +11719,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "大报恩寺遗址公园拓印体验",
     "venue": "大报恩寺遗址公园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-11-05",
     "fee": "收费",
@@ -11052,7 +11757,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京高淳区科普活动工作坊",
@@ -11088,7 +11794,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京建邺区亲子活动展览",
@@ -11125,7 +11832,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验南京鼓楼区展览嘉年华",
@@ -11162,13 +11870,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青奥公园轮滑体验",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-11-01",
     "fee": "收费",
@@ -11199,7 +11908,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末南京建邺区演出活动",
@@ -11235,7 +11945,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京建邺区科普活动之旅",
@@ -11271,7 +11982,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京浦口区展览体验营",
@@ -11307,13 +12019,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026南京演唱会安排时间表（持续更新）",
+    "name": "2026南京演唱会安排时间表（持续更新）",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-13",
+    "link": "",
+    "url": "",
+    "description": "2026南京演唱会安排时间表（持续更新）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京科技馆机器人体验营",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -11344,13 +12074,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "银杏湖乐园亲子游乐",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2027-01-07",
     "fee": "收费",
@@ -11380,13 +12111,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "高淳陶瓷制作体验",
     "venue": "高淳陶瓷小镇",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2026-11-07",
     "fee": "收费",
@@ -11416,13 +12148,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "颐和路民国公馆研学",
     "venue": "颐和路",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2027-01-07",
     "fee": "免费",
@@ -11452,7 +12185,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "家庭南京江宁区亲子活动研学营",
@@ -11489,7 +12223,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京六合区体育赛事探秘",
@@ -11525,13 +12260,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "老山森林昆虫探秘",
     "venue": "老山国家森林公园",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-08",
     "end_date": "2026-10-19",
     "fee": "收费",
@@ -11562,13 +12298,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "玛雅海滩水公园戏水节",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-08",
     "end_date": "2026-11-08",
     "fee": "收费",
@@ -11599,13 +12336,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "秦淮非遗馆扎花灯体验",
     "venue": "秦淮非遗馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-08",
     "end_date": "2026-10-24",
     "fee": "收费",
@@ -11635,7 +12373,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京玄武区体育赛事季",
@@ -11671,7 +12410,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典南京秦淮区展览探秘",
@@ -11708,13 +12448,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "李香君故居研学",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-09",
     "end_date": "2026-10-21",
     "fee": "收费",
@@ -11744,13 +12485,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2026周杰伦嘉年华演唱会南京开几场？",
+    "name": "2026周杰伦嘉年华演唱会南京开几场？",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-10",
+    "link": "",
+    "url": "",
+    "description": "2026周杰伦嘉年华演唱会南京开几场？。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "古生物博物馆化石修复体验",
     "venue": "南京古生物博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-10-21",
     "fee": "收费",
@@ -11781,13 +12540,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京欢乐谷主题夏令营",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-09-14",
     "fee": "收费",
@@ -11817,13 +12577,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京欢乐谷魔法城堡",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-01-10",
     "fee": "收费",
@@ -11853,13 +12614,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "中华门瓮城城墙文化体验",
     "venue": "中华门瓮城",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-01-10",
     "fee": "收费",
@@ -11889,13 +12651,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "大金山国防园研学",
     "venue": "大金山国防园",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-01-10",
     "fee": "收费",
@@ -11925,13 +12688,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京欢乐谷亲子过山车",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-11",
     "end_date": "2027-01-11",
     "fee": "收费",
@@ -11961,7 +12725,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京秦淮区影视放映演出",
@@ -11997,7 +12762,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现南京溧水区演出比赛",
@@ -12033,7 +12799,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京玄武区展览节",
@@ -12070,7 +12837,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘南京浦口区影视放映月",
@@ -12107,13 +12875,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆地震科普体验",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-11-12",
     "fee": "免费需预约",
@@ -12144,13 +12913,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "云锦博物馆挑花结本体验",
     "venue": "南京云锦博物馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-10-23",
     "fee": "收费",
@@ -12181,13 +12951,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "汤山温泉亲子游",
     "venue": "汤山温泉旅游度假区",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "收费",
@@ -12217,7 +12988,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京溧水区展览探秘",
@@ -12254,13 +13026,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京科技馆创客工坊",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-11-13",
     "fee": "收费",
@@ -12291,13 +13064,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "弘阳欢乐世界嘉年华",
     "venue": "弘阳欢乐世界",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -12327,7 +13101,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "趣味南京秦淮区体育赛事展览",
@@ -12363,13 +13138,48 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026南京五一国际车展展会信息+游玩攻略",
+    "name": "2026南京五一国际车展展会信息+游玩攻略",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-16",
+    "link": "",
+    "url": "",
+    "description": "2026南京五一国际车展展会信息+游玩攻略。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "2026南京3月展会信息汇总",
+    "name": "2026南京3月展会信息汇总",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-21",
+    "link": "",
+    "url": "",
+    "description": "2026南京3月展会信息汇总。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "瞻园园林文化体验",
     "venue": "瞻园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2027-01-14",
     "fee": "收费",
@@ -12399,13 +13209,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "五台山体育中心亲子健身",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-02",
     "fee": "收费",
@@ -12435,13 +13246,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青奥公园滑板体验",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-10-27",
     "fee": "收费",
@@ -12472,7 +13284,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典南京栖霞区科普活动探秘",
@@ -12508,7 +13321,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子南京溧水区展览工作坊",
@@ -12544,7 +13358,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童南京浦口区展览课程",
@@ -12580,13 +13395,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中山植物园秋季采种",
     "venue": "中山植物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-10-15",
     "fee": "收费",
@@ -12616,13 +13432,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "玛雅海滩水公园亲子戏水",
     "venue": "玛雅海滩水公园",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-11-15",
     "fee": "收费",
@@ -12653,13 +13470,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "银杏湖乐园生态观光",
     "venue": "银杏湖乐园",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2027-02-14",
     "fee": "收费",
@@ -12689,13 +13507,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆红楼梦研学",
     "venue": "江宁织造博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2026-11-12",
     "fee": "免费需预约",
@@ -12726,13 +13545,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "珍珠泉竹筏戏水",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2026-12-16",
     "fee": "收费",
@@ -12763,13 +13583,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "老山森林观鸟研学",
     "venue": "老山国家森林公园",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2026-10-27",
     "fee": "收费",
@@ -12800,7 +13621,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末南京秦淮区科普活动活动",
@@ -12837,7 +13659,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京溧水区展览科普",
@@ -12874,13 +13697,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026周杰伦南京演唱会什么时候开票？",
+    "name": "2026周杰伦南京演唱会什么时候开票？",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-26",
+    "link": "",
+    "url": "",
+    "description": "2026周杰伦南京演唱会什么时候开票？。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "高淳老街民俗体验",
     "venue": "高淳老街",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-09-17",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -12910,13 +13751,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京市少儿图书馆亲子活动",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-17",
     "end_date": "2026-11-05",
     "fee": "免费",
@@ -12947,7 +13789,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验南京栖霞区展览嘉年华",
@@ -12984,13 +13827,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院非遗工坊体验",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-10-19",
     "fee": "免费需预约",
@@ -13020,13 +13864,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "莫愁湖公园亲子划船",
     "venue": "莫愁湖公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -13057,13 +13902,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京金箔锻制体验",
     "venue": "南京金箔艺术馆",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-11-18",
     "fee": "收费",
@@ -13093,13 +13939,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆公益培训",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-11-14",
     "fee": "免费",
@@ -13130,13 +13977,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京国防园军事研学",
     "venue": "南京国防园",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-11-18",
     "fee": "免费",
@@ -13166,7 +14014,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游南京鼓楼区亲子活动季",
@@ -13202,7 +14051,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京雨花台区讲座阅读之旅",
@@ -13239,7 +14089,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子南京玄武区讲座阅读工作坊",
@@ -13276,7 +14127,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京浦口区科普活动周",
@@ -13313,7 +14165,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京鼓楼区亲子活动演出",
@@ -13350,7 +14203,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京浦口区展览演出",
@@ -13386,7 +14240,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索南京六合区科普活动演出",
@@ -13423,13 +14278,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
+  },
+  {
+    "title": "2026年5月南京展会汇总（时间+地点+门票）",
+    "name": "2026年5月南京展会汇总（时间+地点+门票）",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-21",
+    "link": "",
+    "url": "",
+    "description": "2026年5月南京展会汇总（时间+地点+门票）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京市少儿图书馆公益培训",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-10-29",
     "fee": "免费",
@@ -13460,13 +14333,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山古寺文化研学",
     "venue": "栖霞山风景区",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-10-31",
     "fee": "收费",
@@ -13497,13 +14371,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梅园新村国共谈判历史研学",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-10-31",
     "fee": "免费",
@@ -13533,7 +14408,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京六合区亲子活动体验营",
@@ -13569,7 +14445,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京溧水区讲座阅读课程",
@@ -13605,7 +14482,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京浦口区演出日",
@@ -13642,13 +14520,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026谭维维声声世世南京音乐会时间+地点+门票",
+    "name": "2026谭维维声声世世南京音乐会时间+地点+门票",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-09-20",
+    "end_date": "2026-10-04",
+    "link": "",
+    "url": "",
+    "description": "2026谭维维声声世世南京音乐会时间+地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "红山动物园小小饲养员",
     "venue": "红山森林动物园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-21",
     "end_date": "2026-11-04",
     "fee": "收费",
@@ -13678,13 +14574,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "中山陵民国建筑研学",
     "venue": "中山陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-21",
     "end_date": "2026-11-21",
     "fee": "免费需预约",
@@ -13714,13 +14611,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆电与磁实验课",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-22",
     "end_date": "2026-10-27",
     "fee": "免费需预约",
@@ -13751,13 +14649,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "美龄宫建筑艺术研学",
     "venue": "美龄宫",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-22",
     "end_date": "2026-11-02",
     "fee": "收费",
@@ -13787,13 +14686,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京古生物博物馆恐龙化石研学",
     "venue": "南京古生物博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2026-11-23",
     "fee": "免费需预约",
@@ -13824,13 +14724,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京图书馆亲子电影放映",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2026-11-18",
     "fee": "免费",
@@ -13861,13 +14762,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "桠溪国际慢城观光",
     "venue": "桠溪国际慢城",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2027-02-22",
     "fee": "免费",
@@ -13897,7 +14799,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京栖霞区亲子活动演出",
@@ -13934,7 +14837,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京雨花台区演出科普",
@@ -13970,7 +14874,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读南京栖霞区讲座阅读周",
@@ -14007,7 +14912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典南京高淳区亲子活动探秘",
@@ -14043,7 +14949,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游南京建邺区讲座阅读季",
@@ -14079,13 +14986,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "科举博物馆金榜题名体验",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-24",
     "fee": "收费",
@@ -14116,13 +15024,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "弘阳欢乐世界摩天轮",
     "venue": "弘阳欢乐世界",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "收费",
@@ -14152,13 +15061,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山徒步研学",
     "venue": "栖霞山风景区",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -14189,7 +15099,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "精彩南京高淳区体育赛事节",
@@ -14226,7 +15137,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期南京江宁区体育赛事体验营",
@@ -14263,13 +15175,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京地质博物馆地球奥秘课堂",
     "venue": "南京地质博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-09",
     "fee": "免费",
@@ -14300,13 +15213,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京绿博园花卉科普",
     "venue": "南京绿博园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-13",
     "fee": "免费",
@@ -14336,13 +15250,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "夫子庙非遗手作课堂",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-20",
     "fee": "收费",
@@ -14372,13 +15287,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金陵图书馆亲子阅读",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-13",
     "fee": "免费",
@@ -14409,13 +15325,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "汤山直立人化石研学",
     "venue": "南京直立人化石遗址博物馆",
     "city": "nanjing",
-    "district": "江宁区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-20",
     "fee": "收费",
@@ -14446,7 +15363,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期南京高淳区展览体验营",
@@ -14483,7 +15401,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京鼓楼区演出课程",
@@ -14519,7 +15438,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京雨花台区亲子活动讲座",
@@ -14555,7 +15475,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京秦淮区影视放映课程",
@@ -14591,13 +15512,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "江宁织造博物馆织造技艺体验",
     "venue": "江宁织造博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-06",
     "fee": "免费需预约",
@@ -14628,13 +15550,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京科技馆3D打印体验",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-26",
     "fee": "收费",
@@ -14665,13 +15588,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "云锦博物馆意匠设计体验",
     "venue": "南京云锦博物馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-06",
     "fee": "收费",
@@ -14702,13 +15626,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "溧水周园文化游",
     "venue": "周园",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -14738,13 +15663,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "雨花台烈士陵园研学",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-26",
     "fee": "免费",
@@ -14774,7 +15700,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现南京六合区讲座阅读比赛",
@@ -14810,7 +15737,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京玄武区亲子活动之旅",
@@ -14847,7 +15775,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京玄武区讲座阅读科普",
@@ -14884,7 +15813,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进南京栖霞区科普活动日",
@@ -14921,13 +15851,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京图书馆暑期阅读营",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-11-19",
     "fee": "免费",
@@ -14958,13 +15889,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京博物院儿童研学营",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-10-04",
     "fee": "收费",
@@ -14994,13 +15926,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "阅江楼明代文化研学",
     "venue": "阅江楼",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -15030,13 +15963,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "美龄宫民国生活研学",
     "venue": "美龄宫",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -15066,13 +16000,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心滑冰体验",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-11-28",
     "fee": "收费",
@@ -15102,7 +16037,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京栖霞区体育赛事讲座",
@@ -15139,7 +16075,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年南京六合区讲座阅读讲座",
@@ -15176,7 +16113,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读南京秦淮区亲子活动周",
@@ -15213,7 +16151,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京六合区亲子活动探索",
@@ -15249,7 +16188,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京栖霞区展览展览",
@@ -15285,7 +16225,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动南京浦口区亲子活动科普",
@@ -15322,7 +16263,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期南京溧水区讲座阅读体验营",
@@ -15359,13 +16301,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "珍珠泉泉群自然研学",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-29",
     "end_date": "2026-11-29",
     "fee": "收费",
@@ -15396,13 +16339,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "珍珠泉野生动物观赏",
     "venue": "珍珠泉风景区",
     "city": "nanjing",
-    "district": "浦口区",
+    "district": "其他",
     "start_date": "2026-09-29",
     "end_date": "2027-01-29",
     "fee": "收费",
@@ -15433,13 +16377,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "金陵图书馆少儿公益培训",
     "venue": "金陵图书馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-22",
     "fee": "免费",
@@ -15470,13 +16415,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京市少儿图书馆绘本会",
     "venue": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-30",
     "fee": "免费",
@@ -15507,13 +16453,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "大报恩寺遗址研学",
     "venue": "大报恩寺遗址公园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-30",
     "fee": "收费",
@@ -15544,13 +16491,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "灵谷寺文化研学",
     "venue": "中山陵",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-14",
     "fee": "收费",
@@ -15580,7 +16528,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京高淳区展览之旅",
@@ -15617,13 +16566,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "江苏科技馆能源科普体验",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-11-16",
     "fee": "免费需预约",
@@ -15653,13 +16603,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "江苏科技馆未来交通体验",
     "venue": "江苏省科学技术馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-11-28",
     "fee": "免费需预约",
@@ -15689,7 +16640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "漫游南京秦淮区展览季",
@@ -15726,13 +16678,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "明城墙玄武门段研学",
     "venue": "南京城墙博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-12-02",
     "fee": "收费",
@@ -15763,13 +16716,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "大报恩寺琉璃塔研学",
     "venue": "大报恩寺遗址公园",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-11-16",
     "fee": "收费",
@@ -15800,7 +16754,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末南京江宁区亲子活动活动",
@@ -15836,13 +16791,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "古生物博物馆生命演化研学",
     "venue": "南京古生物博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-11-13",
     "fee": "免费需预约",
@@ -15873,13 +16829,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "雨花台爱国主义教育",
     "venue": "雨花台烈士陵园",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -15909,7 +16866,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式南京雨花台区影视放映探索",
@@ -15946,13 +16904,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "高淳老街古建筑研学",
     "venue": "高淳老街",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-10-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -15982,7 +16941,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "发现南京雨花台区亲子活动比赛",
@@ -16019,7 +16979,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动南京栖霞区体育赛事科普",
@@ -16055,13 +17016,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "江南贡院科举历史研学",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-10-05",
     "end_date": "2026-12-05",
     "fee": "收费",
@@ -16092,13 +17054,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "五台山体育中心瑜伽",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-10-05",
     "end_date": "2026-11-30",
     "fee": "收费",
@@ -16128,7 +17091,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京秦淮区演出讲座",
@@ -16164,7 +17128,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻南京溧水区体育赛事之旅",
@@ -16200,7 +17165,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "互动南京建邺区影视放映科普",
@@ -16237,13 +17203,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "玄武湖赏荷观鸟活动",
     "venue": "玄武湖公园",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2026-11-20",
     "fee": "免费",
@@ -16274,7 +17241,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻南京鼓楼区展览之旅",
@@ -16311,13 +17279,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梅园新村纪念馆研学",
     "venue": "梅园新村纪念馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-12-07",
     "fee": "免费",
@@ -16347,13 +17316,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆和平教育",
     "venue": "侵华日军南京大屠杀遇难同胞纪念馆",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "免费需预约",
@@ -16383,7 +17353,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味南京鼓楼区影视放映展览",
@@ -16419,7 +17390,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子南京建邺区影视放映工作坊",
@@ -16456,7 +17428,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京高淳区演出课程",
@@ -16492,7 +17465,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京玄武区体育赛事演出",
@@ -16529,13 +17503,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "南京海底世界海豚表演",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -16565,13 +17540,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "五台山体育中心游泳",
     "venue": "五台山体育中心",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2026-12-08",
     "fee": "收费",
@@ -16601,7 +17577,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩南京建邺区展览节",
@@ -16638,7 +17615,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年南京建邺区影视放映讲座",
@@ -16674,7 +17652,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验南京高淳区影视放映嘉年华",
@@ -16710,13 +17689,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026王源《宇宙超级无敌大大狂欢》南京演唱会时间+地点+门票",
+    "name": "2026王源《宇宙超级无敌大大狂欢》南京演唱会时间+地点+门票",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-21",
+    "link": "",
+    "url": "",
+    "description": "2026王源《宇宙超级无敌大大狂欢》南京演唱会时间+地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京科技馆4D影院科普观影",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-12-09",
     "fee": "收费",
@@ -16747,13 +17744,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "南京海底世界企鹅科普",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-12-09",
     "fee": "收费",
@@ -16783,13 +17781,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "夫子庙秦淮花灯制作体验",
     "venue": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-12-09",
     "fee": "收费",
@@ -16819,13 +17818,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "桠溪国际慢城骑行",
     "venue": "桠溪国际慢城",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2027-03-10",
     "fee": "免费",
@@ -16855,7 +17855,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验南京溧水区科普活动嘉年华",
@@ -16892,7 +17893,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘南京雨花台区讲座阅读月",
@@ -16928,7 +17930,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "漫游南京栖霞区科普活动季",
@@ -16964,13 +17967,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "六朝博物馆青瓷探秘研学",
     "venue": "六朝博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-11-10",
     "fee": "收费",
@@ -17001,13 +18005,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南京欢乐谷夜场狂欢",
     "venue": "南京欢乐谷",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-12-10",
     "fee": "收费",
@@ -17037,13 +18042,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南京图书馆少儿绘本故事会",
     "venue": "南京图书馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-12-10",
     "fee": "免费",
@@ -17074,13 +18080,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "鸡鸣寺历史研学",
     "venue": "鸡鸣寺",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -17110,13 +18117,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "溧水无想山徒步",
     "venue": "无想山",
     "city": "nanjing",
-    "district": "溧水区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2027-03-11",
     "fee": "免费",
@@ -17146,7 +18154,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进南京江宁区讲座阅读日",
@@ -17182,7 +18191,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索南京江宁区讲座阅读演出",
@@ -17218,7 +18228,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典南京玄武区讲座阅读探秘",
@@ -17254,13 +18265,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南京科技馆球幕影院观影",
     "venue": "南京科技馆",
     "city": "nanjing",
-    "district": "雨花台区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2027-04-12",
     "fee": "收费",
@@ -17291,13 +18303,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "莫愁湖公园荷花研学",
     "venue": "莫愁湖公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-11-25",
     "fee": "免费",
@@ -17328,13 +18341,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "奥体中心篮球夏令营",
     "venue": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-10-22",
     "fee": "收费",
@@ -17364,13 +18378,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青奥公园皮划艇",
     "venue": "青奥公园",
     "city": "nanjing",
-    "district": "建邺区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-11-22",
     "fee": "收费",
@@ -17401,13 +18416,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "固城湖湿地观鸟",
     "venue": "固城湖",
     "city": "nanjing",
-    "district": "高淳区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-12-06",
     "fee": "免费",
@@ -17437,7 +18453,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进南京六合区科普活动日",
@@ -17473,7 +18490,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京建邺区体育赛事演出",
@@ -17509,13 +18527,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "南京海底世界海洋科普营",
     "venue": "南京海底世界",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-12",
     "end_date": "2026-12-04",
     "fee": "收费",
@@ -17545,13 +18564,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "明城墙台城段研学",
     "venue": "南京城墙博物馆",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-12",
     "end_date": "2026-11-27",
     "fee": "收费",
@@ -17582,7 +18602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味南京玄武区演出展览",
@@ -17619,7 +18640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭南京玄武区演出研学营",
@@ -17655,13 +18677,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "渡江胜利纪念馆爱国主义教育",
     "venue": "渡江胜利纪念馆",
     "city": "nanjing",
-    "district": "鼓楼区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2027-04-14",
     "fee": "免费",
@@ -17691,7 +18714,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进南京高淳区演出日",
@@ -17728,7 +18752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进南京鼓楼区亲子活动日",
@@ -17765,7 +18790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭南京鼓楼区影视放映研学营",
@@ -17802,7 +18828,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩南京溧水区亲子活动节",
@@ -17839,13 +18866,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南京博物院数字馆研学",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2026-10-14",
     "end_date": "2027-01-13",
     "fee": "免费需预约",
@@ -17875,7 +18903,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "震撼南京浦口区体育赛事发现",
@@ -17912,7 +18941,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "发现南京栖霞区讲座阅读比赛",
@@ -17948,13 +18978,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "夫子庙科举文化体验",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-12-15",
     "fee": "收费",
@@ -17985,13 +19016,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "栖霞山红叶观赏",
     "venue": "栖霞山风景区",
     "city": "nanjing",
-    "district": "栖霞区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-12-15",
     "fee": "收费",
@@ -18022,7 +19054,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年南京高淳区科普活动讲座",
@@ -18059,7 +19092,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索南京高淳区演出演出",
@@ -18096,7 +19130,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童南京栖霞区亲子活动课程",
@@ -18133,13 +19168,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026单依纯纯妹妹2.0南京演唱会时间+地点+门票+主题",
+    "name": "2026单依纯纯妹妹2.0南京演唱会时间+地点+门票+主题",
+    "venue": "南京文化场馆",
+    "city": "nanjing",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-26",
+    "link": "",
+    "url": "",
+    "description": "2026单依纯纯妹妹2.0南京演唱会时间+地点+门票+主题。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南京博物院小小讲解员夏令营",
     "venue": "南京博物院",
     "city": "nanjing",
-    "district": "玄武区",
+    "district": "其他",
     "start_date": "2027-07-05",
     "end_date": "2027-07-11",
     "fee": "免费需预约",
@@ -18169,13 +19222,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "朝天宫小小讲解员培训",
     "venue": "南京市博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2027-07-08",
     "end_date": "2027-07-14",
     "fee": "免费需预约",
@@ -18206,13 +19260,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "科举博物馆小小举人研学营",
     "venue": "南京中国科举博物馆",
     "city": "nanjing",
-    "district": "秦淮区",
+    "district": "其他",
     "start_date": "2027-07-10",
     "end_date": "2027-07-12",
     "fee": "收费",
@@ -18243,6 +19298,7 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   }
 ]

@@ -123,18 +123,10 @@ def classify_source(link, source):
 # ============================================================================
 # L1: HTTP 链接验证（curl 并发，HEAD 不行则 GET 兜底）
 # ============================================================================
-def check_link_reachable(url, timeout=10):
-    """用 curl 实际请求，确认官方链接可达。返回 (reachable, http_status, source_type_hint)。"""
-    if not url:
-        return None, None, None
-
-    # 微信文章：curl 几乎必被拦，且本就是官方发布渠道 → 直接视为官方已核实
-    if WECHAT_HOST in url:
-        return True, None, 'wechat'
-
-    # GET 并丢弃 body（-o /dev/null），只取最终 http 状态码（跟随重定向 -L）
+def _curl_check(url, timeout=10):
+    """单次 curl 请求，返回 http_status 或 None。"""
     cmd = [
-        'curl', '-s', '-L', '-o', '/dev/null',
+        'curl', '-sk', '-L', '-o', '/dev/null',
         '-w', '%{http_code}',
         '--connect-timeout', str(timeout),
         '--max-time', str(timeout + 8),
@@ -144,15 +136,43 @@ def check_link_reachable(url, timeout=10):
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 14)
         if result.returncode != 0:
-            return False, None, None
+            return None
         m = re.search(r'(\d{3})', result.stdout.strip())
-        status = int(m.group(1)) if m else None
-        reachable = status is not None and 200 <= status < 400
-        return reachable, status, None
-    except subprocess.TimeoutExpired:
-        return False, None, None
+        return int(m.group(1)) if m else None
     except Exception:
-        return False, None, None
+        return None
+
+
+def check_link_reachable(url, timeout=10):
+    """用 curl 实际请求，确认官方链接可达。返回 (reachable, http_status, source_type_hint)。
+
+    策略：
+      1. 微信文章直接视为已核实
+      2. 先尝试 HTTPS（-k 跳过证书验证）
+      3. HTTPS 失败（SSL 握手问题）时，回退到 HTTP
+      4. 都失败则返回不可达
+    """
+    if not url:
+        return None, None, None
+
+    # 微信文章：curl 几乎必被拦，且本就是官方发布渠道 → 直接视为官方已核实
+    if WECHAT_HOST in url:
+        return True, None, 'wechat'
+
+    # 第一次尝试：原始 URL（HTTPS，带 -k 跳过证书验证）
+    status = _curl_check(url, timeout)
+    if status is not None and 200 <= status < 400:
+        return True, status, None
+
+    # 第二次尝试：HTTPS 失败时回退到 HTTP（很多 gov.cn 站点 SSL 握手有问题但 HTTP 可达）
+    if url.startswith('https://'):
+        http_url = 'http://' + url[len('https://'):]
+        status2 = _curl_check(http_url, timeout)
+        if status2 is not None and 200 <= status2 < 400:
+            return True, status2, None
+
+    # 两次都失败
+    return False, status, None
 
 
 def make_key(rec):

@@ -130,23 +130,42 @@
 }
 
 .platform-steps {
-  margin-left: 12rpx;
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
 }
 
 .step {
+  display: flex;
+  align-items: flex-start;
+  gap: 12rpx;
   font-size: 24rpx;
   color: #57534E;
-  line-height: 2;
+  line-height: 1.6;
+}
+
+.step-num {
+  flex-shrink: 0;
+  width: 36rpx;
+  height: 36rpx;
+  line-height: 36rpx;
+  text-align: center;
+  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
+  color: #FFFFFF;
+  font-size: 22rpx;
+  font-weight: 600;
+  border-radius: 50%;
 }
 
 .platform-note {
-  margin-top: 12rpx;
-  padding: 16rpx;
-  background: #FEF3C7;
+  margin-top: 16rpx;
+  padding: 14rpx 18rpx;
+  background: #FFF8F0;
+  border: 1rpx solid #F5E4D0;
   border-radius: 12rpx;
   font-size: 22rpx;
   color: #92400E;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 /* 订阅链接列表 */
@@ -228,6 +247,12 @@
   margin-bottom: 4rpx;
 }
 
+.h5-desc {
+  font-size: 22rpx;
+  color: #78716C;
+  margin-bottom: 4rpx;
+}
+
 .h5-url {
   font-size: 22rpx;
   color: #A8A29E;
@@ -244,15 +269,18 @@
 .data-info {
   background: #FFFFFF;
   border-radius: 20rpx;
-  padding: 28rpx;
+  padding: 20rpx 28rpx;
   border: 2rpx solid #F5F0E8;
+  margin-bottom: 20rpx;
 }
 
 .data-row {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
   font-size: 24rpx;
-  color: #78716C;
   line-height: 1.8;
-  padding: 8rpx 0;
+  padding: 10rpx 0;
   border-bottom: 2rpx solid #F5F0E8;
 }
 
@@ -260,13 +288,30 @@
   border-bottom: none;
 }
 
+.data-label {
+  color: #A8A29E;
+  width: 120rpx;
+  flex-shrink: 0;
+}
+
+.data-value {
+  color: #57534E;
+  flex: 1;
+}
+
+.feedback-row {
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+
 .feedback-card {
   display: flex;
   align-items: center;
   background: #FFFFFF;
   border-radius: 20rpx;
-  padding: 28rpx;
-  box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.05);
+  padding: 24rpx 28rpx;
+  border: 2rpx solid #F5F0E8;
 }
 
 .feedback-icon {
@@ -317,17 +362,81 @@
   flex-shrink: 0;
 }
 
+/* 开源与共建 */
+.open-card {
+  background: #FFFFFF;
+  border-radius: 20rpx;
+  padding: 24rpx 28rpx;
+  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 8rpx rgba(212, 163, 115, 0.04);
+}
+
+.open-desc {
+  font-size: 24rpx;
+  color: #57534E;
+  line-height: 1.7;
+  margin-bottom: 20rpx;
+}
+
+.open-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+
+.open-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #FFFDF7;
+  border: 2rpx solid #F5F0E8;
+  border-radius: 14rpx;
+  padding: 22rpx 24rpx;
+}
+
+.open-item-main {
+  flex: 1;
+}
+
+.open-item-title {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #292524;
+  margin-bottom: 4rpx;
+}
+
+.open-item-desc {
+  font-size: 22rpx;
+  color: #A8A29E;
+}
+
+.open-item-action {
+  font-size: 24rpx;
+  color: #D4A373;
+  font-weight: 500;
+  flex-shrink: 0;
+  margin-left: 16rpx;
+}
+
+.open-note {
+  margin-top: 18rpx;
+  font-size: 22rpx;
+  color: #B8B0A6;
+  text-align: center;
+}
+
 /* 底部 */
 .footer {
   text-align: center;
-  padding: 48rpx 24rpx 0;
+  padding: 56rpx 24rpx 0;
 }
 
 .footer-logo {
-  width: 120rpx;
-  height: 120rpx;
-  margin-bottom: 16rpx;
+  width: 110rpx;
+  height: 110rpx;
+  margin-bottom: 14rpx;
   border-radius: 24rpx;
+  box-shadow: 0 4rpx 12rpx rgba(212, 163, 115, 0.15);
 }
 
 .footer-text {
@@ -340,23 +449,41 @@
 .footer-sub {
   font-size: 22rpx;
   color: #A8A29E;
+  margin-bottom: 28rpx;
 }
 
-.footer-version {
-  margin-top: 10rpx;
-  font-size: 20rpx;
-  color: #C2BEB8;
-  letter-spacing: 1rpx;
+/* 信息区：置于图标上方，精简展示 版本/更新/场馆 */
+.footer-meta {
+  text-align: center;
+  margin-bottom: 28rpx;
 }
 
-.footer-data {
-  margin-top: 4rpx;
-  font-size: 20rpx;
-  color: #A8C3A0;
+.meta-line {
+  display: block;
+  font-size: 22rpx;
+  color: #A8A29E;
+  line-height: 1.9;
 }
 
-.footer-venues {
-  margin-top: 4rpx;
+.meta-badge {
   font-size: 20rpx;
-  color: #C2BEB8;
+  padding: 2rpx 12rpx;
+  border-radius: 16rpx;
+  margin-left: 8rpx;
+  font-weight: 600;
+}
+
+.meta-badge.ok {
+  background: #E7F6EC;
+  color: #166534;
+}
+
+.meta-badge.pending {
+  background: #FEF3C7;
+  color: #B45309;
+}
+
+.meta-badge.partial {
+  background: #F0EDE8;
+  color: #78716C;
 }

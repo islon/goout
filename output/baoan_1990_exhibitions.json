@@ -8,7 +8,8 @@
     "contact": "",
     "description": "展示宝安非遗文化项目，提供非遗手工艺体验活动。免费参与。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "少儿艺术展",
@@ -19,7 +20,8 @@
     "contact": "",
     "description": "展示少年儿童优秀艺术作品，包括绘画、书法、手工等。免费参观。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "公益手工课",
@@ -30,7 +32,8 @@
     "contact": "",
     "description": "定期举办各类公益手工课程，培养儿童动手能力与创造力。免费参与。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "宝安历史文化展",
@@ -41,7 +44,8 @@
     "contact": "",
     "description": "展示宝安地区历史文化变迁，呈现本地民俗风情与发展历程。免费参观。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "少儿绘本馆",
@@ -52,7 +56,8 @@
     "contact": "",
     "description": "提供丰富的少儿绘本资源，营造温馨的阅读环境。免费开放。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   },
   {
     "name": "亲子艺术工坊",
@@ -63,6 +68,7 @@
     "contact": "",
     "description": "亲子共同参与的艺术创作活动，增进亲子互动与艺术素养。免费参与。",
     "source": "baoan_1990",
-    "family_friendly": true
+    "family_friendly": true,
+    "fee": "免费"
   }
 ]

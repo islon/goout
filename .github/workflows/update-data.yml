@@ -27,6 +27,9 @@ jobs:
           cd scripts
           python main.py
 
+      - name: 场馆普查 (覆盖城市里的所有场馆：活动语料反向提炼 + 外部名录)
+        run: python3 scripts/venue_census.py
+
       - name: Purge auto_generated (数据真实性纵深防御)
         run: python3 scripts/purge_auto_generated.py
 
@@ -36,8 +39,8 @@ jobs:
       - name: Add booking_method (报名入口，避免重抓后丢失)
         run: python3 scripts/add_booking_method.py
 
-      - name: Verify activities against official sources (官方核实，替代人工核实)
-        run: python3 scripts/verify_activities.py
+      - name: 数据核实门禁 (活动+场馆强核实，死链/失效项移入隔离区)
+        run: python3 scripts/verify_gate.py --gate
 
       - name: Sync mini-program fallback data
         run: python3 scripts/sync_miniprogram_data.py
@@ -45,7 +48,7 @@ jobs:
       - name: Generate per-city ICS subscription files
         run: python3 scripts/generate_city_ics.py
 
-      - name: Generate per-city venue files (小程序场馆指南分城市并行加载)
+      - name: Generate per-city venue files (小程序场馆指南分城市并行加载，含普查新增)
         run: python3 scripts/generate_city_venues.py
 
       - name: Generate tiered activity snapshots (小程序三级优先加载)
@@ -67,10 +70,11 @@ jobs:
           git config --global user.name "Auto Update Bot"
           git config --global user.email "bot@example.com"
           git add output/ 2>/dev/null || true
+          git add scripts/auto_venues.json 2>/dev/null || true
           git add miniprogram/data/exhibitions.js miniprogram/data/venues.js 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: 自动更新活动数据 & 同步小程序 $(date '+%Y-%m-%d')"
+            git commit -m "chore: 自动更新活动数据 & 场馆普查 & 核实门禁 $(date '+%Y-%m-%d')"
             git push
           fi

@@ -55,17 +55,20 @@ def fetch_nsqsng_activities():
                 title = item.get('activityName', '')
                 venue_name = item.get('venueName', '')
                 location = item.get('activityLocationName', '')
-                venue_text = venue_name + location + title
-                nanshan_keywords = ['南山', 'nanshan', 'ns', '南山区', '南山文体中心', '南山区文化馆', '南山博物馆', '南山图书馆', '南山区青少年活动中心']
-                other_district_keywords = ['宝安', '龙岗', '龙华', '光明', '坪山', '盐田', '大鹏', '福田', '罗湖', '龙城街道', '坪地街道', '吉华', '坂田', '布吉', '横岗', '平湖', '园山', '宝龙', '马安堂']
-                is_nanshan = any(kw in venue_text for kw in nanshan_keywords)
-                is_other_district = any(kw in venue_text for kw in other_district_keywords)
-                if not is_nanshan and is_other_district:
+                combined_venue = venue_name or location or ''
+                # 筛选青少年活动中心相关活动
+                youth_keywords = ['青少年', '少年', '少儿', '儿童', '亲子', '活动中心', '培训', '夏令营', '公益课堂', '读书会']
+                # 只保留南山区范围内的活动（本爬虫针对南山区青少年活动中心）
+                nanshan_keywords = ['南山', '南山区', 'nsqwhg', '桃源街道', '粤海', '招商', '蛇口', '南头', '沙河', '西丽', '高新']
+                has_youth = any(kw in title for kw in youth_keywords)
+                has_youth_venue = any(kw in combined_venue for kw in ['青少年', '活动中心', '社区服务点'])
+                has_nanshan_venue = any(kw in combined_venue for kw in nanshan_keywords)
+                has_nanshan_title = any(kw in title for kw in nanshan_keywords)
+                if not (has_youth or has_youth_venue):
                     continue
-                youth_keywords = ['青少年', '少年', '少儿', '儿童', '亲子', '活动中心', '培训']
-                if not any(kw in title for kw in youth_keywords):
-                    if not any(kw in venue_name or kw in location for kw in ['青少年', '活动中心']):
-                        continue
+                if not (has_nanshan_venue or has_nanshan_title):
+                    # 未明确标注南山的，跳过（避免把龙岗/坪地/宝安等外区活动混入）
+                    continue
 
                 start_date = item.get('activityStartTime', '')
                 end_date = item.get('activityEndTime', '')
@@ -76,41 +79,42 @@ def fetch_nsqsng_activities():
                 if end_date < today:
                     continue
 
-                description = item.get('activityProfile', '') or item.get('activityIntro', '') or item.get('tagName', '')
+                description = item.get('activityProfile', '') or item.get('tagName', '')
                 is_free = item.get('activityIsFree', 0)
                 reservation = item.get('activityIsReservation', 0)
 
-                if is_free == 1:
-                    if reservation == 2:
-                        fee = '免费需预约'
-                    else:
-                        fee = '免费'
-                else:
-                    fee = '收费'
-
                 desc_parts = []
+                if is_free == 1:
+                    desc_parts.append("免费")
+                else:
+                    desc_parts.append("收费")
+                if reservation == 2:
+                    desc_parts.append("需预约报名")
                 if description:
                     desc_parts.append(description)
-                if is_free == 1:
-                    desc_parts.append("免费参与")
-                if reservation == 2:
-                    desc_parts.append("需提前预约报名")
-                full_desc = '。'.join([p for p in desc_parts if p])
-                if len(full_desc) < 10:
-                    full_desc = f"{title}活动，{full_desc}。详情请咨询场馆。"
-                full_desc = full_desc[:300]
+                # 确保描述不少于 10 字
+                description_final = '。'.join([p for p in desc_parts if p])[:300]
+                if len(description_final) < 10:
+                    suffix = f"{title}。详情请点击链接查看官方信息。"
+                    description_final = (description_final + '。' + suffix) if description_final else suffix
+                    description_final = description_final[:300]
 
                 activity_url = f"https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId={item.get('activityId', '')}"
 
+                # 使用 API 返回的场馆名；如为空则使用默认
+                actual_venue = venue_name.strip() if venue_name and len(venue_name) >= 2 else (location.strip() if location and len(location) >= 2 else NSQSNG_NAME)
+                if not any(kw in actual_venue for kw in nanshan_keywords):
+                    # 如果场馆名不含南山信息，补上南山区前缀避免歧义
+                    actual_venue = '南山区·' + actual_venue
+
                 activities.append({
                     'name': title,
-                    'venue': venue_name or NSQSNG_NAME,
+                    'venue': actual_venue,
                     'start_date': start_date,
                     'end_date': end_date,
                     'url': activity_url,
                     'contact': '0755-26661612',
-                    'description': full_desc,
-                    'fee': fee,
+                    'description': description_final,
                     'source': 'nsqsng',
                     'family_friendly': True
                 })

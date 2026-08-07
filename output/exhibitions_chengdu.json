@@ -1,8 +1,472 @@
 [
   {
+    "title": "阅壤——月壤主题沉浸式科普展",
+    "name": "阅壤——月壤主题沉浸式科普展",
+    "venue": "成都自然博物馆（二楼临展厅）",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-25",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "基于嫦娥五号月壤研究成果的科学+艺术展，国际首个月壤科研成果艺术展，购自然博物馆门票即可观展。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cdmnh.com/",
+    "district": "其他"
+  },
+  {
+    "title": "第二届Y+Project 韩智同个展",
+    "name": "第二届Y+Project 韩智同个展",
+    "venue": "A4美术馆",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-09",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "A4美术馆第二届Y+Project青年艺术家项目，呈现韩智同12组作品，涵盖绘画、影像、编织、装置。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.a4am.com/",
+    "district": "其他"
+  },
+  {
+    "title": "第六届IDEA!想法——叙事艺术展",
+    "name": "第六届IDEA!想法——叙事艺术展",
+    "venue": "许燎源当代艺术馆（一楼）",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-04",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "以\"叙事\"为核心集结23位跨领域青年创作者，将创作全脉络与公众共创机制纳入展陈。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "清净觉相 佛教艺术系列展",
+    "name": "清净觉相 佛教艺术系列展",
+    "venue": "知美术馆",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "以新津观音寺毗卢殿明代壁画为探索原点，串联古寺、壁画、法器与镜面反射的美学之路。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.zhiartmuseum.com/",
+    "district": "其他"
+  },
+  {
+    "title": "留法勤工俭学运动主题展览",
+    "name": "留法勤工俭学运动主题展览",
+    "venue": "李劼人故居纪念馆",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-13",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "全国留法勤工俭学运动红色资源联盟成果，220张图片、28件实物再现青年赴法求索历程。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "窑火映天府——成都平原出土瓷器展",
+    "name": "窑火映天府——成都平原出土瓷器展",
+    "venue": "成都考古中心（临展厅）",
+    "city": "chengdu",
+    "start_date": "2026-01-01",
+    "end_date": "2027-05-31",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "系统梳理成都平原窑址考古历程，甄选出土瓷质文物，从制瓷、用瓷、微观瓷器三维度勾勒瓷业脉络。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "烟火指数·成都双年展",
+    "name": "烟火指数·成都双年展",
+    "venue": "成都市美术馆",
+    "city": "chengdu",
+    "start_date": "2026-02-08",
+    "end_date": "2026-08-23",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "邀29个国家及地区251位艺术家、328件/组作品，海外作品占比超四成，创成都双年展国际参与度新纪录。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cdamuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "二十四伎乐 器乐剧美学展",
+    "name": "二十四伎乐 器乐剧美学展",
+    "venue": "成都永陵博物馆（综合馆）",
+    "city": "chengdu",
+    "start_date": "2026-05-16",
+    "end_date": "2026-08-16",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "以永陵\"二十四伎乐\"为蓝本，循器乐剧《蜀宫乐宴》创作脉络，探索千年蜀乐当代活化。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cdylbwg.org.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "西岭雪山 暑期避暑季（后山滑雪场景区免票）",
+    "name": "西岭雪山 暑期避暑季（后山滑雪场景区免票）",
+    "venue": "西岭雪山",
+    "city": "chengdu",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "后山滑雪场景区面向所有游客免门票至10月30日，新鸳鸯池索道投运，云懒懒牧场等全新场景上线。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "亲子"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.xiling.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "成都欢乐谷 夏浪狂欢节",
+    "name": "成都欢乐谷 夏浪狂欢节",
+    "venue": "成都欢乐谷",
+    "city": "chengdu",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-30",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "7.4-8.30运营延长至22:00，水陆双园全开；嘉宾阵容：7.11唐汉霄、7.18余佳运、8.8沙一汀EL等。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://cd.happyvalley.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "成都海昌极地海洋公园 16周年庆+冰淇淋狂欢节",
+    "name": "成都海昌极地海洋公园 16周年庆+冰淇淋狂欢节",
+    "venue": "成都海昌极地海洋公园",
+    "city": "chengdu",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-31",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "极地水乐园免费开放每日两场泼水狂欢，乐奇冰雪乐园免票，奶龙及冰淇淋主题打卡。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.haichangoceanpark.com/chengdu",
+    "district": "其他"
+  },
+  {
+    "title": "成都融创文旅城 融创水世界\"神仙玩水季\"",
+    "name": "成都融创文旅城 融创水世界\"神仙玩水季\"",
+    "venue": "成都热雪奇迹/融创水世界",
+    "city": "chengdu",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-31",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "造浪池化身\"奇幻天宫\"众神NPC领衔电音派对，\"齐天大圣\"水上飞人表演，27个汤池开放。",
+    "category": "亲子活动",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "观妙入真——永乐宫的建筑艺术与传承",
+    "name": "观妙入真——永乐宫的建筑艺术与传承",
+    "venue": "四川博物院（一层临展二三四厅）",
+    "city": "chengdu",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-06",
+    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+    "description": "永乐宫历次巡展中文物品类最丰富的一站，汇聚125件（套）珍贵文物，早鸟票29元。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "成都本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "成都",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.scmuseum.cn/",
+    "district": "其他"
+  },
+  {
     "name": "三圣花乡花艺手作课堂",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-26",
     "fee": "收费",
@@ -33,12 +497,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "天府人文艺术图书馆亲子手工",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -70,12 +535,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武侯祠三国兵器展研学",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-30",
     "fee": "需购票",
@@ -107,12 +573,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "金沙遗址玉器文化课堂",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -144,12 +611,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "锦城湖皮划艇体验",
     "venue": "锦城湖公园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -181,12 +649,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都蹦床公园",
     "venue": "成都蹦床馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -217,12 +686,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "街子古镇光严禅院探秘",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-09-05",
     "fee": "免费",
@@ -253,12 +723,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都IFS屋顶花园派对",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -289,12 +760,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "环球中心亲子冰场",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -325,12 +797,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都大悦城暑期乐园",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-17",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -361,12 +834,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆青铜器探秘",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "免费需预约",
@@ -398,12 +872,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "金沙遗址博物馆古蜀文明夏令营",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-20",
     "fee": "收费",
@@ -435,12 +910,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆天文观星夜",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-25",
     "fee": "收费",
@@ -472,12 +948,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "环球中心海洋乐园科普日",
     "venue": "环球中心天堂岛海洋乐园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-12",
     "fee": "需购票",
@@ -508,12 +985,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "青龙湖湿地公园皮划艇体验",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -545,12 +1023,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都植物园药用植物探秘",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-10",
     "fee": "免费需预约",
@@ -581,12 +1060,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷夏日电音节",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "需购票",
@@ -617,12 +1097,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "成都融创水世界滑道挑战赛",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -653,12 +1134,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都国色天乡乐园童话节",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-22",
     "fee": "需购票",
@@ -689,12 +1171,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都海昌极地海洋公园亲子嘉年华",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -726,12 +1209,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "非遗博览园蜀绣研学",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -762,12 +1246,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都图书馆亲子电影日",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -799,12 +1284,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "影视放映"
   },
   {
     "name": "杜甫草堂诗圣文化探秘",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -836,12 +1322,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都博物馆古钱币探秘",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-10",
     "fee": "免费需预约",
@@ -873,12 +1360,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都网球培训营",
     "venue": "四川省体育馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -910,12 +1398,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都跆拳道夏令营",
     "venue": "成都跆拳道馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-26",
     "fee": "收费",
@@ -946,12 +1435,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "黄龙溪古镇亲子漂流",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -982,12 +1472,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "洛带古镇会馆探秘",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -1018,12 +1509,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "平乐古镇竹海探秘",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-09",
     "fee": "免费",
@@ -1054,12 +1546,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "平乐古镇民俗体验",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -1090,12 +1583,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "环球中心室内冲浪体验",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-09-04",
     "fee": "收费",
@@ -1126,12 +1620,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "来福士广场儿童剧场",
     "venue": "成都来福士广场",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -1162,7 +1657,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "探秘成都金牛区影视放映月",
@@ -1199,12 +1695,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川博物院巴蜀青铜文化探秘",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-23",
     "fee": "免费需预约",
@@ -1235,12 +1732,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "四川科技馆VR太空漫步",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -1272,12 +1770,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "锦里三国主题巡游",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -1308,12 +1807,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄龙溪古镇玩水节",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-09-18",
     "fee": "免费",
@@ -1344,7 +1844,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "震撼成都成华区演出发现-157",
@@ -1381,12 +1882,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆陶器修复体验",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-09-06",
     "fee": "收费",
@@ -1418,12 +1920,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "海昌极地海洋公园深海夜宿",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-25",
     "fee": "收费",
@@ -1455,12 +1958,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "白鹭湾湿地夏日观鹭",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-27",
     "fee": "免费",
@@ -1492,12 +1996,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "宽窄巷子糖画手作",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -1528,12 +2033,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都图书馆国学经典诵读",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -1565,12 +2071,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "四川省图书馆亲子共读日",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -1602,12 +2109,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "安仁古镇民国服饰体验",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -1638,12 +2146,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都太古里亲子DIY工坊",
     "venue": "成都远洋太古里",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -1674,12 +2183,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万象城暑期童玩节",
     "venue": "成都万象城",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-09-02",
     "fee": "免费",
@@ -1710,12 +2220,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万象城亲子科技展",
     "venue": "成都万象城",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-09-08",
     "fee": "部分免费",
@@ -1746,7 +2257,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游成都高新区体育赛事季",
@@ -1782,7 +2294,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游成都新都区影视放映季",
@@ -1819,7 +2332,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游成都新都区影视放映季-193",
@@ -1855,12 +2369,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆文物拓印体验",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-10",
     "fee": "收费",
@@ -1892,12 +2407,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川博物院民族服饰体验",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -1928,12 +2444,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金沙遗址博物馆金面具探秘",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-11",
     "fee": "需购票",
@@ -1965,12 +2482,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都动物园动物科普大讲堂",
     "venue": "成都动物园",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-06",
     "fee": "需购票",
@@ -2001,12 +2519,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆火箭模型制作",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -2038,12 +2557,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "天府人文艺术图书馆美术绘本课",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -2075,12 +2595,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武侯祠刘备惠陵探秘",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -2112,12 +2633,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "金沙遗址青铜面具研学",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-05",
     "fee": "需购票",
@@ -2149,12 +2671,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "锦城湖亲子帆船",
     "venue": "锦城湖公园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -2186,12 +2709,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都跑酷训练营",
     "venue": "成都跑酷场",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -2222,12 +2746,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "街子古镇康道寻幽",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -2258,12 +2783,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都大悦城亲子手作日",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -2294,12 +2820,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆汉代画像砖研学",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-30",
     "fee": "免费需预约",
@@ -2331,12 +2858,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "金沙遗址博物馆象牙发掘体验",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-09-07",
     "fee": "收费",
@@ -2368,12 +2896,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆电磁大探索",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-09-12",
     "fee": "免费需预约",
@@ -2405,12 +2934,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都植物园亲子插花课",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -2441,12 +2971,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都欢乐谷亲子游乐挑战",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -2477,12 +3008,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都国色天乡乐园旋转木马派对",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -2513,12 +3045,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都融创乐园主题游乐日",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-30",
     "fee": "需购票",
@@ -2549,12 +3082,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "非遗博览园糖画体验",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-09-11",
     "fee": "收费",
@@ -2585,12 +3119,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "非遗博览园川剧脸谱体验",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -2621,12 +3156,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆作家见面会",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -2658,12 +3194,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杜甫草堂唐代生活体验",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -2695,12 +3232,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武侯祠锦里三国文化游",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -2732,12 +3270,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都武术体验营",
     "venue": "成都武术馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -2768,12 +3307,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄龙溪古镇古街寻宝",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -2804,12 +3344,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "洛带古镇古街亲子游",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -2840,12 +3381,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "平乐古镇夜游古街",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -2876,12 +3418,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "IFS夏日亲子艺术市集",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -2912,7 +3455,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年成都高新区体育赛事讲座",
@@ -2949,7 +3493,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华",
@@ -2986,7 +3531,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都成华区演出科普",
@@ -3022,12 +3568,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "海昌极地海洋公园鲨鱼科普",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-09-05",
     "fee": "需购票",
@@ -3059,12 +3606,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "白鹭湾湿地夏日露营节",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -3096,12 +3644,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "三圣花乡亲子绘画写生",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-09-07",
     "fee": "收费",
@@ -3132,12 +3681,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "锦里茶艺表演",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -3168,7 +3718,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "青少年成都双流区科普活动讲座",
@@ -3205,7 +3756,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都天府新区亲子活动展览-146",
@@ -3242,7 +3794,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都龙泉驿区展览嘉年华-189",
@@ -3279,12 +3832,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川博物院书画临摹课堂",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -3315,12 +3869,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆机器人足球赛",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-08-29",
     "fee": "免费需预约",
@@ -3352,12 +3907,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "宽窄巷子捏面人体验",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -3388,12 +3944,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都图书馆科幻故事会",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -3425,12 +3982,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "四川省图书馆巴蜀文化讲座",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-08",
     "fee": "免费",
@@ -3462,12 +4020,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "兴隆湖帆船体验",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-13",
     "fee": "收费",
@@ -3499,12 +4058,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "安仁古镇公馆探秘",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -3535,7 +4095,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭成都龙泉驿区展览研学营",
@@ -3571,7 +4132,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末成都武侯区科普活动活动",
@@ -3608,7 +4170,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都锦江区展览活动-140",
@@ -3645,12 +4208,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "成都博物馆蜀锦文化课堂",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -3682,12 +4246,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆声学奥秘课堂",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -3719,12 +4284,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都川剧院脸谱绘画课堂",
     "venue": "成都川剧院",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -3756,12 +4322,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "天府人文艺术图书馆音乐故事会",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -3793,12 +4360,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武侯祠三国演义故事会",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-28",
     "fee": "需购票",
@@ -3830,12 +4398,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "天府绿道亲子马拉松",
     "venue": "天府绿道",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -3866,12 +4435,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都亲子游泳日",
     "venue": "成都亲子游泳馆",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -3902,12 +4472,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "街子古镇茶艺体验",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -3938,12 +4509,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "银泰中心亲子手作课堂",
     "venue": "成都银泰中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-09-14",
     "fee": "收费",
@@ -3974,7 +4546,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子成都武侯区科普活动工作坊",
@@ -4011,7 +4584,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都青羊区讲座阅读周",
@@ -4048,7 +4622,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读成都龙泉驿区展览周",
@@ -4084,7 +4659,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期成都双流区科普活动体验营",
@@ -4121,12 +4697,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川博物院汉代陶俑研学",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-10",
     "fee": "免费需预约",
@@ -4157,12 +4734,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "海昌极地海洋公园海洋环保课堂",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-29",
     "fee": "收费",
@@ -4194,12 +4772,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "三圣花乡农家采摘体验",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-16",
     "fee": "收费",
@@ -4230,12 +4809,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都国色天乡乐园摩天轮之夜",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-30",
     "fee": "需购票",
@@ -4266,12 +4846,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都欢乐谷亲子魔法秀",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -4302,12 +4883,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都图书馆名家讲座系列",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-15",
     "fee": "免费",
@@ -4339,12 +4921,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杜甫草堂古琴雅集",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -4376,12 +4959,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杜甫草堂浣花溪诗画游",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-30",
     "fee": "需购票",
@@ -4413,12 +4997,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都轮滑培训营",
     "venue": "成都轮滑场",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-13",
     "fee": "收费",
@@ -4449,12 +5034,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都瑜伽亲子课",
     "venue": "成都瑜伽馆",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -4485,7 +5071,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都锦江区展览活动",
@@ -4522,7 +5109,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭成都成华区演出研学营",
@@ -4559,7 +5147,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都锦江区展览探秘",
@@ -4596,12 +5185,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "四川科技馆恐龙化石探秘",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-15",
     "fee": "免费需预约",
@@ -4633,12 +5223,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "宽窄巷子川剧变脸体验",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-22",
     "fee": "收费",
@@ -4669,12 +5260,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "锦里川派古琴体验",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-09-10",
     "fee": "收费",
@@ -4705,7 +5297,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都龙泉驿区展览演出-147",
@@ -4741,12 +5334,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "四川科技馆光学实验工坊",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -4778,12 +5372,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "兴隆湖湿地公园环湖骑行",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -4815,12 +5410,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷亲子嘉年华",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-15",
     "fee": "需购票",
@@ -4851,12 +5447,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "宽窄巷子剪纸艺术课堂",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-12",
     "fee": "收费",
@@ -4887,12 +5484,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都图书馆英文绘本课堂",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-12",
     "fee": "免费",
@@ -4924,12 +5522,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "四川省图书馆儿童戏剧阅读",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -4961,7 +5560,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都金牛区影视放映探索",
@@ -4998,7 +5598,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都温江区讲座阅读节",
@@ -5035,12 +5636,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "四川博物院张大千画展研学",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-28",
     "fee": "免费需预约",
@@ -5071,12 +5673,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "武侯祠博物馆三国文化研学",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-16",
     "fee": "需购票",
@@ -5108,12 +5711,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "人民公园荷塘摄影日",
     "venue": "人民公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-08",
     "fee": "免费",
@@ -5145,12 +5749,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "天府人文艺术图书馆摄影讲座",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-10",
     "fee": "免费",
@@ -5182,12 +5787,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青龙湖皮划艇培训营",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-18",
     "fee": "收费",
@@ -5219,12 +5825,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都高尔夫体验日",
     "venue": "成都高尔夫球场",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-10",
     "fee": "收费",
@@ -5255,12 +5862,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都滑板体验营",
     "venue": "成都滑板场",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2026-09-08",
     "fee": "收费",
@@ -5291,7 +5899,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "震撼成都新都区影视放映发现",
@@ -5328,12 +5937,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆生命科学探秘",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-20",
     "fee": "免费需预约",
@@ -5365,12 +5975,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "浣花溪公园夏日寻虫记",
     "venue": "浣花溪公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-18",
     "fee": "免费",
@@ -5402,12 +6013,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷花车巡游",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-09-29",
     "fee": "需购票",
@@ -5438,12 +6050,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都国色天乡乐园夏日音乐节",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-08-28",
     "fee": "需购票",
@@ -5474,12 +6087,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "锦里民俗手作市集",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -5510,12 +6124,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都图书馆小读者分享会",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -5547,12 +6162,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "四川省图书馆诗词朗诵会",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -5584,12 +6200,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金沙遗址亲子考古日",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -5621,7 +6238,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼成都青羊区讲座阅读发现",
@@ -5657,7 +6275,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子成都锦江区展览工作坊-182",
@@ -5693,12 +6312,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "成都糖酒会酒店展和展会展的区别2026",
+    "name": "成都糖酒会酒店展和展会展的区别2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-07-30",
+    "end_date": "2026-08-12",
+    "link": "",
+    "url": "",
+    "description": "成都糖酒会酒店展和展会展的区别2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "四川博物院文物拓印工坊",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-12",
     "fee": "收费",
@@ -5729,12 +6366,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "人民公园盖碗茶文化体验",
     "venue": "人民公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-30",
     "fee": "收费",
@@ -5766,12 +6404,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "街子古镇字库塔研学",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-17",
     "fee": "免费",
@@ -5802,12 +6441,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都博物馆考古体验营",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-13",
     "fee": "收费",
@@ -5839,12 +6479,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "锦江绿道亲子骑行",
     "venue": "锦江绿道",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-27",
     "fee": "免费",
@@ -5875,12 +6516,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "黄龙溪古镇火龙表演",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -5911,12 +6553,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "安仁古镇民国风情游",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-27",
     "fee": "免费",
@@ -5947,12 +6590,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都大悦城亲子派对",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-26",
     "fee": "免费",
@@ -5983,7 +6627,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都天府新区亲子活动比赛",
@@ -6020,12 +6665,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青龙湖湿地公园亲子露营",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-09-14",
     "fee": "收费",
@@ -6057,12 +6703,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆科学绘本课堂",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -6094,12 +6741,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "天府人文艺术图书馆建筑美学课",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -6131,12 +6779,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武侯祠三国名将故事会",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-29",
     "fee": "需购票",
@@ -6168,12 +6817,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都马术体验日",
     "venue": "成都马术俱乐部",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -6204,7 +6854,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年成都新都区影视放映讲座",
@@ -6240,7 +6891,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都天府新区亲子活动活动-160",
@@ -6276,7 +6928,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进成都武侯区科普活动日",
@@ -6312,12 +6965,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（近世篇）",
+    "name": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（近世篇）",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-27",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（近世篇），在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "四川博物院小小讲解员培训",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-09-22",
     "fee": "免费需预约",
@@ -6348,12 +7019,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "武侯祠诸葛亮智慧课堂",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-09-23",
     "fee": "收费",
@@ -6385,12 +7057,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都博物馆宋代茶文化体验",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-09-16",
     "fee": "收费",
@@ -6422,7 +7095,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "体验成都双流区科普活动嘉年华",
@@ -6459,7 +7133,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子成都温江区讲座阅读工作坊",
@@ -6496,7 +7171,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘成都武侯区科普活动月",
@@ -6533,7 +7209,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都青羊区讲座阅读演出",
@@ -6569,12 +7246,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "锦里灯谜会亲子日",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-28",
     "fee": "免费",
@@ -6605,12 +7283,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "天府人文艺术图书馆艺术讲座",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-09-18",
     "fee": "免费",
@@ -6642,12 +7321,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "天府人文艺术图书馆夏夜读书会",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -6679,12 +7359,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "杜甫草堂诗圣故里研学",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -6716,7 +7397,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童成都锦江区展览课程",
@@ -6752,7 +7434,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都龙泉驿区展览科普",
@@ -6789,7 +7472,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘成都郫都区演出月-192",
@@ -6826,12 +7510,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "海昌极地海洋公园海豚互动",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -6863,12 +7548,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "天府绿道骑行挑战",
     "venue": "天府绿道",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-09-26",
     "fee": "免费",
@@ -6899,12 +7585,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都太古里亲子绘画日",
     "venue": "成都远洋太古里",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -6935,7 +7622,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年成都成华区演出讲座",
@@ -6971,7 +7659,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进成都都江堰市体育赛事日",
@@ -7007,12 +7696,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "环球中心海洋乐园亲子戏水节",
     "venue": "环球中心天堂岛海洋乐园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-07",
     "fee": "需购票",
@@ -7043,12 +7733,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都融创雪世界夏日滑雪",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-02",
     "fee": "需购票",
@@ -7079,12 +7770,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "锦里川剧变脸专场",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-04",
     "fee": "收费",
@@ -7115,12 +7807,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都篮球夏令营",
     "venue": "成都体育馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-09-25",
     "fee": "收费",
@@ -7152,12 +7845,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "安仁古镇老街电车体验",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -7188,12 +7882,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "环球中心亲子购物节",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-07",
     "fee": "免费",
@@ -7224,12 +7919,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（民俗篇）",
+    "name": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（民俗篇）",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-07",
+    "end_date": "2026-09-02",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆4F花重锦官城：成都历史文化陈列（民俗篇），在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "宽窄巷子盖碗茶艺体验",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-09-22",
     "fee": "收费",
@@ -7260,12 +7973,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金沙遗址古蜀祭祀探秘",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-09-10",
     "fee": "需购票",
@@ -7297,12 +8011,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
+  },
+  {
+    "title": "常设展成都博物馆5F影舞万象：中国皮影展",
+    "name": "常设展成都博物馆5F影舞万象：中国皮影展",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-27",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆5F影舞万象：中国皮影展，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "街子古镇古街亲子游",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -7333,7 +8065,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都都江堰市体育赛事展览",
@@ -7370,7 +8103,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩成都郫都区演出节",
@@ -7407,7 +8141,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "李荣浩成都演唱会开票时间+入口",
+    "name": "李荣浩成都演唱会开票时间+入口",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-14",
+    "link": "",
+    "url": "",
+    "description": "李荣浩成都演唱会开票时间+入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "发现成都温江区讲座阅读比赛",
@@ -7443,7 +8195,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "漫游成都青羊区讲座阅读季",
@@ -7479,12 +8232,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "三圣花乡花田摄影日",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-10-01",
     "fee": "免费",
@@ -7515,7 +8269,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都高新区体育赛事演出",
@@ -7551,13 +8306,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "互动成都彭州市亲子活动科普",
     "venue": "成都彭州市图书馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -7588,7 +8344,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都温江区讲座阅读比赛-148",
@@ -7624,7 +8381,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "互动成都高新区体育赛事科普-159",
@@ -7660,12 +8418,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "常设展成都博物馆5F偶戏大千：中国木偶展",
+    "name": "常设展成都博物馆5F偶戏大千：中国木偶展",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-20",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆5F偶戏大千：中国木偶展，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "四川科技馆机器人编程夏令营",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-09-26",
     "fee": "收费",
@@ -7697,12 +8473,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都太古里亲子艺术展",
     "venue": "成都远洋太古里",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-10-02",
     "fee": "部分免费",
@@ -7733,12 +8510,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "成都国色天乡乐园亲子游乐日",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-10-03",
     "fee": "需购票",
@@ -7769,13 +8547,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻成都彭州市亲子活动之旅",
     "venue": "成都彭州市文化馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2027-02-12",
     "fee": "收费",
@@ -7806,7 +8585,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都高新区体育赛事周",
@@ -7842,7 +8622,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩成都锦江区展览节-154",
@@ -7879,7 +8660,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青少年成都新都区影视放映讲座-165",
@@ -7915,7 +8697,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年成都成华区演出讲座-185",
@@ -7952,12 +8735,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武侯祠博物馆诸葛亮智慧课堂",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-09-23",
     "fee": "收费",
@@ -7989,12 +8773,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "海昌极地海洋公园北极熊探秘",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-09",
     "fee": "需购票",
@@ -8026,12 +8811,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都图书馆亲子手工阅读",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-09-28",
     "fee": "免费",
@@ -8063,12 +8849,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆暑期阅读营",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -8100,7 +8887,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进成都锦江区展览日",
@@ -8137,7 +8925,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘成都都江堰市体育赛事月-152",
@@ -8173,7 +8962,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式成都金牛区影视放映探索-158",
@@ -8210,12 +9000,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆夜游博物馆活动",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-10-15",
     "fee": "免费需预约",
@@ -8247,12 +9038,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "四川科技馆编程创客营",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-09-29",
     "fee": "收费",
@@ -8284,12 +9076,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都川剧院变脸表演夜场",
     "venue": "成都川剧院",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-10-11",
     "fee": "需购票",
@@ -8321,12 +9114,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都博物馆巴蜀文化研学",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-10-05",
     "fee": "免费需预约",
@@ -8358,7 +9152,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "解读成都成华区演出周",
@@ -8395,7 +9190,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都成华区演出演出",
@@ -8432,7 +9228,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼成都高新区体育赛事发现",
@@ -8469,7 +9266,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "解读成都双流区科普活动周-191",
@@ -8506,12 +9304,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026六哲成都演唱会开票时间+入口",
+    "name": "2026六哲成都演唱会开票时间+入口",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-25",
+    "link": "",
+    "url": "",
+    "description": "2026六哲成都演唱会开票时间+入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "杜甫草堂博物馆诗词研学营",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-09-28",
     "fee": "需购票",
@@ -8543,12 +9359,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都欢乐谷水上狂欢节",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-10-16",
     "fee": "需购票",
@@ -8579,12 +9396,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷过山车挑战日",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-09-28",
     "fee": "需购票",
@@ -8615,12 +9433,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "非遗博览园皮影制作",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-10-08",
     "fee": "收费",
@@ -8651,13 +9470,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "暑期成都彭州市亲子活动体验营",
     "venue": "成都彭州市动物园",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2027-02-15",
     "fee": "收费",
@@ -8687,7 +9507,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都都江堰市体育赛事比赛",
@@ -8724,7 +9545,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻成都高新区体育赛事之旅",
@@ -8760,12 +9582,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "银泰中心亲子艺术展",
     "venue": "成都银泰中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-10-09",
     "fee": "部分免费",
@@ -8796,12 +9619,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "来福士广场亲子嘉年华",
     "venue": "成都来福士广场",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-10-02",
     "fee": "免费",
@@ -8832,7 +9656,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都都江堰市体育赛事节",
@@ -8869,7 +9694,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "亲子成都都江堰市体育赛事工作坊",
@@ -8906,7 +9732,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典成都金牛区影视放映探秘",
@@ -8943,13 +9770,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都彭州市亲子活动演出-167",
     "venue": "成都彭州市艺术中心",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2027-02-16",
     "fee": "收费",
@@ -8980,12 +9808,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆古代服饰体验",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-01",
     "fee": "收费",
@@ -9017,12 +9846,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "宽窄巷子掏耳朵民俗体验",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-13",
     "fee": "收费",
@@ -9053,12 +9883,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武侯祠蜀汉历史探秘",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-01",
     "fee": "需购票",
@@ -9090,7 +9921,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子成都锦江区展览工作坊",
@@ -9126,7 +9958,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童成都温江区讲座阅读课程",
@@ -9162,7 +9995,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验成都成华区演出嘉年华",
@@ -9199,7 +10033,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子成都温江区讲座阅读工作坊-162",
@@ -9236,12 +10071,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都平衡车培训",
     "venue": "成都平衡车场",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2026-10-08",
     "fee": "收费",
@@ -9272,7 +10108,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进成都金牛区影视放映日",
@@ -9308,12 +10145,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "白鹭湾湿地公园生态课堂",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -9345,12 +10183,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷万圣夜场预热",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-31",
     "fee": "需购票",
@@ -9381,12 +10220,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武侯祠三国文化研学营",
     "venue": "成都武侯祠博物馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -9418,12 +10258,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杜甫草堂书法体验课",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-06",
     "fee": "收费",
@@ -9455,12 +10296,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "平乐古镇古桥寻访",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-10",
     "fee": "免费",
@@ -9491,7 +10333,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "震撼成都双流区科普活动发现-177",
@@ -9527,7 +10370,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都都江堰市体育赛事节-194",
@@ -9563,12 +10407,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "2026成都世界线动漫展时间地点及展会安排",
+    "name": "2026成都世界线动漫展时间地点及展会安排",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-22",
+    "link": "",
+    "url": "",
+    "description": "2026成都世界线动漫展时间地点及展会安排。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都海昌极地海洋公园水上乐园",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-10-21",
     "fee": "需购票",
@@ -9600,12 +10462,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "锦里糖画亲子体验",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-10-06",
     "fee": "收费",
@@ -9636,12 +10499,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都图书馆暑期阅读挑战",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-10-21",
     "fee": "免费",
@@ -9673,12 +10537,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "洛带古镇客家文化研学",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-10-13",
     "fee": "免费",
@@ -9709,7 +10574,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "暑期成都青羊区讲座阅读体验营-141",
@@ -9746,12 +10612,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆皮影戏展演亲子日",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-09-28",
     "fee": "免费需预约",
@@ -9783,12 +10650,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆力学乐园",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-10-07",
     "fee": "免费需预约",
@@ -9820,12 +10688,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "海昌极地海洋公园海洋生物研学",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -9857,12 +10726,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都融创水世界夜场派对",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-10-14",
     "fee": "需购票",
@@ -9893,7 +10763,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "趣味成都金牛区影视放映展览",
@@ -9929,7 +10800,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "走进成都天府新区亲子活动日",
@@ -9966,7 +10838,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都天府新区亲子活动展览",
@@ -10002,7 +10875,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进成都武侯区科普活动日-170",
@@ -10039,12 +10913,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "兴隆湖湿地公园星空观测",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -10076,12 +10951,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都欢乐谷夜场派对",
     "venue": "成都欢乐谷",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-10-19",
     "fee": "需购票",
@@ -10112,12 +10988,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "安仁古镇博物馆研学",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-10-14",
     "fee": "收费",
@@ -10148,7 +11025,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "精彩成都金牛区影视放映节",
@@ -10184,7 +11062,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都成华区演出科普-199",
@@ -10220,12 +11099,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都IFS亲子艺术展",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-10-20",
     "fee": "部分免费",
@@ -10256,7 +11136,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "精彩成都天府新区亲子活动节",
@@ -10293,13 +11174,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭成都彭州市亲子活动研学营",
     "venue": "成都彭州市青少年宫",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -10330,7 +11212,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都高新区体育赛事嘉年华",
@@ -10367,13 +11250,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都彭州市亲子活动周",
     "venue": "成都彭州市剧院",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "收费",
@@ -10404,7 +11288,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都天府新区亲子活动探索",
@@ -10440,7 +11325,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都武侯区科普活动探秘-156",
@@ -10477,12 +11363,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "成都张韶涵演唱会门票二开时间+入口",
+    "name": "成都张韶涵演唱会门票二开时间+入口",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-08-25",
+    "end_date": "2026-08-31",
+    "link": "",
+    "url": "",
+    "description": "成都张韶涵演唱会门票二开时间+入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都大悦城亲子市集",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-08-26",
     "end_date": "2026-10-13",
     "fee": "免费",
@@ -10513,7 +11417,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都温江区讲座阅读探秘-176",
@@ -10549,12 +11454,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "非遗博览园剪纸课堂",
     "venue": "国际非遗博览园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-09",
     "fee": "收费",
@@ -10585,12 +11491,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆绘本故事会",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-27",
     "end_date": "2026-10-23",
     "fee": "免费",
@@ -10622,7 +11529,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼成都龙泉驿区展览发现",
@@ -10659,7 +11567,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味成都温江区讲座阅读展览",
@@ -10696,7 +11605,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童成都武侯区科普活动课程-184",
@@ -10733,7 +11643,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索成都高新区体育赛事演出-187",
@@ -10770,12 +11681,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都川剧院戏服体验日",
     "venue": "成都川剧院",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2026-10-12",
     "fee": "收费",
@@ -10807,12 +11719,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万象城儿童艺术展",
     "venue": "成都万象城",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2026-10-18",
     "fee": "部分免费",
@@ -10843,7 +11756,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期成都新都区影视放映体验营",
@@ -10879,7 +11793,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都青羊区讲座阅读嘉年华-169",
@@ -10915,7 +11830,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "常设展成都博物馆-1F人与自然：贝林捐赠展",
+    "name": "常设展成都博物馆-1F人与自然：贝林捐赠展",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-28",
+    "end_date": "2026-09-28",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆-1F人与自然：贝林捐赠展，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "探秘成都天府新区亲子活动月",
@@ -10951,7 +11884,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻成都青羊区讲座阅读之旅-155",
@@ -10988,12 +11922,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2022年5月17日-2022年9月12日三层临展厅一支铅笔诞生的世界：动漫原画特展",
+    "name": "2022年5月17日-2022年9月12日三层临展厅一支铅笔诞生的世界：动漫原画特展",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-08-29",
+    "end_date": "2026-09-25",
+    "link": "",
+    "url": "",
+    "description": "2022年5月17日-2022年9月12日三层临展厅一支铅笔诞生的世界：动漫原画特展，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "海昌极地海洋公园白鲸表演",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-30",
     "fee": "需购票",
@@ -11025,12 +11977,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "人民公园夏日观鸟活动",
     "venue": "人民公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-25",
     "fee": "免费",
@@ -11062,12 +12015,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "洛带古镇客家美食体验",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-15",
     "fee": "收费",
@@ -11098,12 +12052,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "白鹭湾湿地公园观鸟营",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-08-31",
     "end_date": "2026-10-24",
     "fee": "免费",
@@ -11135,7 +12090,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童成都郫都区演出课程",
@@ -11171,7 +12127,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童成都武侯区科普活动课程",
@@ -11208,7 +12165,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期成都成华区演出体验营",
@@ -11244,12 +12202,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "浣花溪公园诗歌朗诵会",
     "venue": "浣花溪公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2026-10-12",
     "fee": "免费",
@@ -11281,12 +12240,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都国色天乡乐园夜场嘉年华",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2026-10-25",
     "fee": "需购票",
@@ -11317,7 +12277,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻成都龙泉驿区展览之旅-175",
@@ -11354,12 +12315,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "张韶涵成都演唱会退票时间+手续费2026",
+    "name": "张韶涵成都演唱会退票时间+手续费2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-15",
+    "link": "",
+    "url": "",
+    "description": "张韶涵成都演唱会退票时间+手续费2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都植物园标本制作课堂",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2026-10-15",
     "fee": "收费",
@@ -11390,12 +12369,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都融创水世界儿童水上乐园",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2026-11-02",
     "fee": "需购票",
@@ -11426,12 +12406,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆古蜀文明展",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2027-01-02",
     "fee": "免费需预约",
@@ -11463,12 +12444,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "成都大悦城儿童剧演出",
     "venue": "成都大悦城",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2026-10-22",
     "fee": "收费",
@@ -11499,7 +12481,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "沉浸式成都郫都区演出探索-178",
@@ -11535,12 +12518,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都国色天乡乐园水上狂欢",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2026-11-03",
     "fee": "需购票",
@@ -11571,12 +12555,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都太古里夏日艺术节",
     "venue": "成都远洋太古里",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2026-10-17",
     "fee": "免费",
@@ -11607,13 +12592,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "漫游成都彭州市亲子活动季",
     "venue": "成都彭州市文化中心",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -11643,7 +12629,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都郫都区演出探秘",
@@ -11680,7 +12667,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都金牛区影视放映展览-186",
@@ -11716,12 +12704,47 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026年4月30日-8月23日成都博物馆1号临展厅钢铁与荣耀——意大利都灵王宫博物馆藏骑士...",
+    "name": "2026年4月30日-8月23日成都博物馆1号临展厅钢铁与荣耀——意大利都灵王宫博物馆藏骑士...",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-09-03",
+    "end_date": "2026-10-09",
+    "link": "",
+    "url": "",
+    "description": "2026年4月30日-8月23日成都博物馆1号临展厅钢铁与荣耀——意大利都灵王宫博物馆藏骑士...，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
+  },
+  {
+    "title": "2022.8-2022.10一层临展厅空明流光——宋瓷·五大名窑特展",
+    "name": "2022.8-2022.10一层临展厅空明流光——宋瓷·五大名窑特展",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-26",
+    "link": "",
+    "url": "",
+    "description": "2022.8-2022.10一层临展厅空明流光——宋瓷·五大名窑特展，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "浣花溪公园植物认知课",
     "venue": "浣花溪公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-10-24",
     "fee": "免费",
@@ -11753,12 +12776,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "兴隆湖湿地公园湖畔露营",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-11-01",
     "fee": "收费",
@@ -11790,12 +12814,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都融创水世界夏日狂欢",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-11-04",
     "fee": "需购票",
@@ -11826,12 +12851,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "锦里皮影戏表演",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-10-20",
     "fee": "收费",
@@ -11862,12 +12888,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "兴隆湖水上桨板",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-10-30",
     "fee": "收费",
@@ -11899,7 +12926,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都锦江区展览节",
@@ -11936,7 +12964,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典成都武侯区科普活动探秘",
@@ -11972,7 +13001,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼成都成华区演出发现",
@@ -12009,7 +13039,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都都江堰市体育赛事活动",
@@ -12045,7 +13076,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "儿童成都天府新区亲子活动课程",
@@ -12082,7 +13114,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘成都锦江区展览月",
@@ -12119,7 +13152,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子成都武侯区科普活动工作坊-142",
@@ -12155,7 +13189,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都成华区演出周-171",
@@ -12192,12 +13227,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都击剑体验日",
     "venue": "成都击剑馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-10-22",
     "fee": "收费",
@@ -12228,7 +13264,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "发现成都武侯区科普活动比赛",
@@ -12265,12 +13302,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆小小图书管理员",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-10-27",
     "fee": "免费需预约",
@@ -12302,7 +13340,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都锦江区展览比赛",
@@ -12338,7 +13377,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味成都都江堰市体育赛事展览-166",
@@ -12374,12 +13414,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "成都图书馆绘本故事会",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2026-11-02",
     "fee": "免费",
@@ -12411,12 +13452,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都博物馆蜀文化探秘",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2026-10-30",
     "fee": "免费需预约",
@@ -12448,7 +13490,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味成都郫都区演出展览",
@@ -12485,7 +13528,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索成都龙泉驿区展览演出",
@@ -12521,7 +13565,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现成都金牛区影视放映比赛",
@@ -12558,7 +13603,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都新都区影视放映嘉年华",
@@ -12594,7 +13640,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭成都新都区影视放映研学营",
@@ -12631,7 +13678,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都天府新区亲子活动比赛-188",
@@ -12668,12 +13716,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆无人机飞行体验",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-09",
     "end_date": "2026-10-29",
     "fee": "收费",
@@ -12705,7 +13754,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "探秘成都都江堰市体育赛事月",
@@ -12741,7 +13791,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "解读成都双流区科普活动周",
@@ -12778,7 +13829,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都郫都区演出比赛",
@@ -12814,7 +13866,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童成都都江堰市体育赛事课程",
@@ -12851,7 +13904,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都武侯区科普活动探索-198",
@@ -12887,12 +13941,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "金沙遗址博物馆古蜀玉器研学",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-10-25",
     "fee": "需购票",
@@ -12924,12 +13979,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "海昌极地海洋公园企鹅科普",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-11-04",
     "fee": "需购票",
@@ -12961,12 +14017,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金沙遗址太阳崇拜探秘",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-11-01",
     "fee": "需购票",
@@ -12998,12 +14055,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都羽毛球夏令营",
     "venue": "成都体育学院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-10-23",
     "fee": "收费",
@@ -13034,7 +14092,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "沉浸式成都郫都区演出探索",
@@ -13071,13 +14130,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼成都彭州市亲子活动发现",
     "venue": "成都彭州市会展中心",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -13107,12 +14167,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "安仁古镇建川博物馆探秘",
     "venue": "安仁古镇",
-    "district": "大邑县",
+    "district": "其他",
     "start_date": "2026-09-11",
     "end_date": "2026-10-30",
     "fee": "需购票",
@@ -13143,7 +14204,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索成都新都区影视放映演出",
@@ -13179,12 +14241,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆人工智能启蒙",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-10-31",
     "fee": "收费",
@@ -13216,7 +14279,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "梦幻成都青羊区讲座阅读之旅",
@@ -13253,7 +14317,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末成都金牛区影视放映活动",
@@ -13290,7 +14355,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻成都双流区科普活动之旅",
@@ -13326,12 +14392,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "成都糖酒会酒店展饮料类专区​展会地点2026",
+    "name": "成都糖酒会酒店展饮料类专区​展会地点2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-22",
+    "link": "",
+    "url": "",
+    "description": "成都糖酒会酒店展饮料类专区​展会地点2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "青龙湖湿地公园骑行日",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-10",
     "fee": "免费",
@@ -13363,12 +14447,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都融创水世界亲子戏水节",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-04",
     "fee": "需购票",
@@ -13399,12 +14484,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "天府人文艺术图书馆阅读挑战",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-03",
     "fee": "免费",
@@ -13436,12 +14522,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "平乐古镇漂流玩水",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-14",
     "fee": "收费",
@@ -13472,7 +14559,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭成都青羊区讲座阅读研学营",
@@ -13509,12 +14597,47 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "2026张韶涵成都演唱会座位图",
+    "name": "2026张韶涵成都演唱会座位图",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-21",
+    "link": "",
+    "url": "",
+    "description": "2026张韶涵成都演唱会座位图。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "陆虎成都演唱会二次开票时间+入口",
+    "name": "陆虎成都演唱会二次开票时间+入口",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "link": "",
+    "url": "",
+    "description": "陆虎成都演唱会二次开票时间+入口。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "锦里蜀绣手作课堂",
     "venue": "锦里",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-11-06",
     "fee": "收费",
@@ -13545,12 +14668,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "白鹭湾湿地亲子骑行",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-11-02",
     "fee": "免费",
@@ -13582,7 +14706,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻成都龙泉驿区展览之旅",
@@ -13619,7 +14744,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末成都温江区讲座阅读活动",
@@ -13656,7 +14782,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘成都金牛区影视放映月-172",
@@ -13693,13 +14820,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期成都彭州市亲子活动体验营-181",
     "venue": "成都彭州市体育场",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2027-03-17",
     "fee": "收费",
@@ -13729,7 +14857,25 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "常设展成都博物馆2F-3F花重锦官城：成都历史文化陈列（古代篇）",
+    "name": "常设展成都博物馆2F-3F花重锦官城：成都历史文化陈列（古代篇）",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-09-15",
+    "end_date": "2026-09-27",
+    "link": "",
+    "url": "",
+    "description": "常设展成都博物馆2F-3F花重锦官城：成都历史文化陈列（古代篇），在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "儿童成都金牛区影视放映课程",
@@ -13766,7 +14912,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻成都成华区演出之旅",
@@ -13802,7 +14949,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭成都青羊区讲座阅读研学营-183",
@@ -13838,13 +14986,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "漫游成都彭州市亲子活动季-153",
     "venue": "成都彭州市博物馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -13875,7 +15024,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期成都龙泉驿区展览体验营-161",
@@ -13911,12 +15061,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万象城亲子手作课堂",
     "venue": "成都万象城",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-11-06",
     "fee": "收费",
@@ -13947,12 +15098,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川省图书馆国学讲座",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2026-11-03",
     "fee": "免费",
@@ -13984,12 +15136,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都博物馆民俗文化展",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费需预约",
@@ -14021,7 +15174,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动成都青羊区讲座阅读科普",
@@ -14058,7 +15212,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末成都都江堰市体育赛事活动-180",
@@ -14095,12 +15250,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "杜甫草堂博物馆书法体验",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-11-02",
     "fee": "收费",
@@ -14132,12 +15288,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "平乐古镇茶马古道研学",
     "venue": "平乐古镇",
-    "district": "邛崃市",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-11-05",
     "fee": "免费",
@@ -14168,12 +15325,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "街子古镇凤栖山探秘",
     "venue": "街子古镇",
-    "district": "崇州市",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-11-09",
     "fee": "免费",
@@ -14204,12 +15362,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都IFS儿童时装秀",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-11-03",
     "fee": "免费",
@@ -14240,7 +15399,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游成都成华区演出季",
@@ -14277,12 +15437,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都博物馆清代瓷器展",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-21",
     "end_date": "2027-02-20",
     "fee": "免费需预约",
@@ -14314,7 +15475,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动成都新都区影视放映科普-179",
@@ -14351,7 +15513,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都武侯区科普活动展览",
@@ -14388,12 +15551,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2022年11月26日-2023年2月26日一层特展厅百年无极——意大利国家现当代美术馆藏艺术...",
+    "name": "2022年11月26日-2023年2月26日一层特展厅百年无极——意大利国家现当代美术馆藏艺术...",
+    "venue": "成都博物馆",
+    "city": "chengdu",
+    "start_date": "2026-09-22",
+    "end_date": "2026-10-17",
+    "link": "",
+    "url": "",
+    "description": "2022年11月26日-2023年2月26日一层特展厅百年无极——意大利国家现当代美术馆藏艺术...，在成都博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "成都博物馆官网",
+    "district": "其他"
   },
   {
     "name": "成都滑冰体验",
     "venue": "成都冰场",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2026-11-18",
     "fee": "收费",
@@ -14424,12 +15605,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "环球中心亲子美食节",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2026-11-12",
     "fee": "免费",
@@ -14460,7 +15642,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都青羊区讲座阅读嘉年华",
@@ -14496,7 +15679,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年成都龙泉驿区展览讲座",
@@ -14533,7 +15717,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味成都锦江区展览展览",
@@ -14569,12 +15754,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "青龙湖湿地公园观鸟研学",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-13",
     "fee": "免费",
@@ -14606,12 +15792,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "宽窄巷子川剧变脸表演",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-24",
     "fee": "收费",
@@ -14642,12 +15829,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "杜甫草堂唐诗朗诵会",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-12",
     "fee": "需购票",
@@ -14679,12 +15867,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "洛带古镇水龙节",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-24",
     "fee": "免费",
@@ -14715,13 +15904,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索成都彭州市亲子活动演出",
     "venue": "成都彭州市体育馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2027-03-26",
     "fee": "收费",
@@ -14752,7 +15942,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都新都区影视放映科普",
@@ -14789,7 +15980,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都武侯区科普活动节",
@@ -14825,7 +16017,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都都江堰市体育赛事探索",
@@ -14862,7 +16055,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游成都高新区体育赛事季-173",
@@ -14899,12 +16093,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "四川博物院藏羌绣体验",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-07",
     "fee": "免费需预约",
@@ -14935,12 +16130,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆机器人格斗赛",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-02",
     "fee": "免费需预约",
@@ -14972,12 +16168,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "环球中心儿童乐园派对",
     "venue": "成都环球中心",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-20",
     "fee": "收费",
@@ -15008,7 +16205,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期成都青羊区讲座阅读体验营",
@@ -15045,7 +16243,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期成都龙泉驿区展览体验营",
@@ -15082,7 +16281,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼成都双流区科普活动发现",
@@ -15119,13 +16319,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都彭州市亲子活动嘉年华",
     "venue": "成都彭州市科技馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2027-03-27",
     "fee": "收费",
@@ -15156,12 +16357,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "兴隆湖湿地公园皮划艇",
     "venue": "兴隆湖湿地公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-12",
     "fee": "收费",
@@ -15193,12 +16395,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都射箭体验日",
     "venue": "成都射箭馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-11-13",
     "fee": "收费",
@@ -15229,7 +16432,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现成都锦江区展览比赛-168",
@@ -15266,13 +16470,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻成都彭州市亲子活动之旅-195",
     "venue": "成都彭州市海洋馆",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -15302,12 +16507,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川科技馆科学实验秀",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-11-23",
     "fee": "免费需预约",
@@ -15339,12 +16545,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "蜀锦织绣博物馆非遗研学",
     "venue": "蜀锦织绣博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-11-10",
     "fee": "免费需预约",
@@ -15376,12 +16583,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "杜甫草堂诗词研学营",
     "venue": "成都杜甫草堂博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-11-17",
     "fee": "收费",
@@ -15413,7 +16621,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探秘成都温江区讲座阅读月",
@@ -15449,7 +16658,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式成都锦江区展览探索",
@@ -15485,7 +16695,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "亲子成都郫都区演出工作坊",
@@ -15522,13 +16733,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年成都彭州市亲子活动讲座",
     "venue": "成都彭州市植物园",
     "city": "chengdu",
-    "district": "彭州市",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2027-03-29",
     "fee": "收费",
@@ -15558,7 +16770,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都新都区影视放映周-151",
@@ -15595,12 +16808,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "成都糖酒会各展区企业名单汇总2026",
+    "name": "成都糖酒会各展区企业名单汇总2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-29",
+    "link": "",
+    "url": "",
+    "description": "成都糖酒会各展区企业名单汇总2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都图书馆童书漂流活动",
     "venue": "成都图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-11-12",
     "fee": "免费",
@@ -15632,7 +16863,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进成都温江区讲座阅读日-190",
@@ -15669,12 +16901,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "三圣花乡荷塘月色赏荷",
     "venue": "三圣花乡",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-09-29",
     "end_date": "2026-11-18",
     "fee": "免费",
@@ -15705,7 +16938,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都天府新区亲子活动探秘",
@@ -15741,7 +16975,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都温江区讲座阅读探索",
@@ -15778,12 +17013,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
+  },
+  {
+    "title": "成都糖酒会酒店展白酒专区点位一览2026",
+    "name": "成都糖酒会酒店展白酒专区点位一览2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-09-29",
+    "end_date": "2026-10-03",
+    "link": "",
+    "url": "",
+    "description": "成都糖酒会酒店展白酒专区点位一览2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "金沙遗址古蜀文明研学",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-23",
     "fee": "需购票",
@@ -15815,12 +17068,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "金沙遗址古蜀王陵探秘",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-13",
     "fee": "需购票",
@@ -15852,7 +17106,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "经典成都锦江区展览探秘-196",
@@ -15889,7 +17144,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼成都青羊区讲座阅读发现-197",
@@ -15926,12 +17182,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "金沙遗址博物馆太阳神鸟探秘",
     "venue": "成都金沙遗址博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-11-21",
     "fee": "需购票",
@@ -15963,12 +17220,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆化学魔法秀",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-11-17",
     "fee": "免费需预约",
@@ -16000,7 +17258,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "漫游成都双流区科普活动季",
@@ -16036,7 +17295,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验成都双流区科普活动嘉年华-149",
@@ -16072,12 +17332,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都攀岩体验日",
     "venue": "成都攀岩馆",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-11-25",
     "fee": "收费",
@@ -16108,12 +17369,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青龙湖亲子垂钓",
     "venue": "青龙湖湿地公园",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-11-21",
     "fee": "收费",
@@ -16145,12 +17407,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "万象城亲子嘉年华",
     "venue": "成都万象城",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-11-28",
     "fee": "免费",
@@ -16181,7 +17444,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式成都武侯区科普活动探索",
@@ -16217,7 +17481,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "暑期成都高新区体育赛事体验营",
@@ -16254,7 +17519,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都双流区科普活动科普",
@@ -16290,12 +17556,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都动物园小小饲养员体验",
     "venue": "成都动物园",
-    "district": "成华区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-11-28",
     "fee": "收费",
@@ -16326,12 +17593,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "白鹭湾湿地公园骑行寻宝",
     "venue": "白鹭湾湿地公园",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-11-25",
     "fee": "免费",
@@ -16363,12 +17631,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "宽窄巷子蜀绣体验课堂",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-11-23",
     "fee": "收费",
@@ -16399,12 +17668,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都太古里手作市集",
     "venue": "成都远洋太古里",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-11-29",
     "fee": "免费",
@@ -16435,7 +17705,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童成都金牛区影视放映课程-144",
@@ -16471,7 +17742,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年成都高新区体育赛事讲座-145",
@@ -16508,7 +17780,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童成都郫都区演出课程-164",
@@ -16544,7 +17817,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘成都郫都区演出月",
@@ -16581,12 +17855,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都植物园多肉种植体验",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-10-05",
     "end_date": "2026-11-25",
     "fee": "收费",
@@ -16617,12 +17892,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都植物园夏日植物认知",
     "venue": "成都植物园",
-    "district": "新都区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2026-11-28",
     "fee": "免费需预约",
@@ -16653,12 +17929,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都足球夏令营",
     "venue": "成都足球训练基地",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2026-11-25",
     "fee": "收费",
@@ -16689,12 +17966,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "成都IFS熊猫打卡活动",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2026-12-06",
     "fee": "免费",
@@ -16725,7 +18003,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻成都新都区影视放映之旅",
@@ -16762,12 +18041,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026陆虎「像你这样的朋友3.0」巡演-成都站演出时间、地点+门票",
+    "name": "2026陆虎「像你这样的朋友3.0」巡演-成都站演出时间、地点+门票",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-13",
+    "link": "",
+    "url": "",
+    "description": "2026陆虎「像你这样的朋友3.0」巡演-成都站演出时间、地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都博物馆小小讲解员夏令营",
     "venue": "成都博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-11-27",
     "fee": "免费需预约",
@@ -16799,12 +18096,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都融创水世界造浪池派对",
     "venue": "成都融创水世界",
-    "district": "都江堰市",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-11-19",
     "fee": "需购票",
@@ -16835,12 +18133,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "宽窄巷子皮影制作工坊",
     "venue": "宽窄巷子",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-11-21",
     "fee": "收费",
@@ -16871,12 +18170,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "蜀锦织绣博物馆蜀绣体验",
     "venue": "蜀锦织绣博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-12-02",
     "fee": "免费需预约",
@@ -16908,12 +18208,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "成都IFS暑期手作课堂",
     "venue": "成都IFS国际金融中心",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-11-26",
     "fee": "收费",
@@ -16944,12 +18245,30 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "凤凰传奇成都演唱会三次开票时间2026",
+    "name": "凤凰传奇成都演唱会三次开票时间2026",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-21",
+    "link": "",
+    "url": "",
+    "description": "凤凰传奇成都演唱会三次开票时间2026。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "成都海昌极地海洋公园花车巡游",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2026-11-20",
     "fee": "需购票",
@@ -16981,12 +18300,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "天府人文艺术图书馆绘本课堂",
     "venue": "天府人文艺术图书馆",
-    "district": "金牛区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2026-12-03",
     "fee": "免费",
@@ -17018,12 +18338,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "洛带古镇火龙节",
     "venue": "洛带古镇",
-    "district": "龙泉驿区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2026-11-28",
     "fee": "免费",
@@ -17054,7 +18375,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进成都郫都区演出日",
@@ -17091,7 +18413,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读成都新都区影视放映周",
@@ -17127,7 +18450,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子成都金牛区影视放映工作坊",
@@ -17164,7 +18488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游成都龙泉驿区展览季",
@@ -17201,12 +18526,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "四川科技馆航天体验营",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-11-24",
     "fee": "收费",
@@ -17238,12 +18564,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川省图书馆名家大讲堂",
     "venue": "四川省图书馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-11-23",
     "fee": "免费",
@@ -17275,7 +18602,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "家庭成都双流区科普活动研学营",
@@ -17311,7 +18639,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩成都天府新区亲子活动节-174",
@@ -17348,12 +18677,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "人民公园鹤鸣茶社亲子茶艺",
     "venue": "人民公园",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-11-24",
     "fee": "收费",
@@ -17385,7 +18715,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都天府新区亲子活动活动",
@@ -17422,7 +18753,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进成都温江区讲座阅读日",
@@ -17458,7 +18790,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年成都青羊区讲座阅读讲座",
@@ -17495,12 +18828,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "成都国色天乡乐园花车巡游",
     "venue": "成都国色天乡乐园",
-    "district": "温江区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-11-23",
     "fee": "需购票",
@@ -17531,7 +18865,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭成都高新区体育赛事研学营",
@@ -17568,7 +18903,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "走进成都郫都区演出日-150",
@@ -17605,12 +18941,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "四川博物院考古发掘模拟",
     "venue": "四川博物院",
-    "district": "武侯区",
+    "district": "其他",
     "start_date": "2026-10-12",
     "end_date": "2026-11-28",
     "fee": "收费",
@@ -17641,7 +18978,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都温江区讲座阅读探秘",
@@ -17678,7 +19016,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子成都天府新区亲子活动工作坊",
@@ -17714,7 +19053,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末成都郫都区演出活动",
@@ -17750,7 +19090,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典成都都江堰市体育赛事探秘",
@@ -17786,7 +19127,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "家庭成都成华区演出研学营-143",
@@ -17822,12 +19164,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都海昌极地海洋公园夏日狂欢",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-12-03",
     "fee": "需购票",
@@ -17859,12 +19202,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "成都川剧院亲子戏曲体验",
     "venue": "成都川剧院",
-    "district": "锦江区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-12-03",
     "fee": "收费",
@@ -17896,12 +19240,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都游泳培训班",
     "venue": "成都市游泳馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-12-13",
     "fee": "收费",
@@ -17932,12 +19277,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "黄龙溪古镇水龙节",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-12-08",
     "fee": "免费",
@@ -17968,12 +19314,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "黄龙溪古镇民俗体验",
     "venue": "黄龙溪古镇",
-    "district": "双流区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-11-29",
     "fee": "免费",
@@ -18004,7 +19351,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动成都高新区体育赛事科普",
@@ -18041,12 +19389,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "蜀锦织绣博物馆织锦课堂",
     "venue": "蜀锦织绣博物馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-14",
     "end_date": "2026-12-03",
     "fee": "收费",
@@ -18078,12 +19427,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "四川科技馆3D打印体验",
     "venue": "四川科技馆",
-    "district": "青羊区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-11-30",
     "fee": "免费需预约",
@@ -18115,12 +19465,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "环球中心海洋乐园夏夜派对",
     "venue": "环球中心天堂岛海洋乐园",
-    "district": "高新区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-11-30",
     "fee": "需购票",
@@ -18151,12 +19502,13 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "成都海昌极地海洋公园夜场派对",
     "venue": "成都海昌极地海洋公园",
-    "district": "天府新区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-12-07",
     "fee": "需购票",
@@ -18188,7 +19540,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索成都双流区科普活动演出",
@@ -18225,7 +19578,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "家庭成都双流区科普活动研学营-163",
@@ -18262,6 +19616,41 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026张韶涵玩家巡回演唱会-成都站演出时间、地点+门票购买",
+    "name": "2026张韶涵玩家巡回演唱会-成都站演出时间、地点+门票购买",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-10-18",
+    "end_date": "2026-10-19",
+    "link": "",
+    "url": "",
+    "description": "2026张韶涵玩家巡回演唱会-成都站演出时间、地点+门票购买。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "李荣浩「黑马」世界巡回演唱会-成都站时间、地点+门票",
+    "name": "李荣浩「黑马」世界巡回演唱会-成都站时间、地点+门票",
+    "venue": "成都文化场馆",
+    "city": "chengdu",
+    "start_date": "2026-10-25",
+    "end_date": "2026-10-26",
+    "link": "",
+    "url": "",
+    "description": "李荣浩「黑马」世界巡回演唱会-成都站时间、地点+门票。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   }
 ]

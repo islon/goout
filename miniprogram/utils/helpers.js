@@ -1,5 +1,5 @@
 // 童行小程序 - 工具函数
-const { districtMapping, sourceToVenue, sourceChineseToDistrict, districtKeywords, districtsByCity } = require('../data/filters.js');
+const { districtMapping, sourceToVenue, sourceChineseToDistrict, districtKeywords, districtsByCity, districtPopulation } = require('../data/filters.js');
 
 // 城市映射缓存：从 globalData.cities 动态构建，支持中文名/英文key/拼音缩写互转
 var _cityKeyMap = null;
@@ -65,6 +65,15 @@ function getDistrict(input) {
   return '其他';
 }
 
+// 将区县列表按常住人口(万人)降序排列，人口多的排在前面；'全部区县' 始终置顶，未收录的排末尾
+function sortDistrictsByPopulation(list) {
+  const body = list.filter(function(d) { return d !== '全部区县'; });
+  // 防御：districtPopulation 可能因数据层未导出而缺失，缺失时退化为配置顺序（不崩溃）
+  const pop = (typeof districtPopulation !== 'undefined' && districtPopulation) ? districtPopulation : null;
+  body.sort(function(a, b) { return ((pop && pop[b]) || 0) - ((pop && pop[a]) || 0); });
+  return ['全部区县'].concat(body);
+}
+
 // 返回某城市当前数据中"实际有活动"的区县列表（'全部区县' 始终在前）
 // 这样区县筛选里不会出现一堆 0 活动的空区县
 // 若该城市未配置 districtsByCity（新城市），则直接按数据里实际出现的区县动态生成，
@@ -77,11 +86,17 @@ function getPresentDistricts(city, exhibitions) {
     const d = getDistrict(e);
     if (d && d !== '其他') found[d] = true;
   });
+  var result;
   if (configured && configured.length) {
-    return configured.filter(function(d) { return d === '全部区县' || found[d]; });
+    result = configured.filter(function(d) { return d === '全部区县' || found[d]; });
+  } else {
+    // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
+    result = ['全部区县'].concat(Object.keys(found));
   }
-  // 未配置：从数据动态生成（全部区县 + 实际出现的区县）
-  return ['全部区县'].concat(Object.keys(found));
+  // 防御保底：确保「全部区县」永远存在、结果永不为空
+  if (result.indexOf('全部区县') < 0) result.unshift('全部区县');
+  if (result.length === 0) result = ['全部区县'];
+  return sortDistrictsByPopulation(result);
 }
 
 function matchSource(exhibition, sourceKey) {
@@ -246,6 +261,19 @@ function getFilteredExhibitions(allExhibitions, filters) {
     filtered = filtered.filter(function(e) { return e.family_friendly === true || getActivityType(e) === '亲子活动'; });
   } else if (filters.family === 'other') {
     filtered = filtered.filter(function(e) { return e.family_friendly !== true && getActivityType(e) !== '亲子活动'; });
+  }
+
+  // 活动持续时长筛选（按 end_date - start_date + 1 天数判断）
+  // week=1周内(≤7) / 3months=3月内(≤90) / long=3月以上(>90) / all=不过滤
+  if (filters.duration && filters.duration !== 'all') {
+    filtered = filtered.filter(function(e) {
+      if (!e.start_date || !e.end_date) return false;
+      var days = Math.floor((new Date(e.end_date) - new Date(e.start_date)) / 86400000) + 1;
+      if (filters.duration === 'week') return days <= 7;
+      if (filters.duration === '3months') return days <= 90;
+      if (filters.duration === 'long') return days > 90;
+      return true;
+    });
   }
 
   switch (filters.time) {

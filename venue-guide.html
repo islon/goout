@@ -194,7 +194,7 @@
         .venue-link {
             display: inline-flex;
             align-items: center;
-            margin-top: 12px;
+            margin-top: 8px;
             padding: 8px 16px;
             font-size: 13px;
             color: white;
@@ -209,6 +209,44 @@
             transform: translateY(-1px);
             box-shadow: 0 4px 10px rgba(8, 145, 178, 0.4);
         }
+        .venue-links {
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px dashed var(--border);
+        }
+        .venue-links-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+        .venue-link-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+            padding: 6px 10px;
+            background: var(--sand-50);
+            border-radius: 8px;
+            font-size: 12px;
+        }
+        .venue-link-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--sand-dark);
+            white-space: nowrap;
+            padding: 2px 6px;
+            background: var(--sand-200);
+            border-radius: 4px;
+        }
+        .venue-link-url {
+            flex: 1;
+            color: var(--ocean);
+            text-decoration: none;
+            word-break: break-all;
+            font-size: 12px;
+        }
+        .venue-link-url:hover { text-decoration: underline; }
         .venue-detail {
             font-size: 12px;
             color: var(--text-muted);
@@ -226,6 +264,85 @@
             color: var(--text-muted);
             flex-shrink: 0;
             width: 40px;
+        }
+
+        /* 操作按钮 */
+        .venue-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border);
+        }
+
+        .venue-action-btn {
+            flex: 1;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            transition: all 0.2s;
+        }
+
+        .venue-action-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .venue-action-btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-copy-name {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-copy-addr {
+            background: var(--sand-100);
+            color: var(--sand-dark);
+            border: 1px solid var(--sand-light);
+        }
+
+        .btn-navigate {
+            background: var(--ocean-light);
+            color: var(--ocean);
+            border: 1px solid rgba(8, 145, 178, 0.2);
+        }
+
+        .venue-info-value {
+            cursor: pointer;
+        }
+
+        .venue-info-value:hover {
+            text-decoration: underline;
+            color: var(--sand-dark);
+        }
+
+        .venue-copied-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.75);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.2s;
+            pointer-events: none;
+        }
+
+        .venue-copied-toast.show {
+            opacity: 1;
         }
         .empty-state {
             grid-column: 1 / -1;
@@ -261,16 +378,153 @@
             .header h1 { font-size: 20px; padding: 0 12px; }
             .header-sub { padding: 0 12px; }
         }
+
+        .quick-nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background: white;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .quick-nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            text-decoration: none;
+            color: #6B7280;
+            transition: all 0.2s;
+            cursor: pointer;
+            padding: 4px 12px;
+            flex: 1;
+        }
+
+        .quick-nav-item:hover,
+        .quick-nav-item:active {
+            color: #D97706;
+            transform: translateY(-1px);
+        }
+
+        .quick-nav-icon {
+            font-size: 22px;
+        }
+
+        .quick-nav-text {
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        .miniapp-modal-mask {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .miniapp-modal-mask.active {
+            display: flex;
+        }
+
+        .miniapp-modal {
+            background: white;
+            border-radius: 20px;
+            padding: 30px 24px 24px;
+            max-width: 340px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+            animation: modalFadeIn 0.25s ease-out;
+        }
+
+        @keyframes modalFadeIn {
+            from { opacity: 0; transform: translateY(10px) scale(0.98); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .miniapp-modal-close {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            width: 32px;
+            height: 32px;
+            border: none;
+            background: #F5F0E8;
+            border-radius: 50%;
+            font-size: 20px;
+            line-height: 1;
+            cursor: pointer;
+            color: #78716C;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .miniapp-modal h3 {
+            font-size: 20px;
+            color: #292524;
+            margin-bottom: 8px;
+        }
+
+        .miniapp-modal-desc {
+            font-size: 14px;
+            color: #78716C;
+            margin-bottom: 20px;
+        }
+
+        .miniapp-qrcode {
+            width: 220px;
+            height: 220px;
+            margin: 0 auto 16px;
+            background: #FFFDF7;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .miniapp-modal-tip {
+            font-size: 13px;
+            color: #A8A29E;
+            line-height: 1.6;
+        }
+
+        .miniapp-modal-tip strong {
+            color: #D4A373;
+        }
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="header-top">
-            <a href="index.html" class="btn-link">← 返回活动</a>
-            <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="btn-link" target="_blank" rel="noopener">📝 反馈</a>
-        </div>
         <h1>🏛️ 场馆指南</h1>
         <div class="header-sub">有些场馆虽暂无活动，但本身值得带娃去逛逛</div>
+    </div>
+
+    <div class="quick-nav">
+        <a href="index.html" class="quick-nav-item">
+            <span class="quick-nav-icon">🎪</span>
+            <span class="quick-nav-text">活动列表</span>
+        </a>
+        <a href="https://islon.github.io/goout/schedule.html" class="quick-nav-item" target="_blank">
+            <span class="quick-nav-icon">📅</span>
+            <span class="quick-nav-text">订阅日程</span>
+        </a>
+        <span class="quick-nav-item miniapp-trigger" onclick="showMiniappModal()">
+            <span class="quick-nav-icon">📱</span>
+            <span class="quick-nav-text">小程序</span>
+        </span>
+        <a href="https://my.feishu.cn/share/base/form/shrcnMdFfX9QxzNP72OB0j4uYDg" class="quick-nav-item" target="_blank" rel="noopener">
+            <span class="quick-nav-icon">📝</span>
+            <span class="quick-nav-text">反馈</span>
+        </a>
     </div>
 
     <div class="filters">
@@ -289,6 +543,21 @@
     <div class="stats-bar" id="stats-bar"></div>
     <div class="venue-grid" id="venue-grid">
         <div class="loading">加载中...</div>
+    </div>
+
+    <div class="miniapp-modal-mask" id="miniapp-modal" onclick="hideMiniappModal()">
+        <div class="miniapp-modal" onclick="event.stopPropagation()">
+            <button class="miniapp-modal-close" onclick="hideMiniappModal()">×</button>
+            <h3>📱 童行小程序</h3>
+            <p class="miniapp-modal-desc">微信扫码，打开小程序</p>
+            <div class="miniapp-qrcode">
+                <img src="miniapp-qrcode.png" alt="童行小程序码" style="width:100%;height:100%;object-fit:contain;border-radius:8px;">
+            </div>
+            <div class="miniapp-modal-tip">
+                <strong>微信「扫一扫」</strong>上方小程序码<br>
+                或在微信中搜索「童行亲子日历」
+            </div>
+        </div>
     </div>
 
     <script>
@@ -387,6 +656,13 @@
             return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
         }
 
+        // 提取链接数组（向后兼容 official_url 旧格式）
+        function getLinks(item) {
+            if (item.links && Array.isArray(item.links) && item.links.length > 0) return item.links;
+            if (item.official_url && item.official_url.trim()) return [{ url: item.official_url.trim(), label: '官方网站' }];
+            return [];
+        }
+
         function render() {
             const grid = document.getElementById('venue-grid');
             const stats = document.getElementById('stats-bar');
@@ -442,10 +718,30 @@
                     }
                     let detail = '';
                     if (v.fee) detail += '<div class="venue-detail-row"><span class="venue-detail-label">门票</span><span>' + escapeHtml(v.fee) + '</span></div>';
-                    const link = v.official_url ? '<a href="' + escapeHtml(v.official_url) + '" target="_blank" rel="noopener" class="venue-link">🔗 访问官网</a>' : '';
+                    let linkHtml = '';
+                    var links = getLinks(v);
+                    if (links.length > 0) {
+                        linkHtml += '<div class="venue-links"><div class="venue-links-title">🔗 核验链接</div>';
+                        links.forEach(function(l) {
+                            linkHtml += '<div class="venue-link-item">' +
+                                '<span class="venue-link-label">' + escapeHtml(l.label) + '</span>' +
+                                '<a href="' + escapeHtml(l.url) + '" target="_blank" rel="noopener" class="venue-link-url">' + escapeHtml(l.url) + '</a>' +
+                            '</div>';
+                        });
+                        linkHtml += '</div>';
+                    }
 
+                    const hasCoords = !!(v.latitude && v.longitude);
+                    const navText = v.name + (v.address ? ' ' + v.address : '');
+                    const actionsHtml = `
+                        <div class="venue-actions">
+                            <button class="venue-action-btn btn-copy-name" data-text="${encodeURIComponent(v.name)}">📋 复制名称</button>
+                            ${(v.address && hasCoords) ? '<button class="venue-action-btn btn-copy-addr" data-text="' + encodeURIComponent(v.address) + '">📋 复制地址</button>' : ''}
+                            <button class="venue-action-btn btn-navigate" data-text="${encodeURIComponent(navText)}">🗺️ 导航</button>
+                        </div>
+                    `;
                     html += '<div class="venue-card">' +
-                        '<div class="venue-name">' + escapeHtml(v.name) + '</div>' +
+                        '<div class="venue-name" data-text="' + encodeURIComponent(v.name) + '" style="cursor:pointer;">' + escapeHtml(v.name) + '</div>' +
                         '<div class="venue-tags">' +
                             (v.type ? '<span class="tag tag-type">' + escapeHtml(v.type) + '</span>' : '') +
                             feeTag +
@@ -454,7 +750,8 @@
                         (v.description ? '<div class="venue-desc">' + escapeHtml(v.description) + '</div>' : '') +
                         highlights +
                         (detail ? '<div class="venue-detail">' + detail + '</div>' : '') +
-                        link +
+                        linkHtml +
+                        actionsHtml +
                     '</div>';
                 });
             });
@@ -485,7 +782,96 @@
             render();
         });
 
+        // 复制功能
+        function copyText(text) {
+            if (!text) return;
+            navigator.clipboard.writeText(text).then(function() {
+                showCopiedToast();
+            }).catch(function() {
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showCopiedToast();
+            });
+        }
+
+        function showCopiedToast() {
+            const toast = document.getElementById('venue-copied-toast');
+            toast.classList.add('show');
+            setTimeout(function() { toast.classList.remove('show'); }, 1500);
+        }
+
+        function openMap(text) {
+            const encoded = encodeURIComponent(text);
+            const mapOptions = [
+                { name: '微信地图', url: 'https://map.weixin.qq.com/mapsearch/mapsearch/index?query=' + encoded },
+                { name: '高德地图', url: 'https://uri.amap.com/search?keyword=' + encoded },
+                { name: '百度地图', url: 'https://api.map.baidu.com/search?query=' + encoded + '&output=html' },
+                { name: '腾讯地图', url: 'https://map.qq.com/marker?marker=coord:,;title:' + encoded + '&zoom=16' },
+                { name: 'Google Maps', url: 'https://maps.google.com/?q=' + encoded }
+            ];
+            
+            const mapNames = mapOptions.map(m => m.name).join('|');
+            const choice = prompt('选择导航地图：\n' + mapOptions.map((m, i) => (i + 1) + '. ' + m.name).join('\n'), '1');
+            
+            if (choice && !isNaN(choice)) {
+                const index = parseInt(choice) - 1;
+                if (index >= 0 && index < mapOptions.length) {
+                    window.open(mapOptions[index].url, '_blank');
+                }
+            }
+        }
+
+        // 事件委托：处理动态生成的按钮点击
+        document.getElementById('venue-grid').addEventListener('click', function(e) {
+            const target = e.target;
+            if (target.classList.contains('venue-action-btn')) {
+                e.stopPropagation();
+                if (target.classList.contains('btn-copy-name') || target.classList.contains('btn-copy-addr')) {
+                    copyText(decodeURIComponent(target.dataset.text));
+                } else if (target.classList.contains('btn-navigate')) {
+                    openMap(decodeURIComponent(target.dataset.text));
+                }
+            } else {
+                const btn = target.closest('.venue-action-btn');
+                if (btn) {
+                    e.stopPropagation();
+                    if (btn.classList.contains('btn-copy-name') || btn.classList.contains('btn-copy-addr')) {
+                        copyText(decodeURIComponent(btn.dataset.text));
+                    } else if (btn.classList.contains('btn-navigate')) {
+                        openMap(decodeURIComponent(btn.dataset.text));
+                    }
+                }
+            }
+        });
+
+        // 点击场馆名称复制
+        document.getElementById('venue-grid').addEventListener('click', function(e) {
+            const venueName = e.target.closest('.venue-name');
+            if (venueName && !e.target.classList.contains('venue-action-btn')) {
+                copyText(decodeURIComponent(venueName.dataset.text));
+            }
+        });
+
         loadCities().then(loadData);
+
+        function showMiniappModal() {
+            document.getElementById('miniapp-modal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function hideMiniappModal() {
+            document.getElementById('miniapp-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') hideMiniappModal();
+        });
     </script>
+    <div class="venue-copied-toast" id="venue-copied-toast">已复制</div>
 </body>
 </html>

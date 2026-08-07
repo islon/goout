@@ -1,9 +1,260 @@
 [
   {
+    "title": "跨越山海——寻找东西方传说中的奇幻生物",
+    "name": "跨越山海——寻找东西方传说中的奇幻生物",
+    "venue": "重庆中国三峡博物馆",
+    "city": "chongqing",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-18",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "集结中意20+家文博机构、200+件/组文物，以\"奇幻生物\"为线索展开东西方文明想象力对话，单人票49元。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "博物馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.3gmuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "多彩巴蜀——巴蜀文化旅游走廊美术作品展",
+    "name": "多彩巴蜀——巴蜀文化旅游走廊美术作品展",
+    "venue": "重庆美术馆（1号厅）",
+    "city": "chongqing",
+    "start_date": "2026-06-23",
+    "end_date": "2026-08-02",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "重庆美术馆新展之一，呈现巴蜀文化旅游走廊美术创作成果，免费对公众开放。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "第三届\"新时代新征程新重庆\"全国名家画重庆",
+    "name": "第三届\"新时代新征程新重庆\"全国名家画重庆",
+    "venue": "重庆美术馆（2-5号厅）",
+    "city": "chongqing",
+    "start_date": "2026-06-24",
+    "end_date": "2026-08-16",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "全国名家画重庆美术作品邀请展，免费开放，展现山城风貌与时代新貌。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "岚岚作品展",
+    "name": "岚岚作品展",
+    "venue": "重庆美术馆（7号厅）",
+    "city": "chongqing",
+    "start_date": "2026-06-27",
+    "end_date": "2026-07-27",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "重庆美术馆暑期新展，免费开放，盛夏防雨又防晒的遛娃看展好去处。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cqartmuseum.cn/",
+    "district": "其他"
+  },
+  {
+    "title": "洪崖洞民俗风貌区 夜景游",
+    "name": "洪崖洞民俗风貌区 夜景游",
+    "venue": "洪崖洞民俗风貌区",
+    "city": "chongqing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "依山错落的吊脚楼亮灯夜景是重庆地标，免费开放，暑期夜间纳凉打卡胜地。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "亲子"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "district": "其他"
+  },
+  {
+    "title": "重庆科技馆 暑期开放",
+    "name": "重庆科技馆 暑期开放",
+    "venue": "重庆科技馆",
+    "city": "chongqing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-08-31",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "周二至周日9:30-17:00免费开放（16:30停止入馆），寓教于乐的科普场馆，亲子避暑好去处。",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "亲子"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://www.cqkjg.com/",
+    "district": "其他"
+  },
+  {
+    "title": "重庆欢乐谷 夏浪狂欢节·夜猫子音乐公园",
+    "name": "重庆欢乐谷 夏浪狂欢节·夜猫子音乐公园",
+    "venue": "重庆欢乐谷",
+    "city": "chongqing",
+    "start_date": "2026-07-04",
+    "end_date": "2026-08-30",
+    "link": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+    "description": "重庆首个音乐主题乐园\"夜猫子音乐公园\"亮相，58天夜场至22:00，九大艺人、千架无人机星空秀。",
+    "category": "演出",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆本地宝",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "主题乐园"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-07-19",
+      "verified_by": "http_check"
+    },
+    "verified": true,
+    "venue_url": "https://cq.happyvalley.cn/",
+    "district": "其他"
+  },
+  {
     "name": "三峡民俗文化亲子课堂",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "免费",
@@ -34,13 +285,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆园博园园林文化研学",
     "venue": "重庆园博园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
     "fee": "收费",
@@ -70,13 +322,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "少儿图书馆手工坊",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -107,13 +360,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆武隆区科普活动研学营",
     "venue": "重庆武隆区植物园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-18",
     "end_date": "2027-01-17",
     "fee": "免费",
@@ -143,7 +397,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆北碚区科普活动探索",
@@ -179,7 +434,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "趣味重庆巴南区科普活动展览",
@@ -216,13 +472,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "机器人编程体验工作坊",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "免费",
@@ -253,13 +510,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆动物园猛兽区导览",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -289,13 +547,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "川剧变脸体验工作坊",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -325,13 +584,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子共读时光活动",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -362,13 +622,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "际华园攀岩挑战赛",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
     "fee": "收费",
@@ -398,13 +659,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆融创乐园夜场",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2026-09-18",
     "fee": "需购票",
@@ -434,7 +696,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "经典重庆大渡口区体育赛事探秘",
@@ -470,7 +733,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "震撼重庆北碚区亲子活动发现",
@@ -506,7 +770,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆北碚区影视放映研学营",
@@ -543,13 +808,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆大足区体育赛事活动",
     "venue": "重庆大足区体育馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-19",
     "end_date": "2027-01-18",
     "fee": "收费",
@@ -580,7 +846,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典重庆江北区展览探秘",
@@ -617,13 +884,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "工业博物馆机械探秘研学",
     "venue": "重庆工业博物馆",
     "city": "chongqing",
-    "district": "大渡口区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "免费需预约",
@@ -654,13 +922,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "彩云湖湿地公园观鸟活动",
     "venue": "彩云湖湿地公园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-20",
     "fee": "免费",
@@ -691,13 +960,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆融创海世界海豚表演",
     "venue": "重庆融创海世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-09-19",
     "fee": "需购票",
@@ -727,13 +997,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆汉海海洋公园触摸池",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
-    "district": "巴南区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-09-19",
     "fee": "需购票",
@@ -764,13 +1035,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "仙女山森林探险营",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-07-24",
     "fee": "收费",
@@ -801,13 +1073,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南山植物园夜游会",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2026-08-20",
     "fee": "收费",
@@ -837,7 +1110,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆江北区影视放映季",
@@ -874,13 +1148,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆大足区影视放映季",
     "venue": "重庆大足区植物园",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-20",
     "end_date": "2027-01-19",
     "fee": "收费",
@@ -910,13 +1185,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "三峡博物馆少数民族文化展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-11-20",
     "fee": "免费",
@@ -947,13 +1223,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "太空生活体验展",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "免费",
@@ -984,13 +1261,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "缙云山森林课堂夏令营",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -1020,13 +1298,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆欢乐海底世界水母宫",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2027-01-20",
     "fee": "需购票",
@@ -1056,13 +1335,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "白公馆历史研学活动",
     "venue": "白公馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-07-21",
     "fee": "免费",
@@ -1092,13 +1372,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "仙女山骑马体验",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-21",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -1129,7 +1410,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆南岸区影视放映探索",
@@ -1166,13 +1448,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "三峡博物馆书画鉴赏讲座",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "免费",
@@ -1203,13 +1486,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "蜀绣手作工坊",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-07-22",
     "fee": "收费",
@@ -1239,13 +1523,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "少儿编程启蒙课",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-22",
     "end_date": "2026-08-19",
     "fee": "免费",
@@ -1276,13 +1561,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆欢乐海底世界鲨鱼馆",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "需购票",
@@ -1312,13 +1598,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "鹅岭公园夜景游园",
     "venue": "鹅岭公园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2026-09-08",
     "fee": "免费",
@@ -1349,13 +1636,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "体验重庆武隆区展览嘉年华",
     "venue": "重庆武隆区青少年宫",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-23",
     "end_date": "2027-01-22",
     "fee": "免费",
@@ -1386,7 +1674,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆沙坪坝区演出科普",
@@ -1422,13 +1711,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆园博园夏日游园会",
     "venue": "重庆园博园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-23",
     "fee": "收费",
@@ -1458,13 +1748,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创雪世界滑雪体验",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2026-09-23",
     "fee": "需购票",
@@ -1494,13 +1785,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆两江新区亲子活动比赛",
     "venue": "重庆两江新区艺术中心",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1531,13 +1823,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆大足区亲子活动探秘",
     "venue": "重庆大足区海洋馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-24",
     "end_date": "2027-01-23",
     "fee": "收费",
@@ -1567,7 +1860,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆渝中区讲座阅读嘉年华",
@@ -1603,13 +1897,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "自然博物馆夜宿奇妙夜",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1640,13 +1935,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "荣昌折扇制作体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
     "fee": "收费",
@@ -1676,7 +1972,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆大渡口区影视放映活动",
@@ -1712,13 +2009,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "VR科学探索之旅",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1749,13 +2047,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆动物园飞禽世界",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1785,13 +2084,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆汉海海洋公园海狮表演",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
-    "district": "巴南区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-25",
     "fee": "需购票",
@@ -1822,13 +2122,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童创意写作课",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-08-23",
     "fee": "免费需预约",
@@ -1859,13 +2160,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆中央公园轮滑体验",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "免费",
@@ -1896,13 +2198,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武隆天生三桥探秘",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-07-26",
     "fee": "收费",
@@ -1932,13 +2235,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南山夜景火锅体验",
     "venue": "南山",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-07-26",
     "end_date": "2026-09-25",
     "fee": "收费",
@@ -1968,7 +2272,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆沙坪坝区科普活动日",
@@ -2004,7 +2309,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆九龙坡区讲座阅读活动",
@@ -2041,7 +2347,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻重庆渝中区亲子活动之旅",
@@ -2077,13 +2384,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "歌乐山森林公园徒步游",
     "venue": "歌乐山国家森林公园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-07-27",
     "fee": "免费",
@@ -2114,13 +2422,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武隆印象武隆实景演出",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2026-11-26",
     "fee": "需购票",
@@ -2150,13 +2459,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "解读重庆大足区影视放映周",
     "venue": "重庆大足区体育场",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -2186,13 +2496,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆大足区体育赛事嘉年华",
     "venue": "重庆大足区文化馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -2223,7 +2534,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆江北区展览讲座",
@@ -2260,13 +2572,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆两江新区演出探索",
     "venue": "重庆两江新区海洋馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -2296,13 +2609,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆武隆区演出月",
     "venue": "重庆武隆区公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-07-27",
     "end_date": "2027-01-26",
     "fee": "收费",
@@ -2333,13 +2647,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "自然博物馆古生物大讲堂",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-07-28",
     "fee": "免费",
@@ -2370,13 +2685,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "恐龙时代科普展",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-10-27",
     "fee": "免费",
@@ -2407,13 +2723,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆融创乐园旋转木马之夜",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-09-13",
     "fee": "需购票",
@@ -2443,13 +2760,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梁平年画印制体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-07-28",
     "fee": "收费",
@@ -2479,13 +2797,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "渣滓洞革命教育研学",
     "venue": "渣滓洞",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-07-28",
     "end_date": "2026-07-28",
     "fee": "免费",
@@ -2515,7 +2834,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读重庆北碚区讲座阅读周",
@@ -2552,7 +2872,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进重庆渝北区演出日",
@@ -2589,7 +2910,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆渝中区亲子活动季",
@@ -2625,13 +2947,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆大足区演出课程",
     "venue": "重庆大足区动物园",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-29",
     "end_date": "2027-01-28",
     "fee": "收费",
@@ -2661,7 +2984,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆南岸区影视放映演出",
@@ -2697,7 +3021,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆北碚区展览课程",
@@ -2733,7 +3058,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆沙坪坝区演出比赛",
@@ -2769,7 +3095,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆渝北区影视放映发现",
@@ -2806,13 +3133,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "工业博物馆老厂房探秘游",
     "venue": "重庆工业博物馆",
     "city": "chongqing",
-    "district": "大渡口区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2026-07-30",
     "fee": "免费",
@@ -2843,13 +3171,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "走进重庆大足区讲座阅读日",
     "venue": "重庆大足区创意园",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-07-30",
     "end_date": "2027-01-29",
     "fee": "免费",
@@ -2879,7 +3208,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "青少年重庆渝北区讲座阅读讲座",
@@ -2916,7 +3246,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "沉浸式重庆巴南区体育赛事探索",
@@ -2953,13 +3284,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "际华园卡丁车竞速",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-30",
     "fee": "收费",
@@ -2989,13 +3321,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南山一棵树观景台夜游",
     "venue": "南山一棵树观景台",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-30",
     "fee": "免费",
@@ -3025,13 +3358,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "江北嘴夜景灯光",
     "venue": "江北嘴",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-07-31",
     "end_date": "2026-09-30",
     "fee": "免费",
@@ -3061,7 +3395,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验重庆大渡口区影视放映嘉年华",
@@ -3097,7 +3432,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆北碚区体育赛事日",
@@ -3133,13 +3469,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "2026重庆端午节展会推荐（宠物展/车展/食品博览会...）",
+    "name": "2026重庆端午节展会推荐（宠物展/车展/食品博览会...）",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-11",
+    "link": "",
+    "url": "",
+    "description": "2026重庆端午节展会推荐（宠物展/车展/食品博览会...）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆糖画体验活动",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
     "fee": "收费",
@@ -3169,13 +3523,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿英语绘本阅读",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-15",
     "fee": "免费",
@@ -3206,13 +3561,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "红岩村革命旧址研学",
     "venue": "重庆红岩革命历史博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-08-01",
     "fee": "免费",
@@ -3243,13 +3599,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "奥体中心羽毛球训练营",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-01",
     "end_date": "2026-09-09",
     "fee": "收费",
@@ -3279,7 +3636,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "漫游重庆沙坪坝区体育赛事季",
@@ -3316,13 +3674,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "恐龙化石发掘体验营",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-03",
     "fee": "收费",
@@ -3353,13 +3712,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "3D打印创意工坊",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "收费",
@@ -3390,13 +3750,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆中央公园风筝节",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "免费",
@@ -3427,13 +3788,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "重庆动物园爬行动物馆探秘",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "收费",
@@ -3463,13 +3825,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆图书馆古诗词大会",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "免费",
@@ -3500,13 +3863,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "际华园滑翔伞体验",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -3536,13 +3900,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山森林氧吧体验",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-08-02",
     "fee": "收费",
@@ -3572,13 +3937,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "南滨路夜景漫步",
     "venue": "南滨路",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2026-10-02",
     "fee": "免费",
@@ -3608,7 +3974,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "精彩重庆南岸区体育赛事节",
@@ -3645,13 +4012,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "周末重庆两江新区科普活动活动",
     "venue": "重庆两江新区青少年宫",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3682,13 +4050,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆武隆区展览活动",
     "venue": "重庆武隆区文化馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-02",
     "end_date": "2027-02-01",
     "fee": "免费",
@@ -3719,13 +4088,48 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026邓紫棋重庆演唱会最新消息（持续更新）",
+    "name": "2026邓紫棋重庆演唱会最新消息（持续更新）",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-16",
+    "link": "",
+    "url": "",
+    "description": "2026邓紫棋重庆演唱会最新消息（持续更新）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "重庆5月展会汇总(时间+地点)",
+    "name": "重庆5月展会汇总(时间+地点)",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-07",
+    "link": "",
+    "url": "",
+    "description": "重庆5月展会汇总(时间+地点)。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "南山植物园兰花精品展",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-17",
     "fee": "收费",
@@ -3755,13 +4159,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "绘本故事会暑期专场",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-09-28",
     "fee": "免费",
@@ -3792,13 +4197,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心足球训练营",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-14",
     "fee": "收费",
@@ -3828,13 +4234,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "仙女山草原野餐派对",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2026-08-03",
     "fee": "免费",
@@ -3865,7 +4272,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆沙坪坝区讲座阅读研学营",
@@ -3902,13 +4310,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "亲子重庆武隆区亲子活动工作坊",
     "venue": "重庆武隆区体育场",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3938,13 +4347,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆南川区亲子活动日",
     "venue": "重庆南川区公园",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -3975,13 +4385,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆南川区体育赛事研学营",
     "venue": "重庆南川区科技馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-03",
     "end_date": "2027-02-02",
     "fee": "收费",
@@ -4012,7 +4423,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "家庭重庆江北区讲座阅读研学营",
@@ -4048,13 +4460,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "科技馆暑期科学营",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-08-08",
     "fee": "收费",
@@ -4085,13 +4498,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆面塑手作体验",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-08-04",
     "fee": "收费",
@@ -4121,13 +4535,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "歌乐山烈士陵园祭扫",
     "venue": "歌乐山烈士陵园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2026-08-04",
     "fee": "免费",
@@ -4157,13 +4572,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "精彩重庆武隆区科普活动节",
     "venue": "重庆武隆区会展中心",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "免费",
@@ -4193,13 +4609,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆南川区影视放映探秘",
     "venue": "重庆南川区艺术中心",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -4230,13 +4647,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆两江新区亲子活动科普",
     "venue": "重庆两江新区图书馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-04",
     "end_date": "2027-02-03",
     "fee": "收费",
@@ -4267,7 +4685,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆九龙坡区亲子活动展览",
@@ -4304,13 +4723,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026王铮亮巡回演唱会重庆站时间+地点+票价+购票指南",
+    "name": "2026王铮亮巡回演唱会重庆站时间+地点+票价+购票指南",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-17",
+    "link": "",
+    "url": "",
+    "description": "2026王铮亮巡回演唱会重庆站时间+地点+票价+购票指南。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆融创雪世界冰雪课堂",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-05",
     "fee": "需购票",
@@ -4340,13 +4777,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "红岩革命纪念馆小讲解员",
     "venue": "重庆红岩革命历史博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-20",
     "fee": "免费需预约",
@@ -4377,13 +4815,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "缙云山植物标本制作",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-05",
     "end_date": "2026-08-05",
     "fee": "免费",
@@ -4413,7 +4852,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "家庭重庆九龙坡区演出研学营",
@@ -4450,7 +4890,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆南岸区展览科普",
@@ -4487,13 +4928,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "重庆奥体演唱会2026时间表最新",
+    "name": "重庆奥体演唱会2026时间表最新",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-06",
+    "link": "",
+    "url": "",
+    "description": "重庆奥体演唱会2026时间表最新。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "火锅博物馆麻辣文化讲堂",
     "venue": "重庆火锅博物馆",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-08-06",
     "fee": "免费",
@@ -4524,13 +4983,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "巴渝婚俗文化展",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2027-01-05",
     "fee": "免费",
@@ -4560,13 +5020,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆图书馆青少年读书会",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-06",
     "end_date": "2026-08-06",
     "fee": "免费需预约",
@@ -4597,7 +5058,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读重庆江北区体育赛事周",
@@ -4633,13 +5095,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "2026邓紫棋演唱会重庆站在哪里看？",
+    "name": "2026邓紫棋演唱会重庆站在哪里看？",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-06",
+    "end_date": "2026-08-11",
+    "link": "",
+    "url": "",
+    "description": "2026邓紫棋演唱会重庆站在哪里看？。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "三峡博物馆陶瓷修复体验课",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-08-07",
     "fee": "免费需预约",
@@ -4670,13 +5150,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆剪纸艺术体验",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-08-07",
     "fee": "免费",
@@ -4706,13 +5187,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "际华园极限运动体验",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-07",
     "end_date": "2026-10-07",
     "fee": "收费",
@@ -4742,7 +5224,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻重庆九龙坡区亲子活动之旅",
@@ -4779,7 +5262,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆渝中区科普活动讲座",
@@ -4816,13 +5300,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐谷过山车挑战赛",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-08-09",
     "fee": "需购票",
@@ -4852,13 +5337,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "大足石刻宝顶山探秘",
     "venue": "大足石刻",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-08-08",
     "fee": "收费",
@@ -4888,13 +5374,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆抗战岁月展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "免费",
@@ -4925,13 +5412,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "仙女山草原音乐节",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2026-08-09",
     "fee": "需购票",
@@ -4962,13 +5450,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻重庆武隆区体育赛事之旅",
     "venue": "重庆武隆区动物园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "收费",
@@ -4998,13 +5487,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆两江新区展览展览",
     "venue": "重庆两江新区动物园",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-08",
     "end_date": "2027-02-07",
     "fee": "免费",
@@ -5034,13 +5524,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "自然博物馆矿物标本观察课",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费",
@@ -5071,13 +5562,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "趣味物理小实验课堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费需预约",
@@ -5108,13 +5600,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "歌乐山自然观察日记",
     "venue": "歌乐山国家森林公园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费",
@@ -5145,13 +5638,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "少儿科学实验课",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费",
@@ -5182,13 +5676,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "江北嘴江边慢跑活动",
     "venue": "江北嘴中央公园",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "免费",
@@ -5219,13 +5714,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武隆芙蓉洞探洞体验",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-09",
     "end_date": "2026-08-09",
     "fee": "收费",
@@ -5255,7 +5751,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆巴南区讲座阅读日",
@@ -5292,13 +5789,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "南山植物园多肉植物展",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-24",
     "fee": "收费",
@@ -5328,13 +5826,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "鹅岭公园夏日花卉联展",
     "venue": "鹅岭公园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-09-26",
     "fee": "免费",
@@ -5365,13 +5864,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "夏布编织体验工坊",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-10",
     "fee": "收费",
@@ -5401,13 +5901,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "仙女山户外拓展营",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-10",
     "end_date": "2026-08-14",
     "fee": "收费",
@@ -5438,13 +5939,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "巴渝文化深度研学营",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-08-15",
     "fee": "收费",
@@ -5475,13 +5977,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "磁器口民俗文化研学",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2026-08-11",
     "fee": "免费",
@@ -5511,13 +6014,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "青少年重庆两江新区影视放映讲座",
     "venue": "重庆两江新区会展中心",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-11",
     "end_date": "2027-02-10",
     "fee": "收费",
@@ -5547,13 +6051,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界海底夜宿",
     "venue": "重庆融创海世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-08-13",
     "fee": "收费",
@@ -5583,13 +6088,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆融创雪世界冰雕艺术展",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2027-02-11",
     "fee": "需购票",
@@ -5619,13 +6125,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "缙云山避暑山庄度假",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-12",
     "end_date": "2026-10-12",
     "fee": "收费",
@@ -5655,7 +6162,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末重庆巴南区影视放映活动",
@@ -5692,13 +6200,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026中国摩博会展会活动有哪些？",
+    "name": "2026中国摩博会展会活动有哪些？",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-23",
+    "link": "",
+    "url": "",
+    "description": "2026中国摩博会展会活动有哪些？。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆美术馆版画拓印体验",
     "venue": "重庆美术馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-08-13",
     "fee": "免费需预约",
@@ -5729,13 +6255,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆泥塑手作工坊",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-08-13",
     "fee": "收费",
@@ -5765,13 +6292,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆图书馆电影赏析",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-13",
     "end_date": "2026-08-13",
     "fee": "免费",
@@ -5802,7 +6330,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "影视放映"
   },
   {
     "name": "暑期重庆大渡口区展览体验营",
@@ -5838,13 +6367,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "重庆华熙2026年演唱会列表（持续更新）",
+    "name": "重庆华熙2026年演唱会列表（持续更新）",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-19",
+    "link": "",
+    "url": "",
+    "description": "重庆华熙2026年演唱会列表（持续更新）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆欢乐谷电音节",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-10",
     "fee": "需购票",
@@ -5874,13 +6421,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆绘本剧场",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2026-10-03",
     "fee": "免费",
@@ -5911,7 +6459,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "漫游重庆渝北区体育赛事季",
@@ -5947,13 +6496,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "梦幻重庆两江新区展览之旅",
     "venue": "重庆两江新区科技馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "免费",
@@ -5984,13 +6534,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探索重庆两江新区演出演出",
     "venue": "重庆两江新区美术馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -6021,13 +6572,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "体验重庆南川区演出嘉年华",
     "venue": "重庆南川区体育馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-14",
     "end_date": "2027-02-13",
     "fee": "收费",
@@ -6058,7 +6610,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆北碚区演出探秘",
@@ -6095,7 +6648,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆九龙坡区科普活动探索",
@@ -6131,13 +6685,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "海洋科学探索活动",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "免费需预约",
@@ -6168,13 +6723,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "铁山坪森林探险挑战",
     "venue": "铁山坪森林公园",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "收费",
@@ -6205,13 +6761,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆汉海海洋公园海底隧道",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
-    "district": "巴南区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-10-15",
     "fee": "需购票",
@@ -6242,13 +6799,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周公馆历史研学活动",
     "venue": "周公馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "免费",
@@ -6278,13 +6836,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "金佛山徒步登山",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-15",
     "end_date": "2026-08-15",
     "fee": "收费",
@@ -6314,7 +6873,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘重庆江北区讲座阅读月",
@@ -6350,13 +6910,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "钢铁是怎样炼成的体验课",
     "venue": "重庆工业博物馆",
     "city": "chongqing",
-    "district": "大渡口区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "收费",
@@ -6387,13 +6948,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "化学魔术秀表演",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "免费",
@@ -6424,13 +6986,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "草编手作体验活动",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "免费",
@@ -6460,13 +7023,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南滨路骑行活动",
     "venue": "南滨路",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "免费",
@@ -6496,13 +7060,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "仙女山星空观测活动",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-16",
     "end_date": "2026-08-16",
     "fee": "免费",
@@ -6533,7 +7098,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期重庆九龙坡区影视放映体验营",
@@ -6569,7 +7135,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆南岸区讲座阅读展览",
@@ -6606,13 +7173,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "彩云湖湿地生态讲堂",
     "venue": "彩云湖湿地公园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-08-17",
     "fee": "免费",
@@ -6643,13 +7211,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期缤纷季阅读嘉年华",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-10-17",
     "fee": "免费",
@@ -6680,13 +7249,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "奥体中心网球体验课",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-08-17",
     "fee": "免费",
@@ -6716,13 +7286,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "仙女山马术体验营",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-17",
     "end_date": "2026-08-17",
     "fee": "收费",
@@ -6753,7 +7324,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "走进重庆江北区科普活动日",
@@ -6790,7 +7362,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆大渡口区亲子活动节",
@@ -6827,13 +7400,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园花车巡游",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-18",
     "fee": "需购票",
@@ -6863,13 +7437,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "磁器口古镇历史探秘",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-08-18",
     "fee": "免费",
@@ -6899,13 +7474,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "鹅岭瞰胜楼观夜景",
     "venue": "鹅岭公园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-18",
     "end_date": "2026-10-18",
     "fee": "免费",
@@ -6936,7 +7512,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索重庆沙坪坝区展览演出",
@@ -6972,7 +7549,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读重庆巴南区影视放映周",
@@ -7009,13 +7587,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园过山车体验",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2027-02-18",
     "fee": "需购票",
@@ -7045,13 +7624,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "木洞山歌学唱体验",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2026-08-19",
     "fee": "免费",
@@ -7081,13 +7661,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆暑期志愿者",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2026-10-19",
     "fee": "免费",
@@ -7118,13 +7699,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "缙云山观鸟活动",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-19",
     "end_date": "2026-08-19",
     "fee": "免费",
@@ -7154,7 +7736,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进重庆大渡口区展览日",
@@ -7191,13 +7774,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "铁山坪森林公园避暑纳凉",
     "venue": "铁山坪森林公园",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-10-20",
     "fee": "免费",
@@ -7228,13 +7812,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆图书馆书法课堂",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-20",
     "end_date": "2026-08-20",
     "fee": "免费",
@@ -7265,7 +7850,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "震撼重庆南岸区讲座阅读发现",
@@ -7302,13 +7888,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "脊椎动物演化研学课堂",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2026-08-21",
     "fee": "免费需预约",
@@ -7339,7 +7926,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味重庆北碚区亲子活动展览",
@@ -7375,13 +7963,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆大足区科普活动发现",
     "venue": "重庆大足区图书馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-08-21",
     "end_date": "2027-02-20",
     "fee": "免费",
@@ -7412,13 +8001,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "气象科普大讲堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -7449,13 +8039,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "玛雅海滩儿童戏水乐园",
     "venue": "重庆欢乐谷玛雅海滩水公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-10-22",
     "fee": "需购票",
@@ -7486,13 +8077,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆评书体验专场",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
     "fee": "收费",
@@ -7522,13 +8114,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "缙云山徒步登山赛",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-08-22",
     "end_date": "2026-08-22",
     "fee": "免费",
@@ -7558,7 +8151,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "经典重庆九龙坡区科普活动探秘",
@@ -7594,7 +8188,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "趣味重庆江北区演出展览",
@@ -7631,7 +8226,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现重庆大渡口区讲座阅读比赛",
@@ -7667,13 +8263,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "建川博物馆兵工署旧址探秘",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-08-23",
     "fee": "收费",
@@ -7704,13 +8301,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "地震模拟体验活动",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-08-23",
     "fee": "免费",
@@ -7741,13 +8339,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆动物园两栖动物世界",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-08-23",
     "fee": "收费",
@@ -7777,13 +8376,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "北滨路健步走活动",
     "venue": "北滨路",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-08-23",
     "fee": "免费",
@@ -7813,13 +8413,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "武隆龙水峡地缝探秘",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-23",
     "end_date": "2026-08-23",
     "fee": "收费",
@@ -7849,7 +8450,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆渝中区影视放映科普",
@@ -7886,7 +8488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "经典重庆渝中区科普活动探秘",
@@ -7923,13 +8526,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "奥体中心乒乓球培训",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -7959,13 +8563,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "探索重庆大足区亲子活动演出",
     "venue": "重庆大足区艺术中心",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-08-24",
     "end_date": "2027-02-23",
     "fee": "收费",
@@ -7996,13 +8601,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "川江号子学唱活动",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
     "fee": "免费",
@@ -8032,13 +8638,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "湖广会馆移民文化研学",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
     "fee": "收费",
@@ -8068,13 +8675,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "朝天门夜景观赏",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2026-10-25",
     "fee": "免费",
@@ -8104,13 +8712,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童重庆南川区讲座阅读课程",
     "venue": "重庆南川区文化中心",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -8140,13 +8749,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "漫游重庆两江新区讲座阅读季",
     "venue": "重庆两江新区体育场",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-08-25",
     "end_date": "2027-02-24",
     "fee": "免费",
@@ -8176,7 +8786,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "周末重庆沙坪坝区亲子活动活动",
@@ -8212,13 +8823,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "际华园室内跳伞体验",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-26",
     "end_date": "2026-10-21",
     "fee": "收费",
@@ -8248,13 +8860,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "仙女山露营节",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-08-26",
     "end_date": "2026-10-22",
     "fee": "收费",
@@ -8285,7 +8898,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "互动重庆江北区科普活动科普",
@@ -8321,7 +8935,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读重庆渝北区亲子活动周",
@@ -8358,7 +8973,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆南岸区体育赛事讲座",
@@ -8395,7 +9011,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆渝中区展览工作坊",
@@ -8431,13 +9048,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "鹅岭公园瞰胜楼观景",
     "venue": "鹅岭公园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "免费",
@@ -8468,13 +9086,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷亲子游乐专场",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2026-10-28",
     "fee": "需购票",
@@ -8504,13 +9123,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "火锅底料古法炒制课",
     "venue": "重庆火锅博物馆",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2026-08-28",
     "fee": "收费",
@@ -8541,7 +9161,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "暑期重庆巴南区展览体验营",
@@ -8578,13 +9199,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆南川区演出探索",
     "venue": "重庆南川区文化馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-28",
     "end_date": "2027-02-27",
     "fee": "收费",
@@ -8615,13 +9237,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "桂园重庆谈判旧址研学",
     "venue": "桂园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-29",
     "end_date": "2026-08-29",
     "fee": "免费",
@@ -8651,13 +9274,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "火锅底料古法炒制体验",
     "venue": "重庆火锅博物馆",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -8688,13 +9312,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "无人机飞行体验营",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -8725,13 +9350,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆中央公园亲子运动会",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -8762,13 +9388,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "重庆欢乐谷夜场派对",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-19",
     "fee": "需购票",
@@ -8798,13 +9425,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "奥体中心田径体验日",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-08-30",
     "fee": "免费",
@@ -8834,13 +9462,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山古佛洞探秘",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-08-30",
     "fee": "收费",
@@ -8870,13 +9499,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷夜场",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-08-30",
     "end_date": "2026-10-30",
     "fee": "需购票",
@@ -8906,7 +9536,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末重庆江北区体育赛事活动",
@@ -8942,7 +9573,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆渝北区影视放映展览",
@@ -8978,7 +9610,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "互动重庆巴南区讲座阅读科普",
@@ -9015,13 +9648,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆融创雪世界娱雪乐园",
     "venue": "重庆融创雪世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-08-31",
     "end_date": "2026-10-31",
     "fee": "需购票",
@@ -9051,13 +9685,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "十八梯夜景探秘",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-08-31",
     "end_date": "2026-10-31",
     "fee": "免费",
@@ -9087,13 +9722,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现重庆大足区科普活动比赛",
     "venue": "重庆大足区剧院",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-08-31",
     "end_date": "2027-03-02",
     "fee": "免费",
@@ -9124,7 +9760,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆渝中区演出研学营",
@@ -9160,13 +9797,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南山植物园珍稀植物展",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-09-01",
     "end_date": "2026-10-15",
     "fee": "收费",
@@ -9196,7 +9834,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "体验重庆九龙坡区讲座阅读嘉年华",
@@ -9232,13 +9871,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "朝天门夜市美食游",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2026-11-02",
     "fee": "免费",
@@ -9268,7 +9908,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验重庆沙坪坝区亲子活动嘉年华",
@@ -9305,13 +9946,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆南川区亲子活动体验营",
     "venue": "重庆南川区体育场",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-02",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -9341,7 +9983,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆大渡口区体育赛事演出",
@@ -9378,13 +10021,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "湖广会馆填川历史展",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2027-03-05",
     "fee": "收费",
@@ -9414,13 +10058,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆国际马戏城夜场表演",
     "venue": "重庆国际马戏城",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-03",
     "end_date": "2026-10-29",
     "fee": "需购票",
@@ -9450,7 +10095,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "沉浸式重庆大渡口区影视放映探索",
@@ -9487,7 +10133,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆渝北区科普活动月",
@@ -9524,7 +10171,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆巴南区展览月",
@@ -9561,13 +10209,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "“景仁怀德——捐赠文物中的山水韵致” 第三期书画焕新登场2026-07-21",
+    "name": "“景仁怀德——捐赠文物中的山水韵致” 第三期书画焕新登场2026-07-21",
+    "venue": "重庆中国三峡博物馆",
+    "city": "chongqing",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-12",
+    "link": "",
+    "url": "",
+    "description": "“景仁怀德——捐赠文物中的山水韵致” 第三期书画焕新登场2026-07-21，在重庆中国三峡博物馆展出。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆中国三峡博物馆官网",
+    "district": "其他"
   },
   {
     "name": "重庆园博园水生植物展",
     "venue": "重庆园博园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-12-04",
     "fee": "收费",
@@ -9597,13 +10263,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "玛雅海滩戏水狂欢节",
     "venue": "重庆欢乐谷玛雅海滩水公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-11-04",
     "fee": "需购票",
@@ -9634,13 +10301,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山杜鹃花海观赏",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2026-09-24",
     "fee": "收费",
@@ -9670,13 +10338,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "体验重庆两江新区科普活动嘉年华",
     "venue": "重庆两江新区剧院",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "免费",
@@ -9707,13 +10376,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻重庆大足区演出之旅",
     "venue": "重庆大足区文化中心",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-09-04",
     "end_date": "2027-03-06",
     "fee": "收费",
@@ -9743,13 +10413,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆美术馆当代艺术导览",
     "venue": "重庆美术馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-10-15",
     "fee": "免费",
@@ -9780,13 +10451,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆毛血旺制作体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-09-05",
     "fee": "收费",
@@ -9816,13 +10488,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆国画体验课",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-09-05",
     "fee": "免费",
@@ -9853,13 +10526,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "十八梯老重庆记忆研学",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2026-09-05",
     "fee": "免费",
@@ -9889,7 +10563,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索重庆九龙坡区科普活动演出",
@@ -9926,13 +10601,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "亲子重庆南川区科普活动工作坊",
     "venue": "重庆南川区植物园",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-05",
     "end_date": "2027-03-07",
     "fee": "免费",
@@ -9962,7 +10638,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆九龙坡区影视放映月",
@@ -9999,7 +10676,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆南岸区科普活动课程",
@@ -10036,13 +10714,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "重庆演唱会2026时间表最新（持续更新）",
+    "name": "重庆演唱会2026时间表最新（持续更新）",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-16",
+    "link": "",
+    "url": "",
+    "description": "重庆演唱会2026时间表最新（持续更新）。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "建川博物馆抗战文物精品展",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -10073,13 +10769,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "电与磁的奥秘探索",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-09-06",
     "fee": "免费",
@@ -10110,13 +10807,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "际华园冲浪体验",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-09-06",
     "fee": "收费",
@@ -10146,13 +10844,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山索道观光",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-11-06",
     "fee": "收费",
@@ -10182,13 +10881,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山避暑露营",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2026-09-06",
     "fee": "收费",
@@ -10218,7 +10918,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆江北区讲座阅读体验营",
@@ -10255,7 +10956,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆北碚区影视放映月",
@@ -10292,13 +10994,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆南川区展览发现",
     "venue": "重庆南川区剧院",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "免费",
@@ -10329,13 +11032,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "趣味重庆武隆区体育赛事展览",
     "venue": "重庆武隆区文化中心",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-06",
     "end_date": "2027-03-08",
     "fee": "收费",
@@ -10365,7 +11069,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期重庆北碚区体育赛事体验营",
@@ -10402,13 +11107,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "环保科学小达人",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-07",
     "end_date": "2026-09-07",
     "fee": "免费",
@@ -10439,7 +11145,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "精彩重庆江北区展览节",
@@ -10476,7 +11183,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "探秘重庆南岸区亲子活动月",
@@ -10512,13 +11220,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026苏见信巡回演唱会重庆站时间+地点+购票指南",
+    "name": "2026苏见信巡回演唱会重庆站时间+地点+购票指南",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-12",
+    "link": "",
+    "url": "",
+    "description": "2026苏见信巡回演唱会重庆站时间+地点+购票指南。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "重庆融创乐园暑期嘉年华",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-09",
     "end_date": "2026-11-09",
     "fee": "需购票",
@@ -10548,13 +11274,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南滨路灯光秀",
     "venue": "南滨路",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-09-09",
     "end_date": "2026-10-30",
     "fee": "免费",
@@ -10584,7 +11311,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现重庆巴南区讲座阅读比赛",
@@ -10620,7 +11348,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "趣味重庆沙坪坝区影视放映展览",
@@ -10656,13 +11385,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "新能源科普展览",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "免费",
@@ -10693,13 +11423,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆大剧院夜景",
     "venue": "重庆大剧院",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2026-11-10",
     "fee": "免费",
@@ -10730,7 +11461,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "精彩重庆巴南区亲子活动节",
@@ -10767,7 +11499,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆渝北区演出科普",
@@ -10803,7 +11536,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆沙坪坝区体育赛事工作坊",
@@ -10840,13 +11574,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "暑期重庆武隆区演出体验营",
     "venue": "重庆武隆区创意园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-10",
     "end_date": "2027-03-12",
     "fee": "收费",
@@ -10876,7 +11611,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆江北区影视放映课程",
@@ -10912,13 +11648,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "洪崖洞巴渝夜市",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-11",
     "end_date": "2026-11-11",
     "fee": "免费",
@@ -10948,13 +11685,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "自然博物馆地球科学课堂",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-09-12",
     "fee": "免费需预约",
@@ -10985,13 +11723,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "陈麻花制作体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-09-12",
     "fee": "收费",
@@ -11021,13 +11760,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆茶艺课堂",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-09-12",
     "fee": "免费需预约",
@@ -11058,13 +11798,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "大足石刻北山摩崖造像研学",
     "venue": "大足石刻",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-09-12",
     "fee": "收费",
@@ -11094,13 +11835,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "歌乐山革命故事会",
     "venue": "歌乐山烈士陵园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2026-09-12",
     "fee": "免费",
@@ -11130,7 +11872,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "经典重庆沙坪坝区展览探秘",
@@ -11167,7 +11910,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻重庆沙坪坝区影视放映之旅",
@@ -11204,13 +11948,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆武隆区讲座阅读演出",
     "venue": "重庆武隆区海洋馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-12",
     "end_date": "2027-03-14",
     "fee": "免费",
@@ -11240,7 +11985,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "梦幻重庆大渡口区科普活动之旅",
@@ -11276,13 +12022,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "光学世界探秘课堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-09-13",
     "fee": "免费需预约",
@@ -11313,13 +12060,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "际华园蹦床公园",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-09-13",
     "fee": "收费",
@@ -11349,13 +12097,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "缙云山避暑纳凉游",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2026-09-13",
     "fee": "免费",
@@ -11385,13 +12134,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "走进重庆武隆区演出日",
     "venue": "重庆武隆区体育馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-13",
     "end_date": "2027-03-15",
     "fee": "收费",
@@ -11422,13 +12172,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "食品安全科普体验",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-09-14",
     "fee": "免费需预约",
@@ -11459,13 +12210,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "彩云湖湿地蝴蝶观察活动",
     "venue": "彩云湖湿地公园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-09-14",
     "fee": "免费",
@@ -11496,13 +12248,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆欢乐谷夏日狂欢季",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-14",
     "fee": "需购票",
@@ -11532,13 +12285,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "磁器口夜景灯光秀",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2026-11-09",
     "fee": "免费",
@@ -11568,7 +12322,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "互动重庆北碚区体育赛事科普",
@@ -11605,13 +12360,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "青少年重庆南川区影视放映讲座",
     "venue": "重庆南川区海洋馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-09-14",
     "end_date": "2027-03-16",
     "fee": "收费",
@@ -11641,7 +12397,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆渝中区演出月",
@@ -11678,7 +12435,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆大渡口区讲座阅读发现",
@@ -11714,13 +12472,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "鹅岭公园夏日荷花展",
     "venue": "鹅岭公园",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-10-30",
     "fee": "免费",
@@ -11751,13 +12510,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "少儿图书馆暑期作业辅导",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-15",
     "end_date": "2026-11-05",
     "fee": "免费",
@@ -11788,13 +12548,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界海洋探秘",
     "venue": "重庆融创海世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2026-11-16",
     "fee": "需购票",
@@ -11824,13 +12585,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "少儿公益培训课堂",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2026-11-04",
     "fee": "免费",
@@ -11861,13 +12623,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解读重庆两江新区科普活动周",
     "venue": "重庆两江新区文化馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-09-16",
     "end_date": "2027-03-18",
     "fee": "免费",
@@ -11898,13 +12661,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆武隆区影视放映比赛",
     "venue": "重庆武隆区图书馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-17",
     "end_date": "2027-03-19",
     "fee": "收费",
@@ -11935,7 +12699,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆渝中区亲子活动课程",
@@ -11972,13 +12737,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "鹅岭二厂夜游",
     "venue": "鹅岭二厂",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-18",
     "end_date": "2026-11-18",
     "fee": "免费",
@@ -12008,7 +12774,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子重庆南岸区科普活动工作坊",
@@ -12045,7 +12812,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "周末重庆渝北区亲子活动活动",
@@ -12082,7 +12850,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆北碚区演出讲座",
@@ -12118,13 +12887,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆酸辣粉制作体验",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2026-09-19",
     "fee": "收费",
@@ -12154,13 +12924,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆亲子手工日",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -12191,13 +12962,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "十八梯历史建筑探秘",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2026-09-19",
     "fee": "免费",
@@ -12227,13 +12999,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "经典重庆武隆区讲座阅读探秘",
     "venue": "重庆武隆区美术馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-19",
     "end_date": "2027-03-21",
     "fee": "免费",
@@ -12264,7 +13037,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解读重庆南岸区演出周",
@@ -12301,7 +13075,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "梦幻重庆北碚区展览之旅",
@@ -12338,13 +13113,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "声学小课堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-09-20",
     "fee": "免费",
@@ -12375,13 +13151,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南山植物园药用植物认知",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -12411,13 +13188,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "歌乐山攀岩体验",
     "venue": "歌乐山国家森林公园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-09-20",
     "fee": "收费",
@@ -12448,13 +13226,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "缙云山朝霞观赏",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-09-20",
     "fee": "免费",
@@ -12484,13 +13263,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "洪崖洞千与千寻打卡游",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-20",
     "end_date": "2026-11-20",
     "fee": "免费",
@@ -12520,7 +13300,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "亲子重庆渝北区亲子活动工作坊",
@@ -12557,13 +13338,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "人体健康小课堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-21",
     "end_date": "2026-09-21",
     "fee": "免费",
@@ -12594,7 +13376,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "梦幻重庆南岸区讲座阅读之旅",
@@ -12631,7 +13414,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "儿童重庆巴南区演出课程",
@@ -12667,7 +13451,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆南岸区科普活动季",
@@ -12703,7 +13488,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆北碚区讲座阅读工作坊",
@@ -12740,7 +13526,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "暑期重庆沙坪坝区科普活动体验营",
@@ -12777,13 +13564,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "互动重庆武隆区影视放映科普",
     "venue": "重庆武隆区剧院",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-23",
     "end_date": "2027-03-25",
     "fee": "收费",
@@ -12814,13 +13602,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆生物多样性专题展",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-12-24",
     "fee": "免费",
@@ -12851,13 +13640,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "磁器口古镇夜游",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-24",
     "end_date": "2026-11-24",
     "fee": "免费",
@@ -12887,7 +13677,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读重庆大渡口区演出周",
@@ -12924,13 +13715,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创海世界美人鱼秀",
     "venue": "重庆融创海世界",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-09-25",
     "end_date": "2026-11-25",
     "fee": "需购票",
@@ -12960,7 +13752,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "发现重庆北碚区亲子活动比赛",
@@ -12997,13 +13790,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆凉糕制作体验",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-09-26",
     "fee": "免费",
@@ -13033,13 +13827,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆英语角",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2026-09-26",
     "fee": "免费",
@@ -13070,7 +13865,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆南岸区亲子活动体验营",
@@ -13106,13 +13902,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探秘重庆两江新区体育赛事月",
     "venue": "重庆两江新区创意园",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-09-26",
     "end_date": "2027-03-28",
     "fee": "收费",
@@ -13142,13 +13939,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "铁山坪山地自行车",
     "venue": "铁山坪森林公园",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-09-27",
     "fee": "收费",
@@ -13179,13 +13977,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武隆天坑探险",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-27",
     "end_date": "2026-09-27",
     "fee": "收费",
@@ -13215,13 +14014,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童科学乐园暑期探索",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-11-28",
     "fee": "免费需预约",
@@ -13252,13 +14052,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆少年儿童图书馆故事会",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-11-23",
     "fee": "免费",
@@ -13289,13 +14090,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "北滨路夜游活动",
     "venue": "北滨路",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-09-28",
     "end_date": "2026-11-28",
     "fee": "免费",
@@ -13325,7 +14127,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "儿童重庆大渡口区科普活动课程",
@@ -13362,7 +14165,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆大渡口区演出工作坊",
@@ -13399,7 +14203,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆九龙坡区演出讲座",
@@ -13436,13 +14241,48 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026韦礼安+蔡旻佑演唱会重庆站时间+地点+购票指南",
+    "name": "2026韦礼安+蔡旻佑演唱会重庆站时间+地点+购票指南",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-10",
+    "link": "",
+    "url": "",
+    "description": "2026韦礼安+蔡旻佑演唱会重庆站时间+地点+购票指南。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
+  },
+  {
+    "title": "2026马思唯巡回演唱会重庆站时间+地点+门票+购票信息",
+    "name": "2026马思唯巡回演唱会重庆站时间+地点+门票+购票信息",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-07",
+    "link": "",
+    "url": "",
+    "description": "2026马思唯巡回演唱会重庆站时间+地点+门票+购票信息。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "仙女山避暑度假之旅",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-29",
     "end_date": "2026-11-29",
     "fee": "收费",
@@ -13473,7 +14313,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "儿童重庆沙坪坝区影视放映课程",
@@ -13510,7 +14351,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆九龙坡区展览工作坊",
@@ -13546,13 +14388,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "仙女山滑草体验",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2026-11-30",
     "fee": "收费",
@@ -13583,13 +14426,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆两江新区讲座阅读工作坊",
     "venue": "重庆两江新区公园",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-09-30",
     "end_date": "2027-04-01",
     "fee": "免费",
@@ -13620,13 +14464,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆历代钱币展",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2027-03-02",
     "fee": "免费",
@@ -13657,13 +14502,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "金佛山夏季滑雪体验",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-12-01",
     "fee": "收费",
@@ -13693,13 +14539,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "缙云山温泉度假",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2026-12-31",
     "fee": "收费",
@@ -13729,7 +14576,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "解读重庆渝中区展览周",
@@ -13765,13 +14613,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "暑期重庆大足区讲座阅读体验营",
     "venue": "重庆大足区公园",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "免费",
@@ -13802,13 +14651,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆南川区体育赛事节",
     "venue": "重庆南川区动物园",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-01",
     "end_date": "2027-04-02",
     "fee": "收费",
@@ -13838,13 +14688,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
+  },
+  {
+    "title": "重庆悦来国博中心近期展会汇总",
+    "name": "重庆悦来国博中心近期展会汇总",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-03",
+    "link": "",
+    "url": "",
+    "description": "重庆悦来国博中心近期展会汇总。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "两江游船夜航专线",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2026-11-21",
     "fee": "收费",
@@ -13874,13 +14742,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "漫游重庆武隆区亲子活动季",
     "venue": "重庆武隆区博物馆",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "收费",
@@ -13911,13 +14780,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆大足区展览节",
     "venue": "重庆大足区科技馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-10-02",
     "end_date": "2027-04-03",
     "fee": "免费",
@@ -13948,7 +14818,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "震撼重庆巴南区科普活动发现",
@@ -13984,13 +14855,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "蜀绣团扇制作体验",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -14020,13 +14892,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆科普讲座",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-10-03",
     "fee": "免费",
@@ -14057,13 +14930,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "建川博物馆抗战兵器展",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "收费",
@@ -14094,13 +14968,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "大足石刻佛教艺术讲堂",
     "venue": "大足石刻",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2026-10-03",
     "fee": "收费",
@@ -14130,13 +15005,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "湖广会馆家谱文化展",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2027-03-04",
     "fee": "收费",
@@ -14166,13 +15042,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "梦幻重庆南川区讲座阅读之旅",
     "venue": "重庆南川区美术馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-03",
     "end_date": "2027-04-04",
     "fee": "免费",
@@ -14203,7 +15080,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "家庭重庆渝北区科普活动研学营",
@@ -14240,13 +15118,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "力学趣味实验大挑战",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-04",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -14277,13 +15156,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "奥体中心游泳公开赛",
     "venue": "重庆奥体中心",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2026-10-04",
     "end_date": "2026-10-04",
     "fee": "免费",
@@ -14313,7 +15193,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "儿童重庆渝北区体育赛事课程",
@@ -14350,7 +15231,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆九龙坡区展览季",
@@ -14387,13 +15269,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
+  },
+  {
+    "title": "2026重庆4月展会合集",
+    "name": "2026重庆4月展会合集",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-15",
+    "link": "",
+    "url": "",
+    "description": "2026重庆4月展会合集。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "小小讲解员暑期培训营",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-05",
     "end_date": "2026-10-20",
     "fee": "免费需预约",
@@ -14424,13 +15324,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐海底世界海龟馆",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-05",
     "end_date": "2027-04-06",
     "fee": "需购票",
@@ -14460,13 +15361,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "两江夜游船",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2026-12-06",
     "fee": "收费",
@@ -14496,7 +15398,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "青少年重庆大渡口区体育赛事讲座",
@@ -14533,7 +15436,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆渝北区展览演出",
@@ -14569,13 +15473,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "解读重庆南川区科普活动周",
     "venue": "重庆南川区博物馆",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-06",
     "end_date": "2027-04-07",
     "fee": "免费",
@@ -14606,7 +15511,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆渝中区讲座阅读探索",
@@ -14643,7 +15549,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "走进重庆渝中区影视放映日",
@@ -14679,13 +15586,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南山一棵树日出",
     "venue": "南山一棵树观景台",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2026-12-07",
     "fee": "免费",
@@ -14715,13 +15623,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探秘重庆南川区体育赛事月",
     "venue": "重庆南川区会展中心",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-07",
     "end_date": "2027-04-08",
     "fee": "收费",
@@ -14751,7 +15660,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "趣味重庆渝中区体育赛事展览",
@@ -14788,7 +15698,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "经典重庆渝北区讲座阅读探秘",
@@ -14824,13 +15735,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "材料科学探秘展",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2027-03-09",
     "fee": "免费",
@@ -14861,13 +15773,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "朝天门两江交汇夜景",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2026-12-08",
     "fee": "免费",
@@ -14897,7 +15810,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "震撼重庆渝中区体育赛事发现",
@@ -14934,7 +15848,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "体验重庆北碚区科普活动嘉年华",
@@ -14970,13 +15885,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "发现重庆南川区展览比赛",
     "venue": "重庆南川区青少年宫",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-08",
     "end_date": "2027-04-09",
     "fee": "免费",
@@ -15007,13 +15923,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆汉海海洋公园企鹅馆",
     "venue": "重庆汉海海洋公园",
     "city": "chongqing",
-    "district": "巴南区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2026-12-09",
     "fee": "需购票",
@@ -15044,13 +15961,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆欢乐海底世界海洋生物展",
     "venue": "重庆欢乐海底世界",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "需购票",
@@ -15080,13 +15998,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "家庭重庆大足区展览研学营",
     "venue": "重庆大足区会展中心",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "免费",
@@ -15116,7 +16035,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "发现重庆九龙坡区体育赛事比赛",
@@ -15153,13 +16073,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩重庆两江新区影视放映节",
     "venue": "重庆两江新区植物园",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-10-09",
     "end_date": "2027-04-10",
     "fee": "收费",
@@ -15189,7 +16110,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "家庭重庆大渡口区亲子活动研学营",
@@ -15226,7 +16148,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "青少年重庆巴南区亲子活动讲座",
@@ -15262,13 +16185,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "航天科普主题展",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2027-02-09",
     "fee": "免费",
@@ -15299,13 +16223,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆竹编技艺体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-10-10",
     "fee": "收费",
@@ -15335,13 +16260,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆电影周",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-10-16",
     "fee": "免费",
@@ -15372,13 +16298,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "朝天门码头历史研学",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-10-10",
     "fee": "免费",
@@ -15408,13 +16335,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "国泰艺术中心夜场",
     "venue": "国泰艺术中心",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-10",
     "end_date": "2026-11-30",
     "fee": "需购票",
@@ -15445,7 +16373,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "互动重庆九龙坡区体育赛事科普",
@@ -15481,13 +16410,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "人工智能启蒙课程",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-10-11",
     "fee": "收费",
@@ -15518,13 +16448,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆图书馆名家讲坛",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-11-22",
     "fee": "免费需预约",
@@ -15555,13 +16486,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "际华园风洞飞行体验",
     "venue": "重庆际华园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-10-11",
     "fee": "收费",
@@ -15591,13 +16523,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武隆地心探险之旅",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-10-11",
     "end_date": "2026-10-11",
     "fee": "收费",
@@ -15627,7 +16560,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "探索重庆江北区亲子活动演出",
@@ -15664,7 +16598,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "漫游重庆巴南区演出季",
@@ -15701,13 +16636,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "金佛山避暑纳凉之旅",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-12",
     "end_date": "2026-12-12",
     "fee": "收费",
@@ -15737,7 +16673,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "周末重庆渝中区展览活动",
@@ -15774,7 +16711,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "沉浸式重庆江北区亲子活动探索",
@@ -15810,13 +16748,31 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
+  },
+  {
+    "title": "2026队长YoungCaptain巡演重庆站时间+地点+门票信息",
+    "name": "2026队长YoungCaptain巡演重庆站时间+地点+门票信息",
+    "venue": "重庆文化场馆",
+    "city": "chongqing",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-26",
+    "link": "",
+    "url": "",
+    "description": "2026队长YoungCaptain巡演重庆站时间+地点+门票信息。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "本地宝",
+    "district": "其他"
   },
   {
     "name": "洪崖洞灯光秀",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-13",
     "end_date": "2026-12-08",
     "fee": "免费",
@@ -15846,7 +16802,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "探索重庆巴南区体育赛事演出",
@@ -15882,7 +16839,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "精彩重庆九龙坡区演出节",
@@ -15919,7 +16877,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "精彩重庆沙坪坝区讲座阅读节",
@@ -15956,7 +16915,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "体验重庆渝北区展览嘉年华",
@@ -15993,13 +16953,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "洪崖洞夜游打卡",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-14",
     "end_date": "2026-12-14",
     "fee": "免费",
@@ -16029,7 +16990,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "震撼重庆沙坪坝区演出发现",
@@ -16066,13 +17028,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "暑期重庆两江新区体育赛事体验营",
     "venue": "重庆两江新区体育馆",
     "city": "chongqing",
-    "district": "两江新区",
+    "district": "其他",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "收费",
@@ -16103,13 +17066,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "亲子重庆大足区影视放映工作坊",
     "venue": "重庆大足区博物馆",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2026-10-14",
     "end_date": "2027-04-15",
     "fee": "收费",
@@ -16140,7 +17104,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "震撼重庆江北区演出发现",
@@ -16177,13 +17142,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆国学讲堂",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-11-26",
     "fee": "免费",
@@ -16214,13 +17180,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "解放碑夜景漫步",
     "venue": "解放碑步行街",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-15",
     "end_date": "2026-12-15",
     "fee": "免费",
@@ -16250,7 +17217,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "发现重庆南岸区展览比赛",
@@ -16286,7 +17254,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "周末重庆南岸区演出活动",
@@ -16322,7 +17291,8 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "沉浸式重庆渝北区展览探索",
@@ -16358,13 +17328,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆漆器制作体验",
     "venue": "重庆美术馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-17",
     "end_date": "2026-10-17",
     "fee": "收费",
@@ -16395,13 +17366,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆巴渝文化讲座",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-10-17",
     "end_date": "2026-10-17",
     "fee": "免费需预约",
@@ -16432,13 +17404,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "解放碑抗战历史研学",
     "venue": "解放碑步行街",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-17",
     "end_date": "2026-10-17",
     "fee": "免费",
@@ -16468,13 +17441,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "三峡博物馆玉器鉴赏研学",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-18",
     "end_date": "2026-10-18",
     "fee": "免费",
@@ -16505,13 +17479,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "太阳系探秘讲座",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-18",
     "end_date": "2026-10-18",
     "fee": "免费",
@@ -16542,13 +17517,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆中央公园亲子足球赛",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-10-18",
     "end_date": "2026-10-18",
     "fee": "免费",
@@ -16579,13 +17555,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "体育赛事"
   },
   {
     "name": "仙女山房车露营节",
     "venue": "仙女山国家森林公园",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2026-10-18",
     "end_date": "2026-10-18",
     "fee": "收费",
@@ -16616,13 +17593,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "铜梁龙舞体验活动",
     "venue": "解放碑步行街",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-24",
     "end_date": "2026-10-24",
     "fee": "免费",
@@ -16652,13 +17630,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆图书馆亲子阅读指导",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-10-24",
     "end_date": "2026-10-24",
     "fee": "免费",
@@ -16689,13 +17668,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "洪崖洞巴渝建筑研学",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-24",
     "end_date": "2026-10-24",
     "fee": "免费",
@@ -16725,13 +17705,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "火箭发射模拟体验",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-10-25",
     "end_date": "2026-10-25",
     "fee": "免费需预约",
@@ -16762,13 +17743,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆欢乐谷万圣节主题夜",
     "venue": "重庆欢乐谷",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2026-10-25",
     "end_date": "2026-11-01",
     "fee": "需购票",
@@ -16798,13 +17780,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南滨路夜跑活动",
     "venue": "南滨路",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2026-10-25",
     "end_date": "2026-10-25",
     "fee": "免费",
@@ -16834,13 +17817,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "金佛山日出观赏",
     "venue": "金佛山",
     "city": "chongqing",
-    "district": "南川区",
+    "district": "其他",
     "start_date": "2026-10-25",
     "end_date": "2026-10-25",
     "fee": "收费",
@@ -16870,13 +17854,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆民俗文化讲堂",
     "venue": "湖广会馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-10-31",
     "end_date": "2026-10-31",
     "fee": "免费",
@@ -16906,13 +17891,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆图书馆少儿朗诵赛",
     "venue": "重庆图书馆",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-10-31",
     "end_date": "2026-10-31",
     "fee": "免费",
@@ -16943,13 +17929,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "科学魔术大揭秘",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-11-01",
     "end_date": "2026-11-01",
     "fee": "免费",
@@ -16980,13 +17967,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆茶馆文化体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-11-07",
     "end_date": "2026-11-07",
     "fee": "收费",
@@ -17016,13 +18004,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆绘本创作营",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-07",
     "end_date": "2026-11-07",
     "fee": "免费",
@@ -17053,13 +18042,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "磁器口码头文化研学",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-11-07",
     "end_date": "2026-11-07",
     "fee": "免费",
@@ -17089,13 +18079,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "生命科学讲堂",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-11-08",
     "end_date": "2026-11-08",
     "fee": "免费",
@@ -17126,13 +18117,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "川剧脸谱绘制体验",
     "venue": "洪崖洞",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-14",
     "end_date": "2026-11-14",
     "fee": "收费",
@@ -17162,13 +18154,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "少儿图书馆童话剧表演",
     "venue": "重庆少年儿童图书馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-14",
     "end_date": "2026-11-14",
     "fee": "免费",
@@ -17199,13 +18192,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "十八梯吊脚楼建筑研学",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-14",
     "end_date": "2026-11-14",
     "fee": "免费",
@@ -17235,13 +18229,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "数学游戏乐园",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2026-11-15",
     "end_date": "2026-11-15",
     "fee": "免费需预约",
@@ -17272,13 +18267,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆香囊制作体验",
     "venue": "十八梯",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-21",
     "end_date": "2026-11-21",
     "fee": "免费",
@@ -17308,13 +18304,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "朝天门两江交汇地理研学",
     "venue": "朝天门广场",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2026-11-21",
     "end_date": "2026-11-21",
     "fee": "免费",
@@ -17344,13 +18341,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆陶艺拉胚体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-11-28",
     "end_date": "2026-11-28",
     "fee": "收费",
@@ -17380,13 +18378,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "磁器口非遗文化研学",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-11-28",
     "end_date": "2026-11-28",
     "fee": "免费",
@@ -17416,13 +18415,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆融创乐园冬日童话节",
     "venue": "重庆融创乐园",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2026-12-01",
     "end_date": "2026-12-31",
     "fee": "需购票",
@@ -17452,13 +18452,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "演出"
   },
   {
     "name": "科学实验秀暑期专场",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2027-07-04",
     "end_date": "2027-07-04",
     "fee": "免费需预约",
@@ -17489,13 +18490,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "重庆中央公园草坪露营日",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2027-07-04",
     "end_date": "2027-07-04",
     "fee": "免费",
@@ -17526,13 +18528,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "重庆动物园大熊猫科普讲解",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2027-07-05",
     "end_date": "2027-07-05",
     "fee": "收费",
@@ -17562,13 +18565,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "重庆美术馆少儿美育课堂",
     "venue": "重庆美术馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2027-07-06",
     "end_date": "2027-07-06",
     "fee": "免费",
@@ -17599,13 +18603,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "南山植物园夏花认知之旅",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2027-07-06",
     "end_date": "2027-07-06",
     "fee": "收费",
@@ -17635,13 +18640,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "红岩研学夏令营",
     "venue": "重庆红岩革命历史博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2027-07-07",
     "end_date": "2027-07-11",
     "fee": "免费需预约",
@@ -17672,13 +18678,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "建川博物馆抗战文化研学",
     "venue": "重庆建川博物馆聚落",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2027-07-08",
     "end_date": "2027-07-08",
     "fee": "收费",
@@ -17709,13 +18716,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "三峡文化研学夏令营",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2027-07-10",
     "end_date": "2027-07-15",
     "fee": "免费需预约",
@@ -17746,13 +18754,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "大足石刻文化研学营",
     "venue": "大足石刻",
     "city": "chongqing",
-    "district": "大足区",
+    "district": "其他",
     "start_date": "2027-07-10",
     "end_date": "2027-07-12",
     "fee": "收费",
@@ -17782,13 +18791,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "防灾减灾体验营",
     "venue": "重庆科技馆",
     "city": "chongqing",
-    "district": "江北区",
+    "district": "其他",
     "start_date": "2027-07-11",
     "end_date": "2027-07-11",
     "fee": "免费",
@@ -17819,13 +18829,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "缙云山植物认知自然课堂",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2027-07-11",
     "end_date": "2027-07-11",
     "fee": "免费",
@@ -17855,13 +18866,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "巴蜀青铜器鉴赏研学",
     "venue": "重庆中国三峡博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2027-07-12",
     "end_date": "2027-07-12",
     "fee": "免费",
@@ -17892,13 +18904,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆动物园金丝猴探秘",
     "venue": "重庆动物园",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2027-07-12",
     "end_date": "2027-07-12",
     "fee": "收费",
@@ -17928,13 +18941,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "重庆中央公园亲子骑行",
     "venue": "重庆中央公园",
     "city": "chongqing",
-    "district": "渝北区",
+    "district": "其他",
     "start_date": "2027-07-12",
     "end_date": "2027-07-12",
     "fee": "免费",
@@ -17965,13 +18979,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "武隆喀斯特地质研学",
     "venue": "武隆喀斯特",
     "city": "chongqing",
-    "district": "武隆区",
+    "district": "其他",
     "start_date": "2027-07-12",
     "end_date": "2027-07-12",
     "fee": "收费",
@@ -18001,13 +19016,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "南山植物园蔷薇园探秘",
     "venue": "南山植物园",
     "city": "chongqing",
-    "district": "南岸区",
+    "district": "其他",
     "start_date": "2027-07-13",
     "end_date": "2027-07-13",
     "fee": "收费",
@@ -18037,13 +19053,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "其他"
   },
   {
     "name": "火锅文化深度体验营",
     "venue": "重庆火锅博物馆",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2027-07-13",
     "end_date": "2027-07-13",
     "fee": "收费",
@@ -18074,13 +19091,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   },
   {
     "name": "火锅博物馆美食文化研学",
     "venue": "重庆火锅博物馆",
     "city": "chongqing",
-    "district": "九龙坡区",
+    "district": "其他",
     "start_date": "2027-07-14",
     "end_date": "2027-07-14",
     "fee": "收费",
@@ -18111,13 +19129,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "红岩精神讲堂",
     "venue": "重庆红岩革命历史博物馆",
     "city": "chongqing",
-    "district": "渝中区",
+    "district": "其他",
     "start_date": "2027-07-14",
     "end_date": "2027-07-14",
     "fee": "免费",
@@ -18148,13 +19167,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "讲座阅读"
   },
   {
     "name": "自然博物馆昆虫探秘之旅",
     "venue": "重庆自然博物馆",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2027-07-15",
     "end_date": "2027-07-15",
     "fee": "免费需预约",
@@ -18185,13 +19205,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "科普活动"
   },
   {
     "name": "缙云山森林避暑课堂",
     "venue": "缙云山自然保护区",
     "city": "chongqing",
-    "district": "北碚区",
+    "district": "其他",
     "start_date": "2027-07-15",
     "end_date": "2027-07-15",
     "fee": "免费",
@@ -18221,13 +19242,14 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "展览"
   },
   {
     "name": "重庆小面制作体验",
     "venue": "磁器口古镇",
     "city": "chongqing",
-    "district": "沙坪坝区",
+    "district": "其他",
     "start_date": "2027-07-16",
     "end_date": "2027-07-16",
     "fee": "收费",
@@ -18257,6 +19279,7 @@
       "verified_at": "2026-07-18",
       "verified_by": "source_crawl"
     },
-    "verified": true
+    "verified": true,
+    "category": "亲子活动"
   }
 ]

@@ -1,0 +1,4222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TongXing GoOut//Calendar//ZH
+X-WR-CALNAME:童行 (past亲子活动)
+X-WR-CALDESC:past展览与亲子活动日历 - 涵盖展览、图书馆活动、文体活动、科技馆活动等
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19701001T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700401T020000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU
+TZNAME:CST
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bf03a66dfe953e68@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260805
+SUMMARY:第六届IDEA!想法——叙事艺术展
+LOCATION:许燎源当代艺术馆（一楼）
+DESCRIPTION:以"叙事"为核心集结23位跨领域青年创作者，将创作全脉络与公众共创机制纳入展陈。\n地点: 许燎源当代艺术馆（一楼）\n时间: 2026-01-01 至 2026-08-04\n详情: https://cd.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3221933480cef9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260801
+SUMMARY:古希腊的旅程——希腊31家博物馆文物展
+LOCATION:良渚博物院
+DESCRIPTION:希腊31家博物馆163件精品文物+9件复制品，跨文明对话大展。\n地点: 良渚博物院\n时间: 2026-01-30 至 2026-07-31\n详情: https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a8768461622f62ce@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260802
+SUMMARY:粤BA全省21城篮球联赛
+LOCATION:宝安体育馆
+DESCRIPTION:全省21城全部参与、各自为战，长达5个月的精彩篮球联赛；粤BA票根福利涵盖餐饮、住宿、景区、娱乐等160余家商户。\n地点: 宝安体育馆\n时间: 2026-03-21 至 2026-08-01\n详情: https://sz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:715879e88fdf6a99@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260727
+SUMMARY:观澜古墟第四届文化季
+LOCATION:观澜古墟
+DESCRIPTION:深圳仅存客家古墟之一，皮影戏表演、漫步灯笼连廊下看百年碉楼披流光，逛水岸文创市集，夜景超出片。\n地点: 观澜古墟\n时间: 2026-04-25 至 2026-07-26\n详情: https://sz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:14d2e3e1d7ffebd3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260801
+SUMMARY:骥跃升腾——三彩马的世界
+LOCATION:深圳博物馆（古代艺术馆）
+DESCRIPTION:唐三彩马主题特展，深圳博物馆同心路馆。\n地点: 深圳博物馆（古代艺术馆）\n时间: 2026-05-18 至 2026-07-31\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:5927de07dc3e8381@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260727
+SUMMARY:来处与归途：三燕百年
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:三燕历史文化特展，深圳博物馆金田路馆。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-05-18 至 2026-07-26\n详情: https://www.shenzhenmuseum.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ceda4b661b20713e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260806
+SUMMARY:四季倒影：光之镜中的自然——赫利顿·希夏个展
+LOCATION:广东美术馆（白鹅潭馆区）
+DESCRIPTION:希夏重写雕塑传统的体量，建构光的回馈场，集中呈现其围绕光、自然与环境的大型雕塑。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-05-28 至 2026-08-05\n详情: https://gz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:0429aef647795234@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260806
+SUMMARY:风景与想象之间——意大利当代艺术在中国
+LOCATION:广东美术馆（白鹅潭馆区）
+DESCRIPTION:从西方美术史"观看"概念出发，呈现多条相互呼应的创作线索，具地中海文化语境的温和节奏。\n地点: 广东美术馆（白鹅潭馆区）\n时间: 2026-05-29 至 2026-08-05\n详情: https://gz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:47fe77fd54b037db@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260801
+SUMMARY:童心向党——金湾区青少儿艺术花会优秀作品展
+LOCATION:金湾区文化馆
+DESCRIPTION:金湾区青少儿艺术花会优秀作品展，展出813件艺术感十足的青少儿艺术作品。\n地点: 金湾区文化馆\n时间: 2026-06-15 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd5b88a4ae570a9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260730
+SUMMARY:手作·造物——现代手工艺师生作品展
+LOCATION:金湾区图书馆
+DESCRIPTION:陶瓷、广府金绣、掐丝珐琅与非遗点翠等20余个门类的工艺美术作品在一楼中庭展出。\n地点: 金湾区图书馆\n时间: 2026-06-15 至 2026-07-29
+END:VEVENT
+BEGIN:VEVENT
+UID:c32a6c40d182033c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260801
+SUMMARY:宠·爱——猫猫狗狗的世界
+LOCATION:深圳博物馆金田路馆（历史民俗）
+DESCRIPTION:汇集80件/套展品，梳理人与猫狗跨越万年的相伴羁绊。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科普可看、可玩、可体验。暑期延时开放至21:00。\n地点: 深圳博物馆金田路馆（历史民俗）\n时间: 2026-06-20 至 2026-07-31\n详情: http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:306f9c20641d1ece@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260726
+SUMMARY:高淳区龙虾啤酒·夏夜嘉年华
+LOCATION:固城湾景区
+DESCRIPTION:吹晚风、看比赛、吃龙虾的夏夜嘉年华，暑期消暑夜游。\n地点: 固城湾景区\n时间: 2026-06-20 至 2026-07-25\n详情: https://nj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:b851f80814d08ece@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260803
+SUMMARY:多彩巴蜀——巴蜀文化旅游走廊美术作品展
+LOCATION:重庆美术馆（1号厅）
+DESCRIPTION:重庆美术馆新展之一，呈现巴蜀文化旅游走廊美术创作成果，免费对公众开放。\n地点: 重庆美术馆（1号厅）\n时间: 2026-06-23 至 2026-08-02\n详情: https://cq.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:14de9e4354dba09a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260801
+SUMMARY:万物之始·种子的远行 科普展
+LOCATION:杭州植物园（展览小花园）
+DESCRIPTION:持卡（公园年卡）免费入园，陈列植物实物标本、显微摄影与图文展板，直观了解种子传播方式。\n地点: 杭州植物园（展览小花园）\n时间: 2026-06-24 至 2026-07-31\n详情: https://hz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:c988b8917e0159db@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260728
+SUMMARY:岚岚作品展
+LOCATION:重庆美术馆（7号厅）
+DESCRIPTION:重庆美术馆暑期新展，免费开放，盛夏防雨又防晒的遛娃看展好去处。\n地点: 重庆美术馆（7号厅）\n时间: 2026-06-27 至 2026-07-27\n详情: https://cq.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:62c17bf8c1c8bd45@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:科学实验秀——浙江省科技馆暑期活动
+LOCATION:浙江省科技馆
+DESCRIPTION:每天2场科学实验秀，含《寻心记》《物体的倔脾气》《静电碰撞》等十几个主题轮番上演。\n地点: 浙江省科技馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://m.sohu.com/a/1044289750_121106994/
+END:VEVENT
+BEGIN:VEVENT
+UID:d55c3fa861a16d3d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:《海洋奇缘：启航》迪士尼电影主题展
+LOCATION:南山区深圳人才公园潮汐广场
+DESCRIPTION:描述
+
+还原莫阿娜同款航海木舟、巨型毛伊鱼钩气模、寻路花环秋千等电影场景，拍照打卡。免费免预约。地铁13号线'人才公园站'B1出口。\n地点: 南山区深圳人才公园潮汐广场\n时间: 2026-07-01 至 2026-07-31\n详情: http://m.toutiao.com/group/7658324154139148850/
+END:VEVENT
+BEGIN:VEVENT
+UID:1d29d33521e538cd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:《海洋奇缘：起航》迪士尼电影主题展
+LOCATION:深圳人才公园潮汐广场
+DESCRIPTION:还原莫安娜同款航海木船、巨型莫阿娜气球、寻梦花环等电影场景，拍照打卡。免费免预约。地铁13号线人才公园站B1出口。\n地点: 深圳人才公园潮汐广场\n时间: 2026-07-01 至 2026-07-31\n详情: http://m.toutiao.com/group/7658324154139148850/
+END:VEVENT
+BEGIN:VEVENT
+UID:9411f3f0e7710f92@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:爱阅阳台丨集印章换好礼（7月）
+LOCATION:宝安图书馆 (宝安区图书馆石岩街道分馆)
+DESCRIPTION:此活动隶属石岩街道分馆。了帮助广大读者了解图书馆的服务，积极参与图书馆活动，以此带动市民的阅读热情，充分利用图书馆馆藏资源，石岩街道分馆特举办集印章换好礼活动。；地点：石岩街道分馆（详见活动简介）；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆石岩街道分馆)\n时间: 2026-07-01 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:45fcb673b8ad199a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:龙岗区文化馆吉华街道丽湖社区服务点7月微展厅系列活动——《爱心绘画》儿童画展
+LOCATION:吉华街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1933f80e5ac44da8bc080f25963c180f
+END:VEVENT
+BEGIN:VEVENT
+UID:a557665c5c926540@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:龙岗区文化馆吉华街道中海怡翠社区服务点7月微展厅系列活动——《爱心绘画》儿童画展
+LOCATION:吉华街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=35c46c8e2e4d46e49084db43332e1b8a
+END:VEVENT
+BEGIN:VEVENT
+UID:a21a9f93c74de87e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】吉祥社区服务点“艺术微展厅”——“四季与你·共赏龙城”儿童绘画展（第一期）
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3627509a76fe4308bd00e66764d0c4b3
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2feea235a2903b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:公明街道 “活力专场  舞动青春”文化活动暨文化馆总分馆联动活动
+LOCATION:光明区公明街道综合性文化服务中心
+DESCRIPTION:公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办\n地点: 光明区公明街道综合性文化服务中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4ea9e4178d2b4e9b97d4e3e3ff8f427c
+END:VEVENT
+BEGIN:VEVENT
+UID:11077f807cf7325d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年7月南湾街道分馆“微展厅”巡展—吉厦社区墨韵邻里水墨画画展
+LOCATION:南湾街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在南湾街道文化站举办\n地点: 南湾街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=573580cea7b241c795608bb4102284d3
+END:VEVENT
+BEGIN:VEVENT
+UID:45c2065b8100c6ba@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆六约北社区服务点饶常明速写展（一）
+LOCATION:横岗街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在横岗街道文化站举办\n地点: 横岗街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=6e676f3dad5a45c29627e9984d5ff0e2
+END:VEVENT
+BEGIN:VEVENT
+UID:2a48000ea92a22d8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】龙红格社区服务点“艺术微展厅”——“四季与你·共赏龙城"山水风景水彩画巡展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e8dbaf032464e6eac490079b87fc5e1
+END:VEVENT
+BEGIN:VEVENT
+UID:8943dfe105491009@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:公明街道“军鼓与戏曲的邂逅，邀您同行，共赴艺术盛宴”
+LOCATION:光明区公明街道综合性文化服务中心
+DESCRIPTION:公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办\n地点: 光明区公明街道综合性文化服务中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9635f5bc6121423abe144f87d1c59fa6
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3210ac1ef5074c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:公明街道文化生活·合唱团公益培训文化活动暨文化馆总分馆联动活动
+LOCATION:光明区公明街道综合性文化服务中心
+DESCRIPTION:演出，公明街道办事处，在光明区公明街道综合性文化服务中心举办\n地点: 光明区公明街道综合性文化服务中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9721ee3d6a2a4ca6b34d1497abf949ef
+END:VEVENT
+BEGIN:VEVENT
+UID:4a20d0f9f6a7f219@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】 回龙埔社区服务点“艺术微展厅”——“四季与你·共赏龙城”少儿水彩水墨画展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=998488eb56714f9bacec01f9b86d2dc8
+END:VEVENT
+BEGIN:VEVENT
+UID:e7aad1803ddb4bce@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:龙岗区文化馆吉华街道水径社区微展厅系列活动-儿童画展
+LOCATION:吉华街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aadd573b1f574f06bae48a23a9146956
+END:VEVENT
+BEGIN:VEVENT
+UID:f61c270c34c9dc21@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年7月南湾街道分馆“微展厅”巡展—厦村社区小小画笔 大大世界儿童画画展
+LOCATION:南湾街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在南湾街道文化站举办\n地点: 南湾街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b31149b264f7443b8da8fe73bc45e094
+END:VEVENT
+BEGIN:VEVENT
+UID:2602c7c2f23ef45f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年龙岗区“艺术微展厅”吉华街道分馆摄影展览——城市棱镜
+LOCATION:吉华街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b89f85f524d0430497ce4023accecda7
+END:VEVENT
+BEGIN:VEVENT
+UID:bdf815656b20650d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你·共赏龙城”蚂蚁搬荔枝儿童画巡展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c19e09d482b8429d9a519e7c7229c7d3
+END:VEVENT
+BEGIN:VEVENT
+UID:a3802aff87bd03f9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】盛平社区服务点“艺术微展厅”——“四季与你 共赏龙城”街景速写巡展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c6c64deb3a3740ac8e2ffc25b6f7b2b1
+END:VEVENT
+BEGIN:VEVENT
+UID:8726c8a8be2bcdd4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年龙岗区文化馆“艺术微展厅”——坂田街道分馆四季花城社区服务点“笔蕴丹青”书画作品展
+LOCATION:坂田街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ce80c5cdfe1249abbc4204aebefb2034
+END:VEVENT
+BEGIN:VEVENT
+UID:a0c84ef0677ade95@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:公明街道“弘扬曲艺文化 展现戏剧风采”文化活动暨文化馆总分馆联动活动
+LOCATION:光明区公明街道综合性文化服务中心
+DESCRIPTION:公益，公明街道办事处，在光明区公明街道综合性文化服务中心举办\n地点: 光明区公明街道综合性文化服务中心\n时间: 2026-07-01 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8864427a855447d9f82c8fd00d7882e
+END:VEVENT
+BEGIN:VEVENT
+UID:ec26513494e3ba98@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:红星闪闪耀童心——线上答题活动
+LOCATION:深圳少年儿童图书馆
+DESCRIPTION:庆祝中国共产党成立105周年线上答题活动，寓教于乐，适合青少年参与。\n地点: 深圳少年儿童图书馆\n时间: 2026-07-01 至 2026-07-31\n详情: https://mp.weixin.qq.com/s/b3hHXCMr4200T94TGqBeig
+END:VEVENT
+BEGIN:VEVENT
+UID:45496c2fcca6afcb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年7月南湾街道分馆“微展厅”巡展——南岭村社区服务点“红墨初心”公益微展
+LOCATION:南湾街道文化站
+DESCRIPTION:展览，深圳市龙岗区文化馆总馆，在南湾街道文化站举办\n地点: 南湾街道文化站\n时间: 2026-07-02 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=849b4ac074a24d79a242c6ddfa84c3ea
+END:VEVENT
+BEGIN:VEVENT
+UID:cd4028c87e7dff78@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260706
+SUMMARY:2026深圳食博会
+LOCATION:深圳会展中心（福田）
+DESCRIPTION:7月2日至5日在深圳会展中心（福田）举办，展期4天，三展同期，2500+企业参展，设粮油果蔬、肉蛋奶等六大展区。\n地点: 深圳会展中心（福田）\n时间: 2026-07-02 至 2026-07-05\n详情: https://www.wfaexpo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:80294fb300bccbbd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260801
+SUMMARY:宠·爱——猫猫狗狗的世界
+LOCATION:深圳博物馆（历史民俗馆）
+DESCRIPTION:汇集80件/套展品，梳理人与猫狗跨越万年的相伴历程。引入20余项法国原版科学互动展项，依托动物行为学、遗传学、神经学研究，让科学可视、可玩、可体验。暑期延时开放至21:00。\n地点: 深圳博物馆（历史民俗馆）\n时间: 2026-07-03 至 2026-07-31\n详情: http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:a03a5dd48c378a18@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260803
+SUMMARY:2026（武汉站）航空航天体验中心
+LOCATION:武汉客厅中国文化博览中心
+DESCRIPTION:聚焦空天国防知识普及，陈列战机模型、航天器械、防空装备展品，亲子科普好去处。\n地点: 武汉客厅中国文化博览中心\n时间: 2026-07-04 至 2026-08-02\n详情: https://wh.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a0e0104c863d27@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260802
+SUMMARY:深圳欢乐谷·夏浪狂欢节
+LOCATION:深圳欢乐谷 |
+DESCRIPTION:描述
+
+全网爆火'大湾鸡天团'空降，夏浪音乐节周周有大咖，清凉水战+电音派对+明星演出。票价130-228元。\n地点: 深圳欢乐谷 |\n时间: 2026-07-04 至 2026-08-01\n详情: https://m.sohu.com/a/1045463665_675420/
+END:VEVENT
+BEGIN:VEVENT
+UID:563222b651ca46d5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260806
+SUMMARY:坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览
+LOCATION:坪地街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-05 至 2026-08-05\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=409a2ef2affd492a99283ab8e9d6311a
+END:VEVENT
+BEGIN:VEVENT
+UID:3f677c8935634d0a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260731
+SUMMARY:丹青联心——深澳两地书画艺术交流展
+LOCATION:福田美术馆 |
+DESCRIPTION:描述
+
+汇聚深澳两地书画名家精品力作140余幅，涵盖国画山水、书法、现代水墨、油画等。免费开放。\n地点: 福田美术馆 |\n时间: 2026-07-05 至 2026-07-30\n详情: http://m.toutiao.com/group/7659258111554961955/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdfef341565b73ef@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260731
+SUMMARY:绿翠同心——深港两地书画艺术交流展
+LOCATION:福田美术馆
+DESCRIPTION:汇聚深港两地书画名家精品力作140余幅，涵盖国画山水、书法、现代水彩、油画等。免费开放。\n地点: 福田美术馆\n时间: 2026-07-05 至 2026-07-30\n详情: http://m.toutiao.com/group/7659258111554961955/
+END:VEVENT
+BEGIN:VEVENT
+UID:ceee28dd608b27fb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260804
+SUMMARY:明十三陵明代文物主题展
+LOCATION:明十三陵
+DESCRIPTION:"大明十六帝"情景剧以第一视角叙事展开明代十六位皇帝生平，配套明代文物展览，暑期历史爱好者必看。\n地点: 明十三陵\n时间: 2026-07-06 至 2026-08-03\n详情: https://bj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:887f1a7b9cfd169c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260803
+SUMMARY:新桥街道“文化春雨行动”新桥新梦公益课堂.
+LOCATION:宝安区文化馆新桥街道分馆
+DESCRIPTION:展览，新桥街道办事处，在宝安区文化馆新桥街道分馆举办\n地点: 宝安区文化馆新桥街道分馆\n时间: 2026-07-06 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=55afc0d24dc64104b91bb3e15fbd9530
+END:VEVENT
+BEGIN:VEVENT
+UID:3dabec7281a158ed@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260801
+SUMMARY:坪地街道分馆“艺术微展厅”巡展——四方埔社区服务点“稚笔丹青·花开卷间”少儿国画作品展
+LOCATION:坪地街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-06 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=265446ca09234596b8ef314b2d1b65dd
+END:VEVENT
+BEGIN:VEVENT
+UID:a3fa59c625058099@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年坪地街道分馆“艺术微展厅”巡展——高桥社区服务点“童心造境·彩绘青春”创意绘画作品展
+LOCATION:坪地街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-06 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3cb1c39f77aa4bdfa4330f72ed06111f
+END:VEVENT
+BEGIN:VEVENT
+UID:2491646355e241ba@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260801
+SUMMARY:机器狗AI编程夏令营
+LOCATION:杭州图书馆
+DESCRIPTION:四期连开的机器狗AI编程夏令营，面向7岁以上少儿，通过编程控制机器狗完成任务。\n地点: 杭州图书馆\n时间: 2026-07-07 至 2026-07-31\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:f03de0669df92ed2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】尚景社区服务点“艺术微展厅”——“四季与你 共赏龙城”少儿书法作品展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-08 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad088a078e9c433e9fb8b3640c2ef3ff
+END:VEVENT
+BEGIN:VEVENT
+UID:6b93b7448c6a278c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260731
+SUMMARY:成人零基础芭蕾形体（10节课程，自备舞蹈练功服）
+LOCATION:宝安区文化馆
+DESCRIPTION:培训，宝安区公共文化体育服务中心，在宝安区文化馆举办\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=fe47c03b33074a99a5029c7256ce4ed3
+END:VEVENT
+BEGIN:VEVENT
+UID:7354c61d83c9c059@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐A班（面向7-9岁少年招募）
+LOCATION:宝安区文化馆
+DESCRIPTION:培训，宝安区公共文化体育服务中心，在宝安区文化馆举办\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0a1e6927986e4f408a5b09ac7500ddde
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8a1b57911c5ebb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿民族打击乐B班（面向10-12岁少年招募）
+LOCATION:宝安区文化馆
+DESCRIPTION:培训，宝安区公共文化体育服务中心，在宝安区文化馆举办\n地点: 宝安区文化馆\n时间: 2026-07-09 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1b98bee224f241de987f430356a10150
+END:VEVENT
+BEGIN:VEVENT
+UID:751f2aabcebc6521@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260803
+SUMMARY:薛之谦"万兽之王"演唱会-北京站
+LOCATION:国家体育场（鸟巢）
+DESCRIPTION:薛之谦2026巡回演唱会北京站落地鸟巢，暑期连开多场，经典金曲与全新舞美。\n地点: 国家体育场（鸟巢）\n时间: 2026-07-10 至 2026-08-02\n详情: https://bj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb81f1a5e9aa1f5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260730
+SUMMARY:成人书法（6节课程，需自备材料）
+LOCATION:宝安区文化馆
+DESCRIPTION:培训，宝安区公共文化体育服务中心，在宝安区文化馆举办\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=197b81f4770e4c21afc24a8b99807cc8
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8b323521710cb6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260726
+SUMMARY:2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”
+LOCATION:坂田街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-07-10 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=686d604cd9294ace834a765eabf74962
+END:VEVENT
+BEGIN:VEVENT
+UID:e9275dca303b9e50@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260725
+SUMMARY:少儿声乐（3节课程）
+LOCATION:宝安区文化馆
+DESCRIPTION:培训，宝安区公共文化体育服务中心，在宝安区文化馆举办\n地点: 宝安区文化馆\n时间: 2026-07-10 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc495595854d4fdebb5aa6faa1131045
+END:VEVENT
+BEGIN:VEVENT
+UID:eef7e34df2ea3e27@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:北京人艺话剧《寻找春柳社》
+LOCATION:光明文化艺术中心·演艺中心·音乐厅 |
+DESCRIPTION:描述
+
+北京人艺倾情演出，以'戏中戏'结构讲述当代大学生还原百年前中国第一个话剧团体春柳社的故事。\n地点: 光明文化艺术中心·演艺中心·音乐厅 |\n时间: 2026-07-10 至 2026-07-10\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee84f7aa509ab148@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+SUMMARY:儿童音乐皮影戏
+LOCATION:深圳戏院 |
+DESCRIPTION:描述
+
+深圳戏院'少儿演出季'系列，传统皮影戏融合音乐元素，适合亲子观看。地铁1/3号线老街站F出口。\n地点: 深圳戏院 |\n时间: 2026-07-11 至 2026-07-12\n详情: https://m.sohu.com/a/1047290911_122091088/
+END:VEVENT
+BEGIN:VEVENT
+UID:51e2e2366a0f433d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:罗湖一站式普惠托育集市
+LOCATION:翠湖文体公园拾光草坪 |
+DESCRIPTION:描述
+
+备案托育机构现场驻点、儿童保健义诊、童话游园（九宫格扔沙包、套大鹅、跳房子、投壶）、舞台汇演。适合0-3岁宝宝家庭。\n地点: 翠湖文体公园拾光草坪 |\n时间: 2026-07-11 至 2026-07-11\n详情: http://m.toutiao.com/group/7660412037217993243/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b880b4342a5543e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:国风儿童剧《少年诗词游之李白》
+LOCATION:茅洲河体育艺术中心剧场 |
+DESCRIPTION:描述
+
+诗词大会式的国风儿童剧，带孩子走进诗仙李白的世界，寓教于乐。\n地点: 茅洲河体育艺术中心剧场 |\n时间: 2026-07-12 至 2026-07-12\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:1710e8d88b4ad19c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年龙岗区文化馆“艺术微展厅”巡展——坂田街道分馆杨美社区服务点7月“童心奇境”儿童绘画作品展
+LOCATION:坂田街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-07-13 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=462aa0f810274e90836eeaa564dacad0
+END:VEVENT
+BEGIN:VEVENT
+UID:5797084bf2f596d9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年7月南湾街道分馆“微展厅”巡展--南新社区服务点“黑白方寸，静物生韵”青少年素描作品展
+LOCATION:南湾街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在南湾街道文化站举办\n地点: 南湾街道文化站\n时间: 2026-07-13 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=47396b5926b140cfb25a6cdb689d0c9b
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7c8bc938f34a4a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260720
+SUMMARY:炫彩青春——优秀青年京剧演员展演
+LOCATION:深圳戏院 |
+DESCRIPTION:描述
+
+中国京剧艺术基金会与深圳京剧院联合主办，剧目包括《满江红》《寻觅清照》《杨门女将》，张建国等名家领衔。\n地点: 深圳戏院 |\n时间: 2026-07-14 至 2026-07-19\n详情: https://m.sohu.com/a/1047290911_122091088/
+END:VEVENT
+BEGIN:VEVENT
+UID:2df5c8483c06d8c1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年龙岗区文化馆“艺术微展厅”巡展——横岗街道分馆华侨新村社区服务点色彩街景水粉画作品展
+LOCATION:横岗街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在横岗街道文化站举办\n地点: 横岗街道文化站\n时间: 2026-07-15 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=53b362b5627c40b6b21e1c60cc634a51
+END:VEVENT
+BEGIN:VEVENT
+UID:3189a267e6361aec@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260801
+SUMMARY:【龙城街道分馆】愉园社区服务点“艺术微展厅”——“四季与你·共赏龙城”四季画展
+LOCATION:龙城街道文化站
+DESCRIPTION:展览，龙岗区文化馆，在龙城街道文化站举办\n地点: 龙城街道文化站\n时间: 2026-07-16 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2dd7cd1751df4e3992886c2fed39764a
+END:VEVENT
+BEGIN:VEVENT
+UID:393b26c4ebbf2e41@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026年茶人之家亲子公益培训（二期）
+LOCATION:中国茶叶博物馆
+DESCRIPTION:四天17节亲子课程，涵盖茶文化、茶叶冲泡、茶礼仪等，面向亲子家庭。\n地点: 中国茶叶博物馆\n时间: 2026-07-16 至 2026-07-19\n详情: https://m.sohu.com/a/1038933302_121107011/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f44d4c35ba62360@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260719
+SUMMARY:第二十七届深圳国际医疗旅游展览会
+LOCATION:深圳会展中心
+DESCRIPTION:第二十七届深圳国际医疗旅游展览会，2026-07-16至2026-07-18，深圳会展中心。深圳正和会展服务有限公司 020-84138131/15820700062\n地点: 深圳会展中心\n时间: 2026-07-16 至 2026-07-18\n详情: https://www.szcec.com\n联系: 深圳正和会展服务有限公司 020-84138131/15820700062
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6a1d6837236d7c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:欢迎来到恐龙时代——知识视界科普讲座
+LOCATION:杭州图书馆少儿分馆
+DESCRIPTION:杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。\n地点: 杭州图书馆少儿分馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://www.zjhzlib.cn/hdyghz/8010.htm\n联系: 86535086
+END:VEVENT
+BEGIN:VEVENT
+UID:d97f37abd2f9cbd6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:馆员故事会《小壁虎借尾巴》
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。馆员故事会《小壁虎借尾巴》\n地点: 南山图书馆\n时间: 2026-07-16 至 2026-07-16\n详情: https://activity.nslib.cn/activity/info/11626\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:127bcf45bc7185c2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班活动，培训。免费参与。详情请咨询场馆。\n地点: 石岩文化艺术中心\n时间: 2026-07-16 至 2026-07-16\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f990f072a7c4b2ebe755b7263791067\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:26245b22850bac3e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动活动，培训。免费参与。详情请咨询场馆。\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-16 至 2026-07-16\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=848e8a43b50748a992b2159f8f4f1949\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:ece6e3e38189ea09@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+SUMMARY:国家大剧院原创喜歌剧《三打白骨精》
+LOCATION:国家大剧院
+DESCRIPTION:国家大剧院原创喜歌剧《三打白骨精》，取材西游记经典故事。戏剧场，票价100-500元。地铁1号线天安门西站。\n地点: 国家大剧院\n时间: 2026-07-17 至 2026-07-20\n详情: https://ticket.chncpa.org
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd2755650ea4b50@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+SUMMARY:北京开瓶·独立酿造节
+LOCATION:西店记忆FunsTown
+DESCRIPTION:50+国内外酒水商家、400+款酒、30+网红美食，暑期周末微醺市集。\n地点: 西店记忆FunsTown\n时间: 2026-07-17 至 2026-07-19\n详情: https://bj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:8c0995492ae1daa0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+SUMMARY:徐良"时间折叠"巡回演唱会-南京站
+LOCATION:梦之蓝青奥体育公园体育馆
+DESCRIPTION:徐良"时间折叠"巡演南京站，暑期青奥体育馆开唱。\n地点: 梦之蓝青奥体育公园体育馆\n时间: 2026-07-17 至 2026-07-19\n详情: https://nj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:fb6d8251bfb13f9f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+SUMMARY:第九届紫亚兰国际抗衰老医美大会
+LOCATION:深圳会展中心
+DESCRIPTION:第九届紫亚兰国际抗衰老医美大会，2026-07-17至2026-07-19，深圳会展中心。紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908\n地点: 深圳会展中心\n时间: 2026-07-17 至 2026-07-19\n详情: https://www.szcec.com\n联系: 紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c080a49f637916@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026广州艺术季 华人之光·芭蕾明星GALA
+LOCATION:广州大剧院
+DESCRIPTION:敖定雯担任制作人，汇聚多位世界知名舞团华人舞者。十余部古典与现代芭蕾精选舞段。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://www.gzdjy.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc6e7d573d110c5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:《陈镇威与朋友们——纽约明星芭蕾之夜》
+LOCATION:上海大剧院
+DESCRIPTION:纽约城市芭蕾舞团首位华人首席陈镇威携多位国际首席舞者登台。地铁1号线/2号线/8号线人民广场站。\n地点: 上海大剧院\n时间: 2026-07-17 至 2026-07-18\n详情: http://m.toutiao.com/group/7660419048286487086/
+END:VEVENT
+BEGIN:VEVENT
+UID:51c8c0819ff90ec0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:湖北省科学技术馆机器人竞技赛
+LOCATION:湖北省科学技术馆
+DESCRIPTION:组队参与机器人竞技挑战，比拼编程与操控能力。\n地点: 湖北省科学技术馆\n时间: 2026-07-17 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:47a2f41f458a1b9b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:文津阅新2026年第四期：《中国兵学二十讲》新书分享会
+LOCATION:国家图书馆
+DESCRIPTION:总馆北区一层学津堂举办兵法主题新书分享，适合青少年与历史爱好者，免费参加。\n地点: 国家图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.nlc.cn/web/shouye/zuixinhuodong/20260624_2653491.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:90edb4a17362ddfb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:中国典籍与文化系列讲座：丝绸之路上的“口袋书”
+LOCATION:国家图书馆
+DESCRIPTION:典籍博物馆启德厅解读敦煌吐鲁番古代书籍，适合亲子与丝路文化爱好者，免费参与。\n地点: 国家图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.nlc.cn/web/shouye/zuixinhuodong/zlyg/index.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:a575fd1bae6cd728@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会
+LOCATION:深圳音乐厅 |
+DESCRIPTION:描述
+
+深圳交响乐团2025-2026音乐季闭幕音乐会，两大经典歌剧同台。\n地点: 深圳音乐厅 |\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szyyt.com/performance/show_100000937342526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:523887c357683694@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:心理咨询
+LOCATION:南山图书馆
+DESCRIPTION:心理咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-17 至 2026-07-17\n详情: https://activity.nslib.cn/activity/info/11635\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6c6a984e577712@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动活动，培训。免费参与。详情请咨询场馆。\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-17 至 2026-07-17\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8052d7b94c9b41e39b09d133a748cdd4\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:f6dde656d1a31f50@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:罗湖区文化馆总分馆系列活动——桂园街道分馆快乐拍手舞活动
+LOCATION:桂园街道综合文体中心(桂园街道分馆）
+DESCRIPTION:罗湖区文化馆总分馆系列活动——桂园街道分馆快乐拍手舞活动活动，综合。免费参与。详情请咨询场馆。\n地点: 桂园街道综合文体中心(桂园街道分馆）\n时间: 2026-07-17 至 2026-07-17\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d7dbfea6253b45a5a01d694d99380003\n联系: 0755-86051111
+END:VEVENT
+BEGIN:VEVENT
+UID:67e60401cc9539fc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳交响乐团2025-2026音乐季闭幕音乐会，两大经典歌剧同台演绎。\n地点: 深圳音乐厅\n时间: 2026-07-17 至 2026-07-17\n详情: https://www.szyyt.com/performance/show_100000937342526.html
+END:VEVENT
+BEGIN:VEVENT
+UID:30834808d12be62a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260723
+SUMMARY:武汉科技馆机器人体验夏令营
+LOCATION:武汉科技馆
+DESCRIPTION:学习机器人组装与编程，让孩子与机器人对话互动。\n地点: 武汉科技馆\n时间: 2026-07-18 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:c6743fe20d8d89dc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:国风亲子音乐会（二沙岛音乐夏日）
+LOCATION:星海音乐厅
+DESCRIPTION:星海音乐厅“音乐夏日”周末专场之一，以国风为主题打造亲子音乐会，寓教于乐带孩子在旋律中感受传统音乐之美，需购票。\n地点: 星海音乐厅\n时间: 2026-07-18 至 2026-07-19\n详情: https://news.qq.com/rain/a/20260713A0AT2Q00
+END:VEVENT
+BEGIN:VEVENT
+UID:6ffc4289bb6c53c3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:领展中心城暑期趣味赛事｜随地大小赛欢乐开启！夏日解压玩法全解锁
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-07-18 至 2026-07-19\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ece9323c7ff3485f8490fa0f20e0b741
+END:VEVENT
+BEGIN:VEVENT
+UID:a48eb24af4f8260a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:北京舞蹈学院原创舞剧《灼灼韶华》
+LOCATION:光明文化艺术中心·演艺中心·大剧院
+DESCRIPTION:阿里云主题曲《守望》，马薇龙、孙科等实力舞者加盟。以韶华门下一家五代人命运流转，铺展中国近现代史长卷。\n地点: 光明文化艺术中心·演艺中心·大剧院\n时间: 2026-07-18 至 2026-07-19\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:2021f1af4abef555@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:北京舞蹈学院舞剧《巍巍正阳》
+LOCATION:光明文化艺术中心·演艺中心·大剧场
+DESCRIPTION:北京舞蹈学院原创舞剧，以正阳门下一家五代人的命运流转，铺展出一幅微缩的中国近现代史长卷。\n地点: 光明文化艺术中心·演艺中心·大剧场\n时间: 2026-07-18 至 2026-07-19\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:06c709e678656bce@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:武汉海昌极地海洋公园极地探险营
+LOCATION:武汉海昌极地海洋公园
+DESCRIPTION:两天一夜极地探险营，深度体验海洋馆幕后。\n地点: 武汉海昌极地海洋公园\n时间: 2026-07-18 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:c35167d2c16940dc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:伍佰&China Blue ROCK STAR 2 巡回演唱会-西安站
+LOCATION:西安奥体中心体育馆
+DESCRIPTION:伍佰与乐迷长达三十余年默契的终极告白，Rock Star 2世界巡回西安站。\n地点: 西安奥体中心体育馆\n时间: 2026-07-18 至 2026-07-19\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:cf1d4e7d4f790456@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:三峡民俗文化亲子课堂
+LOCATION:重庆中国三峡博物馆
+DESCRIPTION:通过手工制作与互动游戏，让亲子家庭了解三峡地区传统民俗与节庆文化。\n地点: 重庆中国三峡博物馆\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba223797ec609c1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:重庆园博园园林文化研学
+LOCATION:重庆园博园
+DESCRIPTION:研学导师带领解读各展园造园手法，学习中国古典园林艺术精髓。\n地点: 重庆园博园\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:755e3d08eb5c65c9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学
+LOCATION:中轴云廊·顶上空间
+DESCRIPTION:讲座，福田区公共文化体育发展中心、公园之友，在中轴云廊·顶上空间举办\n地点: 中轴云廊·顶上空间\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4
+END:VEVENT
+BEGIN:VEVENT
+UID:7298cf530348773c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会
+LOCATION:坂田街道文化站
+DESCRIPTION:综合，龙岗区坂田街道马安堂社区党群服务中心，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393
+END:VEVENT
+BEGIN:VEVENT
+UID:4d3abc4cda10189c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026年光明街道亲子美术公益课堂
+LOCATION:光明区光明街道综合性文化服务中心
+DESCRIPTION:培训，光明区光明街道办事处，在光明区光明街道综合性文化服务中心举办\n地点: 光明区光明街道综合性文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b78a5acd67d4c2cbc6ae12a17bf41f8
+END:VEVENT
+BEGIN:VEVENT
+UID:49ff90087e3370e6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:园岭街道全民阅动系列活动——双语绘本《Say Cheese》
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:阅读推广活动，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4e3417dd4ea24e88888e8393c4422ee0
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6511451002ecc3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——潮彩拾光・匠造美好
+LOCATION:龙岗街道文化站
+DESCRIPTION:非遗课堂，深圳市龙岗区文化广电旅游体育局，在龙岗街道文化站举办\n地点: 龙岗街道文化站\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=524765905216464b9092227472259539
+END:VEVENT
+BEGIN:VEVENT
+UID:6e34ce1ef5303522@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“无米也有粿，巧手暖心房”--江岭社区慢飞工作室潮汕美食制作工作坊
+LOCATION:江岭社区公共文化服务中心
+DESCRIPTION:综合，坪山区文化馆、马峦街道公共文化服务中心，在江岭社区公共文化服务中心举办\n地点: 江岭社区公共文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=746beeaf7b21439f8cfa83191f8ace90
+END:VEVENT
+BEGIN:VEVENT
+UID:89e0272b91b14d78@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:合家欢剧场第十期《熊猫计划之部落奇遇记》
+LOCATION:深圳市坪山区石井街道公共文化服务中心
+DESCRIPTION:公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办\n地点: 深圳市坪山区石井街道公共文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7d548284dc4b4737bc8fc8fe46f56043
+END:VEVENT
+BEGIN:VEVENT
+UID:924f6a7aab305a78@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026凤凰街道文化惠民工程系列之“舞韵芳华，童绽国风”舞蹈美育活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8329120f9c654daa936f6e71ece1f741
+END:VEVENT
+BEGIN:VEVENT
+UID:a385d9faf4154920@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:抢票 | 声声载初心，礼赞新征程，2026“爱的有声礼”公益朗诵会启幕
+LOCATION:盐田区文化馆
+DESCRIPTION:演出，深圳市盐田区文化馆、深圳市作家协会、深圳市福田区朗诵艺术家协会，在盐田区文化馆举办\n地点: 盐田区文化馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c21c983cbc2b4eca96add85ae36c6c26
+END:VEVENT
+BEGIN:VEVENT
+UID:86c965656ba25ed7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动
+LOCATION:江岭社区公共文化服务中心
+DESCRIPTION:“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动活动，综合。免费参与。详情请咨询场馆。\n地点: 江岭社区公共文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5\n联系: 0755-26661612
+END:VEVENT
+BEGIN:VEVENT
+UID:478e5e24f3d0da15@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:2026“星光大浪”青年歌手大赛--周赛
+LOCATION:大浪街道综合文化服务中心
+DESCRIPTION:演出，深圳市龙华区文化广电旅游体育局、深圳市龙华区群团工作部、深圳市龙华区大浪街道党工委、办事处，在大浪街道综合文化服务中心举办\n地点: 大浪街道综合文化服务中心\n时间: 2026-07-18 至 2026-07-18\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef8609a1a2ba43febb8f5ddff83ad5bc
+END:VEVENT
+BEGIN:VEVENT
+UID:32cc25058fbaa517@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:百姓健康讲堂|​八段锦养身，中医护安康
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。百姓健康讲堂|​八段锦养身，中医护安康\n地点: 南山图书馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://activity.nslib.cn/activity/info/11666\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:3701d365742ae8dd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:南图沙龙·摄视觉 | 培养你的摄影眼
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。南图沙龙·摄视觉 | 培养你的摄影眼\n地点: 南山图书馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://activity.nslib.cn/activity/info/11663\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:c407a921067ea15e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:跟名师读名著系列丨《古灵精怪动物园》
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。跟名师读名著系列丨《古灵精怪动物园》\n地点: 南山图书馆\n时间: 2026-07-18 至 2026-07-18\n详情: https://activity.nslib.cn/activity/info/11621\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:99d02ec3f2ea6a0b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:南山区自然艺术季·大师讲堂（南兆旭《深圳自然手记》）
+LOCATION:华侨城湿地
+DESCRIPTION:7月18日14:30华侨城湿地，深圳本土自然观察专家南兆旭主讲《深圳自然手记》，以'在地'视角分享深圳山海自然之美。\n地点: 华侨城湿地\n时间: 2026-07-18 至 2026-07-18\n详情: https://sz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:34a78c45c090d780@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:科普绘本剧《肚子里的火车站》
+LOCATION:茅洲河体育艺术中心剧场 |
+DESCRIPTION:描述
+
+根据德国经典科普绘本改编，让孩子了解消化系统的奥秘，趣味科普舞台剧。\n地点: 茅洲河体育艺术中心剧场 |\n时间: 2026-07-18 至 2026-07-18\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:3507f18fe5897c02@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:北京舞蹈学院原创舞剧《巍巍正阳》
+LOCATION:光明文化艺术中心·演艺中心·大剧场 |
+DESCRIPTION:描述
+
+阿云嘎献唱主题曲《守望》，马蛟龙、孙科等实力舞者加盟。以正阳门下一家五代人命运流转，铺展中国近现代史长卷。\n地点: 光明文化艺术中心·演艺中心·大剧场 |\n时间: 2026-07-18 至 2026-07-18\n详情: http://m.toutiao.com/group/7659324778305684020/
+END:VEVENT
+BEGIN:VEVENT
+UID:6fa6430c18dff5bd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会
+LOCATION:深圳音乐厅 |
+DESCRIPTION:描述
+
+漫步古典夜系列，长笛与吉他二重奏，演绎时光的折痕。\n地点: 深圳音乐厅 |\n时间: 2026-07-18 至 2026-07-18\n详情: https://www.szyyt.com/performance/show_100000954193225.html
+END:VEVENT
+BEGIN:VEVENT
+UID:01613d3408341163@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:盘龙城遗址博物院青铜冶炼体验
+LOCATION:盘龙城遗址博物院
+DESCRIPTION:模拟青铜冶炼与铸造过程，了解商代青铜工艺。\n地点: 盘龙城遗址博物院\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:6c92b84b2101957e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:后官湖湿地公园观鸟营
+LOCATION:后官湖湿地公园
+DESCRIPTION:在后官湖湿地观察候鸟，学习湿地生态保护。\n地点: 后官湖湿地公园\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:45a106225d9c6a03@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:汉秀剧场亲子专场
+LOCATION:汉秀剧场
+DESCRIPTION:汉秀亲子专场演出，适合全家共同观赏的视听盛宴。\n地点: 汉秀剧场\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:49920e5344cb642d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:武汉市少年儿童图书馆亲子阅读营
+LOCATION:武汉市少年儿童图书馆
+DESCRIPTION:亲子阅读营指导家长选书与共读方法。\n地点: 武汉市少年儿童图书馆\n时间: 2026-07-18 至 2026-07-18
+END:VEVENT
+BEGIN:VEVENT
+UID:537d974f22925884@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260727
+SUMMARY:西湖非遗体验周
+LOCATION:西湖区文化馆
+DESCRIPTION:龙井茶艺/丝绸刺绣，需提前预约。\n地点: 西湖区文化馆\n时间: 2026-07-19 至 2026-07-26\n详情: https://www.xhwhg.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c46f60d371fecc2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:机器人编程体验工作坊
+LOCATION:重庆科技馆
+DESCRIPTION:学习基础图形化编程，操控机器人完成指定任务，启蒙计算思维能力。\n地点: 重庆科技馆\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:32ec4a55e3fe7ef8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:重庆动物园猛兽区导览
+LOCATION:重庆动物园
+DESCRIPTION:走进虎、狮、豹等猛兽展区，由饲养员讲解猛兽保护与繁育故事。\n地点: 重庆动物园\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:af4e5fe33a41ab4d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:川剧变脸体验工作坊
+LOCATION:洪崖洞
+DESCRIPTION:川剧演员现场演示变脸绝技，讲解脸谱色彩寓意，指导绘制脸谱。\n地点: 洪崖洞\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:d04a679c7e235a52@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:际华园攀岩挑战赛
+LOCATION:重庆际华园
+DESCRIPTION:室内攀岩挑战赛设不同难度赛道，按完成时间排名颁发奖品。\n地点: 重庆际华园\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e47961956bd87c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026夏日美乐——维也纳圆舞曲交响音乐会
+LOCATION:星海音乐厅
+DESCRIPTION:7月19日20:00于交响乐演奏大厅上演，广州交响乐团新生代指挥崔琳涵执棒，演绎维也纳圆舞曲，家庭夏日音乐消暑之选。\n地点: 星海音乐厅\n时间: 2026-07-19 至 2026-07-19\n详情: https://ysln.ycwb.com/content/2026-07/14/content_54227914.html
+END:VEVENT
+BEGIN:VEVENT
+UID:77fa94ecee54a2fd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:玄武湖环湖亲子跑
+LOCATION:玄武湖公园
+DESCRIPTION:玄武湖环湖亲子欢乐跑设3公里与5公里两个组别，完赛家庭可获纪念奖牌，倡导健康生活方式。\n地点: 玄武湖公园\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5ed46d79418080@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:2026凤凰街道文化惠民工程系列之“以舞润心，传承经典”舞蹈美育活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-19 至 2026-07-19\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=88478fb76629484c82f3a535ba54aee9
+END:VEVENT
+BEGIN:VEVENT
+UID:640501eb3edb48a2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:“夏日如歌”音乐会—— 万物自有节奏
+LOCATION:福田音乐馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-07-19 至 2026-07-19\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e511dc460d124acbb2b9c5d0791fcdd2
+END:VEVENT
+BEGIN:VEVENT
+UID:5b95eec8701c7d79@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:法律咨询
+LOCATION:南山图书馆
+DESCRIPTION:法律咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-19 至 2026-07-19\n详情: https://activity.nslib.cn/activity/info/11640\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:05c90be31f5b6bb7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:践书+|《认知驱动》
+LOCATION:南山图书馆
+DESCRIPTION:践书+|《认知驱动》。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-19 至 2026-07-19\n详情: https://activity.nslib.cn/activity/info/11662\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:0385faaf6065b530@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:科普小讲堂丨高楼不倒的秘密
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。科普小讲堂丨高楼不倒的秘密\n地点: 南山图书馆\n时间: 2026-07-19 至 2026-07-19\n详情: https://activity.nslib.cn/activity/info/11665\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:9889801c5e5475d1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:百老汇儿童剧《原始人大冒险》
+LOCATION:玉塘文体中心 |
+DESCRIPTION:描述
+
+百老汇风格儿童剧，带领小朋友穿越原始时代展开冒险。\n地点: 玉塘文体中心 |\n时间: 2026-07-19 至 2026-07-19\n详情: https://m.sohu.com/a/1037850628_122892870/
+END:VEVENT
+BEGIN:VEVENT
+UID:c28b9503e63da0dc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:武汉博物馆江汉揽胜展厅课堂
+LOCATION:武汉博物馆
+DESCRIPTION:以江汉揽胜图为线索，解读明清时期武汉三镇繁华景象。\n地点: 武汉博物馆\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:31e626b85391bbd8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:武汉科技馆物理实验秀
+LOCATION:武汉科技馆
+DESCRIPTION:声光电力磁趣味物理实验秀，让物理变得好玩。\n地点: 武汉科技馆\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:31bdabed1b3ae843@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:中山公园亲子定向越野
+LOCATION:中山公园
+DESCRIPTION:在中山公园内开展亲子定向越野，趣味闯关。\n地点: 中山公园\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:b8d6b5a28375f43f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:湖北美术馆亲子导览
+LOCATION:湖北美术馆
+DESCRIPTION:专为亲子家庭设计的导览路线，轻松看懂艺术展。\n地点: 湖北美术馆\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:36cb6e58c3ee6e3f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:湖北省图书馆亲子共读营
+LOCATION:湖北省图书馆
+DESCRIPTION:亲子共读营指导家长高效陪伴孩子阅读。\n地点: 湖北省图书馆\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a8b45af48a6c20@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:武汉体育中心田径体验
+LOCATION:武汉体育中心
+DESCRIPTION:田径体验日，专业跑道感受速度与跳跃。\n地点: 武汉体育中心\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:33255af3f8f2ab20@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:武汉全民健身中心亲子瑜伽
+LOCATION:武汉全民健身中心
+DESCRIPTION:亲子瑜伽课，亲子互动中放松身心。\n地点: 武汉全民健身中心\n时间: 2026-07-19 至 2026-07-19
+END:VEVENT
+BEGIN:VEVENT
+UID:eecd5270aa601b1c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260801
+SUMMARY:奥体中心足球夏令营
+LOCATION:南京奥林匹克体育中心
+DESCRIPTION:足球夏令营系统训练传接球、射门与比赛战术，培养孩子运动兴趣与团队协作能力。\n地点: 南京奥林匹克体育中心\n时间: 2026-07-20 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:4508d72ed43975e2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026年7月南湾街道分馆“微展厅”巡展--沙湾社区服务点“人间百态，笔底留痕”水彩速写作品展
+LOCATION:南湾街道文化站
+DESCRIPTION:展览，龙岗区文化馆总馆，在南湾街道文化站举办\n地点: 南湾街道文化站\n时间: 2026-07-20 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2bec5b37aa3a464e952a6be9f9321c99
+END:VEVENT
+BEGIN:VEVENT
+UID:82d15f3833e6fd59@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260727
+SUMMARY:六朝博物馆小小讲解员
+LOCATION:六朝博物馆
+DESCRIPTION:六朝博物馆面向9-12岁学生招募小小讲解员，培训六朝历史知识与讲解礼仪，结业后可周末上岗。\n地点: 六朝博物馆\n时间: 2026-07-20 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:f1403ccd7c97b7aa@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260727
+SUMMARY:梅园新村小小讲解员
+LOCATION:梅园新村纪念馆
+DESCRIPTION:梅园新村小小讲解员培训班面向9-13岁学生，培训国共谈判史与讲解技能，结业后周末上岗。\n地点: 梅园新村纪念馆\n时间: 2026-07-20 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:c632d0e7c915c386@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260727
+SUMMARY:汉阳陵博物院考古夏令营
+LOCATION:汉阳陵博物院
+DESCRIPTION:为期一周的考古夏令营，涵盖发掘、绘图、修复、展示全流程，结业颁发证书。\n地点: 汉阳陵博物院\n时间: 2026-07-20 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:f497d43bf1a8d2d1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:仙女山森林探险营
+LOCATION:仙女山国家森林公园
+DESCRIPTION:五日森林探险营，含丛林穿越、溯溪与野外生存技能学习。\n地点: 仙女山国家森林公园\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:9d893b5140c10494@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:南京科技馆航天主题研学
+LOCATION:南京科技馆
+DESCRIPTION:围绕中国航天事业开展研学，了解长征火箭、神舟飞船、空间站，并动手制作水火箭发射比赛。\n地点: 南京科技馆\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c5eadbd8bbb1d5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:银杏湖乐园主题夏令营
+LOCATION:银杏湖乐园
+DESCRIPTION:银杏湖主题夏令营结合游乐与自然探索，白天玩项目，夜晚观星露营，丰富孩子暑期生活。\n地点: 银杏湖乐园\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:bab51b2b692ea268@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:雨花台红色夏令营
+LOCATION:雨花台烈士陵园
+DESCRIPTION:五日红色夏令营结合雨花英烈学习与军事训练，培养孩子坚强意志与家国情怀，全程免费。\n地点: 雨花台烈士陵园\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:a17fb0ca756e9973@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:大金山国防园军事夏令营
+LOCATION:大金山国防园
+DESCRIPTION:大金山军事夏令营五日营含军事训练、野外生存与CS对抗，让孩子在军事化生活中磨炼意志。\n地点: 大金山国防园\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:ad6882b419d6c91b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:湖北省博物馆考古小达人体验
+LOCATION:湖北省博物馆
+DESCRIPTION:通过模拟探方发掘与文物拼对，让孩子化身考古小达人。\n地点: 湖北省博物馆\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb1a10908de1a12@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:武汉美术馆暑期艺术夏令营
+LOCATION:武汉美术馆
+DESCRIPTION:五日艺术夏令营，绘画雕塑综合体验。\n地点: 武汉美术馆\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:171c5387847b70f0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+SUMMARY:木兰草原夏令营
+LOCATION:木兰草原
+DESCRIPTION:五天草原夏令营，户外生存与自然探索。\n地点: 木兰草原\n时间: 2026-07-20 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:187e5f9ea06002bf@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:南沙天后宫妈祖文化节
+LOCATION:南沙天后宫
+DESCRIPTION:南沙天后宫妈祖文化节，含祭祀典礼、民俗表演与文化展览，免费开放。\n地点: 南沙天后宫\n时间: 2026-07-20 至 2026-07-22\n详情: https://www.ns-thp.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0d00567048010c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈B班（第三天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-20 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=68b5f08230874b469831b1b6507bf964
+END:VEVENT
+BEGIN:VEVENT
+UID:b16ae52ad16bcf36@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈（第三天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-20 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7a970b5d519a44e2a68f04a7ac2a1b4f
+END:VEVENT
+BEGIN:VEVENT
+UID:e6157f2ecb964fcb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈B班（第一天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-20 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e5c5f91b231b471ca13c006ddb4e68ae
+END:VEVENT
+BEGIN:VEVENT
+UID:96e2a41c3e769578@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈（第二天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-20 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ee8e5d48668947cebec5fe6098d02818
+END:VEVENT
+BEGIN:VEVENT
+UID:e155106b89bf5be3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈（第一天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-20 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=aace44e891004bcc834f45c483f83844
+END:VEVENT
+BEGIN:VEVENT
+UID:5022a31aaa00eae7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:工业博物馆机械探秘研学
+LOCATION:重庆工业博物馆
+DESCRIPTION:走进老重钢厂房，了解重庆工业发展史，体验机械原理互动展项。\n地点: 重庆工业博物馆\n时间: 2026-07-20 至 2026-07-20
+END:VEVENT
+BEGIN:VEVENT
+UID:b88c74d0715d687e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:彩云湖湿地公园观鸟活动
+LOCATION:彩云湖湿地公园
+DESCRIPTION:携带望远镜观察湿地候鸟与留鸟，学习鸟类辨识技巧与湿地生态知识。\n地点: 彩云湖湿地公园\n时间: 2026-07-20 至 2026-07-20
+END:VEVENT
+BEGIN:VEVENT
+UID:83bdf0a7f9099a59@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:抢票 | 大湾鸡驾到，“鸡” 不可失！《萌动奇迹》门票开抢，手慢无～
+LOCATION:盐田区文化馆
+DESCRIPTION:演出，深圳市盐田区文化广电旅游体育局，在盐田区文化馆举办\n地点: 盐田区文化馆\n时间: 2026-07-20 至 2026-07-20\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf613b0fc58247329302063a6d6c4b6b
+END:VEVENT
+BEGIN:VEVENT
+UID:33e6d20b3f714ec4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:2026年光明街道白花社区杨梅荔枝汤水手工绘画活动
+LOCATION:白花社区综合性文化服务中心
+DESCRIPTION:公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办\n地点: 白花社区综合性文化服务中心\n时间: 2026-07-20 至 2026-07-20\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c9759ffc0adc4d6bb9b2bbbeaf43b93f
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae2fab6c8a0fddc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动
+LOCATION:白花社区综合性文化服务中心
+DESCRIPTION:公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办\n地点: 白花社区综合性文化服务中心\n时间: 2026-07-20 至 2026-07-20\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc8c1fb6e07640459453fbcac742287d
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dc7647b0ef9ac4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:美丽星期天——室内乐之夜
+LOCATION:深圳音乐厅
+DESCRIPTION:弦乐四重奏室内乐公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-20 至 2026-07-20\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f604cedae846a6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:东湖落雁景区观鸟
+LOCATION:东湖风景区
+DESCRIPTION:在落雁景区湿地观察鹭鸟与水禽，学习鸟类识别。\n地点: 东湖风景区\n时间: 2026-07-20 至 2026-07-20
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2d9ffbd57c72e4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:武汉欢乐谷儿童剧专场
+LOCATION:武汉欢乐谷
+DESCRIPTION:欢乐谷剧场儿童剧专场，互动童话剧欢乐上演。\n地点: 武汉欢乐谷\n时间: 2026-07-20 至 2026-07-20
+END:VEVENT
+BEGIN:VEVENT
+UID:1cbd8207c5f6d8fc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:黄鹤楼公园登楼揽胜课堂
+LOCATION:黄鹤楼公园
+DESCRIPTION:登楼揽尽武汉三镇风光，结合地理开展课堂。\n地点: 黄鹤楼公园\n时间: 2026-07-20 至 2026-07-20
+END:VEVENT
+BEGIN:VEVENT
+UID:b643287e0244bffb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:珠海市文化馆非遗展示活动
+LOCATION:珠海市文化馆
+DESCRIPTION:珠海非物质文化遗产展示活动，含粤剧、醒狮、茶果制作等非遗项目体验。\n地点: 珠海市文化馆\n时间: 2026-07-20 至 2026-07-20\n详情: https://www.zhwhg.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62b6df84fec6cbbe@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260728
+SUMMARY:武汉体育馆篮球训练营
+LOCATION:武汉体育馆
+DESCRIPTION:篮球训练营，运球投篮与团队战术教学。\n地点: 武汉体育馆\n时间: 2026-07-21 至 2026-07-27
+END:VEVENT
+BEGIN:VEVENT
+UID:e868d666a57e3019@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260726
+SUMMARY:缙云山森林课堂夏令营
+LOCATION:缙云山自然保护区
+DESCRIPTION:五日森林夏令营，在缙云山开展自然观察、溯溪探险与生态保护实践。\n地点: 缙云山自然保护区\n时间: 2026-07-21 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2a8ce77106536e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260726
+SUMMARY:湖北省科学技术馆暑期科学营
+LOCATION:湖北省科学技术馆
+DESCRIPTION:五天四夜科学营，沉浸式体验科学家工作日常。\n地点: 湖北省科学技术馆\n时间: 2026-07-21 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:282d86f8bdd2fa86@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:白公馆历史研学活动
+LOCATION:白公馆
+DESCRIPTION:走进白公馆旧址，聆听革命烈士事迹，开展爱国主义教育研学。\n地点: 白公馆\n时间: 2026-07-21 至 2026-07-21
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c6588139f49194@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:2026凤凰街道文化惠民工程系列之“墨韵书香.墨写人生”书法讲座活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:讲座，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-21 至 2026-07-21\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5fab9ceed100413a9c19c0bd22290e97
+END:VEVENT
+BEGIN:VEVENT
+UID:e957fdca687600fa@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:《自媒体时代，如何打造爆款、打通内容营销》
+LOCATION:深圳市文化馆
+DESCRIPTION:综合，深圳市文化馆，在深圳市文化馆举办\n地点: 深圳市文化馆\n时间: 2026-07-21 至 2026-07-21\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bed7ca0ba2b7481fa986596fc4ae14fb
+END:VEVENT
+BEGIN:VEVENT
+UID:e71d60063397c9ea@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:中山舰博物馆舰艇模型制作
+LOCATION:中山舰博物馆
+DESCRIPTION:动手拼装中山舰模型，了解舰船结构与历史。\n地点: 中山舰博物馆\n时间: 2026-07-21 至 2026-07-21
+END:VEVENT
+BEGIN:VEVENT
+UID:d21ab253bc094315@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:辛亥革命武昌起义纪念馆历史课堂
+LOCATION:辛亥革命武昌起义纪念馆
+DESCRIPTION:专题历史课堂，讲述武昌起义经过与影响。\n地点: 辛亥革命武昌起义纪念馆\n时间: 2026-07-21 至 2026-07-21
+END:VEVENT
+BEGIN:VEVENT
+UID:f959dd4b0ed42b73@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260801
+SUMMARY:中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。中华诗词库·“夏日诗趣·暑期诗词闯关营”答题活动\n地点: 南山图书馆\n时间: 2026-07-22 至 2026-07-31\n详情: https://activity.nslib.cn/activity/info/11752\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd79a95cdb47619@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260727
+SUMMARY:木兰天池森林夏令营
+LOCATION:木兰天池
+DESCRIPTION:森林夏令营，自然教育与户外技能结合。\n地点: 木兰天池\n时间: 2026-07-22 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbb02cea5e5c219@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:三峡博物馆书画鉴赏讲座
+LOCATION:重庆中国三峡博物馆
+DESCRIPTION:邀请书画研究专家解读馆藏明清书画精品，普及中国传统书画鉴赏知识。\n地点: 重庆中国三峡博物馆\n时间: 2026-07-22 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:441409d4499246e8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:蜀绣手作工坊
+LOCATION:湖广会馆
+DESCRIPTION:蜀绣传承人指导基本针法，参与者完成一幅蜀绣小作品带回家。\n地点: 湖广会馆\n时间: 2026-07-22 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:0c815b48fad06dbc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:舞剧《醒·狮》海外巡演版
+LOCATION:广东艺术剧院
+DESCRIPTION:以三元里抗英为背景融合醒狮民俗，讲述家国抗争与民族大义，7月22日广东艺术剧院上演。\n地点: 广东艺术剧院\n时间: 2026-07-22 至 2026-07-22\n详情: https://gz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:a54cf3b04a48a70b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:YUE航城暑期公益艺术培训——爵士舞蹈B班（第二天）
+LOCATION:宝安区文化馆航城街道分馆
+DESCRIPTION:培训，航城街道党群服务中心，在宝安区文化馆航城街道分馆举办\n地点: 宝安区文化馆航城街道分馆\n时间: 2026-07-22 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8ec42eb5139544e080241d4eea086579
+END:VEVENT
+BEGIN:VEVENT
+UID:e41bcc4f5b66b0da@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:2026年龙岗区文化馆总分馆联动文艺演出——吉华街道专场
+LOCATION:吉华街道文化站
+DESCRIPTION:演出，深圳市龙岗区文化广电旅游体育局，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-22 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=23e4ec4f98b14e3c96b35cc8f7f8c5e2
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7f29de1d5c52d9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-22 至 2026-07-22\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ebac5f38cc284a279f74e41d01d2eef8
+END:VEVENT
+BEGIN:VEVENT
+UID:0550a1a799ca54d1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:湖北省博物馆元青花四爱图梅瓶鉴赏
+LOCATION:湖北省博物馆
+DESCRIPTION:鉴赏镇馆之宝元青花四爱图梅瓶，了解元代瓷器艺术。\n地点: 湖北省博物馆\n时间: 2026-07-22 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:7ce1c941613c40fb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:武汉动物园小小饲养员体验
+LOCATION:武汉动物园
+DESCRIPTION:在饲养员指导下为小动物准备食物，体验饲养工作。\n地点: 武汉动物园\n时间: 2026-07-22 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:62e88baa8a97e3b2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:辛亥革命博物馆近代史课堂
+LOCATION:辛亥革命博物馆
+DESCRIPTION:近代史专题课堂，从鸦片战争讲到辛亥革命。\n地点: 辛亥革命博物馆\n时间: 2026-07-22 至 2026-07-22
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c2b8f4ee295871@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:古元美术馆少儿美术工作坊
+LOCATION:古元美术馆
+DESCRIPTION:古元美术馆少儿美术工作坊，专业老师指导小朋友学习版画、绘画等艺术创作。\n地点: 古元美术馆\n时间: 2026-07-22 至 2026-07-22\n详情: https://www.gymuseum.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4b74a235d376e93a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:“飒舞飞扬”·2026凤凰街道青少年爵士舞暑假训练营活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=07ac7bf5f21d44068cd0a795a55fd6d0
+END:VEVENT
+BEGIN:VEVENT
+UID:263c2753b674694e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:2026年龙岗区文化馆总分馆联动文艺演出——园山街道专场
+LOCATION:园山街道文化站
+DESCRIPTION:演出，深圳市龙岗区文化广电旅游体育局，在园山街道文化站举办\n地点: 园山街道文化站\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1ba5c71aacee4fdfad445db606985ca4
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e5987dd48d3f11@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:2026凤凰街道文化惠民工程之“笔承古韵，墨染韶华”书法交流活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=5814cd4c796546ad9b1b79ed9c524306
+END:VEVENT
+BEGIN:VEVENT
+UID:53964b56bb2208bd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=879fafc19175488e80df94fbde1c7f8c
+END:VEVENT
+BEGIN:VEVENT
+UID:02aed511d564b268@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训(第十九期）
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:培训，燕罗街道办事处、宝安区燕罗街道新时代文明实践所，在宝安区文化馆燕罗街道分馆举办\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9dda8c18d18d49fda0499833c13ace6f
+END:VEVENT
+BEGIN:VEVENT
+UID:bbebe8b1f51337c9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:2026年“石岩街道官田社区居民”——古筝特色班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-23 至 2026-07-23\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c0a22e8d3b134ed390cd8e7abebc9a33
+END:VEVENT
+BEGIN:VEVENT
+UID:62afe07d675d7933@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:国学小讲堂丨大暑，跟着狐狸读七月岁时
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。国学小讲堂丨大暑，跟着狐狸读七月岁时\n地点: 南山图书馆\n时间: 2026-07-23 至 2026-07-23\n详情: https://activity.nslib.cn/activity/info/11667\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:bb155b5033bbb4e3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:江汉关博物馆钟楼探秘
+LOCATION:江汉关博物馆
+DESCRIPTION:登上钟楼聆听报时钟声，了解百年钟楼的机械原理。\n地点: 江汉关博物馆\n时间: 2026-07-23 至 2026-07-23
+END:VEVENT
+BEGIN:VEVENT
+UID:05413fc1041756a1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260803
+SUMMARY:汪苏泷2026"明日世界"世界巡回演唱会-南京站
+LOCATION:南京奥体中心体育场
+DESCRIPTION:巡演歌曲全新编排、顶级舞美再创新，奥体连开多场。\n地点: 南京奥体中心体育场\n时间: 2026-07-24 至 2026-08-02\n详情: https://nj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:93599564350ace9d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260728
+SUMMARY:第34届全国书博会
+LOCATION:杭州国际博览中心
+DESCRIPTION:八大展厅、九大专题展览、十一项重点活动，发放300万元惠民购书券。\n地点: 杭州国际博览中心\n时间: 2026-07-24 至 2026-07-27\n详情: https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8b8b977db5193c09@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:第十五届深圳动漫节
+LOCATION:深圳会展中心
+DESCRIPTION:第十五届深圳动漫节，2026-07-24至2026-07-26，深圳会展中心。深圳市设计之都运营发展有限公司 罗女士 13691919789\n地点: 深圳会展中心\n时间: 2026-07-24 至 2026-07-26\n详情: https://www.szcec.com\n联系: 深圳市设计之都运营发展有限公司 罗女士 13691919789
+END:VEVENT
+BEGIN:VEVENT
+UID:fa00d2516ea8c9b0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展
+LOCATION:深圳会展中心
+DESCRIPTION:2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展，2026-07-24至2026-07-26，深圳会展中心。深圳钦诺展览有限公司 潘女士 18025471745\n地点: 深圳会展中心\n时间: 2026-07-24 至 2026-07-26\n详情: https://www.szcec.com\n联系: 深圳钦诺展览有限公司 潘女士 18025471745
+END:VEVENT
+BEGIN:VEVENT
+UID:dac5e15069251583@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）
+LOCATION:深圳会展中心
+DESCRIPTION:深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季），2026-07-24至2026-07-26，深圳会展中心。深圳市世纪东方会展有限公司 姜女士 0755-83643452\n地点: 深圳会展中心\n时间: 2026-07-24 至 2026-07-26\n详情: https://www.szcec.com\n联系: 深圳市世纪东方会展有限公司 姜女士 0755-83643452
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ef120411831439@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:第三十八届华夏家博会
+LOCATION:武汉国际博览中心
+DESCRIPTION:以"装修采购到华夏家博会，不花冤枉钱"为主题，超多参展品牌可逛，免费领票。\n地点: 武汉国际博览中心\n时间: 2026-07-24 至 2026-07-26\n详情: https://wh.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:bce61af8f87adc8e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:2026凤凰街道文化惠民工程之“书香润童，笔墨传情”书法交流活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=11868eca3a9f42cca40d5ad9d08b69e0
+END:VEVENT
+BEGIN:VEVENT
+UID:7a57887f576580b5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:2026年石岩街道“来深青工技能——古筝公益课”
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2252f036f28647e39f844384cba5e096
+END:VEVENT
+BEGIN:VEVENT
+UID:149b26610e5a3b14@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:光明区文化馆总分馆联动活动-DIY益智戳戳画
+LOCATION:光明区马田街道综合性文化服务中心
+DESCRIPTION:综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办\n地点: 光明区马田街道综合性文化服务中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=404a0fd8a77e4294bb373679510d0634
+END:VEVENT
+BEGIN:VEVENT
+UID:b13045a436edf833@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:光明区文化馆总分馆联动活动-24节气创意画
+LOCATION:光明区马田街道综合性文化服务中心
+DESCRIPTION:综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办\n地点: 光明区马田街道综合性文化服务中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=97c0e7fd1052496ebd1aadf9dba95883
+END:VEVENT
+BEGIN:VEVENT
+UID:29155c5f0d9016bc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:福田夜八点——国潮功夫夜
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:演出，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=04434435bcfc4be7882b39041958b3d6
+END:VEVENT
+BEGIN:VEVENT
+UID:f6bd5e75216c9148@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:2026年“夏日微时光·如‘乐’而至” 草坪音乐会
+LOCATION:宝安区文化馆沙井分馆
+DESCRIPTION:演出，宝安区公共文化体育服务中心--宝安区文化馆、沙井街道党群服务中心（文体），在宝安区文化馆沙井分馆举办\n地点: 宝安区文化馆沙井分馆\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fb20aaa21764d32ab35ca4a0503adc8
+END:VEVENT
+BEGIN:VEVENT
+UID:54818fb744984def@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:“青春舞浪”·2026凤凰街道青少年爵士舞暑假训练营活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c5672ba1676b4f39a53c2ba8d7b87131
+END:VEVENT
+BEGIN:VEVENT
+UID:57e71c6bf2b8a39f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:心理咨询
+LOCATION:南山图书馆
+DESCRIPTION:心理咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-24 至 2026-07-24\n详情: https://activity.nslib.cn/activity/info/11636\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:34f4641f63a54019@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦
+LOCATION:福田梦工场
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田梦工场举办\n地点: 福田梦工场\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=149ba75841304896be39e8d3bc69acbc
+END:VEVENT
+BEGIN:VEVENT
+UID:f080079b132f571c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:“弦动西乡·乐伴成长”——2026年西乡街道“快乐 假期”青少年文艺展演之莎莎小提琴汇报音乐会
+LOCATION:宝安区文化馆西乡街道分馆
+DESCRIPTION:综合，指导单位：宝安区公共文化体育服务中心（文化馆） 主办单位：宝安区西乡街道办事处 宝安区西乡街道新时代文明实践所，在宝安区文化馆西乡街道分馆举办\n地点: 宝安区文化馆西乡街道分馆\n时间: 2026-07-24 至 2026-07-24\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=309aa101653044118802706bffd4d64c
+END:VEVENT
+BEGIN:VEVENT
+UID:496dadd00e6373b2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:盘龙城遗址博物院商代历史课堂
+LOCATION:盘龙城遗址博物院
+DESCRIPTION:商代历史课堂，讲述盘龙城与商代南土。\n地点: 盘龙城遗址博物院\n时间: 2026-07-24 至 2026-07-24
+END:VEVENT
+BEGIN:VEVENT
+UID:f70a418d0d7d590f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260803
+SUMMARY:陕西科技馆暑期科学嘉年华
+LOCATION:陕西科技馆
+DESCRIPTION:为期九天的科学嘉年华，集实验秀、科普市集、科技竞赛于一体，欢乐过暑假。\n地点: 陕西科技馆\n时间: 2026-07-25 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:0eef2d37cd919153@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:自然博物馆夜宿奇妙夜
+LOCATION:重庆自然博物馆
+DESCRIPTION:在恐龙展厅搭帐篷过夜，体验博物馆奇妙夜，含夜间探索与晨间讲解活动。\n地点: 重庆自然博物馆\n时间: 2026-07-25 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:ab6bda281611bb1f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:江苏科技馆机器人擂台赛
+LOCATION:江苏省科学技术馆
+DESCRIPTION:两日机器人擂台赛面向8-14岁少年，现场组装机器人并编程，在擂台上一较高下，培养竞技精神。\n地点: 江苏省科学技术馆\n时间: 2026-07-25 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:791118d9073416e0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:2026《华人之光·芭蕾明星GALA》
+LOCATION:上海大剧院
+DESCRIPTION:汇聚陈镇威、方仲静等海外知名院团华人芭蕾舞者的专业品牌演出，登陆上海大剧院大剧场，适合芭蕾与舞蹈爱好者及亲子艺术欣赏。\n地点: 上海大剧院\n时间: 2026-07-25 至 2026-07-26\n详情: https://mp.weixin.qq.com/s?__biz=MzA5Njc1MzkxMw==&mid=2649913106&idx=1&sn=48f218d9dc2989bb7ceb9c36b50b92dc&chksm=89d4fd9a3defcb589ce61de5b5e2c3e68fe6af2b471e1d929a3121b9c8a7b297cfe07321a0ee&scene=27
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3eb8a535d7ec35@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:领展中心城暑期趣味赛事｜超级扭扭车竞速赛
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-07-25 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0b76d66098fb48959fa74ff1429c9fac
+END:VEVENT
+BEGIN:VEVENT
+UID:47cc783ec89d1389@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:领展中心城暑期趣味赛事｜趣味赶猪挑战赛
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-07-25 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=67fced2386d645b9905ef7f420963b78
+END:VEVENT
+BEGIN:VEVENT
+UID:a200128729166dd1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:2026粤港澳大湾区（深圳）婚博会（夏季）
+LOCATION:深圳会展中心
+DESCRIPTION:2026粤港澳大湾区（深圳）婚博会（夏季），2026-07-25至2026-07-26，深圳会展中心。深圳市世纪东方会展有限公司 姜女士 0755-83643452\n地点: 深圳会展中心\n时间: 2026-07-25 至 2026-07-26\n详情: https://www.szcec.com\n联系: 深圳市世纪东方会展有限公司 姜女士 0755-83643452
+END:VEVENT
+BEGIN:VEVENT
+UID:06a559972d0f19c0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:第十六届武汉CGF动漫游戏节
+LOCATION:中国光谷科技会展中心
+DESCRIPTION:以"凉夏派对"为主题，打造清爽治愈的夏日次元狂欢现场，bilibili会员购售票。\n地点: 中国光谷科技会展中心\n时间: 2026-07-25 至 2026-07-26\n详情: https://wh.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6c2a5e45b7737d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:西安·第26届ACC动漫展
+LOCATION:西安高新国际会议中心
+DESCRIPTION:暑期大型动漫展，嘉宾阵容强大，二次元爱好者聚会现场。\n地点: 西安高新国际会议中心\n时间: 2026-07-25 至 2026-07-26\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:1f045f1466e96834@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:荣昌折扇制作体验
+LOCATION:磁器口古镇
+DESCRIPTION:了解荣昌折扇百年工艺，亲手组装并绘制扇面，制作专属折扇。\n地点: 磁器口古镇\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:81aec2c4c0670f9d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:舞剧《英歌》海外巡演版
+LOCATION:广东艺术剧院
+DESCRIPTION:以英歌舞为载体讲述南洋游子家国情怀，展现潮汕血脉传承，7月25日广东艺术剧院上演。\n地点: 广东艺术剧院\n时间: 2026-07-25 至 2026-07-25\n详情: https://gz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:5825b1fb3f48607b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:玄武湖环湖跑
+LOCATION:玄武湖公园
+DESCRIPTION:玄武湖环湖跑设5公里亲子组与10公里挑战组，沿途补给完善，完赛获电子证书与奖牌。\n地点: 玄武湖公园\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:1c97eed39b537ded@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:罗云熙"熙界无限剧场"巡回演唱会-南京站
+LOCATION:梦之蓝青奥体育公园体育馆
+DESCRIPTION:罗云熙熙界无限剧场巡回演唱会南京站，7月25日19:00开唱。\n地点: 梦之蓝青奥体育公园体育馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://nj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:48eef260cccbe30d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:第二十四届中外艺术精品演出季 舒曼尼科夫《天鹅湖》主题音乐会
+LOCATION:深圳音乐厅五楼小剧场
+DESCRIPTION:广州市交响乐团演出，以新世纪音乐风格呈现舒曼尼科夫《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。\n地点: 深圳音乐厅五楼小剧场\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szyyt.com/performance/show_100000984262811.html
+END:VEVENT
+BEGIN:VEVENT
+UID:137e5bd6462a6969@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:陈洁仪ATRIUM演唱会（深圳）
+LOCATION:宝安体育馆
+DESCRIPTION:殿堂级嗓音陈洁仪演绎经典金曲，巡演深圳站开唱，7月25日宝安体育馆，开票消息持续跟进。\n地点: 宝安体育馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://sz.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:c48e168d9060b7e6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:2026年第十五届深圳儿童戏剧节 儿童剧《白雪公主》
+LOCATION:光明区文化馆
+DESCRIPTION:演出，深圳市儿童戏剧研究会，在光明区文化馆举办\n地点: 光明区文化馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1f9c06544f65416d96f483a313ad161b
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c963e27d375fed@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:2026凤凰街道文化惠民工程系列之“巧做状元官帽，祈愿前程似锦”状元帽DIY活动
+LOCATION:塘家社区综合性文化服务中心
+DESCRIPTION:其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办\n地点: 塘家社区综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30b091569329464db0e9b3b4090db84c
+END:VEVENT
+BEGIN:VEVENT
+UID:71ad18f21115f08a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:2026凤凰街道文化惠民工程系列之“翩翩稚舞，赓续国风”舞蹈美育活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=30c0c2f3f51745c1bdde198f0b7d3556
+END:VEVENT
+BEGIN:VEVENT
+UID:ca734c4e37e23e87@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:罗湖区文化馆总分馆系列活动——桂园街道分馆舞动匠心   指尖传承活动
+LOCATION:桂园街道综合文体中心(桂园街道分馆）
+DESCRIPTION:综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办\n地点: 桂园街道综合文体中心(桂园街道分馆）\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=480263117850457dacdd8b8811ed2286
+END:VEVENT
+BEGIN:VEVENT
+UID:62fb34e138dd0eaf@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:光明区文化馆总分馆联动活动-杮杮如意
+LOCATION:光明区马田街道综合性文化服务中心
+DESCRIPTION:综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办\n地点: 光明区马田街道综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=66707dbe2e1d4e2d8cf35fe4f3a3de66
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c79c7460a97e4e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:AI 时代，你的下一步怎么走？AI 转型分享会
+LOCATION:福田梦工场
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田梦工场举办\n地点: 福田梦工场\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ad7fb66ae73d4fff89837754e577b34f
+END:VEVENT
+BEGIN:VEVENT
+UID:3382ffecb53f8729@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:红色影院第十期《红色圩场》
+LOCATION:深圳市坪山区石井街道公共文化服务中心
+DESCRIPTION:公益，石井街道公共服务办公室，在深圳市坪山区石井街道公共文化服务中心举办\n地点: 深圳市坪山区石井街道公共文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=b4a3188e06c5467ab8dac1060f37fcdc
+END:VEVENT
+BEGIN:VEVENT
+UID:025c5cc524419914@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:福田夜八点—— 乐队狂欢夜
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:演出，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bcec904925ca4f139d34d8d424552dc8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f800cee46ebd7e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:玉塘街道“巧手童趣，快乐相伴”亲子手工制作活动暨文化馆总分馆联动活动2026年第二场
+LOCATION:玉塘街道综合性文化服务中心
+DESCRIPTION:综合，玉塘街道办事处，在玉塘街道综合性文化服务中心举办\n地点: 玉塘街道综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd666e0f91b948d5ae72dfb9c82f1627
+END:VEVENT
+BEGIN:VEVENT
+UID:70eed34d2016bcf8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:光明区文化馆总分馆联动活动-DIY万花镜
+LOCATION:光明区马田街道综合性文化服务中心
+DESCRIPTION:综合，光明区马田街道公共服务办公室，在光明区马田街道综合性文化服务中心举办\n地点: 光明区马田街道综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dde7467b7eb148a4b1d750f964002b61
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a7afe44a5f580b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:2026凤凰街道文化惠民工程系列之“百草入韵・良药抒怀”中草药画作创意DIY活动
+LOCATION:塘家社区综合性文化服务中心
+DESCRIPTION:其它，光明区公共文化艺术和体育中心，在塘家社区综合性文化服务中心举办\n地点: 塘家社区综合性文化服务中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e8a354dd07234ff1a5603834d044a357
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bcfff5461f6fd0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:叙述实验室·创作工作坊（如何将个人生活经历转化为艺术灵感）
+LOCATION:福田梦工场
+DESCRIPTION:讲座，福田区公共文化体育发展中心，在福田梦工场举办\n地点: 福田梦工场\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ea701a41f94e4f808f760dbc4ca7140d
+END:VEVENT
+BEGIN:VEVENT
+UID:b01bc6be8bce42f5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会
+LOCATION:布吉街道文化站
+DESCRIPTION:演出，深圳市龙岗区文化广电旅游体育局，在布吉街道文化站举办\n地点: 布吉街道文化站\n时间: 2026-07-25 至 2026-07-25\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=feb05d24c6194701a7fd1c9319782894
+END:VEVENT
+BEGIN:VEVENT
+UID:6e34905fd3fad315@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:心灵沙龙·艺术疗愈丨和情绪做朋友
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。心灵沙龙·艺术疗愈丨和情绪做朋友\n地点: 南山图书馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://activity.nslib.cn/activity/info/11682\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:47238b47d0c6e9a1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。书·影·史系列读书观影会 | 我们为什么热爱《太平年》三兄弟——从热播剧到五代十国历史入门\n地点: 南山图书馆\n时间: 2026-07-25 至 2026-07-25\n详情: https://activity.nslib.cn/activity/info/11683\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:d273f708a051b348@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:第二十四届中外艺术精品演出季 柴可夫斯基《天鹅湖》主题音乐会
+LOCATION:深圳音乐厅五楼小剧场
+DESCRIPTION:广州市同曲异工乐团演绎，以新世纪音乐风格呈现柴可夫斯基《天鹅湖》经典曲目。2周岁以上儿童可入场。票价80-280元。\n地点: 深圳音乐厅五楼小剧场\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.szyyt.com/performance/show_100000984262811.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e69096c62d07739e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:武汉自然博物馆贝林大河展厅课堂
+LOCATION:武汉自然博物馆
+DESCRIPTION:走进贝林大河展厅，了解世界大河生态与动物迁徙。\n地点: 武汉自然博物馆\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:4e51b95f613ac461@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:武汉科技馆宇宙展厅研学
+LOCATION:武汉科技馆
+DESCRIPTION:在宇宙展厅探索太阳系与深空奥秘，培养天文兴趣。\n地点: 武汉科技馆\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:f3332a5b203cf2be@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:东湖皮划艇亲子营
+LOCATION:东湖风景区
+DESCRIPTION:亲子共划皮划艇，在东湖上享受清凉夏日。\n地点: 东湖风景区\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:63e13cd2f80dd892@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:武汉市少年儿童图书馆童话剧表演
+LOCATION:武汉市少年儿童图书馆
+DESCRIPTION:童话剧表演，小读者登台演绎经典童话。\n地点: 武汉市少年儿童图书馆\n时间: 2026-07-25 至 2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:afb8b4d5b480c962@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:汪峰"相信未来"巡回演唱会-西安站
+LOCATION:西安曲江竞技中心
+DESCRIPTION:1994年至今汪峰作品记录一代人呐喊与低回，西安站7月25日开唱。\n地点: 西安曲江竞技中心\n时间: 2026-07-25 至 2026-07-25\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:23aceb301ac8c352@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:珠海大剧院交响乐演出季
+LOCATION:珠海大剧院
+DESCRIPTION:珠海大剧院夏季交响乐演出，知名交响乐团带来经典曲目，海上歌剧院享受音乐盛宴。\n地点: 珠海大剧院\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.zhgrandtheatre.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1ce870f8d4311a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:长隆海洋王国海洋科普讲堂
+LOCATION:珠海长隆海洋王国
+DESCRIPTION:长隆海洋王国海洋科普讲堂，专业讲解员介绍海洋生物知识，适合中小学生参与。\n地点: 珠海长隆海洋王国\n时间: 2026-07-25 至 2026-07-25\n详情: https://www.chimelong.com
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0c0cb39c2a6bdb@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260729
+SUMMARY:古今和鸣·合唱音乐会
+LOCATION:福田音乐馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-07-26 至 2026-07-28\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f203b00bb68c4a6daeef50ed8fce0a40
+END:VEVENT
+BEGIN:VEVENT
+UID:56f18d018e167d1e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:VR科学探索之旅
+LOCATION:重庆科技馆
+DESCRIPTION:戴上VR眼镜遨游太阳系、潜入深海、穿越人体，沉浸式学习科学知识。\n地点: 重庆科技馆\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:c2a0356f8e480bf2@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:重庆动物园飞禽世界
+LOCATION:重庆动物园
+DESCRIPTION:参观百鸟园与水禽湖，认识各类涉禽、鸣禽、游禽，学习鸟类知识。\n地点: 重庆动物园\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:bacd25996290825d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:重庆中央公园轮滑体验
+LOCATION:重庆中央公园
+DESCRIPTION:轮滑教练现场教学，提供护具与轮滑鞋租赁，适合初学者体验。\n地点: 重庆中央公园\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:d70cfff191ff0c18@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:武隆天生三桥探秘
+LOCATION:武隆喀斯特
+DESCRIPTION:探秘亚洲最大天生桥群，三座天然石桥气势磅礴，感受鬼斧神工。\n地点: 武隆喀斯特\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:344c57e22c84b653@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:“快乐书童·趣味阅读”林间足迹·守护归途
+LOCATION:龙华街道综合性文化服务中心
+DESCRIPTION:阅读推广活动，龙华街道办事处，在龙华街道综合性文化服务中心举办\n地点: 龙华街道综合性文化服务中心\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2925f816366b4fe282f51053bb564430
+END:VEVENT
+BEGIN:VEVENT
+UID:5535e125982be34e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:“剪影流转，节气生花”光明街道光明社区亲子剪纸活动
+LOCATION:光明社区综合性文化服务中心
+DESCRIPTION:历史非遗，光明区光明街道办事处，在光明社区综合性文化服务中心举办\n地点: 光明社区综合性文化服务中心\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3644f9b23c924602b77ff8ad03cea030
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e076b543fb3c6f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:2026凤凰街道文化惠民工程系列之“美育逐梦，舞耀少年”舞蹈美育活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f9d98ef2eb646fe88c0304269db844b
+END:VEVENT
+BEGIN:VEVENT
+UID:fc84d2e3e8b029f7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:福田夜八点——全民乐动夜
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:演出，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=df05ec77ca3d430e890f29cb1343840e
+END:VEVENT
+BEGIN:VEVENT
+UID:e329bbdb1ad108fc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:2026年龙岗区文化馆总分馆公益艺术讲座进企业进社区系列活动—— 《合唱基础与排练讲座》
+LOCATION:园山街道文化站
+DESCRIPTION:本次活动摒弃传统合唱枯燥的练声、抠节奏训练模式，我们将音准、节奏、听音、声部协作等合唱核心训练要点，转化为趣味音乐闯关游戏。青少年在游戏闯关、团队比拼与互动协作中潜移默化解决跑调、扯嗓喊唱、声部配合薄\n地点: 园山街道文化站\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e9b575c3823b4a849fdb90a145bd9152
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4cd33b97081573@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:草木留痕——非遗拓印手作
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:公益，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-26 至 2026-07-26\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f057ba48698f4425905f68d881dafc54
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ce0c7b52ebd551@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:法律咨询
+LOCATION:南山图书馆
+DESCRIPTION:法律咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://activity.nslib.cn/activity/info/11641\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:4b805ce7a364c084@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。公益宣讲丨体育之路带你迈进身心健康之门——青少年儿童身心健康专题讲座\n地点: 南山图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://activity.nslib.cn/activity/info/11684\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb324763ca2471d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:中国文化第一课|岭南画派与生活美学
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。中国文化第一课|岭南画派与生活美学\n地点: 南山图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://activity.nslib.cn/activity/info/11721\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:482abc13cff61135@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:艺术荟 | 一藤一夏·包藏清凉
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。艺术荟 | 一藤一夏·包藏清凉\n地点: 南山图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://activity.nslib.cn/activity/info/11685\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:16dd86d76ac128a9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:陈萨、孙一凡与国家大剧院管弦乐团室内乐团——瓦格纳与常乐《自然之诗》
+LOCATION:光明区光明文化艺术中心·演艺中心·大剧场
+DESCRIPTION:钢琴家陈萨与指挥家孙一凡携手国家大剧院管弦乐团室内乐团，演绎瓦格纳与常乐的作品。\n地点: 光明区光明文化艺术中心·演艺中心·大剧场\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.szgm.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:77ccc5a6736221cc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:武汉科技馆VR虚拟现实体验
+LOCATION:武汉科技馆
+DESCRIPTION:戴上VR眼镜遨游太空深海，体验虚拟现实魅力。\n地点: 武汉科技馆\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:515f3c7e08b717bd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:解放公园亲子草坪露营
+LOCATION:解放公园
+DESCRIPTION:在解放公园大草坪亲子露营，享受悠闲周末。\n地点: 解放公园\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f25328e70df3c9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:湖北美术馆水墨画课堂
+LOCATION:湖北美术馆
+DESCRIPTION:学习中国画水墨技法，感受笔墨韵味。\n地点: 湖北美术馆\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:be1cfe50fddb582d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:武汉图书馆非遗故事会
+LOCATION:武汉图书馆
+DESCRIPTION:非遗主题故事会，讲述武汉本土非遗传说。\n地点: 武汉图书馆\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:555f970b771e2ab9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:东湖帆船亲子体验营
+LOCATION:东湖风景区
+DESCRIPTION:帆船亲子体验营，半天入门帆船运动。\n地点: 东湖风景区\n时间: 2026-07-26 至 2026-07-26
+END:VEVENT
+BEGIN:VEVENT
+UID:b41dda2b1d71e737@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:珠海市图书馆古诗词鉴赏讲座
+LOCATION:珠海市图书馆
+DESCRIPTION:古诗词鉴赏公益讲座，邀请文学专家解读经典诗词，感受中华传统文化之美。\n地点: 珠海市图书馆\n时间: 2026-07-26 至 2026-07-26\n详情: https://www.zhlib.gov.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:09b0006a3ac72f63@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260801
+SUMMARY:江苏科技馆生命科学营
+LOCATION:江苏省科学技术馆
+DESCRIPTION:五日生命科学营聚焦人体奥秘与基因知识，配合显微镜观察细胞、DNA模型搭建等动手实验。\n地点: 江苏省科学技术馆\n时间: 2026-07-27 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:73a184e069f7c882@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260801
+SUMMARY:南京国防园军事夏令营
+LOCATION:南京国防园
+DESCRIPTION:五日军事夏令营含队列训练、军体拳、野外拉练与战地救护，培养孩子纪律意识与自理能力。\n地点: 南京国防园\n时间: 2026-07-27 至 2026-07-31
+END:VEVENT
+BEGIN:VEVENT
+UID:db964a8e98eec9d6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260729
+SUMMARY:“跟着文化馆学非遗”活动——大漆手作体验活动
+LOCATION:光明区文化馆
+DESCRIPTION:非遗课堂，光明区公共文化艺术和体育中心（区文化馆），在光明区文化馆举办\n地点: 光明区文化馆\n时间: 2026-07-27 至 2026-07-28\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=34afe85d777d45dfbd468448e0248b6e
+END:VEVENT
+BEGIN:VEVENT
+UID:637a983238f939f9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:歌乐山森林公园徒步游
+LOCATION:歌乐山国家森林公园
+DESCRIPTION:沿着歌乐山步道徒步登山，沿途欣赏森林风光，登顶俯瞰山城景色。\n地点: 歌乐山国家森林公园\n时间: 2026-07-27 至 2026-07-27
+END:VEVENT
+BEGIN:VEVENT
+UID:09f2390b4a27719a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:原创童话芭蕾《飞越红树林》
+LOCATION:光明区文化馆
+DESCRIPTION:演出，深圳市儿童戏剧研究会，在光明区文化馆举办\n地点: 光明区文化馆\n时间: 2026-07-27 至 2026-07-27\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=57507fd46eb947b4ae92c625d2f8744e
+END:VEVENT
+BEGIN:VEVENT
+UID:1f69d466ca87297a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“葫音童趣・少儿葫芦丝”体验活动
+LOCATION:坪地街道文化站
+DESCRIPTION:公益，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-27 至 2026-07-27\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=884c258d4c274a4f92dc4063bf105073
+END:VEVENT
+BEGIN:VEVENT
+UID:5af5b2f794742177@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:阅见南山·探索成长丨深大校园漫步
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。阅见南山·探索成长丨深大校园漫步\n地点: 南山图书馆\n时间: 2026-07-27 至 2026-07-27\n详情: https://activity.nslib.cn/activity/info/11681\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:c82d84a7df864bea@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:美丽星期天——民乐鉴赏
+LOCATION:深圳音乐厅
+DESCRIPTION:民族器乐鉴赏公益音乐会，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-07-27 至 2026-07-27\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b1dd0afc8ffa918b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:湖北省图书馆国学经典诵读
+LOCATION:湖北省图书馆
+DESCRIPTION:国学经典诵读活动，童声齐诵《论语》《诗经》。\n地点: 湖北省图书馆\n时间: 2026-07-27 至 2026-07-27
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8435137b453b60@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:黄鹤楼公园书法体验
+LOCATION:黄鹤楼公园
+DESCRIPTION:在白云阁体验书法创作，临摹历代黄鹤楼题诗。\n地点: 黄鹤楼公园\n时间: 2026-07-27 至 2026-07-27
+END:VEVENT
+BEGIN:VEVENT
+UID:7a91a059d9b32eb3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260731
+SUMMARY:盘龙城遗址博物院考古夏令营
+LOCATION:盘龙城遗址博物院
+DESCRIPTION:三天考古夏令营，沉浸式体验考古工作者日常。\n地点: 盘龙城遗址博物院\n时间: 2026-07-28 至 2026-07-30
+END:VEVENT
+BEGIN:VEVENT
+UID:addbb285d8574c9a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:自然博物馆古生物大讲堂
+LOCATION:重庆自然博物馆
+DESCRIPTION:古生物学家开讲恐龙时代故事，结合化石标本展示远古生命演化历程。\n地点: 重庆自然博物馆\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:17f767f90e5932e4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:梁平年画印制体验
+LOCATION:磁器口古镇
+DESCRIPTION:体验梁平木版年画传统印制工艺，亲手刷印一幅年画作品。\n地点: 磁器口古镇\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5f290c2194a0e3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:渣滓洞革命教育研学
+LOCATION:渣滓洞
+DESCRIPTION:参观渣滓洞监狱旧址，了解狱中斗争历史，缅怀革命先烈。\n地点: 渣滓洞\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:b59315726ede6ae5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:“逐梦舞涯”·2026凤凰街道青少年爵士舞暑假训练营活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:培训，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-28 至 2026-07-28\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=448fd4fc726c4fa1a85b3b26d4fa2f87
+END:VEVENT
+BEGIN:VEVENT
+UID:71a1faf94d2b11c6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:古今和鸣·合唱音乐会
+LOCATION:福田音乐馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-07-28 至 2026-07-28\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=666f97855f234e04920fc7e4084ae241
+END:VEVENT
+BEGIN:VEVENT
+UID:e244abad605d2f6c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童心绘梦・曼陀罗绘画”体验活动
+LOCATION:坪地街道文化站
+DESCRIPTION:公益，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-28 至 2026-07-28\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9a8f7d34e9ef4fbf9cecd50af5bd987c
+END:VEVENT
+BEGIN:VEVENT
+UID:43d91946df81316d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:“亲”松Yue读·影像空间《萌宠流浪记》
+LOCATION:宝安图书馆 (宝安区图书馆松岗街道分馆)
+DESCRIPTION:此活动隶属松岗街道分馆。【本期电影展播】：《萌宠流浪记》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：14:45—15:00；【活动时间】：15:00—16:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆松岗街道分馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:f65d3a100bbec22c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:“亲”松Yue读·影像空间《雪人奇缘》
+LOCATION:宝安图书馆 (宝安区图书馆松岗街道分馆)
+DESCRIPTION:此活动隶属松岗街道分馆。【本期电影展播】：《雪人奇缘》；【活动对象】：5岁以上读者；【参与方式】：活动现场报名；【签到时间】：18:45—19:00；【活动时间】：19:00—20:30；【活动地点】：松岗街道分馆一楼青少活动室；【联系电话】：0755-23063315。；地点：松岗街道分馆一楼青少活动室；地址：宝安区松岗街道宝安大道西侧与沙江路南侧交汇处文化艺术中心大楼B区松岗街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆松岗街道分馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ef188b7a06c5e823@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《獾的美食》；主讲人：陈丽花、刘妮娜；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:3cce786277d6f7fe@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:馆长少年“趣旅行”:福海街道篇
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:本期“街道探索小分队”已顺利完成对福海街道的深度走访，馆长少年瞿凯、祝语晨、何利雯将以“街道文旅代言人”的身份，公开分享他们的探索之旅。为了让大家更深入地感受福海的传统魅力，我们特别增设了非遗手工体验环节！这一次，馆长们把福海民间传说与民俗意象“锦鲤”带回了活动现场。；主讲人：瞿凯（馆长少年）、祝语晨（馆长少年）、何利雯（馆长少年）；地点：宝安区图书馆培训室1；地址：宝安区宝兴路1号宝安图书馆负一楼培训室1；方式：线下；咨询：0755-27783514（活动咨询及预约电话），由于手工环节席位有限，本次活动共20组名额（活动免费，所有手工材料已由图书馆贴心备齐），请提前10分钟签到，逾期将顺延至下一位读者。；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话），由于手工环节席位有限，本次活动共20组名额（活动免费，所有手工材料已由图书馆贴心备齐），请提前10分钟签到，逾期将顺延至下一位读者。
+END:VEVENT
+BEGIN:VEVENT
+UID:2ea176716d0955a7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:“童心”领读：婴幼儿故事会（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《当我感到爱》；主讲人：刘淑如；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:1444f5cfd796d80e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《罗小黑战记》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:db0ec04316d6ff78@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:启阅90｜图图姐姐讲故事：《想吃苹果的鼠小弟》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f6507ea24470a6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:万卷倾城 | 线上故事—《白先生》
+LOCATION:宝安图书馆 (宝安区图书馆航城街道分馆)
+DESCRIPTION:此活动隶属于航城街道分馆。欢迎大家收看“万卷倾城·云故事”栏目，本期故事主题《白先生》主讲老师：JOJO老师（航城街道分馆）剪辑：JOJO老师（航城街道分馆）审核：JOJO老师（航城街道分馆）故事简介：白先生一直过着‌单调却平和‌的生活，他的世界只有‌白色‌。直到某天花园里出现了一朵‌红色小花‌，他的生活从此发生翻天覆地的变化。；方式：线上；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆航城街道分馆)\n时间: 2026-07-28 至 2026-07-28\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f5b7bfb8fd8a99@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:湖北省科学技术馆新能源课堂
+LOCATION:湖北省科学技术馆
+DESCRIPTION:了解太阳能风能等新能源，动手组装小型发电装置。\n地点: 湖北省科学技术馆\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:7d50e28d33c37ad6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:香山文化艺术中心少儿才艺展演
+LOCATION:香山文化艺术中心
+DESCRIPTION:香山文化艺术中心少儿才艺展演活动，为孩子们提供展示才艺的舞台。\n地点: 香山文化艺术中心\n时间: 2026-07-28 至 2026-07-28
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd1839fcd21851f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260731
+SUMMARY:“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏
+LOCATION:吉华街道文化站
+DESCRIPTION:培训，深圳市龙岗区文化广电旅游体育局，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-29 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c27b76091fc8443fbcdaf0caab950028
+END:VEVENT
+BEGIN:VEVENT
+UID:36f6da3855e77204@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2025年桃源公益形体培训活动
+LOCATION:桃源街道综合性文化服务中心
+DESCRIPTION:2025年桃源公益形体培训活动。免费参与。直接前往。可直接前往\n地点: 桃源街道综合性文化服务中心\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9
+END:VEVENT
+BEGIN:VEVENT
+UID:9a48a1a54755d478@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动
+LOCATION:桂园街道综合文体中心(桂园街道分馆）
+DESCRIPTION:综合，罗湖区文化馆桂园街道分馆，在桂园街道综合文体中心(桂园街道分馆）举办\n地点: 桂园街道综合文体中心(桂园街道分馆）\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c4ecedb9ca8c4f879e4b1a22676d0277
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec3b79528c42350@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“光影童趣”少儿观影活动
+LOCATION:坪地街道文化站
+DESCRIPTION:公益，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=03d0948d181049cb9ac29ef9980bc948
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd2860e9ca108c1@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2026年红色燕罗文化活动
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:演出，中共深圳市宝安区燕罗街道工作委员会、深圳市宝安区燕罗街道办事处，在宝安区文化馆燕罗街道分馆举办\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=233b0aace8a244ec9c526590ad23510c
+END:VEVENT
+BEGIN:VEVENT
+UID:882436ed36842cdc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:2026凤凰街道文化惠民工程系列之“丹青逐雅.墨韵传情”国画体验活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:综合，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-29 至 2026-07-29\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d6597e60cf8e4ea69b541e18992a09e8
+END:VEVENT
+BEGIN:VEVENT
+UID:4d96dc37fe03b064@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《乌贼很生气》；主讲人：何琴；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:56ede484ac8b7c18@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:“童心”领读：婴幼儿故事会（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《小猪佩奇：才艺日，我不担心》；主讲人：周宗燕；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:fe0c0ba545214c83@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《罗小黑战记2》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0505efcaec5edd0c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:启阅90｜图图姐姐讲故事：《请问一下，踩得到底吗？》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8b2bf0800ffc05@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:清平“阅” | 图图姐姐讲故事《小猫学做饭》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。《小猫学做饭》：认知颜色，启发孩子爱上阅读和乐于分享。【活动地点】新桥街道分馆三楼少儿阅览区 【参与方式】现场签到参与。；地点：新桥街道分馆三楼少儿阅览区；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e6955ee44b64fe45@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:万卷倾城 | 线上故事—《下雨了！》
+LOCATION:宝安图书馆 (宝安区图书馆航城街道分馆)
+DESCRIPTION:此活动隶属于航城街道分馆。欢迎大家收看“万卷倾城·云故事”栏目，本期故事主题《下雨了！》主讲老师：JOJO老师（航城街道分馆）剪辑：JOJO老师（航城街道分馆）审核：JOJO老师（航城街道分馆）故事简介：作品以非洲草原动物生态为背景，通过两场雨展现水循环过程。全书描绘动物争夺水资源的场景，呈现弱肉强食的自然法则与生命延续的希望，情节中乌龟与蝌蚪以猜拳决定喝水顺序成为转折。跨页设计配合河流走向，几何化动物形象融合布朗西雕塑风格，画面简洁而富有视觉张力。前后环衬的天蓝与海蓝色调形成天地循环隐喻。书中暗含蝌蚪变青蛙的成长线索，适合3岁以上儿童阅读。；方式：线上；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆航城街道分馆)\n时间: 2026-07-29 至 2026-07-29\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:59baba251a7d1dbd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:武汉美术馆油画体验
+LOCATION:武汉美术馆
+DESCRIPTION:油画入门体验，零基础完成一幅油画作品。\n地点: 武汉美术馆\n时间: 2026-07-29 至 2026-07-29
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cb27029ac81ff4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260804
+SUMMARY:话剧《无墙》
+LOCATION:上海大剧院
+DESCRIPTION:原创话剧《无墙》，随机世界里的意外相遇。地铁1号线/2号线/8号线人民广场站。\n地点: 上海大剧院\n时间: 2026-07-30 至 2026-08-03\n详情: http://m.toutiao.com/group/7660419048286487086/
+END:VEVENT
+BEGIN:VEVENT
+UID:190942621d8d1d04@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260802
+SUMMARY:音乐剧《粉丝来信》中文版
+LOCATION:上海文化广场
+DESCRIPTION:音乐剧《粉丝来信》中文版，八轮演出口碑之作。票价80-680元。地铁9号线/12号线嘉善路站。\n地点: 上海文化广场\n时间: 2026-07-30 至 2026-08-01\n详情: https://www.shcstheatre.com/program/programlist_easy.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:31c29c196cac894d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260801
+SUMMARY:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》
+LOCATION:广州大剧院
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》，冰上芭蕾全新演绎经典童话。地铁APM线大剧院站。\n地点: 广州大剧院\n时间: 2026-07-30 至 2026-07-31\n详情: http://www.gzdjy.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:469b3e12d52fe886@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:工业博物馆老厂房探秘游
+LOCATION:重庆工业博物馆
+DESCRIPTION:漫步百年重钢老厂房，感受工业遗迹之美，了解重庆近代工业辉煌。\n地点: 重庆工业博物馆\n时间: 2026-07-30 至 2026-07-30
+END:VEVENT
+BEGIN:VEVENT
+UID:6b16dc6921f6e2c4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=0951ac7519c4440a889ddb9e8d526105
+END:VEVENT
+BEGIN:VEVENT
+UID:14d78e54bdc5ba29@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:“虹声飞扬·艺启未来”主题音乐会
+LOCATION:福田音乐馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22ef67072c814d639598ca5d8b8b4dcf
+END:VEVENT
+BEGIN:VEVENT
+UID:67e1992d40fcbeea@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026凤凰街道文化惠民工程系列之“以水绘色，童梦生花”水彩画活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:综合，凤凰街道党工委、办事处，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=33425187adad406691d059fe50ea47c7
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2ab91b6e4b42d8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:酷娃乐动・街舞趣玩派对
+LOCATION:园岭街道综合性文化服务中心
+DESCRIPTION:公益，福田区文化广电旅游体育局、福田区公共文化体育发展中心（区文化馆总馆）、福田区园岭街道办事处，在园岭街道综合性文化服务中心举办\n地点: 园岭街道综合性文化服务中心\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=42d89afb1a6b4132a61abfb28f520438
+END:VEVENT
+BEGIN:VEVENT
+UID:69ca07a02dc1b840@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026年燕罗街道“文化春雨行动”全民有艺公益合唱培训（第二十期）
+LOCATION:宝安区文化馆燕罗街道分馆
+DESCRIPTION:培训，燕罗街道办事处、宝安区燕罗街道新时代文明实践所，在宝安区文化馆燕罗街道分馆举办\n地点: 宝安区文化馆燕罗街道分馆\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=76dd74967c274cfdb0e2df1b1db19fd3
+END:VEVENT
+BEGIN:VEVENT
+UID:15281cedbcbc1b3d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026年坪地街道分馆有“艺”益文化志愿服务活动之高桥社区“童声和鸣·以声传爱”少儿 合唱《萱草花》体验活动
+LOCATION:坪地街道文化站
+DESCRIPTION:公益，龙岗区文化馆，在坪地街道文化站举办\n地点: 坪地街道文化站\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8536cd28338a48d7b0ff4e181df87060
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b009ff56f78517@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026年“石岩街道官田社区居民”——古筝特色班
+LOCATION:石岩文化艺术中心
+DESCRIPTION:培训，宝安区文化馆石岩街道分管，在石岩文化艺术中心举办\n地点: 石岩文化艺术中心\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=afdb7411182d49d8a91171afc53ad97a
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6a6df9314722c4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:2026年龙岗区文化馆坂田街道分馆四季花城社区服务点“纸间衍艺”衍纸手工体验文化志愿活动
+LOCATION:坂田街道文化站
+DESCRIPTION:非遗课堂，龙岗区文化馆总馆，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-07-30 至 2026-07-30\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c29774d1e0794d289e2f71feb7c793a1
+END:VEVENT
+BEGIN:VEVENT
+UID:a69b7679f6df9d38@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《别让太阳掉下来》；主讲人：龙湘英；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:d46f496b84201b3b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:“童心”领读：婴幼儿故事会（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《好疼呀，好疼呀》；主讲人：陈小英；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:20011e47c427a5ec@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《宝贝老板》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:444a275cb61fbce9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:启阅90｜图图姐姐讲故事：《小斑马的条纹衣》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c01b61c72dce3aa4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:清平“阅” | 电影展映《哈利·波特与凤凰社》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。逃过摄魂怪的追杀，通过魔法部的审查，哈利终于回到美丽的霍格沃茨。然而这个学期并不轻松，他不仅要完成魔法等级考试，还要应对夜晚的噩梦和黑魔法防御课老师乌姆里奇的打压。【活动地点】新桥街道分馆三楼活动室 【参与方式】活动室入口签到处签到参与。；地点：新桥街道分馆三楼活动室；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5475761907afd80e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:清平“阅” | 图图姐姐讲故事《你头上有只鸟》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。《你的头上有只鸟》中的小猪有时粗枝大叶，小象却总是很小心；小猪总是乐呵呵的，小象却老是不太高兴。他们是最好的朋友，小猪总是能给小象带来快乐，不过正因为有了小象的操心，小猪才能这么轻松呀。【活动地点】新桥街道分馆三楼少儿阅览区 【参与方式】现场签到参与。；地点：新桥街道分馆三楼少儿阅览区；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:89acbb4922630e24@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:清平“阅” | 图图姐姐讲故事《沼泽雉鸡》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。这是由中央美术学院绘本创作工作室实力打造，适合3~6岁孩子阅读的中国版“伊索寓言”。；方式：线上；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-30 至 2026-07-30\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:aff57dc126d9ab35@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260803
+SUMMARY:“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——麒遇古镇·非遗共赏
+LOCATION:吉华街道文化站
+DESCRIPTION:培训，深圳市龙岗区文化广电旅游体育局，在吉华街道文化站举办\n地点: 吉华街道文化站\n时间: 2026-07-31 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bc680bff98da4c16ad89e49e4c54c773
+END:VEVENT
+BEGIN:VEVENT
+UID:9b824b1df831c3de@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260803
+SUMMARY:2026年U系列中国青少年滑板巡回赛（深圳站）
+LOCATION:光明区虹桥公园滑板场
+DESCRIPTION:由中国轮滑协会主办，2026年U系列中国青少年滑板巡回赛深圳站，面向青少年滑板选手。\n地点: 光明区虹桥公园滑板场\n时间: 2026-07-31 至 2026-08-02\n详情: https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg
+END:VEVENT
+BEGIN:VEVENT
+UID:4b365854fec6e125@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:《浪浪山小妖怪》福田“星光电影”暑期公益电影放映工作开始啦
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=17ff8096d5d947e7aa5abf4b53c6bce7
+END:VEVENT
+BEGIN:VEVENT
+UID:b9deb2d2f643a45d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:“周末舞飞扬”舞蹈系列专场演出
+LOCATION:福田舞蹈馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田舞蹈馆举办\n地点: 福田舞蹈馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3254a5cd19b94d1ab7a400b91bdf70ba
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e06bd66019190c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:舞动青春·绽放梦想丨2026紫涵舞蹈暑假汇演暨第四届
+LOCATION:宝安区文化馆西乡街道分馆
+DESCRIPTION:综合，指导单位：宝安区公共文化体育服务中心（文化馆）；主办单位：宝安区西乡街道办事处、宝安区西乡街道新时代文明实践所，在宝安区文化馆西乡街道分馆举办\n地点: 宝安区文化馆西乡街道分馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=90016d2d7c6d4790835308a3bbfa5869
+END:VEVENT
+BEGIN:VEVENT
+UID:314561e171a9e1b6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:2026凤凰街道文化惠民工程系列之“水彩逐光，童趣丹青”水彩画活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:综合，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-07-31 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=993d6db5404346768378df324db5a028
+END:VEVENT
+BEGIN:VEVENT
+UID:ac790d47559cba30@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:“弦歌琴韵·致敬经典”弦乐音乐会
+LOCATION:福田音乐馆
+DESCRIPTION:演出，福田区公共文化体育发展中心，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=9f2452b2c6544b438bfb3b1eb882deaf
+END:VEVENT
+BEGIN:VEVENT
+UID:e5a50a32e1945c98@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:南图双语故事会|Go Away,Floppy
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。南图双语故事会|Go Away,Floppy\n地点: 南山图书馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://activity.nslib.cn/activity/info/11605\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:df69e8dd72e81dc3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:心理咨询
+LOCATION:南山图书馆
+DESCRIPTION:心理咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-07-31 至 2026-07-31\n详情: https://activity.nslib.cn/activity/info/11637\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:0a818617b3a50772@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:“童心”领读：和孩子一起读童书 (暑假版)
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《我的情绪小怪兽》；主讲人：邱景研；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:e05250b8398dbdce@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:“童心”领读：婴幼儿故事会（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《脸，脸，各种各样的脸》+《喂喂，我告诉你哦……》；主讲人：小小蓝、梁志灵；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:f37a6390c4c74d48@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:启阅90｜艺启创意·非遗编织篇：迷你猫头鹰挂毯
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆，名额为15名。本周的手工活动是面向12岁以上的读者，内容为迷你猫头鹰挂毯，难度较难。编织工艺是一种非常重要的非物质文化遗产，它是人类文明发展的重要组成部分，也是人类生活中不可或缺的一部分【预约须知】1、活动开始前15分钟开始签到，活动开始即停止签到，迟到或缺席的名额将被释放给现场候补读者；2、报名参与活动即同意将照片授权给宝安区图书馆1990分馆非盈利性使用。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba711e88e76d567@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《小黄人大眼萌》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:93f41824dfcaa86e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:启阅90｜图图姐姐讲故事：《出来呀！出来呀！》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动场内名额为30人。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！活动将于17:00准时开始，快来进入绘本世界吧！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:270420bf27a7475f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:清平“阅” | 电影展映《哈利·波特与混血王子》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。食死徒开始肆无忌惮横行于麻瓜和魔法两个世界中，霍格沃茨内忧外患，危机重重。邓不利多带着哈利辗转找到隐居多年的霍拉斯·斯拉格霍恩，请他出山接替斯内普担任魔药学的老师。【活动地点】新桥街道分馆三楼活动室 【参与方式】活动室入口签到处签到参与。；地点：新桥街道分馆三楼活动室；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:5974d1b70d0438ad@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:清平“阅” | 图图姐姐讲故事《你为什么不开花》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。"多么可爱啊！小熊在他的花园里看到了一棵奇怪的植物。他每天为它浇水，太晒的时候为它撑伞，早晨向它问好，每个夜晚也不忘道晚安。然而，无论他多么精心照顾，它总是不开花。【活动地点】新桥街道分馆三楼少儿阅览区 【参与方式】现场签到参与。；地点：新桥街道分馆三楼少儿阅览区；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-07-31 至 2026-07-31\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:def85fd7546a2a9b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260804
+SUMMARY:木兰草原草原音乐节
+LOCATION:木兰草原
+DESCRIPTION:草原音乐节，民谣与摇滚在草原回响。\n地点: 木兰草原\n时间: 2026-08-01 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:f90031903e16d9db@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:刘宇2026"宇宙诗人"演唱会·北京站
+LOCATION:华熙LIVE·五棵松
+DESCRIPTION:"宇宙诗人"开启全新篇章"宙"，跳出空间山海局限，奔赴跨越万古的时间逆旅。\n地点: 华熙LIVE·五棵松\n时间: 2026-08-01 至 2026-08-02\n详情: https://bj.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:1cca756da9bc1b31@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:领展中心城暑期趣味赛事｜亲子水枪挑战赛
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-08-01 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7e1d38b0ca7045d898e9f7b2f974761e
+END:VEVENT
+BEGIN:VEVENT
+UID:48976670739a4c34@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:舞剧《她的龟兹》
+LOCATION:光明区光明文化艺术中心大剧场
+DESCRIPTION:青年舞蹈家古丽米娜领衔主演，以现代壁画修复师的视角，穿越时空再现龟兹千年乐舞的盛世辉煌。8月1日周六20:00/8月2日周日15:00。\n地点: 光明区光明文化艺术中心大剧场\n时间: 2026-08-01 至 2026-08-02\n详情: https://mp.weixin.qq.com/s/5qRpHhsfrHTUKyA5qNTMEg
+END:VEVENT
+BEGIN:VEVENT
+UID:b95ed95e650c3ab8@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:武汉杂技厅魔术表演
+LOCATION:武汉杂技厅
+DESCRIPTION:奇幻魔术表演专场，近景与舞台魔术轮番呈现。\n地点: 武汉杂技厅\n时间: 2026-08-01 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:adef586cd8ab2cfd@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:2026西安第五届环梦动漫展
+LOCATION:西安浐灞丝路国际文化艺术中心
+DESCRIPTION:本届环梦动漫展邀请多位嘉宾，好玩好逛的暑期漫展。\n地点: 西安浐灞丝路国际文化艺术中心\n时间: 2026-08-01 至 2026-08-02\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:5ec395c7d5c32b02@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:王力宏"最好的地方II"巡回演唱会-西安站
+LOCATION:西安奥体中心体育场
+DESCRIPTION:王力宏"最好的地方II"巡演西安站，奥体中心体育场连开两场。\n地点: 西安奥体中心体育场\n时间: 2026-08-01 至 2026-08-02\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:110b8002ced16eae@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:重庆糖画体验活动
+LOCATION:十八梯
+DESCRIPTION:糖画艺人现场示范，指导用热糖浆绘制生肖图案，甜蜜又有趣。\n地点: 十八梯\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:588cbc6d61353f80@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:红岩村革命旧址研学
+LOCATION:重庆红岩革命历史博物馆
+DESCRIPTION:走进红岩村十三军办事处旧址，了解周恩来等革命家在渝工作生活。\n地点: 重庆红岩革命历史博物馆\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:d59f765ff0b0cbdf@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:数智课堂·光影仙子蝴蝶团扇
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。数智课堂·光影仙子蝴蝶团扇\n地点: 南山图书馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://activity.nslib.cn/activity/info/11727\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:c3dee89cd1763745@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:“国粹流芳·余韵绵长”湾区京剧清赏会
+LOCATION:福田音乐馆
+DESCRIPTION:演出，深圳市文化广电旅游体育局、深圳广播电影电视集团、中共深圳市福田区委宣传部，在福田音乐馆举办\n地点: 福田音乐馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=1269d085155e4bbbb6494b9b73e85192
+END:VEVENT
+BEGIN:VEVENT
+UID:cadbec18187bdc38@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:抢票 | 致敬长征精神，公益儿童剧《向着光亮的地方》于8月1日深圳盐田连演两场
+LOCATION:盐田区文化馆
+DESCRIPTION:演出，深圳市儿童戏剧研究会，在盐田区文化馆举办\n地点: 盐田区文化馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=2fd7af63da3d4f9091b2e392e06d1e4b
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3eac856e298e6a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:AI 时代，你的下一步怎么走？AI 转型分享会
+LOCATION:福田梦工场
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田梦工场举办\n地点: 福田梦工场\n时间: 2026-08-01 至 2026-08-01\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=79a6b72895d14b69a4a87fc79b828ba8
+END:VEVENT
+BEGIN:VEVENT
+UID:4fffe9b6d2ca5a81@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:书影英语 | 《触不可及》
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。书影英语 | 《触不可及》\n地点: 南山图书馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://activity.nslib.cn/activity/info/11728\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:a24bb358d699ef18@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:数智课堂|光影仙子蝴蝶团扇
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。数智课堂|光影仙子蝴蝶团扇\n地点: 南山图书馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://activity.nslib.cn/activity/info/11727\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:f470ef798ef27661@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。黑胶音乐分享会 | 唱片里的中国力量 ——黑胶珍藏中的八一记忆\n地点: 南山图书馆\n时间: 2026-08-01 至 2026-08-01\n详情: https://activity.nslib.cn/activity/info/11729\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3e8027af463b0e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:中超联赛 深圳新鹏城 vs 重庆铜梁龙
+LOCATION:深圳市体育中心体育场
+DESCRIPTION:2026赛季中超联赛，深圳新鹏城主场。开球时间20:00。\n地点: 深圳市体育中心体育场\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.szsportscenter.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:e36dded58b906038@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:2026“星光大浪”青年歌手大赛--季赛
+LOCATION:大浪街道综合文化服务中心
+DESCRIPTION:赛事，深圳市龙华区文化广电旅游体育局、深圳市龙华区群团工作部、深圳市龙华区大浪街道党工委、办事处，在大浪街道综合文化服务中心举办\n地点: 大浪街道综合文化服务中心\n时间: 2026-08-01 至 2026-08-01\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8801acd98b364d11ab63ab78ffb8c6d0
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7a69a1ffe43eb7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:2026凤凰街道文化惠民工程系列之“弘扬八一精神 传承红色基因”爱国星灯DIY活动
+LOCATION:甲子塘社区综合性文化服务中心
+DESCRIPTION:其它，光明区公共文化艺术和体育中心，在甲子塘社区综合性文化服务中心举办\n地点: 甲子塘社区综合性文化服务中心\n时间: 2026-08-01 至 2026-08-01\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e722cd6607d14d2cb7ecb8460fffbe8e
+END:VEVENT
+BEGIN:VEVENT
+UID:d46baa14dc47fc3e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:微运动唤醒计划
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:1.八段锦功法精讲带练2.健康减压五禽戏之鸟戏教学3.经络拍打养生操；主讲人：余裕昌；余裕昌，深圳市宝安纯中医治疗医院治未病中心副主任医师、硕导、第六批全国名老中医药学术经验继承人、中华中医药学会体质分会委员、中国中西医结合学会养生学专业委员会委员、中国医药卫生事业发展基金会功能医学专家委员会常务委员、国家健身气功一级社会体育指导员、一级裁判员。；地点：宝安区图书馆多功能活动室；地址：宝安区宝兴路1号宝安图书馆负一楼多功能活动室；方式：线下；咨询：活动无需预约，请着舒适衣物和运动鞋前往参加，场地有限，人满即止。；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn\n联系: 活动无需预约，请着舒适衣物和运动鞋前往参加，场地有限，人满即止。
+END:VEVENT
+BEGIN:VEVENT
+UID:288c325450e6ef44@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《长个不停的腿》；主讲人：龙湘英；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:725013d18825718a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:“童心”领读：绘本阅读从“听”到“说”
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:绘本做为幼儿及儿童时期最佳读物，不仅可以培养孩子丰富的想象力、阅读和理解能力、语言表达能力，同时有助于亲子阅读和陪伴阅读。尤其在幼小衔接中最重要的是，一是培养良好的生活和学习习惯，二是养成积极主动的阅读习惯。很多家长认为阅读只是看和读，而完整的阅读，尤其在幼儿及儿童阶段应包含听、看、读、说，缺一不可。如何让绘本阅读更精彩，让孩子们爱上阅读？；主讲人：老豆【原名曹广浩】；绘本作家，绘本阅读推广人
+深圳文化创意产业十佳原创人
+深圳市十大卡通形象金奖
+“有声绘本馆”创始人，从事儿童教育二十年
+深圳市认定的高层次专业人才
+深圳市罗湖区政协委员
+武汉大学图书情报学院学士
+日本东京经济大学经济学硕士/博士
+日本文部省国费奖学生、朝日新闻奖学生
+
+原创作品有：
+《我爱我家》亲情友爱系列、《钱豆豆》儿童财商启蒙教育系列、《老树新丫》经典传统童话故事系列、《清风园》廉洁文化教育系列、《小本特讲习所》核心价值观系列绘本、《原来如此》趣味科普系列......等300多部绘本作品；
+以及《童谣天地》儿童诗系列，《动物园真相》动漫画系列等作品。；地点：宝安区图书馆报告厅2；地址：宝安区宝兴路1号宝安图书馆负一楼\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:c361be0e80ed4b23@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:启阅90｜启航阅读：《夏洛特的小猪钱罐》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间请以实际活动现场为准。此活动隶属1990分馆，活动名额为30名。撷一缕温柔的光，寻一场书香烂漫！启航阅读，由热爱阅读的志愿者在图书馆为读者分享图书，带领读者体验不同的阅读方式，打造有深度、有广度的多元阅读。最美的时光，在书里；最美的“悦”读，从这里启航！；地点：1990分馆二楼婴幼儿阅览区；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:efbc9dc1d14165ba@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《无敌破坏王》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:c8622ae17be4e82b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:清平“阅” | 电影展映《哈利·波特与死亡圣器 上》
+LOCATION:宝安图书馆 (宝安区图书馆新桥街道分馆)
+DESCRIPTION:此活动隶属新桥街道分馆。邓不利多死后，伏地魔与食死徒入侵魔法学校，魔法部也被伏地魔的爪牙操控，邪恶的阴云笼罩魔法世界上空。在哈利·波特17岁生日之际，凤凰社成员及一众好友护送他回到了凤凰社的据点陋居，然而这立即遭到食死徒毁灭性的打击。哈利和罗恩、赫敏侥幸逃亡，并且按照邓不利多的嘱托继续寻找伏地魔的魂器。【活动地点】新桥街道分馆三楼活动室 【参与方式】活动室入口签到处签到参与。；地点：新桥街道分馆三楼活动室；地址：宝安区中心路36号新桥文化艺术东楼三、四楼新桥街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新桥街道分馆)\n时间: 2026-08-01 至 2026-08-01\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:ba15c239ac7cdf7b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:2026编舞戏法国际舞蹈周·舞蹈影像终评展映
+LOCATION:光明区光明文化艺术中心美术馆四楼多功能厅
+DESCRIPTION:2026编舞戏法国际舞蹈周舞蹈影像终评，16部入围优质舞蹈影像作品线下完整展映。近距离感受舞蹈影像独有的镜头叙事，为直击内心的优质作品投票。招募100人，免费参与。\n地点: 光明区光明文化艺术中心美术馆四楼多功能厅\n时间: 2026-08-01 至 2026-08-01\n详情: http://m.toutiao.com/group/7668631808560448050/
+END:VEVENT
+BEGIN:VEVENT
+UID:6615c10107593285@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:盘龙城遗址博物院小小考古家
+LOCATION:盘龙城遗址博物院
+DESCRIPTION:在模拟探方中学习发掘记录，做一名小小考古家。\n地点: 盘龙城遗址博物院\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:41e6f349df4dbcbf@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:武汉科技馆生命展厅探秘
+LOCATION:武汉科技馆
+DESCRIPTION:从细胞到人体，在生命展厅揭开生命的神秘面纱。\n地点: 武汉科技馆\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:86c00dafeb591078@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:中科院武汉植物园药草园探秘
+LOCATION:中科院武汉植物园
+DESCRIPTION:走进药草园认识常见中草药，了解中医药文化。\n地点: 中科院武汉植物园\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab3fcc53fa8b8c3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:后官湖湿地公园骑行
+LOCATION:后官湖湿地公园
+DESCRIPTION:沿后官湖环湖绿道骑行，呼吸天然氧吧。\n地点: 后官湖湿地公园\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:71bd85938b792341@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:武汉市少年儿童图书馆手工绘本制作
+LOCATION:武汉市少年儿童图书馆
+DESCRIPTION:手工绘本制作工作坊，创作属于自己的绘本。\n地点: 武汉市少年儿童图书馆\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:224dd2f02d14a4ef@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:江滩夜跑嘉年华
+LOCATION:汉口江滩公园
+DESCRIPTION:江滩夜跑嘉年华，荧光跑与音乐派对结合。\n地点: 汉口江滩公园\n时间: 2026-08-01 至 2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:12a18d161f025696@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:韦礼安【HI WEI,您好】巡回演唱会-武汉站
+LOCATION:光谷国际网球中心
+DESCRIPTION:一场拨通心灵的电话，一次期待重逢的问候，韦礼安武汉站开唱。\n地点: 光谷国际网球中心\n时间: 2026-08-01 至 2026-08-01\n详情: https://wh.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:b2599def5ee8d20a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:姜育恒"再回首·我心依旧"巡回演唱会-西安站
+LOCATION:陕西大剧院
+DESCRIPTION:姜育恒"再回首·我心依旧"巡演西安站，8月1日陕西大剧院。\n地点: 陕西大剧院\n时间: 2026-08-01 至 2026-08-01\n详情: https://xa.bendibao.com/xiuxian/huodongditu
+END:VEVENT
+BEGIN:VEVENT
+UID:7856f403688bc5ef@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260804
+SUMMARY:恐龙化石发掘体验营
+LOCATION:重庆自然博物馆
+DESCRIPTION:模拟古生物学家工作场景，孩子们亲手体验化石发掘、清理与修复全过程。\n地点: 重庆自然博物馆\n时间: 2026-08-02 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c2776786dbcdb0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:3D打印创意工坊
+LOCATION:重庆科技馆
+DESCRIPTION:了解3D打印原理，亲手建模并打印一件专属创意作品带回收藏。\n地点: 重庆科技馆\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:14c0299d35e34cc9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:重庆中央公园风筝节
+LOCATION:重庆中央公园
+DESCRIPTION:风筝节邀请市民同放飞筝，设有手绘风筝体验区与风筝放飞比赛。\n地点: 重庆中央公园\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:48428f4f89677701@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:重庆动物园爬行动物馆探秘
+LOCATION:重庆动物园
+DESCRIPTION:参观蛇、龟、蜥蜴等爬行动物，了解变温动物的生存智慧与保护现状。\n地点: 重庆动物园\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:0313feb76573526d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:重庆图书馆古诗词大会
+LOCATION:重庆图书馆
+DESCRIPTION:少儿古诗词背诵与飞花令比赛，传承中华诗词文化，设精美奖品。\n地点: 重庆图书馆\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:341aa1ce1360b2ae@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:金佛山森林氧吧体验
+LOCATION:金佛山
+DESCRIPTION:在金佛山原始森林漫步呼吸负氧离子，开展森林疗愈与自然冥想。\n地点: 金佛山\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:29915d5cd767f493@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:奥体中心亲子马拉松
+LOCATION:南京奥林匹克体育中心
+DESCRIPTION:奥体中心亲子马拉松在田径场绕圈进行，设1公里亲子组与3公里挑战组，全家共奔跑。\n地点: 南京奥林匹克体育中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:3c80fd727e5896fc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:享趣龙岗•艺脉相传2026年龙岗区“非遗在社区”系列活动——“非遗传薪•客韵悠扬”布吉客家音乐会
+LOCATION:布吉街道文化站
+DESCRIPTION:演出，深圳市龙岗区文化广电旅游体育局，在布吉街道文化站举办\n地点: 布吉街道文化站\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7ac4c8860b1340a28b67eadca0497053
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9a6aeb1349610f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Callout 粤语 Free Talking 畅所欲言，自在开麦
+LOCATION:福田梦工场
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田梦工场举办\n地点: 福田梦工场\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=abf1d6bb4efc46c68e9ab826fe2715f7
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebe2614fe5bcad0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:麦当劳·开心派对
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=f8253ed8fa704549a1aebb045b92f8ea
+END:VEVENT
+BEGIN:VEVENT
+UID:29311bc24a5175be@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:艺术荟·音阅共生 | 音画里的哲思
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。艺术荟·音阅共生 | 音画里的哲思\n地点: 南山图书馆\n时间: 2026-08-02 至 2026-08-02\n详情: https://activity.nslib.cn/activity/info/11724\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:a73e8128e5973108@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:法律咨询
+LOCATION:南山图书馆
+DESCRIPTION:法律咨询。南山图书馆举办。\n地点: 南山图书馆\n时间: 2026-08-02 至 2026-08-02\n详情: https://activity.nslib.cn/activity/info/11745\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f30102cce50b2e@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:南图沙龙·心灵 | 心有边界，方得自由
+LOCATION:南山图书馆
+DESCRIPTION:需预约报名。南图沙龙·心灵 | 心有边界，方得自由\n地点: 南山图书馆\n时间: 2026-08-02 至 2026-08-02\n详情: https://activity.nslib.cn/activity/info/11723\n联系: 0755-26520380
+END:VEVENT
+BEGIN:VEVENT
+UID:93ecd7c2aebd1e70@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:玉塘街道“巧手创世界”手工活动——黑胶唱片涂鸦
+LOCATION:玉塘街道综合性文化服务中心
+DESCRIPTION:其它，玉塘街道办事处，在玉塘街道综合性文化服务中心举办\n地点: 玉塘街道综合性文化服务中心\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=16ba82fbc2e84ef9af91a3fe08b5e565
+END:VEVENT
+BEGIN:VEVENT
+UID:e4182604d31c3774@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:2026凤凰街道文化惠民工程系列之“巧手筑梦，星耀童心”爱国星DIY活动
+LOCATION:凤凰街道综合性文化服务中心
+DESCRIPTION:综合，光明区公共文化艺术和体育中心，在凤凰街道综合性文化服务中心举办\n地点: 凤凰街道综合性文化服务中心\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=279bf7d565c84501b390e04b6e62f4b7
+END:VEVENT
+BEGIN:VEVENT
+UID:4d90895d2a486dce@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:从引进到原创——华语音乐剧如何“唱”出自己的声音？
+LOCATION:福田戏剧馆
+DESCRIPTION:综合，福田区公共文化体育发展中心，在福田戏剧馆举办\n地点: 福田戏剧馆\n时间: 2026-08-02 至 2026-08-02\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=28400aa41a684171b0e436d9a67fc788
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2df6d1f297972c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:阅心纸艺：衍纸花DIY
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:图书馆“阅心纸艺”活动邀您现场体验衍纸花手工DIY。用彩色衍纸条，通过卷、捏、拼贴，制作出独一无二的衍纸花朵。零基础可参与，在专注的手作时光中，感受纸艺带来的专注与宁静。；地点：宝安区图书馆培训室3；地址：宝安区宝兴路1号宝安图书馆负一楼培训室3；方式：线下；咨询：报名时请确保可安全使用剪刀、镊子等工具。（活动咨询电话：27789800）；主办：深圳市宝安区公共文化体育服务中心\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn\n联系: 报名时请确保可安全使用剪刀、镊子等工具。（活动咨询电话：27789800）
+END:VEVENT
+BEGIN:VEVENT
+UID:342f4fafca59b704@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:“童心”领读：婴幼儿故事会（周末版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由“童心”领读人及社会机构通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。本期活动主题：《小猫头鹰》；主讲人：邱景研；地点：宝安区图书馆数字党建馆；地址：宝安区宝兴路1号宝安图书馆一楼数字党建馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:82456182fa43ae30@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。本期活动主题：《小猪的下午茶》；主讲人：刘萍；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:25a44ebfd4f62521@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:“童心”领读：少儿英语乐园--The Town Mouse and the Country Mouse《城市老鼠和乡下老鼠》
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:暖场游戏、绘本故事导读、词汇学习+游戏互动、问答+讨论；主讲人：小讲师 Emmy；睿语国际教育优秀学员；9岁，荔园小学4年级；英文蓝思值400L+;爱好唱歌、阅读；地点：宝安区图书馆数字党建馆；地址：宝安区宝兴路1号宝安图书馆一楼数字党建馆；方式：线下；咨询：0755-27783514（活动咨询电话），参与对象：4-7岁儿童；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询电话），参与对象：4-7岁儿童
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c3e5160066bc42@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:北境以南：一次跨越森林、民族与边境的深度内蒙古之旅
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:俗话说：“看草原去内蒙，看雪山去西藏，看花海去新疆。”但在东蒙的边境线上，大自然却打破了这种刻板印象——这里不仅有风吹草低的绝美草原，更藏着大兴安岭三分之二的浩瀚原始森林。 这一次，让我们去一个一半是林海、一半是口岸的冷门秘境。；主讲人：大雨；钟发然，江门人，笔名（网名）大雨，自1995年念大学时与一帮同学好友组织外出旅行后，对于行走在祖国的大好河山之间沉醉不已，因而也喜欢上了风光摄影。1997年拥有第一台胶片单反相机；2004年拥有第一台数码单反；曾担任多个户外及摄影论坛的摄影版主。；地点：宝安区图书馆报告厅2；地址：宝安区宝兴路1号宝安图书馆负一楼报告厅2；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:702e9acb91d2d483@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:启阅90｜图图姐姐讲故事·周末版：《猜一猜我是谁？》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，结束时间以实际活动现场为准。此活动隶属1990分馆，活动名额为20名，活动对象为3-9岁儿童。眼中有光，心中有爱，宝安图书馆1990分馆启阅童书线下图图姐姐讲故事，由专业的图书馆员带领读者打开绘本世界，听说读看，全方位玩转绘本，品味绘本魅力，感受神奇的阅读盛宴！【预约须知】1、活动开始前15分钟开始签到，活动开始即停止签到，迟到或缺席的名额将被释放给现场候补读者；2、报名参与活动即同意将照片授权给宝安区图书馆1990分馆非盈利性使用。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:84e1769504e55a7b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:启阅90｜启映拾光·快乐暑假主题《无敌破坏王2》
+LOCATION:宝安图书馆 (宝安1990分馆)
+DESCRIPTION:活动时间仅供参考，实际结束时间以活动现场为准。此活动隶属1990分馆。影像源于生活，更启发生活，影像的语言艺术魅力能让文字和画面跃动，1990分馆提供多种艺术语言的交流平台，让读者畅飞想象、乐于影中。由图书馆员结合相应的主题，汇聚古今中外优秀电影著作及纪录片。快来看电影吧~仅预约读者可以参与三折叠阅读树集章。；地点：1990分馆一楼多功能厅；地址：宝安区新安二路72号1990分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安1990分馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:e120eebb118f9f2a@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:当代舞蹈创作沙龙：在创作与观演之间
+LOCATION:光明区光明文化艺术中心美术馆四楼多功能厅
+DESCRIPTION:沙龙从创作起点与观演关系两个层面展开。「创作·好奇」板块聚焦艺术家创作起点，「观演·平衡」板块围绕艺术家、作品与观众之间的关系。招募100人，免费参与。\n地点: 光明区光明文化艺术中心美术馆四楼多功能厅\n时间: 2026-08-02 至 2026-08-02\n详情: http://m.toutiao.com/group/7668631808560448050/
+END:VEVENT
+BEGIN:VEVENT
+UID:20d8c6956436e031@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:小博士百科知识挑战擂台赛
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 少儿服务区多功能活动室
+地址：福田区福中一路2001号深圳图书馆少儿服务区多功能活动室
+备注：6-12岁少儿读者\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655872&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f792c92d5b4714@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:筝韵流芳·沉浸式民乐聆赏会
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约
+备注：专业级高保真音响 + CD纯聆听模式，9:30开放入场，同步播放暖场导赏视频，邀你沉浸式体验纯粹音质。\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656878&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:404d2fe97a3f8453@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:书海探底第648场——暑期少儿专场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657136&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:f293d4940b7d7aed@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:夏日科幻季——《沙丘》
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 五楼聚艺厅
+地址：福田区福中一路2001号深圳图书馆五楼聚艺厅
+需预约\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=655672&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:29b760a06ab772ba@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:阅享生活·哲学思想沙龙——一叶知秋：从变化中感知存在
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆、中观大湾区城市书院
+地点：北馆 1F北书房
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=651298&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:0cba7f8bc47a8264@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:书海探底第649场——暑期少儿专场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 智慧书库
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657138&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:519478a547ed8461@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:惊天动地
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F观影厅
+地址：龙华区腾龙路30号
+备注：年龄要求：年满12周岁以上。
+参与方式：观影座位不指定，影厅提供38个座位（包括28个标准座椅+10个坐垫），按排队顺序进厅入座，先到先得。\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656698&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:86738557905a1370@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:悦讲：《爱丽丝漫游奇境》创意读写
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+需预约
+备注：参与活动建议提前阅读本书\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656204&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:0f4f615200aa7e5c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:“深读”读书沙龙 | 从绘本到英文原著，如何培养孩子的英文阅读习惯？ ——普通家庭也能做到的家庭阅读方法
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼南书房
+地址：福田区福中一路2001号深圳图书馆一楼南书房\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-02 至 2026-08-02\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=639638&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:d565138288fdbbd4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:东湖樱花园夏日养护课堂
+LOCATION:东湖风景区
+DESCRIPTION:走进樱花园学习夏季养护知识，了解樱花生长。\n地点: 东湖风景区\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:d2711dd7390c4519@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:中山公园花卉科普
+LOCATION:中山公园
+DESCRIPTION:围绕园内花卉开展科普讲解，认识常见园林植物。\n地点: 中山公园\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:76a7fd2d265c611b@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:武汉图书馆亲子手工坊
+LOCATION:武汉图书馆
+DESCRIPTION:亲子手工坊制作创意书签与立体贺卡。\n地点: 武汉图书馆\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:c04eab17e173c762@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:武汉体育中心击剑体验
+LOCATION:武汉体育中心
+DESCRIPTION:击剑体验课，绅士运动培养专注与反应。\n地点: 武汉体育中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:e5684fab5f7dcb5f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:武汉全民健身中心街舞
+LOCATION:武汉全民健身中心
+DESCRIPTION:少儿街舞体验课，节奏与律动中释放活力。\n地点: 武汉全民健身中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:53e54da2d2d95e86@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:珠海大剧院亲子音乐剧
+LOCATION:珠海大剧院
+DESCRIPTION:适合全家观看的亲子音乐剧，在日月贝造型的海上歌剧院享受亲子时光。\n地点: 珠海大剧院\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:dd694730afea03f3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:金海岸文化艺术中心社区文艺汇演
+LOCATION:金海岸文化艺术中心
+DESCRIPTION:金海岸社区文艺汇演，各社区文艺队伍同台演出，展现社区文化风采。\n地点: 金海岸文化艺术中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a4c6df3edab992@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:横琴文化艺术中心亲子工作坊
+LOCATION:横琴文化艺术中心
+DESCRIPTION:横琴文化艺术中心亲子工作坊，含手工制作、绘画等亲子艺术活动，免费参与。\n地点: 横琴文化艺术中心\n时间: 2026-08-02 至 2026-08-02
+END:VEVENT
+BEGIN:VEVENT
+UID:557f657f5b9f8dcf@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260805
+SUMMARY:冬病夏治正当时，马峦社区三伏贴义诊
+LOCATION:马峦社区公共文化服务中心
+DESCRIPTION:综合，公共文化服务中心，在马峦社区公共文化服务中心举办\n地点: 马峦社区公共文化服务中心\n时间: 2026-08-03 至 2026-08-04\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e169ac2d0d5b4b16a6763f25323c304e
+END:VEVENT
+BEGIN:VEVENT
+UID:c83ab18e8f0e5937@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:仙女山草原野餐派对
+LOCATION:仙女山国家森林公园
+DESCRIPTION:在仙女山大草原举办亲子野餐派对，自带美食共享，草原游戏助兴。\n地点: 仙女山国家森林公园\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:0ffe7ad80854892d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动
+LOCATION:坂田街道文化站
+DESCRIPTION:综合，龙岗区坂田街道马安堂社区党群服务中心，在坂田街道文化站举办\n地点: 坂田街道文化站\n时间: 2026-08-03 至 2026-08-03\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=92ee6aa86216405492ab6b439593aa66
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcfd04fc90cf159@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:美丽星期天——合唱音乐会
+LOCATION:深圳音乐厅
+DESCRIPTION:深圳合唱团公益演出，15:00。免费领票。\n地点: 深圳音乐厅\n时间: 2026-08-03 至 2026-08-03\n详情: https://www.shenzhenconcerthall.com
+END:VEVENT
+BEGIN:VEVENT
+UID:1412a2bab69d2075@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:湖北省科学技术馆人工智能体验
+LOCATION:湖北省科学技术馆
+DESCRIPTION:体验人脸识别与语音交互，初识人工智能原理。\n地点: 湖北省科学技术馆\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:34d8cfa03444d7f4@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:湖北省图书馆少儿编程公益课
+LOCATION:湖北省图书馆
+DESCRIPTION:少儿编程公益课，图形化编程启蒙计算思维。\n地点: 湖北省图书馆\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:bd93229b435a47a6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:黄鹤楼公园楚文化研学
+LOCATION:黄鹤楼公园
+DESCRIPTION:以黄鹤楼为窗口，开展楚文化主题深度研学。\n地点: 黄鹤楼公园\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:f75a586910be38ac@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:珠海博物馆考古体验活动
+LOCATION:珠海博物馆
+DESCRIPTION:珠海博物馆考古体验活动，模拟考古发掘，了解考古知识，适合中小学生参与。\n地点: 珠海博物馆\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:1a36dc66dcf4e270@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:斗门区文化馆粤剧表演
+LOCATION:斗门区文化馆
+DESCRIPTION:斗门区文化馆粤剧表演活动，本地粤剧团体演出经典曲目，免费观看。\n地点: 斗门区文化馆\n时间: 2026-08-03 至 2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+UID:868da1898211ffe7@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260806
+SUMMARY:KACE 2026 AI赋能跨境电商与海外达人合作展览会
+LOCATION:深圳会展中心
+DESCRIPTION:KACE 2026 AI赋能跨境电商与海外达人合作展览会，2026-08-04至2026-08-05，深圳会展中心。高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;\n地点: 深圳会展中心\n时间: 2026-08-04 至 2026-08-05\n详情: https://www.szcec.com\n联系: 高帆破浪科技（浙江）有限责任公司 唐炜&nbsp; &nbsp; &nbsp;15819327125&nbsp;&nbsp;
+END:VEVENT
+BEGIN:VEVENT
+UID:08d8ee21dc274790@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:重庆面塑手作体验
+LOCATION:十八梯
+DESCRIPTION:面塑艺人教授捏面人技艺，用彩色面团捏制卡通人物造型。\n地点: 十八梯\n时间: 2026-08-04 至 2026-08-04
+END:VEVENT
+BEGIN:VEVENT
+UID:6b20bbe54e93b092@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:歌乐山烈士陵园祭扫
+LOCATION:歌乐山烈士陵园
+DESCRIPTION:在烈士陵园举行祭扫仪式，敬献花圈，重温革命先烈英勇事迹。\n地点: 歌乐山烈士陵园\n时间: 2026-08-04 至 2026-08-04
+END:VEVENT
+BEGIN:VEVENT
+UID:1e05523ce41c89ed@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:桂粤少年⺠乐汇——广⻄少儿国乐剧《刘三姐》公益展演
+LOCATION:宝安区文化馆西乡街道分馆
+DESCRIPTION:综合，支持单位：中共深圳市宝安区委统战部 深圳市宝安区公共文化体育服务中心 。主办单位：广西文化艺术中心广西文化艺术中心，在宝安区文化馆西乡街道分馆举办\n地点: 宝安区文化馆西乡街道分馆\n时间: 2026-08-04 至 2026-08-04\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bff68de7bd5d46faa6d07e1f94ce11f2
+END:VEVENT
+BEGIN:VEVENT
+UID:73d3675a4bdb0c9f@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:悦创手工课：爱丽丝漫游奇境（一）
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656205&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:203486754b9074e0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:律动四季系列8月音乐赏析下午场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657529&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:67a2b3723f539913@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652475&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:ee6e48ab0a4cffca@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:律动四季系列8月音乐赏析晚上场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657568&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:4965bf9395737c06@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:“童心”领读：和孩子一起读童书（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:领读人暑假期间开展沉浸式绘本领读，依托互动、手工、绘画等形式，引导孩子理解故事、沉浸其中，培养阅读兴趣，点亮童年阅读时光。；地点：宝安区图书馆少儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼少儿馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:593b3e87d8b61af3@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:“童心”领读：婴幼儿故事会（暑假版）
+LOCATION:宝安图书馆 (宝安区图书馆)
+DESCRIPTION:由图书馆馆员、“童心”领读人通过绘本故事、角色扮演、韵律律动、体能运动、创意手工等活动，培养婴幼儿早期阅读习惯，促进婴幼儿身心全面发展。；地点：宝安区图书馆婴幼儿图书馆；地址：宝安区宝兴路1号宝安图书馆一楼婴幼儿图书馆；方式：线下；咨询：0755-27783514（活动咨询及预约电话）；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.balib.cn\n联系: 0755-27783514（活动咨询及预约电话）
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd58149d67f9df0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:阅体“yue”|图图姐姐讲故事《阿嬷家》
+LOCATION:宝安图书馆 (宝安区图书馆新安街道分馆)
+DESCRIPTION:本活动隶属新安街道分馆。阿嬷家中堆满承载回忆的旧物件，这里是小孙女探险寻宝的乐园。阿嬷需要搬家，一家人一同整理物品，学习取舍与告别。这个故事带我们感受旧物里珍藏的温情记忆，引导孩子理解珍惜与放下的意义，体会家人之间温暖的陪伴。；地点：新安街道分馆少儿阅览室；地址：宝安区留仙二路庭威工业园东侧约60米（乐动力·新安文体中心二楼）新安街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新安街道分馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5b15b8c48fae9c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:阅体悦|影视漫时光《疯狂动物城2》
+LOCATION:宝安图书馆 (宝安区图书馆新安街道分馆)
+DESCRIPTION:此活动隶属于新安街道分馆。一个神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，警官兔朱迪（金妮弗·古德温 Ginnifer Goodwin 配音）与狐尼克（杰森·贝特曼 Jason Bateman 配音）将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市，一场疯狂动物城的全新冒险即将展开……；地点：新安街道分馆报告厅；地址：宝安区留仙二路庭威工业园东侧约60米（乐动力·新安文体中心二楼）新安街道分馆；方式：线下；主办：宝安区图书馆\n地点: 宝安图书馆 (宝安区图书馆新安街道分馆)\n时间: 2026-08-04 至 2026-08-04\n详情: https://www.balib.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:dd64b6b1a254c13c@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:中山舰博物馆抗战历史课堂
+LOCATION:中山舰博物馆
+DESCRIPTION:以中山舰为切入点，讲述武汉会战与抗战历史。\n地点: 中山舰博物馆\n时间: 2026-08-04 至 2026-08-04
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bf0e4466267f82@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:辛亥革命武昌起义纪念馆革命文物探秘
+LOCATION:辛亥革命武昌起义纪念馆
+DESCRIPTION:探秘馆内革命文物，了解文物背后的故事。\n地点: 辛亥革命武昌起义纪念馆\n时间: 2026-08-04 至 2026-08-04
+END:VEVENT
+BEGIN:VEVENT
+UID:4aeed532d0a106d6@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:珠海市图书馆电影放映活动
+LOCATION:珠海市图书馆
+DESCRIPTION:珠海市图书馆公益电影放映活动，播放经典文化主题电影，免费入场。\n地点: 珠海市图书馆\n时间: 2026-08-04 至 2026-08-04
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e52598f1c48102@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:重庆融创雪世界冰雪课堂
+LOCATION:重庆融创雪世界
+DESCRIPTION:科普冰雪形成原理与冬奥项目知识，含冰雕制作与雪地科学实验。\n地点: 重庆融创雪世界\n时间: 2026-08-05 至 2026-08-05
+END:VEVENT
+BEGIN:VEVENT
+UID:6074f4f87251a10d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:缙云山植物标本制作
+LOCATION:缙云山自然保护区
+DESCRIPTION:在缙云山采集植物叶片制作标本，学习植物分类与标本保存方法。\n地点: 缙云山自然保护区\n时间: 2026-08-05 至 2026-08-05
+END:VEVENT
+BEGIN:VEVENT
+UID:6930595a9cf12b4d@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:2026年光明街道白花社区手链串珠手工活动
+LOCATION:白花社区综合性文化服务中心
+DESCRIPTION:公益，光明区光明街道办事处，在白花社区综合性文化服务中心举办\n地点: 白花社区综合性文化服务中心\n时间: 2026-08-05 至 2026-08-05\n详情: https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ffd769ebbc4f4c52838ad580067cf67f
+END:VEVENT
+BEGIN:VEVENT
+UID:29c6bb63ba44b6dc@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:悦创手工课：爱丽丝漫游奇境（二）
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 1F少儿区洞洞剧场
+地址：深圳市龙华区腾龙路30号
+需预约\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=656206&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:c9323803c1adfcb9@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:律动四季系列8月音乐赏析下午场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657534&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:02d3b1f8b34e8540@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:萌趣啪嗒猫·童心迎 APEC： 暑期英语绘本课堂
+LOCATION:深圳图书馆 (深圳图书馆中心馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：中心馆 一楼讲读厅
+地址：福田区福中一路2001号深圳图书馆一楼讲读厅\n地点: 深圳图书馆 (深圳图书馆中心馆)\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=652476&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:38a504d437344508@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:律动四季系列8月音乐赏析晚上场
+LOCATION:深圳图书馆 (深圳图书馆北馆)
+DESCRIPTION:主办方：深圳图书馆
+地点：北馆 3F HiFi室
+地址：深圳市龙华区腾龙路30号\n地点: 深圳图书馆 (深圳图书馆北馆)\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szlib.org.cn/m/activity/lectureInfo.jsp?id=657569&year=2026&month=8&customizedUrl=salon
+END:VEVENT
+BEGIN:VEVENT
+UID:8b64518b836798c0@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:俄罗斯冰上芭蕾《胡桃夹子》
+LOCATION:深圳滨海艺术中心
+DESCRIPTION:俄罗斯圣彼得堡国家冰上芭蕾舞团演出，经典童话改编。\n地点: 深圳滨海艺术中心\n时间: 2026-08-05 至 2026-08-05\n详情: https://www.szbo.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9a15be0b317ab5@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:武汉博物馆近代汉口商埠研学
+LOCATION:武汉博物馆
+DESCRIPTION:走进近代汉口商埠展厅，了解东方芝加哥的崛起历程。\n地点: 武汉博物馆\n时间: 2026-08-05 至 2026-08-05
+END:VEVENT
+BEGIN:VEVENT
+UID:4f7965287c237663@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:武汉科技馆化学魔术秀
+LOCATION:武汉科技馆
+DESCRIPTION:用化学变化演绎魔术奇观，揭秘变色与发光原理。\n地点: 武汉科技馆\n时间: 2026-08-05 至 2026-08-05
+END:VEVENT
+BEGIN:VEVENT
+UID:d69d352fcbee9831@goout-past
+DTSTAMP:20260808T001502Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:武汉动物园鸟类展区研学
+LOCATION:武汉动物园
+DESCRIPTION:在鸟类展区观察各种珍禽，学习鸟类生态知识。\n地点: 武汉动物园\n时间: 2026-08-05 至 2026-08-05
+END:VEVENT
+END:VCALENDAR
