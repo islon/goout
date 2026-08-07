@@ -36914,18 +36914,25 @@
   },
   {
     "title": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛",
-    "venue": "宝安体育中心",
+    "venue": "宝安体育馆",
     "start_date": "2026-08-08",
     "end_date": "2026-08-09",
-    "link": "",
-    "description": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛将于8月8日至9日在深圳宝安体育馆开打，羽毛球界重磅盛宴，海峡两岸青少年选手同场竞技。",
+    "link": "https://www.sznews.com/news/content/mb/2026-08/07/content_32143444.htm",
+    "description": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛于8月8-9日在深圳宝安体育馆（宝安体育中心）举行，设U8-U16五个年龄组别，涵盖男单、女单、男双、女双四个项目，吸引海峡两岸暨港澳495名青少年选手参赛。8月9日决赛日林丹将亲临现场与选手及观众互动。",
     "category": "体育赛事",
-    "fee": "免费",
+    "fee": "免费需预约",
     "contact": "",
     "family_friendly": true,
-    "source": "手动录入-林丹杯海峡两岸青少年赛",
+    "source": "深圳新闻网",
+    "name": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛",
+    "url": "https://www.sznews.com/news/content/mb/2026-08/07/content_32143444.htm",
     "city": "shenzhen",
     "district": "宝安区",
-    "verified": false
+    "links": [
+      {
+        "url": "https://www.sznews.com/news/content/mb/2026-08/07/content_32143444.htm",
+        "label": "深圳新闻网报道"
+      }
+    ]
   }
 ]
