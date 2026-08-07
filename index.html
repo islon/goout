@@ -1258,7 +1258,7 @@
             align-items: center;
             gap: 8px;
             padding: 10px 16px;
-            max-width: 900px;
+            max-width: 1200px;
             margin: 0 auto;
         }
         .filter-nav-search {
@@ -1363,25 +1363,13 @@
         </div>
     </div>
 
-    <!-- sticky 筛选导航条（上滑收起时保留） -->
+    <!-- 顶部搜索栏：移动端 / 桌面端共用唯一搜索框，始终可见 -->
     <div class="filter-nav-bar" id="filter-nav-bar">
         <div class="filter-nav-inner">
             <div class="filter-nav-search">
                 <span class="nav-search-icon">🔍</span>
-                <input type="text" id="nav-search-input" placeholder="搜索活动、场馆...">
+                <input type="text" id="nav-search-input" placeholder="搜索活动、场馆、地点…" oninput="handleSearch()">
             </div>
-            <button class="smart-toggle-btn expanded" id="smart-toggle-btn" onclick="toggleSmartFilter()">
-                <span>筛选</span>
-                <span class="toggle-arrow">▲</span>
-            </button>
-        </div>
-    </div>
-
-    <!-- 可折叠的筛选面板 -->
-    <div class="filter-section-mobile">
-        <div class="search-container">
-            <span class="search-icon">🔍</span>
-            <input type="text" class="search-input" id="search-input" placeholder="搜索活动名称、地点..." oninput="handleSearch()">
         </div>
     </div>
 
@@ -1708,14 +1696,6 @@
 
     <div class="main-wrapper" id="main-wrapper">
         <aside class="sidebar">
-            <div class="sidebar-card">
-                <div class="sidebar-title">🔍 搜索</div>
-                <div class="search-container">
-                    <span class="search-icon">🔍</span>
-                    <input type="text" class="search-input" id="search-input-desktop" placeholder="搜索活动..." oninput="handleSearch()">
-                </div>
-            </div>
-
             <div class="sidebar-card">
                 <div class="sidebar-title">📍 城市</div>
                 <div class="filter-bar" id="city-filter-sidebar" style="flex-direction: column; gap: 6px;"><!-- 城市按钮由 output/cities.json 动态渲染 --></div>
@@ -2845,9 +2825,8 @@
         });
 
         function handleSearch() {
-            const mobileInput = document.getElementById('search-input');
-            const desktopInput = document.getElementById('search-input-desktop');
-            currentSearchQuery = (mobileInput ? mobileInput.value : '') || (desktopInput ? desktopInput.value : '') || '';
+            const navInput = document.getElementById('nav-search-input');
+            currentSearchQuery = navInput ? (navInput.value || '') : '';
             currentPage = 1;
             renderExhibitions();
         }
@@ -2870,8 +2849,8 @@
             localStorage.setItem('schedule_family_filter', 'family');
             localStorage.setItem('schedule_duration_filter', '3months');
 
-            document.getElementById('search-input').value = '';
-            document.getElementById('search-input-desktop').value = '';
+            const navInput = document.getElementById('nav-search-input');
+            if (navInput) navInput.value = '';
 
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
 
@@ -3392,20 +3371,7 @@
             }
         }, { passive: true });
 
-        // sticky 搜索框与原始搜索框双向同步
-        document.addEventListener('DOMContentLoaded', function() {
-            const navInput = document.getElementById('nav-search-input');
-            const origInput = document.getElementById('search-input');
-            if (navInput && origInput) {
-                navInput.addEventListener('input', function() {
-                    origInput.value = navInput.value;
-                    if (typeof handleSearch === 'function') handleSearch();
-                });
-                origInput.addEventListener('input', function() {
-                    navInput.value = origInput.value;
-                });
-            }
-        });
+        // 搜索框已合并为顶部唯一输入框，无需多框同步
     </script>
 
     <div class="miniapp-modal-mask" id="miniapp-modal" onclick="hideMiniappModal()">
