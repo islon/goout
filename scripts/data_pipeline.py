@@ -304,6 +304,15 @@ def normalize_activity(raw, venue_default=''):
     if not family_friendly:
         family_friendly = is_family_friendly(title, description, category)
 
+    # 4. 链接归一：raw.links(多链接数组，含 官方小程序/活动详情/新闻报道 等分类)
+    #    优先；否则把旧 link/url 转成带标签的 links，保证「所有活动都有可溯源链接」。
+    links = raw.get('links') or []
+    if not isinstance(links, list):
+        links = []
+    links = [l for l in links if isinstance(l, dict) and l.get('url')]
+    if not links and link:
+        links = [{'url': link.strip(), 'label': '活动详情'}]
+
     result = {
         'title': title,
         'name': title,
@@ -312,6 +321,7 @@ def normalize_activity(raw, venue_default=''):
         'end_date': end_date,
         'link': link,
         'url': link,
+        'links': links,
         'description': description,
         'category': category,
         'fee': fee,

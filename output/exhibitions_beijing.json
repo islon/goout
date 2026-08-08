@@ -14,7 +14,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.org.cn/cgzn/dqzl/zzrz/art/2026/art_54971cdc575c4e5b81338bc1554ea4c4.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国美术馆 从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
@@ -50,7 +56,13 @@
     },
     "verified": true,
     "venue_url": "https://www.namoc.org/",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "首都博物馆 玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -86,7 +98,13 @@
     },
     "verified": true,
     "venue_url": "https://www.capitalmuseum.org.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "玉米·黄金·美洲豹——玛雅与安第斯古代文明大展",
@@ -103,7 +121,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "other_beijing",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260518_4655125.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "植物庞贝城——乌达二叠纪化石精品展",
@@ -120,7 +144,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "other_beijing",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国国家博物馆 行·迹——卡塔尔游牧生活与文化展",
@@ -156,7 +186,13 @@
     },
     "verified": true,
     "venue_url": "https://www.chnmuseum.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "行·迹——卡塔尔游牧生活与文化展",
@@ -173,7 +209,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "chnmuseum",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国国家博物馆 巴西魂——波尔蒂纳里艺术展",
@@ -209,7 +251,13 @@
     },
     "verified": true,
     "venue_url": "https://www.chnmuseum.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京水长城暑期活动",
@@ -245,7 +293,13 @@
     },
     "verified": true,
     "venue_url": "https://www.huanghuacheng.com/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "呀路古热带植物园第十一届泼水节",
@@ -280,7 +334,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "哦吼！火星——火星探测与未来生活体验展",
@@ -297,7 +357,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "奇趣书海 夏梦成荫——首都图书馆2026暑期380场文化活动",
@@ -314,7 +380,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科技馆暑期科学实验秀",
@@ -331,7 +403,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.cdstm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科技馆夜场开放",
@@ -348,7 +426,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.cdstm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京天文馆暑期夜场",
@@ -365,7 +449,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国妇女儿童博物馆暑期展览",
@@ -382,7 +472,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.cwm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国消防博物馆暑期安全教育",
@@ -399,7 +495,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.cfm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -416,7 +518,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.paleozoo.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -433,7 +541,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://www.gardenmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "首都图书馆暑期活动",
@@ -450,7 +564,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.clcn.net.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -467,7 +587,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京海洋馆智慧海洋·生存大师季",
@@ -501,7 +627,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "chnmuseum",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京动物园暑期活动",
@@ -586,7 +718,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "other_beijing",
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.net.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -690,7 +828,13 @@
     },
     "verified": true,
     "venue_url": "https://www.mingshisanling.com/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中华世纪坛 南天门计划科幻科普主题展",
@@ -726,7 +870,13 @@
     },
     "verified": true,
     "venue_url": "https://www.worldartmuseum.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -743,7 +893,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北科展教坊专题课程",
@@ -760,7 +916,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北科剧院科学剧场",
@@ -777,7 +939,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "北京本地宝",
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "薛之谦\"万兽之王\"演唱会-北京站",
@@ -813,7 +981,13 @@
     },
     "verified": true,
     "venue_url": "https://www.n-s.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "故宫博物院暑期未成年人团队预约",
@@ -830,7 +1004,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "gugong",
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.dpm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家大剧院原创喜歌剧《三打白骨精》",
@@ -866,7 +1046,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://ticket.chncpa.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "文津阅新2026年第四期：《中国兵学二十讲》新书分享会",
@@ -902,7 +1088,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn/web/shouye/zuixinhuodong/20260624_2653491.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国典籍与文化系列讲座：丝绸之路上的“口袋书”",
@@ -938,7 +1130,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn/web/shouye/zuixinhuodong/zlyg/index.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京开瓶·独立酿造节",
@@ -973,7 +1171,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国园林博物馆暑期体验",
@@ -1009,7 +1213,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://www.gardenmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第三十一届圆明园荷花节暨“荷你有约”荷花主题中国画名家邀请展",
@@ -1044,7 +1254,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU4NTA2Mw==&mid=2687185633&idx=1&sn=b6a36a1eda2c02d5875041af6828e2be&chksm=82734e46c6ebbb34f7a7bd25f4455bb6a6f5fd515660f7db01eae437212baf9db9aeebca2c46",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京大兴区演出课程",
@@ -1153,7 +1369,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "欢乐北京蓝色港湾亲子活动",
@@ -1225,7 +1447,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=海淀体育",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科技馆科学之夜",
@@ -1260,7 +1488,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京门头沟区体育赛事展览",
@@ -1481,7 +1715,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年北京北京自然博物馆亲子活动",
@@ -1630,7 +1870,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.summerpalace-china.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "苍穹记忆——南天门计划科幻科普主题展",
@@ -1666,7 +1912,13 @@
     },
     "verified": true,
     "venue_url": "https://www.worldartmuseum.cn/",
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "解读北京奥林匹克森林公园展览",
@@ -1965,7 +2217,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京市少年宫",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "四季植物课与观鸟",
@@ -2001,7 +2259,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=奥森公园",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京国家体育馆亲子活动",
@@ -2299,7 +2563,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "http://www.jb.mil.cn/zxdt/202604/t20260428_60289.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家博物馆奇妙夜——探秘古代文明",
@@ -2335,7 +2605,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "沉浸式北京颐和园展览",
@@ -2522,7 +2798,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "亲子阅读与少儿书画",
@@ -2558,7 +2840,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.xclib.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻北京房山区展览之旅",
@@ -2858,7 +3146,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.cfm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京欢乐谷暑期活动",
@@ -2893,7 +3187,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://bj.happyvalley.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "绘本共读与诗词手工",
@@ -2929,7 +3229,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "http://www.dclib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践北京景山公园研学",
@@ -3040,7 +3346,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "城市手绘与北京历史导览",
@@ -3075,7 +3387,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京规划展览馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京通州区亲子活动展览",
@@ -3373,7 +3691,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=东城文化馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "儿童游乐区与花海写生",
@@ -3409,7 +3733,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "快乐暑期，科海扬帆——北京科学中心暑期活动",
@@ -3444,7 +3774,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典北京龙潭湖公园演出",
@@ -3555,7 +3891,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.nnhm.org.cn/zljs/lszl/list.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进北京奥林匹克公园展览",
@@ -3758,7 +4100,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "大兴区"
+    "district": "大兴区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京朝阳公园演出",
@@ -3924,7 +4272,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjqunyi.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "归心一园——故宫乾隆花园沉浸式光影展",
@@ -3960,7 +4314,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7657970472113406473/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京圆明园亲子活动",
@@ -4183,7 +4543,13 @@
     },
     "verified": true,
     "venue_url": "https://wks.bloomagelive.com/live/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "叩问永恒——庞贝的探索与发掘",
@@ -4219,7 +4585,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "儿童科学乐园与航天实验",
@@ -4254,7 +4626,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://cstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京国家体育场展览",
@@ -4780,7 +5158,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.clcn.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进北京中山公园展览",
@@ -5023,7 +5407,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=奥森公园",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践北京玉渊潭公园研学",
@@ -5150,7 +5540,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.cdstm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国古动物馆暑期恐龙探秘",
@@ -5185,7 +5581,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.paleozoo.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "森林徒步与风筝活动",
@@ -5221,7 +5623,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭北京海淀区讲座阅读研学营",
@@ -5294,7 +5702,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "http://www.cylib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京松美术馆演出",
@@ -5442,7 +5856,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大运河展览与风筝",
@@ -5477,7 +5897,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京通州文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭北京首都博物馆亲子活动",
@@ -5626,7 +6052,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "石景山区"
+    "district": "石景山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=石景山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京丰台区讲座阅读课程",
@@ -5813,7 +6245,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "http://www.jb.mil.cn/zxdt/202604/t20260428_60289.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京什刹海演出",
@@ -5922,7 +6360,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://cstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙北京北京自然博物馆亲子活动",
@@ -6088,7 +6532,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第十九届“良辰美景·恭王府非遗演出季”",
@@ -6124,7 +6574,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.mct.gov.cn/whzx/zsdw/whbgwfglzx/index.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现北京密云区展览比赛",
@@ -6197,7 +6653,13 @@
     },
     "verified": true,
     "venue_url": "https://www.n-s.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“了不起的汉字——古文字与中华文明传承发展工程‘十四五’成果展”在中国国家博物馆开幕",
@@ -6284,7 +6746,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.namoc.cn/namoc/zxyy/gryy.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "低龄绘本共读与暑期自然研学",
@@ -6320,7 +6788,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "http://www.cylib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京地坛公园亲子活动",
@@ -6506,7 +6980,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.yuanmingyuanpark.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京动物园熊猫科学探秘",
@@ -6541,7 +7021,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "http://www.beijingzoo.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "非遗市集与国风绘画",
@@ -6577,7 +7063,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=西城文化馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京北海公园研学",
@@ -6705,7 +7197,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.cdstm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索北京国贸商城展览",
@@ -7136,7 +7634,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "自然科普与陶艺",
@@ -7172,7 +7676,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=丰台青少年宫",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北科剧院科学剧场",
@@ -7207,7 +7717,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现北京前门大街展览",
@@ -7430,7 +7946,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "花染风华 共叙文脉——天坛双展迎盛夏",
@@ -7466,7 +7988,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://gygl.beijing.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "鄂尔多斯青铜器展",
@@ -7502,7 +8030,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典北京朝阳公园演出",
@@ -7688,7 +8222,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京通州文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "力学装置与科创实验",
@@ -7723,7 +8263,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.net.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "儿童活动区与绘本公益课",
@@ -7758,7 +8304,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=活动网",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻北京红砖美术馆亲子活动",
@@ -7960,7 +8512,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "解读北京首都博物馆展览",
@@ -8089,7 +8647,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.net.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家自然博物馆暑期展览",
@@ -8125,7 +8689,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.nmnh.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大运河文化与亲子风筝手工",
@@ -8161,7 +8731,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州图书馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大匠之道——熊松涛掐丝珐琅艺术展",
@@ -8197,7 +8773,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.namoc.cn/namoc/zhanlan/202607/ae217002b39649c793a20012f03cb3cc.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼北京圆明园演出",
@@ -8383,7 +8965,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.tiantanpark.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验北京朝阳公园研学",
@@ -8646,7 +9234,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "星空穹顶与陨石观察",
@@ -8681,7 +9275,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京八达岭长城展览",
@@ -8829,7 +9429,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.mct.gov.cn/whzx/zsdw/whbgwfglzx/index.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科学工坊与外文绘本",
@@ -8865,7 +9471,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.hdlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻北京北京动物园演出",
@@ -9012,7 +9624,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjsc.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进北京房山区演出日",
@@ -9215,7 +9833,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "河滩沙池与自然研学",
@@ -9251,7 +9875,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "石景山区"
+    "district": "石景山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=石景山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026颐和园荷花文化节",
@@ -9286,7 +9916,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.summerpalace.net.cn/exhibition.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京北京天文馆展览",
@@ -9473,7 +10109,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "河滩玩水与观鸟",
@@ -9509,7 +10151,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "顺义区"
+    "district": "顺义区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=顺义文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游北京密云区亲子活动季",
@@ -9822,7 +10470,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=海淀文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索北京怀柔区演出演出",
@@ -10194,7 +10848,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "http://ccwm.china.com.cn/lz/node_511550.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子北京陶然亭公园亲子活动",
@@ -10832,7 +11492,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验北京陶然亭公园展览",
@@ -11300,7 +11966,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.cwnmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "话剧《杜甫》",
@@ -11335,7 +12007,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京天文馆暑期星空探索营",
@@ -11370,7 +12048,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻北京东城区科普活动之旅",
@@ -11498,7 +12182,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.clcn.net.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "竹文化科普与划船",
@@ -11534,7 +12224,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=海淀文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "湖泊科普与儿童游乐区",
@@ -11570,7 +12266,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "顺义区"
+    "district": "顺义区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=顺义文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“星际奇观：太阳系”VR大空间沉浸式展览",
@@ -11605,7 +12307,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn/twzl/tz/index.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "欢乐北京北海公园亲子活动",
@@ -11717,7 +12425,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://www.gardensmuseum.cn/web/bgkb_content?id=6d998dcf-14ca-45bd-9b18-83ffe15af1dc",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "沉浸式北京中国国家博物馆展览",
@@ -11957,7 +12671,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "文物拓印DIY与古代历史亲子寻宝",
@@ -11993,7 +12713,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游北京海淀区体育赛事季",
@@ -12252,7 +12978,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "湖泊生态课与风筝",
@@ -12288,7 +13020,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "大兴区"
+    "district": "大兴区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=大兴文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩北京延庆区讲座阅读节",
@@ -12437,7 +13175,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260518_4655125.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "文物拓印与历史寻宝",
@@ -12473,7 +13217,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "汽车模型手工与机械科普",
@@ -12509,7 +13259,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京汽车博物馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "儿童艺术展与亲子手作",
@@ -12544,7 +13300,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=太古里",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "首都博物馆小小讲解员训练营",
@@ -12580,7 +13342,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索北京北京植物园研学",
@@ -12803,7 +13571,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国家图书馆暑期少儿活动",
@@ -12839,7 +13613,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子北京顺义区讲座阅读工作坊",
@@ -12987,7 +13767,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://www.universalbeijing.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026漫步经典系列音乐会",
@@ -13023,7 +13809,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://ticket.chncpa.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "沉浸式北京国家游泳中心展览",
@@ -13302,7 +14094,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国科学技术馆2026年暑期系列活动",
@@ -13337,7 +14135,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.org.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩北京北海公园演出",
@@ -13485,7 +14289,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjzoo.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "超大草坪与森林徒步",
@@ -13521,7 +14331,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北京文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "湿地鸟类观察与植物手工",
@@ -13557,7 +14373,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘北京首都博物馆展览",
@@ -13896,7 +14718,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "昌平区"
+    "district": "昌平区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=昌平文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味北京朝阳公园亲子活动",
@@ -14007,7 +14835,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.gm.cgs.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "无动力乐园与自然手工",
@@ -14043,7 +14877,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=丰台文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "以丝造境：清华大学艺术博物馆藏织绣书画展",
@@ -14079,7 +14919,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙北京八达岭长城亲子活动",
@@ -14301,7 +15147,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://www.yuanlinmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京今日美术馆亲子活动",
@@ -14487,7 +15339,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a48b91ce4b0e45f3fd410f2.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘北京顺义区演出月",
@@ -14673,7 +15531,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.beihaipark.com.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "免费球场与儿童沙坑",
@@ -14709,7 +15573,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "昌平区"
+    "district": "昌平区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=什么值得买",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "百年红楼历史文化展",
@@ -14745,7 +15615,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "http://www.luxunmuseum.com.cn/beidahonglou/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童北京大兴区影视放映课程",
@@ -15153,7 +16029,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古建模型与斗拱手工",
@@ -15189,7 +16071,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "http://www.bjgjz.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古代中国（基本陈列）",
@@ -15225,7 +16113,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京北京科学中心研学",
@@ -15485,7 +16379,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.cwm.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国电影博物馆2026年暑期错时开放",
@@ -15521,7 +16421,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "http://www.cnfm.org.cn/2026-06/30/cms20382article.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进北京东城区科普活动日",
@@ -15631,7 +16537,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索北京前门大街研学",
@@ -15779,7 +16691,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "工业科普与绘本剧",
@@ -15815,7 +16733,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "石景山区"
+    "district": "石景山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=石景山图书馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼北京朝阳区讲座阅读发现",
@@ -15889,7 +16813,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjqunyi.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "工业儿童乐园与非遗市集",
@@ -15924,7 +16854,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "石景山区"
+    "district": "石景山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=首钢园",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游北京昌平区影视放映季",
@@ -16035,7 +16971,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "大兴区"
+    "district": "大兴区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=大兴文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京玉渊潭公园展览",
@@ -16239,7 +17181,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“奇趣书海 夏梦成荫”首都图书馆2026暑期系列文化活动",
@@ -16275,7 +17223,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.news.cn/ci/20260702/dae6c55082ae49d7b7bcc742c9c67912/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "亲子球类与体能公益课",
@@ -16310,7 +17264,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳体育",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩北京奥林匹克森林公园演出",
@@ -16401,7 +17361,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6a4b3aded5de3eb735033ab8.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国国家博物馆暑期展览",
@@ -16437,7 +17403,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "节气手工与亲子观影",
@@ -16473,7 +17445,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "丰台区"
+    "district": "丰台区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=丰台图书馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "消防模拟与逃生演练",
@@ -16508,7 +17486,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=应急管理",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现北京海淀区亲子活动比赛",
@@ -16598,7 +17582,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.cstm.org.cn/cgzn/dqzl/zzrz/art/2026/art_54971cdc575c4e5b81338bc1554ea4c4.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "编程机器人国风手工",
@@ -16633,7 +17623,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=海淀青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭北京天坛公园亲子活动",
@@ -17007,7 +18003,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进北京北京画院美术馆展览",
@@ -17230,7 +18232,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.nnhm.org.cn/xw/zbgg/4028c1089e04111e019e06b1436a006c.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "看·见——中国国家博物馆藏海外中国图像展",
@@ -17266,7 +18274,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.chnmuseum.cn/zl/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "亚洲数字艺术展（人有人的用处）",
@@ -17302,7 +18316,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738081/zlzx/744016640/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学北京南锣鼓巷研学",
@@ -17451,7 +18471,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7657883354057998848/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国图讲坛2026年“非遗讲座月”",
@@ -17487,7 +18513,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn/web/shouye/zuixinhuodong/index_1.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "敦煌艺术大展——从藏经洞到数字敦煌",
@@ -17522,7 +18554,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjzl.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践北京朝阳公园研学",
@@ -17748,7 +18786,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻北京日坛公园亲子活动",
@@ -18044,7 +19088,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "石景山区"
+    "district": "石景山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=首钢园",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京国家游泳中心亲子活动",
@@ -18305,7 +19355,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=文旅平台",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子北京圆明园亲子活动",
@@ -18489,7 +19545,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjp.org.cn/xwzx/gndt/4028c1369f0fdaad019f120e1f860036.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026国家大剧院国际戏剧季",
@@ -18525,7 +19587,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://subject03.chncpa.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "八喜·打开艺术之门—2026暑期艺术节",
@@ -18561,7 +19629,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzU1Nzk2Mw==&mid=2649383165&idx=3&sn=4118db202184be69c2695a83fbb6d15f&chksm=8680ac68b3a6c622b4c82711bf5f0c974c05fafca57aaab0c12a08e10780f5c77ec3437ff14a",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "故宫博物院暑期未成年人团队预约",
@@ -18596,7 +19670,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.dpm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年北京国贸商城亲子活动",
@@ -18783,7 +19863,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "大兴区"
+    "district": "大兴区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=亦庄文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现北京国家游泳中心展览",
@@ -18986,7 +20072,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=朝阳文化馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "滨河亲子运动与户外健身课堂",
@@ -19021,7 +20113,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "通州区"
+    "district": "通州区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=通州体育",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘北京王府井展览",
@@ -19355,7 +20453,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.bmnh.org.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "北京北京故宫博物院展览",
@@ -19501,7 +20605,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.bjhy.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古生物标本与化石DIY",
@@ -19537,7 +20647,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "东城区"
+    "district": "东城区",
+    "links": [
+      {
+        "url": "https://www.bjmnhm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "湿地生态研学与荷花写生",
@@ -19573,7 +20689,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=房山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "暑期北京通州区讲座阅读体验营",
@@ -19721,7 +20843,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "考古探秘与文物修复体验",
@@ -19757,7 +20885,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "朝阳区"
+    "district": "朝阳区",
+    "links": [
+      {
+        "url": "https://www.kaogubowuguan.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "解读北京天坛公园展览",
@@ -19979,6 +21113,12 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://www.capitalmuseum.org.cn/news/998ed13cf52a4b2e95f60d6ef34277ed",
+        "label": "活动详情"
+      }
+    ]
   }
 ]

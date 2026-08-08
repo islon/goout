@@ -14,7 +14,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术展",
@@ -31,7 +37,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nanyuewang.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "知齐者，徐君也 徐悲鸿藏齐白石艺术研究展",
@@ -67,7 +79,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "一念敦煌·石窟艺术大展",
@@ -103,7 +121,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gzam.com.cn/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "一念敦煌——石窟艺术大展",
@@ -120,7 +144,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "四季倒影：光之镜中的自然——赫利顿·希夏个展",
@@ -156,7 +186,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "风景与想象之间——意大利当代艺术在中国",
@@ -192,7 +228,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "葵山——许江艺术展",
@@ -228,7 +270,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "长风万里——关山月艺术大展",
@@ -264,7 +312,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "长隆水上乐园 全球玩水嘉年华",
@@ -300,7 +354,13 @@
     },
     "verified": true,
     "venue_url": "https://www.chimelong.com/",
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "长隆欢乐世界 森巴酷爽嘉年华",
@@ -336,7 +396,13 @@
     },
     "verified": true,
     "venue_url": "https://www.chimelong.com/",
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "长隆野生动物世界 全球动物科普嘉年华",
@@ -372,7 +438,13 @@
     },
     "verified": true,
     "venue_url": "https://www.chimelong.com/",
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "文艺复兴的交响：格拉斯哥博物馆藏大师作品展",
@@ -389,7 +461,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdmuseum",
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "肠道小宇宙——肠道的奇妙冒险互动体验科学展",
@@ -406,7 +484,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1048387246_222493/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州图书馆暑期系列活动",
@@ -423,7 +507,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gzlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州青少年科技馆暑期互动体验",
@@ -440,7 +530,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州地铁博物馆暑期体验",
@@ -457,7 +553,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.gzmtrmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州市文化馆新馆暑期文化体验",
@@ -474,7 +576,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.gzwhg.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -508,7 +616,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdmuseum",
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gdmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州动物园暑期研学活动",
@@ -578,7 +692,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "请到粤图过暑假——300余场暑期阅读推广活动",
@@ -595,7 +715,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "羊城晚报",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "http://culture.ycwb.com/ikimvkltjj/content_54223794.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广东科学中心暑期假日科学派",
@@ -612,7 +738,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "广州本地宝",
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://www.gdsc.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -680,7 +812,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "gdmuseum",
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026广州艺术季 华人之光·芭蕾明星GALA",
@@ -716,7 +854,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "虫友——寻访甲虫世界",
@@ -752,7 +896,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmuseum.org.cn/",
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国风亲子音乐会（二沙岛音乐夏日）",
@@ -788,7 +938,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://news.qq.com/rain/a/20260713A0AT2Q00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭广州广东美术馆亲子活动-32",
@@ -938,7 +1094,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026夏日美乐——维也纳圆舞曲交响音乐会",
@@ -974,7 +1136,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://ysln.ycwb.com/content/2026-07/14/content_54227914.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "从化温泉文化节",
@@ -1009,7 +1177,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "从化区"
+    "district": "从化区",
+    "links": [
+      {
+        "url": "https://www.chlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味广州白云区体育赛事展览",
@@ -1082,7 +1256,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "南沙区"
+    "district": "南沙区",
+    "links": [
+      {
+        "url": "https://www.ns-thp.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "增城1978文化创意园暑期市集",
@@ -1117,7 +1297,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "增城区"
+    "district": "增城区",
+    "links": [
+      {
+        "url": "https://www.zc1978.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动-116",
@@ -1341,7 +1527,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.gzwhg.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州长隆野生动物世界亲子活动",
@@ -1527,7 +1719,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.gzwhg.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索广州宝墨园研学-203",
@@ -1675,7 +1873,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "机器人创客与数学嘉年华",
@@ -1711,7 +1915,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=科普广州",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动-86",
@@ -1972,7 +2182,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "荔湾区"
+    "district": "荔湾区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/post_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动-56",
@@ -2233,7 +2449,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=广州塔",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州广东省博物馆展览-90",
@@ -2381,7 +2603,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广东省博物馆暑期延时开放",
@@ -2417,7 +2645,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gdmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童广州越秀公园亲子活动-38",
@@ -2528,7 +2762,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://www.sohu.com/a/984560784_121955537",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻广州长隆水上乐园演出-112",
@@ -2788,7 +3028,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nfnews.com/content/46Ndzk2eym.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南越王博物院王宫展区暑期延长开放",
@@ -2823,7 +3069,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.yuewangmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州沙湾古镇展览-55",
@@ -3009,7 +3261,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现广州珠江公园展览-42",
@@ -3157,7 +3415,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.xinruipiao.com/huajugeju/28092.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "岭南曲艺大舞台——2026广州市文化馆公益惠民系列活动",
@@ -3193,7 +3457,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://wglj.gz.gov.cn/ggfw/whl/bywhhdpq/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
@@ -3229,7 +3499,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩广州从化区体育赛事节",
@@ -3471,7 +3747,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://action.gzlib.org.cn/action/web/index.do",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州图书馆8月科普开放日",
@@ -3507,7 +3789,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://action.gzlib.org.cn/action/web/index.do",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻广州流花湖公园亲子活动",
@@ -4181,7 +4469,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://m.df962388.com/news/354117.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第三期广州之宝特展——羊城之夏",
@@ -4217,7 +4511,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/L1AAG8SS0523E4AV.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼广州广州图书馆演出-34",
@@ -4517,7 +4817,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nanyuewang.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "沉浸式广州广州博物馆展览",
@@ -4942,7 +5248,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzst.org.cn/gzst/portal/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州艺术博物院艺术夏令营",
@@ -4977,7 +5289,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzam.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学广州天河公园研学-131",
@@ -5126,7 +5444,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "增城区"
+    "district": "增城区",
+    "links": [
+      {
+        "url": "https://www.zclib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘广州海珠湖公园展览-103",
@@ -5345,7 +5669,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "http://www.gzzoo.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子广州永庆坊亲子活动",
@@ -5900,7 +6230,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州广东省博物馆展览",
@@ -6385,7 +6721,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "http://gdsc.cn/cgnr/lz/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践广州广州动物园研学-107",
@@ -6495,7 +6837,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzoo.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "花都湖公园暑期灯光秀",
@@ -6531,7 +6879,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "花都区"
+    "district": "花都区",
+    "links": [
+      {
+        "url": "https://www.gzhd.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现广州珠江公园展览-162",
@@ -6679,7 +7033,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "南沙区"
+    "district": "南沙区",
+    "links": [
+      {
+        "url": "https://www.gznslib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游广州正佳极地海洋世界展览-139",
@@ -6940,7 +7300,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/L1AAG8SS0523E4AV.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进广州南沙区科普活动日",
@@ -7496,7 +7862,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gzlib.org.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进广州广州海洋馆展览-78",
@@ -7795,7 +8167,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "白云区"
+    "district": "白云区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=广州文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验广州白云山展览-97",
@@ -7943,7 +8321,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gdmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙广州广州艺术博物院亲子活动-93",
@@ -8537,7 +8921,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1048387246_222493/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验广州天河城研学-119",
@@ -8830,7 +9220,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "荔湾区"
+    "district": "荔湾区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=永庆坊",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻广州长隆水上乐园演出-52",
@@ -9129,7 +9525,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "陕西人艺茅奖系列话剧《主角》",
@@ -9165,7 +9567,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验广州天河城研学-149",
@@ -9312,7 +9720,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nfnews.com/content/46Ndzk2eym.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州广东省博物馆展览-30",
@@ -9967,7 +10381,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "花都区"
+    "district": "花都区",
+    "links": [
+      {
+        "url": "https://www.gzhdlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味广州长隆欢乐世界亲子活动-111",
@@ -10378,7 +10798,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "南沙区"
+    "district": "南沙区",
+    "links": [
+      {
+        "url": "https://www.nssd.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童广州越秀公园亲子活动",
@@ -10582,7 +11008,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州动物园暑假夜游（盘龙苑·广州海洋馆）",
@@ -10617,7 +11049,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTQwMTE5Mw==&mid=2648751229&idx=1&sn=0c6d070eee7c7271c0f0cca7272d4413&chksm=86905d01adb8c409aa05a88708696c6f99dede25870833f8c596fbed14f0120ae881e5144f5a&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州麓湖公园亲子活动-45",
@@ -10879,7 +11317,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nfnews.com/content/46Ndzk2eym.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典广州上下九演出-88",
@@ -11494,7 +11938,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "花都区"
+    "district": "花都区",
+    "links": [
+      {
+        "url": "https://www.gzhdlib.cn/minsu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "请到粤图过暑假——300余场暑期阅读推广活动",
@@ -11530,7 +11980,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "http://culture.ycwb.com/ikimvkltjj/content_54223794.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游广州越秀区展览季",
@@ -11979,7 +12435,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://baijiahao.baidu.com/s?id=1869474475824239313&wfr=spider&for=pc",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "从化区图书馆暑期阅读打卡",
@@ -12015,7 +12477,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "从化区"
+    "district": "从化区",
+    "links": [
+      {
+        "url": "https://www.chlib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩广州华南植物园演出-76",
@@ -12273,7 +12741,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.grandviewaquarium.com/index.php/zh-cn/buy",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼广州广州图书馆演出-64",
@@ -13075,7 +13549,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.guangzhoumuseum.cn/website_cn/Web/Dynamic/Exhibition.aspx",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州荔湾湖公园演出-190",
@@ -13561,7 +14041,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验广州白云山展览-67",
@@ -13746,7 +14232,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "增城区"
+    "district": "增城区",
+    "links": [
+      {
+        "url": "https://www.zcq.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学广州天河公园研学-101",
@@ -14646,7 +15138,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄埔区"
+    "district": "黄埔区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTYzNjYyOQ==&mid=2649799280&idx=1&sn=c981d1bf68005f0ea4116efa02e31a3a&chksm=89e73ff945e593cdccd4497da0b68d802f2f75a14136270e18e084bbb5b6c758e45a6f71be0c&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘广州海珠湖公园展览-43",
@@ -14906,7 +15404,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩广州华南植物园演出-106",
@@ -15092,7 +15596,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.gzmtrmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻广州越秀区讲座阅读之旅",
@@ -15688,7 +16198,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://www.gdsc.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州广州少年儿童图书馆研学-35",
@@ -16885,7 +17401,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "海珠区"
+    "district": "海珠区",
+    "links": [
+      {
+        "url": "https://www.dashuai.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩广州华南植物园演出",
@@ -17147,7 +17669,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_10844071.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州博物馆暑期十大主题研学活动",
@@ -17183,7 +17711,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026“广州科普之夏”主题活动",
@@ -17218,7 +17752,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://news.ycwb.com/ikimvkltjj/content_54224002.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州麓湖公园亲子活动",
@@ -17496,7 +18036,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.gzlib.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广州海洋馆暑期活动",
@@ -17531,7 +18077,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzocean.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索广州宝墨园研学-173",
@@ -17755,7 +18307,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://xzx.chimelong.com/scenicDetail?scenicCode=GZ52",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州荔湾湖公园演出-40",
@@ -18091,7 +18649,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广东科学中心巨幕影院科普电影《四渡》",
@@ -18126,7 +18690,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "http://gdsc.cn/cgnr/lz/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "广州长隆野生动物世界亲子活动-170",
@@ -18610,7 +19180,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "https://www.nfnews.com/content/VoQVkdjXy5.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践广州广州动物园研学",
@@ -18944,7 +19520,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://www.gdsc.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广东美术馆新馆暑期延时开放",
@@ -18980,7 +19562,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gdmoa.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南越王博物院考古小探险家",
@@ -19015,7 +19603,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.nanyuewang.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验广州天河城研学-179",
@@ -19239,7 +19833,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "番禺区"
+    "district": "番禺区",
+    "links": [
+      {
+        "url": "https://whly.gd.gov.cn/service_new/hdyg/content/mpost_4920551.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "广府民俗手工与低龄绘本故事会",
@@ -19275,7 +19875,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://www.gzstlib.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索广州宝墨园研学",

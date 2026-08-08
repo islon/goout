@@ -33,7 +33,13 @@
     },
     "verified": true,
     "venue_url": "https://www.cdmnh.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第二届Y+Project 韩智同个展",
@@ -69,7 +75,13 @@
     },
     "verified": true,
     "venue_url": "https://www.a4am.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第六届IDEA!想法——叙事艺术展",
@@ -104,7 +116,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "清净觉相 佛教艺术系列展",
@@ -140,7 +158,13 @@
     },
     "verified": true,
     "venue_url": "https://www.zhiartmuseum.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "留法勤工俭学运动主题展览",
@@ -175,7 +199,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "窑火映天府——成都平原出土瓷器展",
@@ -210,7 +240,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "烟火指数·成都双年展",
@@ -246,7 +282,13 @@
     },
     "verified": true,
     "venue_url": "https://www.cdamuseum.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "二十四伎乐 器乐剧美学展",
@@ -282,7 +324,13 @@
     },
     "verified": true,
     "venue_url": "https://www.cdylbwg.org.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "西岭雪山 暑期避暑季（后山滑雪场景区免票）",
@@ -318,7 +366,13 @@
     },
     "verified": true,
     "venue_url": "https://www.xiling.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成都欢乐谷 夏浪狂欢节",
@@ -354,7 +408,13 @@
     },
     "verified": true,
     "venue_url": "https://cd.happyvalley.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成都海昌极地海洋公园 16周年庆+冰淇淋狂欢节",
@@ -390,7 +450,13 @@
     },
     "verified": true,
     "venue_url": "https://www.haichangoceanpark.com/chengdu",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "成都融创文旅城 融创水世界\"神仙玩水季\"",
@@ -425,7 +491,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "观妙入真——永乐宫的建筑艺术与传承",
@@ -461,7 +533,13 @@
     },
     "verified": true,
     "venue_url": "https://www.scmuseum.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "三圣花乡花艺手作课堂",

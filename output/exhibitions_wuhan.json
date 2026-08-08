@@ -33,7 +33,13 @@
     },
     "verified": true,
     "venue_url": "https://www.hubeimuseum.net/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "湖北省博物馆 暑假延时开放",
@@ -69,7 +75,13 @@
     },
     "verified": true,
     "venue_url": "https://www.hubeimuseum.net/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026（武汉站）航空航天体验中心",
@@ -104,7 +116,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "武汉欢乐谷 夏浪狂欢节·潮流红人派对",
@@ -140,7 +158,13 @@
     },
     "verified": true,
     "venue_url": "https://wh.happyvalley.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -586,7 +610,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉博物馆江汉揽胜展厅课堂",
@@ -1300,7 +1330,13 @@
     },
     "verified": true,
     "venue_url": "https://www.hubeimuseum.net/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "中山舰博物馆舰艇模型制作",
@@ -2313,7 +2349,13 @@
     },
     "verified": true,
     "venue_url": "http://www.wniecm.com.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉自然博物馆贝林大河展厅课堂",
@@ -2501,7 +2543,13 @@
     },
     "verified": true,
     "venue_url": "http://www.covcec.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉科技馆VR虚拟现实体验",
@@ -4394,7 +4442,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省博物馆楚国漆器手工坊",

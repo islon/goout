@@ -2,1296 +2,2602 @@
   {
     "name": "固城湾景区",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "固城湾景区是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京博物院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京博物院坐落于南京市紫金山南麓中山门内，是我国第一座由国家投资兴建的大型综合类博物馆，国家一级博物馆、首批中央与地方共建国家级博物馆。前身为1933年蔡元培先生倡导筹建的国立中央博物院，馆藏文物逾43万件，设历史馆、特展馆、艺术馆、数字馆、非遗馆、民国馆六大场馆，是长三角亲子历史文化研学的重要地标。",
+    "links": [
+      {
+        "url": "https://www.njmuseum.com",
+        "label": "官方网站"
+      }
+    ],
+    "official_url": "https://www.njmuseum.com",
+    "highlights": [
+      "中国第一座国家级大型综合博物馆",
+      "六大场馆（历史/特展/艺术/数字/非遗/民国）",
+      "馆藏43万余件",
+      "民国馆实景体验",
+      "国家一级博物馆"
+    ],
+    "fee": "免费"
   },
   {
     "name": "南京银杏湖乐园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京银杏湖乐园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "梦之蓝青奥体育公园体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "梦之蓝青奥体育公园体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "江苏省科学技术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "江苏省科学技术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "玄武湖公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "玄武湖公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "红山森林动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "红山森林动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "玛雅海滩水公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "玛雅海滩水公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "秦淮非遗馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "秦淮非遗馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "夫子庙秦淮风光带",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "夫子庙秦淮风光带是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金陵图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "金陵图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京市少年儿童图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京市少年儿童图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京奥林匹克体育中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京奥林匹克体育中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "老门东",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "老门东是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "青奥公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "青奥公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "阳山碑材",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "阳山碑材是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "游子山",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "游子山是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京市博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京市博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "六朝博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "六朝博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "莫愁湖公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "莫愁湖公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "银杏湖乐园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "银杏湖乐园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "五台山体育中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "五台山体育中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "雨花台烈士陵园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "雨花台烈士陵园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "梅园新村纪念馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "梅园新村纪念馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "大金山国防园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "大金山国防园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "中山植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "中山植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "中山陵",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "中山陵是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "江宁织造博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "江宁织造博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京国防园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京国防园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京奥体中心体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京奥体中心体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京海底世界",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京海底世界是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "明孝陵",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "明孝陵是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "总统府",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "总统府是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "中华门瓮城",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "中华门瓮城是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珍珠泉风景区",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "珍珠泉风景区是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京云锦博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京云锦博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "侵华日军南京大屠杀遇难同胞纪念馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "侵华日军南京大屠杀遇难同胞纪念馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京欢乐谷",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京欢乐谷是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "傅家边",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "傅家边是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "桂子山石柱林",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "桂子山石柱林是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京平山森林公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京平山森林公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "颐和路",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "颐和路是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "阅江楼",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "阅江楼是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京中国科举博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京中国科举博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京绿博园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京绿博园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "渡江胜利纪念馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "渡江胜利纪念馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "东庐山",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "东庐山是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "牛首山文化旅游区",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "牛首山文化旅游区是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "老山国家森林公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "老山国家森林公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "弘阳欢乐世界",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "弘阳欢乐世界是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京地质博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京地质博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "高淳老街",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "高淳老街是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "栖霞山风景区",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "栖霞山风景区是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京古生物博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京古生物博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京城墙博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京城墙博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "大报恩寺遗址公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "大报恩寺遗址公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金牛湖",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "金牛湖是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "瞻园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "瞻园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "汤山古猿人洞",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "汤山古猿人洞是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "天生桥",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "天生桥是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "高淳陶瓷小镇",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "高淳陶瓷小镇是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "汤山温泉旅游度假区",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "汤山温泉旅游度假区是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京金箔艺术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京金箔艺术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "美龄宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "美龄宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "桠溪国际慢城",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "桠溪国际慢城是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区体育馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区体育馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京直立人化石遗址博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京直立人化石遗址博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "周园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "周园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区图书馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区图书馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京秦淮区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京秦淮区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区剧院",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区剧院是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区科技馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区科技馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区博物馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区博物馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区体育场",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区体育场是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京雨花台区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京雨花台区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "鸡鸣寺",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "鸡鸣寺是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "无想山",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "无想山是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区创意园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区创意园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京江宁区海洋馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京江宁区海洋馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区植物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区植物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "固城湖",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "固城湖是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京六合区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京六合区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京建邺区文化中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京建邺区文化中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京玄武区动物园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京玄武区动物园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区公园",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区公园是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京鼓楼区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京鼓楼区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京溧水区文化馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京溧水区文化馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京浦口区青少年宫",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京浦口区青少年宫是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区会展中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区会展中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区艺术中心",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区艺术中心是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京高淳区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京高淳区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "南京栖霞区美术馆",
     "city": "nanjing",
-    "source": "南京本地宝"
+    "source": "南京本地宝",
+    "description": "南京栖霞区美术馆是位于南京的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   }
 ]

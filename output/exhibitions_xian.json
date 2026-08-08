@@ -33,7 +33,13 @@
     },
     "verified": true,
     "venue_url": "https://www.beilin-museum.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "过期儿童：玩具、壳与失效情绪",
@@ -68,7 +74,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "金石学在陕西·追金篇",
@@ -104,7 +116,13 @@
     },
     "verified": true,
     "venue_url": "https://www.sxhm.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "伯乐相马 特色展览",
@@ -140,7 +158,13 @@
     },
     "verified": true,
     "venue_url": "https://www.sxhm.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "文明以止——希腊化时期的黄金艺术",
@@ -175,7 +199,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "碑林书法研学营",
@@ -701,7 +731,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "碑林博物馆古代科举研学",
@@ -2809,7 +2845,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "汪峰\"相信未来\"巡回演唱会-西安站",
@@ -2844,7 +2886,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "碑林博物馆书法研学课堂",
@@ -4442,7 +4490,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "王力宏\"最好的地方II\"巡回演唱会-西安站",
@@ -4477,7 +4531,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "姜育恒\"再回首·我心依旧\"巡回演唱会-西安站",
@@ -4513,7 +4573,13 @@
     },
     "verified": true,
     "venue_url": "https://www.snpac.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "汉阳陵汉代服饰体验",
@@ -8102,7 +8168,13 @@
     },
     "verified": true,
     "venue_url": "https://www.xianicec.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "张韶涵 玩家巡回演唱会-西安站",
@@ -8137,7 +8209,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "更多展览信息",

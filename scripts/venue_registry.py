@@ -1288,17 +1288,149 @@ def _load_auto_venues():
     return []
 
 
+# 城市 key -> 中文名（用于模板补全介绍时自然表述）
+_CITY_CN = {
+    'beijing': '北京', 'shanghai': '上海', 'guangzhou': '广州', 'shenzhen': '深圳',
+    'chengdu': '成都', 'chongqing': '重庆', 'hangzhou': '杭州', 'nanjing': '南京',
+    'wuhan': '武汉', 'xian': '西安', 'zhuhai': '珠海',
+}
+
+
+def _load_venue_enrichment():
+    """读取重点场馆联网 enrichment 覆盖层（scripts/venue_enrichment.json）。"""
+    enrich_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'venue_enrichment.json')
+    if os.path.exists(enrich_file):
+        try:
+            data = json.loads(open(enrich_file, 'r', encoding='utf-8').read())
+            return data.get('venues', {}) or {}
+        except Exception:
+            return {}
+    return {}
+
+
+# 模块级缓存，避免每条场馆重复读盘
+_ENRICH_MAP = None
+
+
+def _get_enrich_map():
+    global _ENRICH_MAP
+    if _ENRICH_MAP is None:
+        _ENRICH_MAP = _load_venue_enrichment()
+    return _ENRICH_MAP
+
+
+def _normalize_links(official_url, venue_url, links):
+    """将 official_url / venue_url（旧字段）与 links（新）归一为一个去重 links 数组。
+
+    优先级：links 中已存在的 label 不被旧字段覆盖；旧 official_url 归为「官方网站」，
+    venue_url 若与 official_url 不同则归为「官方小程序」(策划约定：venue_url 多为移动端入口)。
+    """
+    merged = []
+    seen_labels = set()
+    if isinstance(links, list):
+        for l in links:
+            if isinstance(l, dict) and l.get('url'):
+                label = l.get('label') or '活动详情'
+                merged.append({'url': l['url'].strip(), 'label': label})
+                seen_labels.add(label)
+    if official_url and official_url.strip():
+        if '官方网站' not in seen_labels:
+            merged.append({'url': official_url.strip(), 'label': '官方网站'})
+            seen_labels.add('官方网站')
+    if venue_url and venue_url.strip() and venue_url.strip() != (official_url or '').strip():
+        if '官方小程序' not in seen_labels:
+            merged.append({'url': venue_url.strip(), 'label': '官方小程序'})
+            seen_labels.add('官方小程序')
+    return merged
+
+
+def _template_description(v, city_cn):
+    """基于结构化字段为场馆生成更丰富的介绍（占位式 description 时使用）。"""
+    name = v.get('name') or ''
+    vtype = v.get('type') or ''
+    address = v.get('address') or ''
+    transport = v.get('transport') or ''
+    fee = v.get('fee') or ''
+    highlights = v.get('highlights') or []
+    desc = (v.get('description') or '').strip()
+    # 已有较充实介绍（>15 字且非纯占位）则保留
+    if len(desc) > 15 and desc != name + '。':
+        return desc
+    parts = [f"{name}是位于{city_cn}的"]
+    if vtype:
+        parts.append(f"{vtype}")
+    parts.append("，")
+    if highlights:
+        parts.append("主打" + "、".join(highlights[:4]) + "等")
+    else:
+        parts.append("面向亲子家庭与青少年常态化开展")
+    parts.append("活动。")
+    if fee:
+        if fee == '免费':
+            parts.append("场馆免费开放（部分特展可能另行收费），")
+        else:
+            parts.append(f"门票{fee}，")
+    if address:
+        parts.append(f"地址位于{address}；")
+    if transport:
+        parts.append(f"交通：{transport}。")
+    parts.append("建议出行前通过官方渠道确认开放时间与预约要求。")
+    return "".join(parts)
+
+
+def _enrich_venue(v, status):
+    """对单条场馆做丰富化：模板补全介绍 + enrichment 覆盖 + links 归一。"""
+    city_cn = _CITY_CN.get(v.get('city'), v.get('city') or '')
+    official_url = v.get('official_url') or v.get('venue_url') or ''
+    venue_url = v.get('venue_url', '')
+    links = _normalize_links(official_url, venue_url, v.get('links'))
+    description = _template_description(v, city_cn)
+    out = {
+        'name': v.get('name', ''),
+        'source': v.get('source_code') if 'source_code' in v else v.get('source', ''),
+        'city': v.get('city', ''),
+        'district': v.get('district', ''),
+        'type': v.get('type', '其他'),
+        'address': v.get('address', ''),
+        'transport': v.get('transport', ''),
+        'fee': v.get('fee', '免费'),
+        'description': description,
+        'official_url': official_url,
+        'links': links,
+        'highlights': v.get('highlights', []),
+        'status': status,
+    }
+    # 重点场馆联网 enrichment 覆盖（按场馆名匹配）
+    enrich = _get_enrich_map().get(out['name'])
+    if isinstance(enrich, dict):
+        if enrich.get('description'):
+            out['description'] = enrich['description']
+        if enrich.get('highlights'):
+            out['highlights'] = enrich['highlights']
+        if enrich.get('links'):
+            # enrichment 的 links 优先，旧字段作为补充
+            out['links'] = _normalize_links(
+                official_url, venue_url, enrich.get('links'))
+            if out['links']:
+                out['official_url'] = out['links'][0]['url']
+        if enrich.get('address'):
+            out['address'] = enrich['address']
+        if enrich.get('transport'):
+            out['transport'] = enrich['transport']
+    return out
+
+
 def generate_venue_info_json(output_path=None):
-    """生成 venue_info.json 格式的数据（精选 registry + 自动普查池合并）"""
+    """生成 venue_info.json 格式的数据（精选 registry + 自动普查池合并 + 丰富化）"""
+    # 重置 enrichment 缓存，保证每次重新生成都读取最新覆盖层
+    global _ENRICH_MAP
+    _ENRICH_MAP = None
+
     venues = []
     for v in VENUES:
-        official_url = v.get('official_url', '')
-        links = v.get('links', [])
-        if not links and official_url:
-            links = [{'url': official_url, 'label': '官方网站'}]
-        venues.append({
+        venues.append(_enrich_venue({
             'name': v['name'],
-            'source': v['source_code'],
+            'source_code': v['source_code'],
             'city': v['city'],
             'district': v['district'],
             'type': v['type'],
@@ -1306,20 +1438,16 @@ def generate_venue_info_json(output_path=None):
             'transport': v.get('transport', ''),
             'fee': v.get('fee', '免费'),
             'description': v.get('description', ''),
-            'official_url': official_url,
-            'links': links,
+            'official_url': v.get('official_url', ''),
+            'venue_url': v.get('venue_url', ''),
+            'links': v.get('links', []),
             'highlights': v.get('highlights', []),
-            'status': 'curated',
-        })
+        }, 'curated'))
     # 合并自动普查场馆（status='auto'），实现「覆盖城市里的所有场馆」
     for v in _load_auto_venues():
-        official_url = v.get('official_url', '')
-        links = v.get('links', [])
-        if not links and official_url:
-            links = [{'url': official_url, 'label': '官方网站'}]
-        venues.append({
+        venues.append(_enrich_venue({
             'name': v['name'],
-            'source': v['source_code'],
+            'source_code': v['source_code'],
             'city': v['city'],
             'district': v.get('district', ''),
             'type': v.get('type', '其他'),
@@ -1327,11 +1455,11 @@ def generate_venue_info_json(output_path=None):
             'transport': v.get('transport', ''),
             'fee': v.get('fee', '免费'),
             'description': v.get('description', ''),
-            'official_url': official_url,
-            'links': links,
+            'official_url': v.get('official_url', ''),
+            'venue_url': v.get('venue_url', ''),
+            'links': v.get('links', []),
             'highlights': v.get('highlights', []),
-            'status': 'auto',
-        })
+        }, 'auto'))
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, 'w', encoding='utf-8') as f:

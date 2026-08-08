@@ -14,7 +14,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "zjam",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://news.qq.com/rain/a/20250711A05A3P00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -31,7 +37,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -48,7 +60,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "浙江自然博物院",
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.weibo.cn/detail/5318191891881429",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
@@ -84,7 +102,13 @@
     },
     "verified": true,
     "venue_url": "https://www.songcn.com/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "万物之始·种子的远行 科普展",
@@ -120,7 +144,13 @@
     },
     "verified": true,
     "venue_url": "http://www.hzbg.cn/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "钱王祠 夏日莲荷展",
@@ -156,7 +186,13 @@
     },
     "verified": true,
     "venue_url": "https://westlake.hangzhou.gov.cn/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "月照银山：丝绸之路上的高昌与龟兹",
@@ -173,7 +209,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://tidenews.com.cn/news.html?id=3475919",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -190,7 +232,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1046660218_121106994/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国动漫博物馆 暑期免费观影",
@@ -226,7 +274,13 @@
     },
     "verified": true,
     "venue_url": "https://www.ccam.org.cn/",
-    "district": "滨江区"
+    "district": "滨江区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "西湖夜游船·三潭印月",
@@ -262,7 +316,13 @@
     },
     "verified": true,
     "venue_url": "https://westlake.hangzhou.gov.cn/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "浙江省博物馆 跟着浙博游西湖 体验式讲解",
@@ -298,7 +358,13 @@
     },
     "verified": true,
     "venue_url": "https://www.zhejiangmuseum.com/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "太平年·天下同宁——交互艺术大展",
@@ -315,7 +381,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "zjam",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -332,7 +404,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1044289750_121106994/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026杭州奇妙夜——百日星悦游",
@@ -349,7 +427,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "考古探险队——杭州博物馆青少年模拟考古活动",
@@ -366,7 +450,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://m.weibo.cn/detail/5317002210313637",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "宇宙炉火：技术时代的共同生活",
@@ -401,7 +491,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -418,7 +514,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "杭州宋城 千古情狂欢节",
@@ -454,7 +556,13 @@
     },
     "verified": true,
     "venue_url": "https://www.songcn.com/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",
@@ -471,7 +579,13 @@
     "contact": "86535086",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -488,7 +602,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1038933302_121107011/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年杭州淳安县影视放映讲座",
@@ -711,7 +831,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://www.xlys.org.cn/xxgg/index.jhtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "西湖非遗体验周",
@@ -747,7 +873,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.xhwhg.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩杭州西湖区体育赛事节",
@@ -895,7 +1027,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.songcn.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动-92",
@@ -1477,7 +1615,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "district": "萧山区"
+    "district": "萧山区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践杭州雷峰塔研学-47",
@@ -2038,7 +2182,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://www.hzzoo.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动",
@@ -2939,7 +3089,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmuseum.cn/LiangBoXinWen/2026385131382.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州杭州乐园展览",
@@ -3951,7 +4107,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.teamuseum.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索杭州胡庆余堂中药博物馆展览-66",
@@ -4379,7 +4541,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.hzlib.net/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动-38",
@@ -5557,7 +5725,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州湘湖研学-149",
@@ -6155,7 +6329,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现杭州中国扇博物馆展览-132",
@@ -6303,7 +6483,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODg1MTAxMg==&mid=2652910968&idx=2&sn=a67afde893540f52260bdf4f668d8b2d&chksm=bc149b7549569bc1abd055663777fbc6a8990f52d824786e1ad70bf66c2bd7b7871b4b923e29&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-127",
@@ -6754,7 +6940,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.zjart.com/wx/index",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "万物始兴·寒武纪化石展",
@@ -6789,7 +6981,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.weibo.cn/detail/5318191891881429",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "浙江省科技馆2026夏令营·科技馆科学院",
@@ -6825,7 +7023,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.zjstm.org/edu/science-activity-list.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典杭州杭州野生动物园演出-58",
@@ -7350,7 +7554,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmo.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "浙江美术馆",
@@ -7461,7 +7671,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭杭州西湖博物馆亲子活动",
@@ -7913,7 +8129,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.yhqsg.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "非遗手作营",
@@ -7948,7 +8170,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.hzqs.net/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年杭州浙江美术馆亲子活动-104",
@@ -8210,7 +8438,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://www.teaworld.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "光影对话：新中国海报设计作品巡展",
@@ -8246,7 +8480,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODg1MTAxMg==&mid=2652910968&idx=2&sn=a67afde893540f52260bdf4f668d8b2d&chksm=bc149b7549569bc1abd055663777fbc6a8990f52d824786e1ad70bf66c2bd7b7871b4b923e29&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻杭州拱墅区亲子活动之旅",
@@ -9405,7 +9645,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.zjstm.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州中国杭帮菜博物馆展览-67",
@@ -9589,7 +9835,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.liangzhubowuguan.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州宋城清明上河图电影馆",
@@ -10115,7 +10367,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进杭州岳庙展览-78",
@@ -10262,7 +10520,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://m.weibo.cn/detail/5317002210313637",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻杭州中国京杭大运河博物馆亲子活动",
@@ -10449,7 +10713,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.silkmuseum.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现杭州中国扇博物馆展览-72",
@@ -11105,7 +11375,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.xixiwetland.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州湘湖研学-89",
@@ -11345,7 +11621,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.zjstm.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙杭州中国茶叶博物馆亲子活动-33",
@@ -11907,7 +12189,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://travel.hangzhou.com.cn/lyzx/content/2026-05/18/content_9224586.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "浙江自然博物院2026暑期科普之旅（线上预约开放）",
@@ -11942,7 +12230,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NjY5OTMzNQ==&mid=2650588611&idx=2&sn=3a5c1bd89ea7e493fc8b4e188eb74ace&chksm=89d81dd6304ac2b11d382ec2e64962afe5840c42da6f368c31b440a19d0606e075484173a81f&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "暑期杭州临安区体育赛事体验营",
@@ -12240,7 +12534,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://ori.hangzhou.com.cn/ornews/content/2026-05/01/content_9215636.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "大道匠行——浙江工艺美术的历史经典与时代价值展",
@@ -12276,7 +12576,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1046660218_121106994/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州中国刀剪剑博物馆演出",
@@ -12852,7 +13158,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.hzqs.net/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州南宋官窑博物馆研学-155",
@@ -13280,7 +13592,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://m.hz.bendibao.com/mip/ly82453.shtm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童杭州中国湿地博物馆亲子活动",
@@ -14552,7 +14870,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.zjstm.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践杭州雷峰塔研学-107",
@@ -15076,7 +15400,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1038933302_121107011/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典杭州江干区展览探秘",
@@ -15336,7 +15666,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.sctl.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "小小考古家体验营",
@@ -15371,7 +15707,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmo.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州杭州西湖亲子活动",
@@ -15593,7 +15935,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://news.qq.com/rain/a/20250711A05A3P00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学杭州中国伞博物馆研学",
@@ -15892,7 +16240,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.hzgybwg.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现杭州富阳区讲座阅读比赛",
@@ -16825,7 +17179,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://tidenews.com.cn/news.html?id=3440590",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "夜观昆虫自然活动",
@@ -16860,7 +17220,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "http://www.hz植物园.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻杭州西湖区讲座阅读之旅",
@@ -17572,7 +17938,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.xhmuseum.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州湘湖研学-59",
@@ -17775,7 +18147,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://tidenews.com.cn/news.html?id=3475919",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻杭州九溪演出-82",
@@ -18035,7 +18413,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1044289750_121106994/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州杭州西湖亲子活动-45",
@@ -18557,7 +18941,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://5scamp.hzqsn.com/article/detail/id287935291562424167049.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验杭州湘湖研学-119",
@@ -18742,7 +19132,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjam.org.cn/Site/Exbition/ExbitionList.aspx?type=1",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州中国刀剪剑博物馆演出-70",
@@ -18983,7 +19379,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://www.zjso.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "杭州西湖菊花展",
@@ -19431,6 +19833,12 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   }
 ]

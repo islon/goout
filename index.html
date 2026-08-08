@@ -2469,7 +2469,7 @@
             var links = getLinks(info);
             if (links.length > 0) {
                 html += '<div style="margin-top:10px;padding-top:8px;border-top:1px dashed var(--border);">';
-                html += '<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">🔗 核验链接</div>';
+                html += '<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">🔗 官方链接</div>';
                 links.forEach(function(l) {
                     html += '<div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;padding:4px 8px;background:var(--sand-50);border-radius:6px;font-size:12px;">' +
                         '<span style="font-size:11px;font-weight:600;color:var(--sand-dark);white-space:nowrap;padding:1px 5px;background:var(--sand-200);border-radius:3px;">' + l.label + '</span>' +
@@ -2546,11 +2546,12 @@
                 ` : ''}
                 ${getLinks(exhibition).length > 0 ? `
                 <div class="modal-original-link">
+                    <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:8px;">🔗 了解更多（官方链接 / 活动详情 / 新闻报道）</div>
                     ${getLinks(exhibition).map(function(l, i) {
                         var isFirst = i === 0;
                         return '<div style="margin-bottom:6px;">' +
                             '<a href="' + l.url + '" target="_blank" rel="noopener" class="original-link-btn"' + (isFirst ? ' id="original-link-btn"' : '') + '>' +
-                                '🔗 ' + l.label + '：查看详情' +
+                                '🔗 ' + l.label + '：点击了解' +
                             '</a>' +
                         '</div>';
                     }).join('')}

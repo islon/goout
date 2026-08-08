@@ -2,226 +2,451 @@
   {
     "name": "珠海博物馆",
     "city": "zhuhai",
-    "source": "珠海博物馆"
+    "source": "珠海博物馆",
+    "description": "珠海博物馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海规划展览馆",
     "city": "zhuhai",
-    "source": "珠海规划展览馆"
+    "source": "珠海规划展览馆",
+    "description": "珠海规划展览馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "国家方志馆粤港澳大湾区分馆",
     "city": "zhuhai",
-    "source": "国家方志馆"
+    "source": "国家方志馆",
+    "description": "国家方志馆粤港澳大湾区分馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "景山公园",
     "city": "zhuhai",
-    "source": "景山公园"
+    "source": "景山公园",
+    "description": "景山公园是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金湾区图书馆",
     "city": "zhuhai",
-    "source": "金湾区图书馆"
+    "source": "金湾区图书馆",
+    "description": "金湾区图书馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金湾区博物馆",
     "city": "zhuhai",
-    "source": "金湾区博物馆"
+    "source": "金湾区博物馆",
+    "description": "金湾区博物馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门区博物馆",
     "city": "zhuhai",
-    "source": "斗门区博物馆"
+    "source": "斗门区博物馆",
+    "description": "斗门区博物馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金湾区文化馆",
     "city": "zhuhai",
-    "source": "金湾区文化馆"
+    "source": "金湾区文化馆",
+    "description": "金湾区文化馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海市图书馆",
     "city": "zhuhai",
-    "source": "珠海市图书馆"
+    "source": "珠海市图书馆",
+    "description": "珠海市图书馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海市文化馆",
     "city": "zhuhai",
-    "source": "珠海市文化馆"
+    "source": "珠海市文化馆",
+    "description": "珠海市文化馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "古元美术馆",
     "city": "zhuhai",
-    "source": "古元美术馆"
+    "source": "古元美术馆",
+    "description": "古元美术馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "香山文化艺术中心",
     "city": "zhuhai",
-    "source": "香山文化艺术中心"
+    "source": "香山文化艺术中心",
+    "description": "香山文化艺术中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "圆明新园",
     "city": "zhuhai",
-    "source": "圆明新园"
+    "source": "圆明新园",
+    "description": "圆明新园是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海海滨公园",
     "city": "zhuhai",
-    "source": "珠海海滨公园"
+    "source": "珠海海滨公园",
+    "description": "珠海海滨公园是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "汤臣倍健透明工厂",
     "city": "zhuhai",
-    "source": "汤臣倍健透明工厂"
+    "source": "汤臣倍健透明工厂",
+    "description": "汤臣倍健透明工厂是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海海泉湾度假区",
     "city": "zhuhai",
-    "source": "珠海海泉湾度假区"
+    "source": "珠海海泉湾度假区",
+    "description": "珠海海泉湾度假区是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门旧街",
     "city": "zhuhai",
-    "source": "斗门旧街"
+    "source": "斗门旧街",
+    "description": "斗门旧街是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金台寺",
     "city": "zhuhai",
-    "source": "金台寺"
+    "source": "金台寺",
+    "description": "金台寺是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "御温泉",
     "city": "zhuhai",
-    "source": "御温泉"
+    "source": "御温泉",
+    "description": "御温泉是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海长隆海洋王国",
     "city": "zhuhai",
-    "source": "珠海长隆海洋王国"
+    "source": "珠海长隆海洋王国",
+    "description": "珠海长隆海洋王国是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海长隆飞船乐园",
     "city": "zhuhai",
-    "source": "珠海长隆飞船乐园"
+    "source": "珠海长隆飞船乐园",
+    "description": "珠海长隆飞船乐园是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海长隆横琴剧院",
     "city": "zhuhai",
-    "source": "珠海长隆横琴剧院"
+    "source": "珠海长隆横琴剧院",
+    "description": "珠海长隆横琴剧院是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴金融岛",
     "city": "zhuhai",
-    "source": "横琴金融岛"
+    "source": "横琴金融岛",
+    "description": "横琴金融岛是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门区图书馆",
     "city": "zhuhai",
-    "source": "斗门区图书馆"
+    "source": "斗门区图书馆",
+    "description": "斗门区图书馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴文化艺术中心",
     "city": "zhuhai",
-    "source": "横琴文化艺术中心"
+    "source": "横琴文化艺术中心",
+    "description": "横琴文化艺术中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "梅溪牌坊",
     "city": "zhuhai",
-    "source": "梅溪牌坊"
+    "source": "梅溪牌坊",
+    "description": "梅溪牌坊是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门区文化馆",
     "city": "zhuhai",
-    "source": "斗门区文化馆"
+    "source": "斗门区文化馆",
+    "description": "斗门区文化馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "星乐度露营小镇",
     "city": "zhuhai",
-    "source": "星乐度露营小镇"
+    "source": "星乐度露营小镇",
+    "description": "星乐度露营小镇是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海市青少年妇女儿童活动中心",
     "city": "zhuhai",
-    "source": "珠海市青少年妇女儿童活动中心"
+    "source": "珠海市青少年妇女儿童活动中心",
+    "description": "珠海市青少年妇女儿童活动中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海国际会展中心",
     "city": "zhuhai",
-    "source": "珠海国际会展中心"
+    "source": "珠海国际会展中心",
+    "description": "珠海国际会展中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金湾体育中心",
     "city": "zhuhai",
-    "source": "金湾体育中心"
+    "source": "金湾体育中心",
+    "description": "金湾体育中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门体育中心",
     "city": "zhuhai",
-    "source": "斗门体育中心"
+    "source": "斗门体育中心",
+    "description": "斗门体育中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴口岸",
     "city": "zhuhai",
-    "source": "横琴口岸"
+    "source": "横琴口岸",
+    "description": "横琴口岸是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "三灶镇文化中心",
     "city": "zhuhai",
-    "source": "三灶镇文化中心"
+    "source": "三灶镇文化中心",
+    "description": "三灶镇文化中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴湿地公园",
     "city": "zhuhai",
-    "source": "横琴湿地公园"
+    "source": "横琴湿地公园",
+    "description": "横琴湿地公园是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海市工人文化宫",
     "city": "zhuhai",
-    "source": "珠海市工人文化宫"
+    "source": "珠海市工人文化宫",
+    "description": "珠海市工人文化宫是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金湾艺术中心",
     "city": "zhuhai",
-    "source": "金湾艺术中心"
+    "source": "金湾艺术中心",
+    "description": "金湾艺术中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "斗门非遗展示馆",
     "city": "zhuhai",
-    "source": "斗门非遗展示馆"
+    "source": "斗门非遗展示馆",
+    "description": "斗门非遗展示馆是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴花海长廊",
     "city": "zhuhai",
-    "source": "横琴花海长廊"
+    "source": "横琴花海长廊",
+    "description": "横琴花海长廊是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "珠海大剧院",
     "city": "zhuhai",
-    "source": "珠海大剧院"
+    "source": "珠海大剧院",
+    "description": "珠海大剧院是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "华发商都",
     "city": "zhuhai",
-    "source": "华发商都"
+    "source": "华发商都",
+    "description": "华发商都是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "井岸镇文化中心",
     "city": "zhuhai",
-    "source": "井岸镇文化中心"
+    "source": "井岸镇文化中心",
+    "description": "井岸镇文化中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "金海岸文化艺术中心",
     "city": "zhuhai",
-    "source": "金海岸文化艺术中心"
+    "source": "金海岸文化艺术中心",
+    "description": "金海岸文化艺术中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "黄杨山",
     "city": "zhuhai",
-    "source": "黄杨山"
+    "source": "黄杨山",
+    "description": "黄杨山是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   },
   {
     "name": "横琴国际网球中心",
     "city": "zhuhai",
-    "source": "横琴国际网球中心"
+    "source": "横琴国际网球中心",
+    "description": "横琴国际网球中心是位于珠海的，面向亲子家庭与青少年常态化开展活动。建议出行前通过官方渠道确认开放时间与预约要求。",
+    "links": [],
+    "official_url": "",
+    "highlights": [],
+    "fee": "免费"
   }
 ]

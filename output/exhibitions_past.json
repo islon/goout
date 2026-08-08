@@ -1150,7 +1150,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "风景与想象之间——意大利当代艺术在中国",
@@ -1186,7 +1192,13 @@
     },
     "verified": true,
     "venue_url": "https://www.gdmoa.org/",
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "坪地街道分馆“艺术微展厅”巡展—坪西社区服务点“儿童工作室、无限空间”儿童创意画作品展览",
@@ -1518,7 +1530,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "重庆面塑手作体验",
@@ -1951,7 +1969,13 @@
     },
     "verified": true,
     "venue_url": "https://www.mingshisanling.com/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "恐龙化石发掘体验营",
@@ -2063,7 +2087,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660419048286487086/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "马安堂社区暑期夏令营--“我的音乐启蒙”非洲鼓体验活动",
@@ -2331,7 +2361,13 @@
     },
     "verified": true,
     "venue_url": "https://www.n-s.cn/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "刘宇2026\"宇宙诗人\"演唱会·北京站",
@@ -2367,7 +2403,13 @@
     },
     "verified": true,
     "venue_url": "https://wks.bloomagelive.com/live/",
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "多彩巴蜀——巴蜀文化旅游走廊美术作品展",
@@ -2403,7 +2445,13 @@
     },
     "verified": true,
     "venue_url": "https://www.cqartmuseum.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "3D打印创意工坊",
@@ -2627,7 +2675,13 @@
     },
     "verified": true,
     "venue_url": "https://www.njaoti.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奥体中心亲子马拉松",
@@ -3412,7 +3466,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉杂技厅魔术表演",
@@ -3710,7 +3770,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "王力宏\"最好的地方II\"巡回演唱会-西安站",
@@ -3745,7 +3811,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "珠海大剧院亲子音乐剧",
@@ -3909,7 +3981,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "粤BA全省21城篮球联赛",
@@ -3945,7 +4023,13 @@
     },
     "verified": true,
     "district": "宝安区",
-    "address": "广东省深圳市宝安区新湖路2112号"
+    "address": "广东省深圳市宝安区新湖路2112号",
+    "links": [
+      {
+        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳欢乐谷·夏浪狂欢节",
@@ -3962,7 +4046,13 @@
     "family_friendly": true,
     "start_date": "2026-07-04",
     "end_date": "2026-08-01",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1045463665_675420/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "数智课堂·光影仙子蝴蝶团扇",
@@ -4614,7 +4704,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "姜育恒\"再回首·我心依旧\"巡回演唱会-西安站",
@@ -4650,7 +4746,13 @@
     },
     "verified": true,
     "venue_url": "https://www.snpac.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "俄罗斯圣彼得堡国家冰上芭蕾舞团《胡桃夹子》",
@@ -4686,7 +4788,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "古希腊的旅程——希腊31家博物馆文物展",
@@ -4703,7 +4811,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "余杭区"
+    "district": "余杭区",
+    "links": [
+      {
+        "url": "https://www.lzmuseum.cn/LiangBoXinWen/2026974986977.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "万物之始·种子的远行 科普展",
@@ -4739,7 +4853,13 @@
     },
     "verified": true,
     "venue_url": "http://www.hzbg.cn/",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://hz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科学实验秀——浙江省科技馆暑期活动",
@@ -4756,7 +4876,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "拱墅区"
+    "district": "拱墅区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1044289750_121106994/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "机器狗AI编程夏令营",
@@ -4773,7 +4899,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奥体中心足球夏令营",
@@ -4924,7 +5056,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "szmuseum",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "http://www.sznews.com/news/content/mb/2026-07/03/content_32110315.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《海洋奇缘：启航》迪士尼电影主题展",
@@ -4941,7 +5079,13 @@
     "family_friendly": true,
     "start_date": "2026-07-01",
     "end_date": "2026-07-31",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7658324154139148850/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《海洋奇缘：起航》迪士尼电影主题展",
@@ -6049,7 +6193,13 @@
     "family_friendly": true,
     "start_date": "2026-07-05",
     "end_date": "2026-07-30",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659258111554961955/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "绿翠同心——深港两地书画艺术交流展",
@@ -6540,7 +6690,13 @@
     "contact": "",
     "family_friendly": false,
     "source": "nswhg",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=cd9e84815f5845a5a20191c6190cf0e9",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆拥抱世界·少年同行 ——APEC国际视野青少年成长活动",
@@ -7328,7 +7484,13 @@
     },
     "verified": true,
     "venue_url": "https://www.cqartmuseum.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://cq.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "歌乐山森林公园徒步游",
@@ -7383,7 +7545,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州市文化广电旅游局",
-    "district": "萧山区"
+    "district": "萧山区",
+    "links": [
+      {
+        "url": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_200bef79bf84833eb885c42fb2027022.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "原创童话芭蕾《飞越红树林》",
@@ -7469,7 +7637,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "szconcert",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉体育馆篮球训练营",
@@ -7807,7 +7981,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://www.xhwhg.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "六朝博物馆小小讲解员",
@@ -7955,7 +8135,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Njc1MzkxMw==&mid=2649913106&idx=1&sn=48f218d9dc2989bb7ceb9c36b50b92dc&chksm=89d4fd9a3defcb589ce61de5b5e2c3e68fe6af2b471e1d929a3121b9c8a7b297cfe07321a0ee&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "观澜古墟第四届文化季",
@@ -7990,7 +8176,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "来处与归途：三燕百年",
@@ -8007,7 +8199,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "szmuseum",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.shenzhenmuseum.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第十五届深圳动漫节",
@@ -8024,7 +8222,13 @@
     "contact": "深圳市设计之都运营发展有限公司 罗女士 13691919789",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026 CAFEEX 深圳国际精品咖啡展览会、 2026 CHOCEX 深圳巧克力展",
@@ -8041,7 +8245,13 @@
     "contact": "深圳钦诺展览有限公司 潘女士 18025471745",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "深圳名品家博会暨深圳家居、陶瓷卫浴地板、门窗定制特惠展（夏季）",
@@ -8058,7 +8268,13 @@
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
@@ -8121,7 +8337,13 @@
     "contact": "深圳市世纪东方会展有限公司 姜女士 0755-83643452",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“快乐书童·趣味阅读”林间足迹·守护归途",
@@ -8362,7 +8584,12 @@
     "end_date": "2026-07-26",
     "link": "https://www.szgm.gov.cn",
     "url": "https://www.szgm.gov.cn",
-    "links": [],
+    "links": [
+      {
+        "url": "https://www.szgm.gov.cn",
+        "label": "活动详情"
+      }
+    ],
     "description": "钢琴家陈萨与指挥家孙一凡携手国家大剧院管弦乐团室内乐团，演绎瓦格纳与常乐的作品。",
     "category": "其他",
     "fee": "收费",
@@ -8442,7 +8669,13 @@
     },
     "verified": true,
     "venue_url": "http://www.wniecm.com.cn/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第十六届武汉CGF动漫游戏节",
@@ -8478,7 +8711,13 @@
     },
     "verified": true,
     "venue_url": "http://www.covcec.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://wh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉科技馆VR虚拟现实体验",
@@ -8740,7 +8979,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "珠海市图书馆古诗词鉴赏讲座",
@@ -8872,7 +9117,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "高淳区龙虾啤酒·夏夜嘉年华",
@@ -8907,7 +9158,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "玄武湖环湖跑",
@@ -8980,7 +9237,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年7月龙岗区文化馆“艺术微展厅”--坂田街道分馆“艺术龙岗·剪纸生活”",
@@ -9038,7 +9301,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szyyt.com/performance/show_100000984262811.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "陈洁仪ATRIUM演唱会（深圳）",
@@ -9074,7 +9343,13 @@
     },
     "verified": true,
     "district": "宝安区",
-    "address": "广东省深圳市宝安区新湖路2112号"
+    "address": "广东省深圳市宝安区新湖路2112号",
+    "links": [
+      {
+        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年第十五届深圳儿童戏剧节 儿童剧《白雪公主》",
@@ -9436,7 +9711,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "szconcert",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szyyt.com/performance/show_100000984262811.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省科学技术馆暑期科学营",
@@ -9660,7 +9941,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "珠海大剧院交响乐演出季",
@@ -10140,7 +10427,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11636",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第3期 · Callout粤语Free Talking ——— 讲你想讲，自在开麦",
@@ -10491,7 +10784,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11667",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "江汉关博物馆钟楼探秘",
@@ -10639,7 +10938,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "南沙区"
+    "district": "南沙区",
+    "links": [
+      {
+        "url": "https://www.ns-thp.com.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "舞剧《醒·狮》海外巡演版",
@@ -10674,7 +10979,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://gz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "YUE航城暑期公益艺术培训——爵士舞蹈B班（第三天）",
@@ -11226,7 +11537,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "西城区"
+    "district": "西城区",
+    "links": [
+      {
+        "url": "https://ticket.chncpa.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "工业博物馆机械探秘研学",
@@ -11337,7 +11654,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "盐田区"
+    "district": "盐田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=bf613b0fc58247329302063a6d6c4b6b",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道白花社区杨梅荔枝汤水手工绘画活动",
@@ -11372,7 +11695,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c9759ffc0adc4d6bb9b2bbbeaf43b93f",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道白花社区墨韵白花·诗写少年”硬笔书法比赛主题活动",
@@ -11407,7 +11736,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=dc8c1fb6e07640459453fbcac742287d",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "美丽星期天——室内乐之夜",
@@ -11424,7 +11759,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "szconcert",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.shenzhenconcerthall.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "东湖落雁景区观鸟",
@@ -11595,7 +11936,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "房山区"
+    "district": "房山区",
+    "links": [
+      {
+        "url": "https://bj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "机器人编程体验工作坊",
@@ -11780,7 +12127,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://news.qq.com/rain/a/20260713A0AT2Q00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026夏日美乐——维也纳圆舞曲交响音乐会",
@@ -11816,7 +12169,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "越秀区"
+    "district": "越秀区",
+    "links": [
+      {
+        "url": "https://ysln.ycwb.com/content/2026-07/14/content_54227914.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年茶人之家亲子公益培训（二期）",
@@ -11833,7 +12192,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "杭州本地宝",
-    "district": "西湖区"
+    "district": "西湖区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1038933302_121107011/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "徐良\"时间折叠\"巡回演唱会-南京站",
@@ -11868,7 +12233,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "玄武湖环湖亲子跑",
@@ -11923,7 +12294,13 @@
     "family_friendly": true,
     "start_date": "2026-07-14",
     "end_date": "2026-07-19",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1047290911_122091088/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第九届紫亚兰国际抗衰老医美大会",
@@ -11940,7 +12317,13 @@
     "contact": "紫亚兰国际会展（深圳）有限公司 杨先生&nbsp; 18926034908",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "领展中心城暑期趣味赛事｜随地大小赛欢乐开启！夏日解压玩法全解锁",
@@ -11974,7 +12357,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ece9323c7ff3485f8490fa0f20e0b741",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京舞蹈学院原创舞剧《灼灼韶华》",
@@ -12009,7 +12398,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659324778305684020/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京舞蹈学院舞剧《巍巍正阳》",
@@ -12026,7 +12421,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "gmarts",
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659324778305684020/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“以舞润心，传承经典”舞蹈美育活动",
@@ -12061,7 +12462,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=88478fb76629484c82f3a535ba54aee9",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“夏日如歌”音乐会—— 万物自有节奏",
@@ -12095,7 +12502,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=e511dc460d124acbb2b9c5d0791fcdd2",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "法律咨询",
@@ -12112,7 +12525,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11640",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "践书+|《认知驱动》",
@@ -12129,7 +12548,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11662",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科普小讲堂丨高楼不倒的秘密",
@@ -12146,7 +12571,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11665",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "百老汇儿童剧《原始人大冒险》",
@@ -12163,7 +12594,13 @@
     "family_friendly": true,
     "start_date": "2026-07-19",
     "end_date": "2026-07-19",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1037850628_122892870/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "武汉海昌极地海洋公园极地探险营",
@@ -12500,7 +12937,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://xa.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "三峡民俗文化亲子课堂",
@@ -12611,7 +13054,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "天河区"
+    "district": "天河区",
+    "links": [
+      {
+        "url": "http://www.gzdjy.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -12647,7 +13096,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660419048286487086/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "第二十七届深圳国际医疗旅游展览会",
@@ -12664,7 +13119,13 @@
     "contact": "深圳正和会展服务有限公司 020-84138131/15820700062",
     "family_friendly": false,
     "source": "szcec",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szcec.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "CBD“耕田人”集合！！！高楼为邻 泥土为友 共寻花园里的城市美学",
@@ -12698,7 +13159,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=01d6de2185634a1da431b78391a425f4",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "马安堂社区暑期夏令营--“阅读奇幻快车”儿童阅读与写作读书会",
@@ -12733,7 +13200,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "龙岗区"
+    "district": "龙岗区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=22f60f5f8ef649f7a4786e3c77f2d393",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年光明街道亲子美术公益课堂",
@@ -12768,7 +13241,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3b78a5acd67d4c2cbc6ae12a17bf41f8",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "园岭街道全民阅动系列活动——双语绘本《Say Cheese》",
@@ -12803,7 +13282,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=4e3417dd4ea24e88888e8393c4422ee0",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“享趣龙岗，艺脉相传”2026年龙岗区 “非遗在社区”系列活动——潮彩拾光・匠造美好",
@@ -12838,7 +13323,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "龙岗区"
+    "district": "龙岗区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=524765905216464b9092227472259539",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“无米也有粿，巧手暖心房”--江岭社区慢飞工作室潮汕美食制作工作坊",
@@ -12873,7 +13364,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "坪山区"
+    "district": "坪山区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=746beeaf7b21439f8cfa83191f8ace90",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "合家欢剧场第十期《熊猫计划之部落奇遇记》",
@@ -12908,7 +13405,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "坪山区"
+    "district": "坪山区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=7d548284dc4b4737bc8fc8fe46f56043",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026凤凰街道文化惠民工程系列之“舞韵芳华，童绽国风”舞蹈美育活动",
@@ -12943,7 +13446,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8329120f9c654daa936f6e71ece1f741",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "抢票 | 声声载初心，礼赞新征程，2026“爱的有声礼”公益朗诵会启幕",
@@ -12978,7 +13487,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "盐田区"
+    "district": "盐田区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=c21c983cbc2b4eca96add85ae36c6c26",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“益”同成长 “家”倍力量-江岭社区亲子志愿者团建活动",
@@ -12995,7 +13510,13 @@
     "contact": "0755-26661612",
     "family_friendly": true,
     "source": "nsqsng",
-    "district": "坪山区"
+    "district": "坪山区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=da21b5ac2f734f778d53866909e699b5",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026“星光大浪”青年歌手大赛--周赛",
@@ -13030,7 +13551,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "龙华区"
+    "district": "龙华区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=ef8609a1a2ba43febb8f5ddff83ad5bc",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "百姓健康讲堂|​八段锦养身，中医护安康",
@@ -13047,7 +13574,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11666",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南图沙龙·摄视觉 | 培养你的摄影眼",
@@ -13064,7 +13597,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11663",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "跟名师读名著系列丨《古灵精怪动物园》",
@@ -13081,7 +13620,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11621",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南山区自然艺术季·大师讲堂（南兆旭《深圳自然手记》）",
@@ -13116,7 +13661,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科普绘本剧《肚子里的火车站》",
@@ -13133,7 +13684,13 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1037850628_122892870/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京舞蹈学院原创舞剧《巍巍正阳》",
@@ -13150,7 +13707,13 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659324778305684020/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "漫步古典夜 时光的折痕——长笛与吉他二重奏音乐会",
@@ -13167,7 +13730,13 @@
     "family_friendly": true,
     "start_date": "2026-07-18",
     "end_date": "2026-07-18",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://www.szyyt.com/performance/show_100000954193225.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "湖北省科学技术馆机器人竞技赛",
@@ -13390,7 +13959,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn/web/shouye/zuixinhuodong/20260624_2653491.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "中国典籍与文化系列讲座：丝绸之路上的“口袋书”",
@@ -13426,7 +14001,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "海淀区"
+    "district": "海淀区",
+    "links": [
+      {
+        "url": "https://www.nlc.cn/web/shouye/zuixinhuodong/zlyg/index.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧——深圳交响乐团2025-2026音乐季闭幕音乐会",
@@ -13443,7 +14024,13 @@
     "family_friendly": true,
     "start_date": "2026-07-17",
     "end_date": "2026-07-17",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://www.szyyt.com/performance/show_100000937342526.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "心理咨询",
@@ -13460,7 +14047,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11635",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“潮动盛夏”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -13477,7 +14070,13 @@
     "contact": "0755-26661612",
     "family_friendly": true,
     "source": "fhwh",
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=8052d7b94c9b41e39b09d133a748cdd4",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "罗湖区文化馆总分馆系列活动——桂园街道分馆快乐拍手舞活动",
@@ -13494,7 +14093,13 @@
     "contact": "0755-86051111",
     "family_friendly": false,
     "source": "桂园街道综合文体中心(桂园街道分馆）",
-    "district": "罗湖区"
+    "district": "罗湖区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=d7dbfea6253b45a5a01d694d99380003",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "歌剧双生的烈焰与星辰《乡村骑士》×《丑角》音乐会版歌剧",
@@ -13511,7 +14116,13 @@
     "contact": "",
     "family_friendly": false,
     "source": "szconcert",
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.szyyt.com/performance/show_100000937342526.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "欢迎来到恐龙时代——知识视界科普讲座",
@@ -13528,7 +14139,13 @@
     "contact": "86535086",
     "family_friendly": true,
     "source": "杭州图书馆官网",
-    "district": "上城区"
+    "district": "上城区",
+    "links": [
+      {
+        "url": "https://www.zjhzlib.cn/hdyghz/8010.htm",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "馆员故事会《小壁虎借尾巴》",
@@ -13545,7 +14162,13 @@
     "contact": "0755-26520380",
     "family_friendly": true,
     "source": "nslib",
-    "district": "南山区"
+    "district": "南山区",
+    "links": [
+      {
+        "url": "https://activity.nslib.cn/activity/info/11626",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026年石岩街道“来深建设者子女兴趣培训”——少儿古筝班",
@@ -13562,7 +14185,13 @@
     "contact": "0755-26661612",
     "family_friendly": true,
     "source": "sywhzx",
-    "district": "宝安区"
+    "district": "宝安区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=3f990f072a7c4b2ebe755b7263791067",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“星舞少年”·2026凤凰街道青少年爵士舞暑假训练营活动",
@@ -13579,7 +14208,13 @@
     "contact": "0755-26661612",
     "family_friendly": true,
     "source": "fhwh",
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "https://whgy.szmassart.com/nsqwhg/web/activity/detail.html?activityId=848e8a43b50748a992b2159f8f4f1949",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "儿童音乐皮影戏",
@@ -13596,7 +14231,13 @@
     "family_friendly": true,
     "start_date": "2026-07-11",
     "end_date": "2026-07-12",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1047290911_122091088/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国风儿童剧《少年诗词游之李白》",
@@ -13613,7 +14254,13 @@
     "family_friendly": true,
     "start_date": "2026-07-12",
     "end_date": "2026-07-12",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1037850628_122892870/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "罗湖一站式普惠托育集市",
@@ -13630,7 +14277,13 @@
     "family_friendly": true,
     "start_date": "2026-07-11",
     "end_date": "2026-07-11",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660412037217993243/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "北京人艺话剧《寻找春柳社》",
@@ -13647,7 +14300,13 @@
     "family_friendly": true,
     "start_date": "2026-07-10",
     "end_date": "2026-07-10",
-    "district": "光明区"
+    "district": "光明区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7659324778305684020/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026深圳食博会",
@@ -13682,6 +14341,12 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "福田区"
+    "district": "福田区",
+    "links": [
+      {
+        "url": "https://www.wfaexpo.com.cn",
+        "label": "活动详情"
+      }
+    ]
   }
 ]

@@ -32,7 +32,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "肇兴中国 秦·大一统之路文物考古特展",
@@ -68,7 +74,13 @@
     },
     "verified": true,
     "venue_url": "https://www.shanghaimuseum.net/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科好玩了——2026上海科技馆暑假营",
@@ -85,7 +97,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "shstm",
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.jfdaily.com/sgh/detail?id=4015623",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "'科'好玩了——2026暑假营",
@@ -102,7 +120,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "shstm",
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海迪士尼乐园夏日缤纷主题体验",
@@ -138,7 +162,13 @@
     },
     "verified": true,
     "venue_url": "https://www.shanghaidisneyresort.com/",
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海欢乐谷&玛雅海滩水公园 水陆双园夏日狂欢",
@@ -174,7 +204,13 @@
     },
     "verified": true,
     "venue_url": "https://sh.happyvalley.cn/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海野生动物园夏日野趣夜游",
@@ -210,7 +246,13 @@
     },
     "verified": true,
     "venue_url": "https://www.shwildlife.com/",
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026上海暑假\"博物馆奇妙夜\"系列活动",
@@ -246,7 +288,13 @@
     },
     "verified": true,
     "venue_url": "https://www.shanghaimuseum.net/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海童话·2026暑期少儿阅读季",
@@ -263,7 +311,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《只有树知道》临展暑期限时活动",
@@ -280,7 +334,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海少年儿童图书馆暑期活动",
@@ -297,7 +357,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://www.sstclib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "世界技能博物馆暑期体验",
@@ -314,7 +380,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "杨浦区"
+    "district": "杨浦区",
+    "links": [
+      {
+        "url": "https://www.wsmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -331,7 +403,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.xjhshuyuan.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海动物园动物奇妙夜",
@@ -433,7 +511,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "other_shanghai",
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.jfdaily.com/sgh/detail?id=4015071",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海美术馆马王堆汉墓大展",
@@ -520,7 +604,13 @@
     },
     "verified": true,
     "venue_url": "https://www.shanghaimuseum.net/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "世界树之巅：美洲古代文明大展",
@@ -537,7 +627,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "shanghaimuseum",
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00005037",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -554,7 +650,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "shanghaimuseum",
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "夜宿上海自然博物馆",
@@ -571,7 +673,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "上海本地宝",
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -588,7 +696,13 @@
     "contact": "",
     "family_friendly": true,
     "source": "shanghaimuseum",
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "历史的星辉 长安画派与海派绘画研究展",
@@ -624,7 +738,13 @@
     },
     "verified": true,
     "venue_url": "https://www.sh-artmuseum.org.cn/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "《陈镇威与朋友们——纽约明星芭蕾之夜》",
@@ -660,7 +780,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660419048286487086/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "塑我此生 贾科梅蒂艺术大展",
@@ -696,7 +822,13 @@
     },
     "verified": true,
     "venue_url": "https://minshengart.com/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "恐龙化石与生物观察",
@@ -732,7 +864,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=上海自然博物馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现上海上海迪士尼乐园展览-42",
@@ -842,7 +980,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "金山区"
+    "district": "金山区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索上海淮海路研学-53",
@@ -952,7 +1096,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子上海东方明珠亲子活动",
@@ -1061,7 +1211,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.shanghaidisneyresort.com/zh-cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味上海外滩亲子活动-51",
@@ -1323,7 +1479,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海博物馆展览",
@@ -1396,7 +1558,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.jfdaily.com/sgh/detail?id=4015071",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践上海长风公园研学-77",
@@ -1697,7 +1865,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Njc1MzkxMw==&mid=2649913106&idx=1&sn=48f218d9dc2989bb7ceb9c36b50b92dc&chksm=89d4fd9a3defcb589ce61de5b5e2c3e68fe6af2b471e1d929a3121b9c8a7b297cfe07321a0ee&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年上海上海野生动物园亲子活动",
@@ -1918,7 +2092,13 @@
     },
     "verified": true,
     "venue_url": "https://www.powerstationofart.com/",
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://sh.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "民国建筑导览与绘本剧",
@@ -1954,7 +2134,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "杨浦区"
+    "district": "杨浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=杨浦文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-33",
@@ -2667,7 +2853,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "http://sh.people.com.cn/n2/2026/0702/c350122-41627961.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海人民广场亲子活动",
@@ -2929,7 +3121,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "话剧《无墙》",
@@ -2965,7 +3163,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7660419048286487086/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "音乐剧《粉丝来信》中文版",
@@ -3000,7 +3204,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动",
@@ -3373,7 +3583,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://www.sstclib.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游上海静安雕塑公园展览-49",
@@ -3559,7 +3775,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.museumofartpd.org.cn/exhibition",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "徐家汇书院暑期阅读",
@@ -3594,7 +3816,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.xjhshuyuan.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进上海世纪公园展览",
@@ -3891,7 +4119,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://news.cyol.com/gb/articles/2026-04/24/content_X54ld0tp2d.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "雨林探秘：玛雅大冒险（沉浸式体验展）",
@@ -3927,7 +4161,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海博物馆展览-30",
@@ -4414,7 +4654,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=浦东图书馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现上海宝山区讲座阅读比赛",
@@ -4578,7 +4824,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=西岸文化走廊",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海城市规划展示馆演出-40",
@@ -4801,7 +5053,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "科举文化与古建筑手工",
@@ -4837,7 +5095,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "嘉定区"
+    "district": "嘉定区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=嘉定文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海世博会博物馆国采展",
@@ -4873,7 +5137,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.expo2010china.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海植物园亲子活动-135",
@@ -5059,7 +5329,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.museumofartpd.org.cn/exhibition",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验上海普陀区展览嘉年华",
@@ -5657,7 +5933,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.library.sh.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "轮滑与滑板",
@@ -5693,7 +5975,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=浦东文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "实践上海长风公园研学",
@@ -5803,7 +6091,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://new.qq.com/rain/a/20260714A05FMC00",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘上海长宁区影视放映月",
@@ -5952,7 +6246,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "宝山区"
+    "district": "宝山区",
+    "links": [
+      {
+        "url": "https://www.shmog.org/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭上海上海自然博物馆亲子活动-32",
@@ -6177,7 +6477,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://baijiahao.baidu.com/s?id=1861088201811952470",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙上海上海美术馆亲子活动",
@@ -6401,7 +6707,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海植物园亲子活动-75",
@@ -6567,7 +6879,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7657908763235451411/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-38",
@@ -6755,7 +7073,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://whlyj.sh.gov.cn/wbzx/20260604/26b98665bcab4c4a94ddbe0f25682872.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "环湖徒步与球类公益课",
@@ -6791,7 +7115,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "闵行区"
+    "district": "闵行区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=闵行文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索上海上海汽车博物馆展览",
@@ -6975,7 +7305,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.shqunyiguan.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验上海环球金融中心研学",
@@ -7498,7 +7834,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.shkjdw.gov.cn/c/2026-02-23/534192.shtml",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "书之奇遇：艺术家手作书（PSA等等图书馆特别项目）",
@@ -7534,7 +7876,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://whlyj.sh.gov.cn/wbzx/20260518/5a861af35df44e76b8ccd305f6f96fae.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "机器人互动与动物标本",
@@ -7570,7 +7918,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童上海普陀区科普活动课程",
@@ -7720,7 +8074,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "普陀区"
+    "district": "普陀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=普陀文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "精彩上海上海动物园演出",
@@ -7942,7 +8302,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.shbg.org/sites/zhiwuyuan/InfoContent.aspx?ctgId=737e03a1-a4d0-4e86-8f8c-e1fbffb005ae&infoId=64a8c92c-b9c1-405e-9b3b-a8317a997774",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "净水实验与水科学探究",
@@ -7977,7 +8343,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "普陀区"
+    "district": "普陀区",
+    "links": [
+      {
+        "url": "https://www.putuo.gov.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-159",
@@ -8161,7 +8533,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.shanghaidisney.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "走进上海世纪公园展览-108",
@@ -8348,7 +8726,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=文旅公众号",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海人民广场亲子活动-80",
@@ -8608,7 +8992,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "http://m.toutiao.com/group/7657908763235451411/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学-161",
@@ -8719,7 +9109,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.artmuseumonline.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "梦幻上海中国航海博物馆亲子活动-129",
@@ -9109,7 +9505,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=松江文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "欢乐上海上海中心大厦亲子活动-57",
@@ -9332,7 +9734,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "杨浦区"
+    "district": "杨浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=杨浦文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海科技馆机器人总动员",
@@ -9368,7 +9776,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.cn/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典上海金茂大厦演出",
@@ -9555,7 +9969,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝山区"
+    "district": "宝山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=宝山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-124",
@@ -9703,7 +10123,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=浦东青少年活动中心",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "家庭上海青浦区讲座阅读研学营",
@@ -9929,7 +10355,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "来自喜马拉雅的瑰宝：西藏萨迦文物精品展",
@@ -9965,7 +10397,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探秘上海上海欢乐谷展览",
@@ -10149,7 +10587,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://baijiahao.baidu.com/s?id=1861088201811952470",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验上海上海电影博物馆展览",
@@ -10691,7 +11135,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝山区"
+    "district": "宝山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=宝山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "夏日山茶惊艳盛放——杜鹃红山茶花事",
@@ -10726,7 +11176,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.shbg.org/sites/zhiwuyuan/InfoCtgList.aspx?ctgId=d95a0216-5d88-42ca-9346-c638b213465b",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海植物园亲子活动-105",
@@ -10798,7 +11254,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "虹口区"
+    "district": "虹口区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=北外滩来福士",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "屋顶免费儿童乐园与艺术公益展",
@@ -10833,7 +11295,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.taikooliqiantan.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "2026上海夏季音乐节（MISA）",
@@ -10869,7 +11337,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://m.sohu.com/a/1044837744_391502/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "暑期上海杨浦区展览体验营",
@@ -11350,7 +11824,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004245",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "从元代水闸到外白渡桥——苏州河历史文化展",
@@ -11386,7 +11866,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://m.sh.bendibao.com/tour/307215.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-123",
@@ -11572,7 +12058,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODc0NTIyMw==&mid=2247693804&idx=3&sn=ee11c3e2547488f90b80a23fab354a53&chksm=96371de0543e8e4523c8f67c9eca7940266a5e8956a61d21122a471fbfa6dddca744a22871fa&scene=27",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "海洋绘本与植物手工",
@@ -11608,7 +12100,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "闵行区"
+    "district": "闵行区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=闵行文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "奇妙上海上海美术馆亲子活动-63",
@@ -12110,7 +12608,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.snhm.org.cn/lzdy/lz-info.htm?id=47",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海博物馆世界树之巅夜场活动",
@@ -12146,7 +12650,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出",
@@ -12447,7 +12957,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "松江区"
+    "district": "松江区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=松江文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "儿童上海上海航海博物馆亲子活动-68",
@@ -12785,7 +13301,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=徐汇文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "国风手工与露天音乐会",
@@ -12821,7 +13343,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "嘉定区"
+    "district": "嘉定区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=嘉定文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "龙马社原创话剧《断金》",
@@ -12856,7 +13384,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shcstheatre.com/program/programlist_easy.aspx",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "漫游上海静安雕塑公园展览",
@@ -13081,7 +13615,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "杨浦区"
+    "district": "杨浦区",
+    "links": [
+      {
+        "url": "https://www.wsmuseum.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味上海杨浦区演出展览",
@@ -13321,7 +13861,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "千金之家——马王堆汉墓的生活美学及养成",
@@ -13357,7 +13903,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://news.qq.com/rain/a/20260603A01RQ800",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "体验上海上海电影博物馆展览-67",
@@ -13469,7 +14021,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://www.sstlib.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "艺术科技舞蹈公益课程",
@@ -13505,7 +14063,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shsng.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海陆家嘴展览-85",
@@ -13802,7 +14366,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "江南民俗与陶艺DIY",
@@ -13838,7 +14408,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝山区"
+    "district": "宝山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=宝山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海博物馆展览-90",
@@ -13966,7 +14542,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sh-aquarium.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "“拼了！真功夫”乐高探索中心十周年暑期活动",
@@ -14001,7 +14583,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "普陀区"
+    "district": "普陀区",
+    "links": [
+      {
+        "url": "https://baijiahao.baidu.com/s?id=1870204363552335825",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "互动上海普陀区体育赛事科普",
@@ -14150,7 +14738,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "飞越马丘比丘：云端印加之旅（沉浸式体验展）",
@@ -14186,7 +14780,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghai.gov.cn/nw31406/20260709/6e1e00b160124bfe9f261f2c468ecdba.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-74",
@@ -14407,7 +15007,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.shanghaiaquarium.com/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "亲子读书会与自然写生",
@@ -14443,7 +15049,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=徐汇文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海城市规划展示馆演出-70",
@@ -14819,7 +15431,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-64",
@@ -15005,7 +15623,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=上海规划馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "互动上海奉贤区展览科普",
@@ -15078,7 +15702,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "闵行区"
+    "district": "闵行区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=闵行文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "研学上海上海杜莎夫人蜡像馆研学",
@@ -15262,7 +15892,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004234",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海海昌海洋公园虎鲸造浪节",
@@ -15298,7 +15934,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "珠归海上：庄万里家族捐赠两塗轩书画展（第二期）",
@@ -15334,7 +15976,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/E00004247",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "屋顶免费儿童乐园与儿童艺术公益展",
@@ -15369,7 +16017,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.taikooliqiantan.com",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "水科学与绘画",
@@ -15405,7 +16059,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "普陀区"
+    "district": "普陀区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=普陀文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "震撼上海上海当代艺术博物馆演出-34",
@@ -16093,7 +16753,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "宝山区"
+    "district": "宝山区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=宝山文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "青少年上海上海野生动物园亲子活动-164",
@@ -16391,7 +17057,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "闵行区"
+    "district": "闵行区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=闵行博物馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现上海上海迪士尼乐园展览-102",
@@ -16538,7 +17210,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=上海儿童博物馆",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "世界树之巅——美洲古代文明大展",
@@ -16574,7 +17252,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "探索上海上海汽车博物馆展览-36",
@@ -16872,7 +17556,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "静安区"
+    "district": "静安区",
+    "links": [
+      {
+        "url": "https://www.sstlib.org",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海陆家嘴展览",
@@ -17056,7 +17746,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.sstm.org.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海上海玻璃博物馆研学-95",
@@ -17540,7 +18236,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.jfdaily.com/sgh/detail?id=4015623",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "经典上海金山区影视放映探秘",
@@ -17929,7 +18631,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "长宁区"
+    "district": "长宁区",
+    "links": [
+      {
+        "url": "https://www.shanghaizoo.cn",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "发现上海上海迪士尼乐园展览",
@@ -18228,7 +18936,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "http://www.xinhuanet.com/20260709/4a40a2cffe70423b8575cb64786e11d4/c.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "亲子上海东方明珠亲子活动-116",
@@ -18413,7 +19127,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=浦东文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "上海乐高乐园一周年庆典",
@@ -18448,7 +19168,13 @@
       "verified_by": "http_check"
     },
     "verified": false,
-    "district": "金山区"
+    "district": "金山区",
+    "links": [
+      {
+        "url": "https://www.legoland.com/shanghai",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "趣味上海外滩亲子活动",
@@ -19235,7 +19961,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "浦东新区"
+    "district": "浦东新区",
+    "links": [
+      {
+        "url": "https://www.artmuseumonline.org/art/art/zlgz/zl/dqzl/index.html",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "乒乓球与羽毛球免费体验",
@@ -19270,7 +20002,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "杨浦区"
+    "district": "杨浦区",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=杨浦文旅",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "解读上海徐家汇展览-114",
@@ -19414,7 +20152,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海欢乐谷跨年灯会",
@@ -19487,7 +20231,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "黄浦区"
+    "district": "黄浦区",
+    "links": [
+      {
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00004987",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "上海迪士尼乐园春日",
@@ -19560,6 +20310,12 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "徐汇区"
+    "district": "徐汇区",
+    "links": [
+      {
+        "url": "https://www.library.sh.cn/activity?tabName=%E5%85%A8%E9%A2%91&dateType=lately",
+        "label": "活动详情"
+      }
+    ]
   }
 ]

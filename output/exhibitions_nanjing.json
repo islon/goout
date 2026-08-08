@@ -32,7 +32,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "南京博物院 延时开放·博物馆奇妙夜",
@@ -68,7 +74,13 @@
     },
     "verified": true,
     "venue_url": "https://www.njmuseum.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "灯影——南京博物院藏陕西皮影艺术展",
@@ -104,7 +116,13 @@
     },
     "verified": true,
     "venue_url": "https://www.njmuseum.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "银杏湖乐园 暑期亲子",
@@ -140,7 +158,13 @@
     },
     "verified": true,
     "venue_url": "http://www.gingkolake.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "title": "徐良\"时间折叠\"巡回演唱会-南京站",
@@ -175,7 +199,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "江苏科技馆奇妙科学夜",
@@ -2423,7 +2453,13 @@
     },
     "verified": true,
     "venue_url": "https://www.njaoti.com/",
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "江宁织造博物馆曹雪芹文化讲堂",
@@ -3061,7 +3097,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "龙蟠虎踞南京城市史研学",
@@ -9811,7 +9853,13 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "其他",
+    "links": [
+      {
+        "url": "https://nj.bendibao.com/xiuxian/huodongditu",
+        "label": "活动详情"
+      }
+    ]
   },
   {
     "name": "瞻园太平天国历史研学",
