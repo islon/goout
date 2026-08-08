@@ -301,7 +301,7 @@
   {
     "title": "粤BA全省21城篮球联赛",
     "name": "粤BA全省21城篮球联赛",
-    "venue": "宝安体育馆",
+    "venue": "宝安体育中心体育馆",
     "city": "shenzhen",
     "start_date": "2026-03-21",
     "end_date": "2026-08-01",
@@ -331,7 +331,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "宝安区",
+    "address": "广东省深圳市宝安区新湖路2112号"
   },
   {
     "title": "“粤唱越有料”2026年光明区文化馆“四季村晚”系列活动",
@@ -3360,7 +3361,7 @@
   {
     "title": "宝安体育中心暑期篮球训练营",
     "name": "宝安体育中心暑期篮球训练营",
-    "venue": "宝安体育中心",
+    "venue": "宝安体育中心体育馆",
     "city": "shenzhen",
     "start_date": "2026-07-10",
     "end_date": "2026-08-25",
@@ -3378,7 +3379,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "baoan_ty",
-    "district": "宝安区"
+    "district": "宝安区",
+    "address": "广东省深圳市宝安区新湖路2112号"
   },
   {
     "title": "南山文体中心暑期公益培训",
@@ -4142,7 +4144,7 @@
   {
     "title": "宝安体育中心暑期游泳培训班",
     "name": "宝安体育中心暑期游泳培训班",
-    "venue": "宝安体育中心",
+    "venue": "宝安体育中心体育馆",
     "city": "shenzhen",
     "start_date": "2026-07-15",
     "end_date": "2026-08-25",
@@ -4160,7 +4162,8 @@
     "contact": "",
     "family_friendly": true,
     "source": "baoan_ty",
-    "district": "宝安区"
+    "district": "宝安区",
+    "address": "广东省深圳市宝安区新湖路2112号"
   },
   {
     "title": "南山区文化馆暑期公益培训",
@@ -27146,7 +27149,7 @@
   {
     "title": "陈洁仪ATRIUM演唱会（深圳）",
     "name": "陈洁仪ATRIUM演唱会（深圳）",
-    "venue": "宝安体育馆",
+    "venue": "宝安体育中心体育馆",
     "city": "shenzhen",
     "start_date": "2026-07-25",
     "end_date": "2026-07-25",
@@ -27176,7 +27179,8 @@
       "verified_by": "http_check"
     },
     "verified": true,
-    "district": "其他"
+    "district": "宝安区",
+    "address": "广东省深圳市宝安区新湖路2112号"
   },
   {
     "title": "领展中心城暑期趣味赛事｜超级扭扭车竞速赛",
@@ -36916,20 +36920,24 @@
     "id": "manual_sz_lindan_youth_20260808_v2",
     "title": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛（深圳宝安体育馆 8.8-8.9）",
     "name": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛（深圳宝安体育馆 8.8-8.9）",
-    "venue": "宝安体育馆",
+    "venue": "宝安体育中心体育馆",
     "city": "shenzhen",
     "district": "宝安区",
     "start_date": "2026-08-08",
     "end_date": "2026-08-09",
-    "link": "https://www.bacg.org.cn/",
-    "url": "https://www.bacg.org.cn/",
+    "link": "https://ldclub.ydmap.cn/ticket/4f84b29993f16c50f45dbfdee851ba14",
+    "url": "https://ldclub.ydmap.cn/ticket/4f84b29993f16c50f45dbfdee851ba14",
     "links": [
       {
-        "url": "https://www.bacg.org.cn/",
+        "url": "https://ldclub.ydmap.cn/ticket/4f84b29993f16c50f45dbfdee851ba14",
         "label": "活动详情"
+      },
+      {
+        "url": "https://www.sznews.com/news/content/mb/2026-08/07/content_32143444.htm",
+        "label": "深圳新闻网报道"
       }
     ],
-    "description": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛将于8月8日至9日在深圳宝安体育馆（新湖路2112号）开打。\n· 规模：共 495 名选手参赛，涵盖 U8 / U9 / U11 / U13 / U16 五个年龄组别，其中港澳台地区参赛青少年 115 人，创历史新高。\n· 项目：设男单、女单、男双、女双四个项目。\n· 亮点：羽毛球奥运冠军林丹将于 8 月 9 日决赛日亲临现场助威。\n· 交通：地铁1/5/11/12号线至宝安站/宝体站步行可达。",
+    "description": "2026年“林丹杯”海峡两岸青少年羽毛球精英赛将于8月8日至9日在深圳宝安体育馆（新湖路2112号）开打。\n· 规模：共 495 名选手参赛，涵盖 U8 / U9 / U11 / U13 / U16 五个年龄组别，其中港澳台地区参赛青少年 115 人，创历史新高。\n· 项目：设男单、女单、男双、女双四个项目。\n· 亮点：羽毛球奥运冠军林丹将于 8 月 9 日决赛日亲临现场助威。\n· 官方报名/购票入口：林丹俱乐部 ldclub.ydmap.cn\n· 交通：地铁1/5/11/12号线至宝安站/宝体站步行可达。",
     "category": "体育赛事",
     "fee": "收费",
     "contact": "",
@@ -36943,7 +36951,7 @@
       "羽毛球",
       "青少年",
       "海峡两岸",
-      "宝安体育馆",
+      "宝安体育中心体育馆",
       "宝安区",
       "U8",
       "U16",
@@ -36983,7 +36991,7 @@
       "Skechers",
       "职业巡回赛",
       "国际赛事",
-      "宝安体育中心",
+      "宝安体育中心体育馆",
       "宝安区",
       "体育赛事"
     ],
