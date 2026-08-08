@@ -36,6 +36,48 @@ OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'output')
 VENUE_INFO_PATH = os.path.join(OUTPUT_DIR, 'venue_info.json')
 FILTERS_OUT_PATH = os.path.join(PROJECT_ROOT, 'miniprogram', 'data', 'filters.js')
 
+# 各区县常住人口(2020 七普, 万人) —— 区县筛选按人口降序排序的依据。
+# 人口缺失的区县在排序时落到末尾，不影响"全部区县"置顶。
+DISTRICT_POPULATION = {
+    # 深圳
+    '宝安区': 447, '龙岗区': 397, '龙华区': 253, '南山区': 180, '福田区': 156,
+    '罗湖区': 114, '光明区': 110, '坪山区': 55, '盐田区': 21, '大鹏新区': 15,
+    # 广州
+    '白云区': 374, '番禺区': 266, '天河区': 224, '海珠区': 182, '花都区': 170,
+    '增城区': 146, '黄埔区': 126, '荔湾区': 123, '越秀区': 116, '南沙区': 84, '从化区': 71,
+    # 上海
+    '浦东新区': 568, '闵行区': 265, '宝山区': 223, '松江区': 191, '嘉定区': 184,
+    '杨浦区': 131, '青浦区': 130, '普陀区': 129, '徐汇区': 111, '奉贤区': 114,
+    '静安区': 98, '金山区': 82, '虹口区': 76, '长宁区': 69, '黄浦区': 66,
+    # 北京
+    '朝阳区': 345, '海淀区': 313, '昌平区': 227, '丰台区': 202, '大兴区': 199,
+    '通州区': 184, '顺义区': 132, '房山区': 131, '西城区': 110, '东城区': 92,
+    '石景山区': 57, '密云区': 46, '平谷区': 46, '怀柔区': 41, '门头沟区': 39, '延庆区': 23,
+    # 杭州
+    '萧山区': 205, '上城区': 133, '余杭区': 122, '临平区': 117, '富阳区': 83,
+    '西湖区': 81, '钱塘区': 80, '建德市': 78, '桐庐县': 75, '拱墅区': 109,
+    '临安区': 64, '滨江区': 53, '淳安县': 51,
+    # 成都
+    '郫都区': 167, '新都区': 156, '双流区': 146, '龙泉驿区': 135, '温江区': 99,
+    '金牛区': 126, '武侯区': 121, '成华区': 96, '青羊区': 96, '锦江区': 90,
+    '高新区': 130, '天府新区': 90, '都江堰市': 71,
+    # 南京
+    '江宁区': 156, '浦口区': 117, '鼓楼区': 94, '栖霞区': 98, '六合区': 94,
+    '玄武区': 61, '秦淮区': 74, '建邺区': 48, '雨花台区': 46, '溧水区': 50, '高淳区': 43,
+    # 武汉
+    '洪山区': 172, '江夏区': 147, '武昌区': 128, '黄陂区': 115, '蔡甸区': 92,
+    '东西湖区': 88, '硚口区': 83, '江汉区': 73, '汉阳区': 67, '江岸区': 71,
+    '新洲区': 86, '青山区': 49,
+    # 西安
+    '雁塔区': 204, '长安区': 164, '未央区': 160, '碑林区': 76, '莲湖区': 71,
+    '新城区': 62, '灞桥区': 70, '临潼区': 68, '高陵区': 30, '阎良区': 28, '鄠邑区': 39,
+    # 重庆
+    '渝北区': 219, '九龙坡区': 153, '沙坪坝区': 148, '南岸区': 120, '巴南区': 118,
+    '江北区': 91, '北碚区': 84, '璧山区': 76, '渝中区': 58, '大渡口区': 43,
+    # 珠海
+    '香洲区': 112, '斗门区': 61, '金湾区': 44,
+}
+
 
 def load_venues():
     with open(VENUE_INFO_PATH, 'r', encoding='utf-8') as f:
@@ -122,9 +164,11 @@ def generate_mappings(venues):
         if district:
             district_keywords_set.add(district)
 
-    # 区县列表排序（"全部区县"放最前）
+    # 区县列表排序：按常住人口降序（"全部区县"放最前），人口缺失的落到末尾
     for city in districts_by_city:
-        districts_by_city[city] = ['全部区县'] + sorted(districts_by_city[city])
+        districts_by_city[city] = ['全部区县'] + sorted(
+            districts_by_city[city],
+            key=lambda d: -DISTRICT_POPULATION.get(d, 0))
 
     # 场馆列表按名称排序，"全部地点"放最前
     for city in venues_by_city:
@@ -142,6 +186,7 @@ def generate_mappings(venues):
         'sourceToVenue': source_to_venue,
         'venueAddressMap': venue_address_map,
         'districtsByCity': districts_by_city,
+        'districtPopulation': DISTRICT_POPULATION,
         'venuesByCity': venues_by_city,
         'sourceChineseToDistrict': source_chinese_to_district,
         'districtKeywords': district_keywords,
@@ -295,8 +340,13 @@ def render_filters_js(cities, mappings):
     lines.append('')
 
     # districtsByCity
-    lines.append('// 按城市分组区县（自动生成）')
+    lines.append('// 按城市分组区县（自动生成，按人口降序）')
     lines.append(f'const districtsByCity = {js_obj(mappings["districtsByCity"])};')
+    lines.append('')
+
+    # districtPopulation
+    lines.append('// 区县常住人口(2020 七普, 万人)，用于区县筛选按人口降序')
+    lines.append(f'const districtPopulation = {js_obj(mappings["districtPopulation"])};')
     lines.append('')
 
     # sourceChineseToDistrict
@@ -326,6 +376,7 @@ def render_filters_js(cities, mappings):
     lines.append('  sourceToVenue,')
     lines.append('  venueAddressMap,')
     lines.append('  districtsByCity,')
+    lines.append('  districtPopulation,')
     lines.append('  venuesByCity,')
     lines.append('  sourceChineseToDistrict,')
     lines.append('  districtKeywords')
