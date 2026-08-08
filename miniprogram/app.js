@@ -333,29 +333,40 @@ App({
       // 1. 构建场馆映射（基于当前 venues 数据）
       this.buildVenueMap();
 
-      // 2. 首次启动：将打包数据写入本地缓存作为基线
-      //    这样即使从未联网，后续启动也能从缓存读取较新的数据
-      this.seedCacheIfNeeded();
+      // 2. 优先从本地缓存加载（即使"过期"也要显示上次下载的最新数据，而非打包基线）
+      var cacheResult = this.loadFromCacheWithStatus();
+      hasCache = cacheResult.loaded;
+      // 关键修复：缓存不可用（空/脏/非数组）= 上次写入被微信截断/对象化，必须强制刷新，忽略 TTL 与版本号
+      if (cacheResult.damaged) {
+        this._cacheWasBad = true;
+        console.warn('[童行] 本地缓存损坏/不可用，将强制刷新云端最新，不停留打包基线');
+      }
 
-      // 3. 优先从本地缓存加载（无论是否过期，保证即时渲染）
-      hasCache = this.loadFromCache();
+      // 3. 缓存缺失或损坏 → 播种打包基线作为兜底，并再次尝试加载（保证后续启动至少有 valid baseline）
+      if (!hasCache || cacheResult.damaged) {
+        this.seedCacheIfNeeded(true);
+        if (!hasCache) {
+          var seedResult = this.loadFromCacheWithStatus();
+          if (seedResult.loaded) hasCache = true;
+        }
+      }
     } catch (e) {
       // 任何初始化异常都不应阻断页面渲染：保留打包兜底数据并继续
       console.error('[童行] 启动初始化异常，已回退打包兜底数据:', e);
     }
 
     if (hasCache) {
-      console.log('[童行] 从本地缓存加载数据');
+      console.log('[童行] 从本地缓存加载数据（上次下载的最新）');
     } else {
-      console.log('[童行] 使用打包的离线数据');
+      console.log('[童行] 使用打包的离线数据（首次进入或缓存已损坏）');
     }
 
     // 4. 标记数据就绪 → 页面可以立即渲染
     this.globalData.dataReady = true;
     this.notifyReady();
 
-    // 5. 检测是否“首次启动(刚播种打包基线)”或“升级后(版本号变化)”：
-    //    这两种情况应强制拉取最新数据，忽略 5 分钟 TTL 节流；普通重复进入仍走节流。
+    // 5. 检测是否“首次启动(刚播种打包基线)”或“升级后(版本号变化)”或“缓存损坏”：
+    //    这些情况应强制拉取最新数据，不受 5 分钟 TTL 节流；普通重复进入仍走节流。
     try {
       var lastVer = wx.getStorageSync('goout_app_version');
       if (!lastVer || lastVer !== APP_VERSION) {
@@ -395,71 +406,115 @@ App({
     }, 5000);
   },
 
-  // ========== 缓存种子：首次启动写入打包数据 ==========
+  // ========== 缓存种子：首次启动或缓存损坏时写入打包数据作为基线 ==========
 
-  seedCacheIfNeeded() {
+  seedCacheIfNeeded(forceRewarm) {
     try {
-      // 活动数据
-      if (!wx.getStorageSync(CACHE_TIME_KEY)) {
-        // 标记“本次启动刚播种打包基线”——首次进入应强制拉最新，而非沿用旧基线后跳过静默更新
+      var needSeedAct = forceRewarm || !wx.getStorageSync(CACHE_TIME_KEY);
+      if (needSeedAct) {
         this._seededThisLaunch = true;
+        try {
+          wx.removeStorageSync(CACHE_KEY);
+          wx.removeStorageSync(CACHE_TIME_KEY);
+          wx.removeStorageSync(CACHE_PARTIAL_KEY);
+        } catch (e) {}
         wx.setStorageSync(CACHE_KEY, localExhibitions);
         wx.setStorageSync(CACHE_TIME_KEY, Date.now());
-        console.log('[童行] 已将', localExhibitions.length, '条活动数据写入缓存基线');
+        console.log('[童行] 已将', localExhibitions.length, '条活动数据写入缓存基线' + (forceRewarm ? '（强制重播种）' : ''));
       }
-      // 场馆数据
-      if (!wx.getStorageSync(VENUE_CACHE_TIME_KEY)) {
+      var needSeedVen = forceRewarm || !wx.getStorageSync(VENUE_CACHE_TIME_KEY);
+      if (needSeedVen) {
+        try {
+          wx.removeStorageSync(VENUE_CACHE_KEY);
+          wx.removeStorageSync(VENUE_CACHE_TIME_KEY);
+          wx.removeStorageSync(VENUE_PARTIAL_KEY);
+        } catch (e) {}
         wx.setStorageSync(VENUE_CACHE_KEY, localVenues);
         wx.setStorageSync(VENUE_CACHE_TIME_KEY, Date.now());
-        console.log('[童行] 已将', localVenues.length, '条场馆数据写入缓存基线');
+        console.log('[童行] 已将', localVenues.length, '条场馆数据写入缓存基线' + (forceRewarm ? '（强制重播种）' : ''));
       }
     } catch (e) {
       console.warn('[童行] 写入缓存基线失败', e);
     }
   },
 
-  // ========== 从缓存加载 ==========
+  // ========== 从缓存加载（返回 {loaded, damaged} 详细状态，便于启动后决定是否强制刷新）==========
 
-  loadFromCache() {
+  loadFromCacheWithStatus() {
     var loadedAny = false;
+    var damaged = false;
 
     // 活动数据
-    var cached = toArray(wx.getStorageSync(CACHE_KEY));
+    var cached = null;
+    try {
+      cached = toArray(wx.getStorageSync(CACHE_KEY));
+    } catch (e) {
+      cached = null;
+    }
+
     if (cached && cached.length > 0) {
       // 防脏缓存：旧版本/被墙期缓存可能混入缺 start_date 的条目，
-      // 会导致首页 loadData 的 sort 崩溃而白屏。检测到即丢弃，回退打包兜底。
+      // 会导致首页 loadData 的 sort 崩溃而白屏。检测到即丢弃。
       var dirty = cached.some(function(x) { return !x || !x.start_date; });
       if (dirty) {
-        console.warn('[童行] 检测到缓存活动数据损坏(缺 start_date)，丢弃并回退打包兜底');
+        console.warn('[童行] 缓存活动数据损坏(缺 start_date)，丢弃清除');
         try { wx.removeStorageSync(CACHE_KEY); wx.removeStorageSync(CACHE_TIME_KEY); wx.removeStorageSync(CACHE_PARTIAL_KEY); } catch (e) {}
         cached = null;
+        damaged = true;
+      }
+    } else {
+      // 缓存 key 存在但不是有效数组（toArray 转成了 [] 或 null）= 损坏：典型是被微信底层写成 {} 对象化
+      var hadRaw = false;
+      try {
+        var raw = wx.getStorageSync(CACHE_KEY);
+        hadRaw = (raw !== '' && raw !== undefined && raw !== null);
+      } catch (e) { hadRaw = false; }
+      if (hadRaw) {
+        console.warn('[童行] 缓存活动数据非数组/为空（被写坏或截断），丢弃清除');
+        try { wx.removeStorageSync(CACHE_KEY); wx.removeStorageSync(CACHE_TIME_KEY); wx.removeStorageSync(CACHE_PARTIAL_KEY); } catch (e) {}
+        damaged = true;
       }
     }
+
     if (cached && cached.length > 0) {
       precomputeDerived(cached); // 旧缓存可能未含派生字段，补齐以保证筛选 O(1)
       this.globalData.exhibitions = cached;
-      // 若缓存已是完整 10 城数据（来自此前远程），则视为可信数据源，城市筛选器可正常置灰
       if (datasetHasAllCities(cached)) this.globalData.isRemoteData = true;
-      // 还原缓存的「是否残缺」标记：残缺缓存应在本次启动强制补齐，而非当作完整数据沿用
       this.globalData.isPartial = !!wx.getStorageSync(CACHE_PARTIAL_KEY);
       loadedAny = true;
       var ct = wx.getStorageSync(CACHE_TIME_KEY);
-      if (ct) {
-        this.globalData.lastUpdateTime = new Date(ct).toLocaleString();
-      }
+      if (ct) this.globalData.lastUpdateTime = new Date(ct).toLocaleString();
     }
 
     // 场馆数据
-    var vCached = toArray(wx.getStorageSync(VENUE_CACHE_KEY));
+    var vCached = null;
+    try {
+      vCached = toArray(wx.getStorageSync(VENUE_CACHE_KEY));
+    } catch (e) {
+      vCached = null;
+    }
     if (vCached && vCached.length > 0) {
       this.globalData.venues = vCached;
       this.buildVenueMap();
       loadedAny = true;
+    } else {
+      var hadVRaw = false;
+      try { var vr = wx.getStorageSync(VENUE_CACHE_KEY); hadVRaw = (vr !== '' && vr !== undefined && vr !== null); } catch (e) {}
+      if (hadVRaw) {
+        console.warn('[童行] 缓存场馆数据非数组/为空，丢弃清除');
+        try { wx.removeStorageSync(VENUE_CACHE_KEY); wx.removeStorageSync(VENUE_CACHE_TIME_KEY); wx.removeStorageSync(VENUE_PARTIAL_KEY); } catch (e) {}
+        damaged = true;
+      }
     }
-    // 还原场馆「是否残缺」标记（与活动同理，残缺缓存应在本次启动强制补齐）
     this.globalData.venuesPartial = !!wx.getStorageSync(VENUE_PARTIAL_KEY);
 
-    return loadedAny;
+    return { loaded: loadedAny, damaged: damaged };
+  },
+
+  // ========== 从缓存加载（旧 API，兼容保留）==========
+  loadFromCache() {
+    var r = this.loadFromCacheWithStatus();
+    return r.loaded;
   },
 
   // ========== 后台静默更新 ==========
@@ -504,7 +559,7 @@ App({
         var venueChanged = r.venueChanged;
         var cacheTime = wx.getStorageSync(CACHE_TIME_KEY) || 0;
         var fresh = cacheTime && (Date.now() - cacheTime) < self.SILENT_TTL_MS;
-        var force = self._seededThisLaunch || self._versionChanged || self.globalData.isPartial || self.globalData.venuesPartial;
+        var force = self._seededThisLaunch || self._versionChanged || self.globalData.isPartial || self.globalData.venuesPartial || self._cacheWasBad;
         self._pendingMeta = r.meta || null;
         self._pendingMetaVersion = (r.meta && r.meta.version) || null;
         self.globalData.dataMeta = r.meta || null; // 供关于页展示“预期场馆数”
@@ -560,7 +615,18 @@ App({
       if (!isPartial && this._pendingMetaVersion) {
         wx.setStorageSync(DATA_META_VERSION_KEY, this._pendingMetaVersion);
       }
-    } catch (e) {}
+      // 写后回读验证：微信 storage 在数据量较大或异常情况下会出现 setStorageSync 假成功
+      // 读回来若不是数组或长度不符，立即清除，下次启动会走 seedCacheIfNeeded + 强制刷新
+      var verify = null;
+      try { verify = toArray(wx.getStorageSync(CACHE_KEY)); } catch (e) { verify = null; }
+      if (!verify || !verify.length || verify.length !== merged.length) {
+        console.error('[童行] 活动缓存写入验证失败(期望', merged.length, '实际', verify ? verify.length : 'null', ')，清除坏缓存，下次启动强制重拉');
+        try { wx.removeStorageSync(CACHE_KEY); wx.removeStorageSync(CACHE_TIME_KEY); wx.removeStorageSync(CACHE_PARTIAL_KEY); } catch (e) {}
+        // 仍返回 true：本次 globalData 已赋值是最新，只是没持久化成功，页面仍正常显示
+      }
+    } catch (e) {
+      console.warn('[童行] 写入活动缓存失败:', e);
+    }
     return true;
   },
 
@@ -588,7 +654,16 @@ App({
       if (!isPartial && this._pendingMetaVersion) {
         wx.setStorageSync(VENUE_META_VERSION_KEY, this._pendingMetaVersion);
       }
-    } catch (e) {}
+      // 场馆写后回读验证（与活动同逻辑）
+      var vVerify = null;
+      try { vVerify = toArray(wx.getStorageSync(VENUE_CACHE_KEY)); } catch (e) { vVerify = null; }
+      if (!vVerify || !vVerify.length || vVerify.length !== arr.length) {
+        console.error('[童行] 场馆缓存写入验证失败(期望', arr.length, '实际', vVerify ? vVerify.length : 'null', ')，清除坏缓存，下次启动强制重拉');
+        try { wx.removeStorageSync(VENUE_CACHE_KEY); wx.removeStorageSync(VENUE_CACHE_TIME_KEY); wx.removeStorageSync(VENUE_PARTIAL_KEY); } catch (e) {}
+      }
+    } catch (e) {
+      console.warn('[童行] 写入场馆缓存失败:', e);
+    }
     return true;
   },
 
