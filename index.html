@@ -1990,7 +1990,8 @@
         }
 
         let allExhibitions = [];
-        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'all';
+        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+        if (currentCityFilter === 'all') currentCityFilter = 'shenzhen'; // 杜绝"全部城市"选项，避免加载全量数据卡死
         let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
         let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
@@ -3123,7 +3124,8 @@
 
         // 把城市清单渲染到顶部与侧边栏两个容器（initFilters 会为其挂事件，故须在其之前执行）
         function renderCityButtons(cities) {
-            const defaultCity = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+            const storedCity = localStorage.getItem('schedule_city_filter');
+            const defaultCity = (storedCity && storedCity !== 'all') ? storedCity : 'shenzhen';
             ['city-filter-bar', 'city-filter-sidebar'].forEach(function(id) {
                 const bar = document.getElementById(id);
                 if (!bar) return;
