@@ -1421,6 +1421,7 @@
             <button class="filter-btn" data-filter="upcoming">最近活动</button>
             <button class="filter-btn" data-filter="today">今天</button>
             <button class="filter-btn" data-filter="tomorrow">明天</button>
+            <button class="filter-btn" data-filter="threedays">近三天</button>
             <button class="filter-btn" data-filter="week">本周</button>
             <button class="filter-btn" data-filter="month">本月</button>
             <button class="filter-btn" data-filter="next_month">下月</button>
@@ -1629,6 +1630,7 @@
                     <button class="filter-btn" data-filter="upcoming">最近活动</button>
                     <button class="filter-btn" data-filter="today">今天</button>
                     <button class="filter-btn" data-filter="tomorrow">明天</button>
+                    <button class="filter-btn" data-filter="threedays">近三天</button>
                     <button class="filter-btn" data-filter="week">本周</button>
                     <button class="filter-btn" data-filter="month">本月</button>
                     <button class="filter-btn" data-filter="next_month">下月</button>
@@ -1988,7 +1990,7 @@
         }
 
         let allExhibitions = [];
-        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'shenzhen';
+        let currentCityFilter = localStorage.getItem('schedule_city_filter') || 'all';
         let currentTimeFilter = localStorage.getItem('schedule_time_filter') || 'upcoming';
         let currentSourceFilter = localStorage.getItem('schedule_source_filter') || 'all';
         let currentFeeFilter = localStorage.getItem('schedule_fee_filter') || 'all';
@@ -2146,26 +2148,32 @@
                     const weekLaterStr = weekLater.toISOString().split('T')[0];
                     return filtered.filter(e => e.start_date <= weekLaterStr && e.end_date >= today);
 
+                case 'threedays': {
+                    const d3 = new Date(now);
+                    d3.setDate(currentDay + 3);
+                    const d3Str = d3.toISOString().split('T')[0];
+                    return filtered.filter(e => e.start_date <= d3Str && e.end_date >= today);
+                }
+
                 case 'upcoming':
                     return filtered.filter(e => e.end_date >= today);
 
-                case 'month':
-                    return filtered.filter(e => {
-                        const date = new Date(e.start_date);
-                        return date.getFullYear() === currentYear && date.getMonth() === currentMonth;
-                    });
+                case 'month': {
+                    const m = currentMonth + 1;
+                    const lastDay = new Date(currentYear, currentMonth + 1, 0).getDate();
+                    const ms = currentYear + '-' + String(m).padStart(2, '0') + '-01';
+                    const me = currentYear + '-' + String(m).padStart(2, '0') + '-' + String(lastDay).padStart(2, '0');
+                    return filtered.filter(e => e.start_date <= me && e.end_date >= ms);
+                }
 
-                case 'next_month':
-                    let nextMonth = currentMonth + 1;
-                    let nextYear = currentYear;
-                    if (nextMonth > 11) {
-                        nextMonth = 0;
-                        nextYear++;
-                    }
-                    return filtered.filter(e => {
-                        const date = new Date(e.start_date);
-                        return date.getFullYear() === nextYear && date.getMonth() === nextMonth;
-                    });
+                case 'next_month': {
+                    let nm = currentMonth + 1, ny = currentYear;
+                    if (nm > 11) { nm = 0; ny++; }
+                    const lastDay = new Date(ny, nm + 1, 0).getDate();
+                    const nms = ny + '-' + String(nm + 1).padStart(2, '0') + '-01';
+                    const nme = ny + '-' + String(nm + 1).padStart(2, '0') + '-' + String(lastDay).padStart(2, '0');
+                    return filtered.filter(e => e.start_date <= nme && e.end_date >= nms);
+                }
 
                 case 'all':
                 default:
