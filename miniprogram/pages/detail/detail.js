@@ -165,67 +165,6 @@ Page({
     });
   },
 
-  onOpenMap() {
-    const venueName = this.data.venue ? this.data.venue.name : (this.data.activity && this.data.activity.venue);
-    const addr = this.data.venueAddress || (this.data.venue && this.data.venue.address);
-    const lat = this.data.venue && this.data.venue.latitude;
-    const lng = this.data.venue && this.data.venue.longitude;
-    const searchText = venueName + (addr ? (' ' + addr) : '');
-
-    if (lat && lng) {
-      wx.openLocation({
-        latitude: Number(lat),
-        longitude: Number(lng),
-        name: venueName || '',
-        address: addr || '',
-        scale: 16,
-        fail: () => {
-          this.showMapOptions(searchText, lat, lng);
-        }
-      });
-    } else {
-      this.showMapOptions(searchText);
-    }
-  },
-
-  showMapOptions(searchText, lat, lng) {
-    const items = [];
-    if (lat && lng) {
-      items.push({ text: '高德地图', url: 'amapuri://route/plan/?sourceApplication=童行&dlat=' + lat + '&dlon=' + lng + '&dname=' + encodeURIComponent(searchText) + '&dev=0&t=0' });
-      items.push({ text: '百度地图', url: 'baidumap://map/direction?destination=name:' + encodeURIComponent(searchText) + '|latlng:' + lat + ',' + lng + '&mode=driving&src=童行' });
-      items.push({ text: '腾讯地图', url: 'qqmap://map/routeplan?type=drive&to=' + encodeURIComponent(searchText) + '&tocoord=' + lat + ',' + lng + '&referer=童行' });
-    }
-    items.push({ text: '复制地址', url: null });
-
-    wx.showActionSheet({
-      itemList: items.map(item => item.text),
-      success: (res) => {
-        const selected = items[res.tapIndex];
-        if (selected.url) {
-          wx.setClipboardData({
-            data: selected.url,
-            success: () => {
-              wx.showModal({
-                title: '已复制链接',
-                content: '请打开「' + selected.text + '」粘贴链接导航',
-                showCancel: false,
-                confirmText: '知道了',
-                confirmColor: '#D4A373'
-              });
-            }
-          });
-        } else {
-          wx.setClipboardData({
-            data: searchText,
-            success: () => {
-              wx.showToast({ title: '已复制地址', icon: 'success' });
-            }
-          });
-        }
-      }
-    });
-  },
-
   onBookingTap() {
     const bm = this.data.activity && this.data.activity.booking_method;
     if (!bm) return;
