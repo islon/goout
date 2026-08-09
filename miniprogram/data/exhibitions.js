@@ -275,48 +275,6 @@ module.exports = [
     ]
   },
   {
-    "title": "第二届Y+Project 韩智同个展",
-    "name": "第二届Y+Project 韩智同个展",
-    "venue": "A4美术馆",
-    "city": "chengdu",
-    "start_date": "2026-01-01",
-    "end_date": "2026-08-09",
-    "link": "https://cd.bendibao.com/xiuxian/huodongditu",
-    "url": "https://cd.bendibao.com/xiuxian/huodongditu",
-    "description": "A4美术馆第二届Y+Project青年艺术家项目，呈现韩智同12组作品，涵盖绘画、影像、编织、装置。",
-    "category": "展览",
-    "fee": "收费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "成都本地宝",
-    "booking_method": {
-      "type": "city_aggregated",
-      "app_name": "成都本地宝",
-      "app_type": "wechat_mini_program",
-      "search_hint": "微信搜索「成都本地宝」公众号→活动汇总",
-      "platform_url": null,
-      "city": "成都",
-      "matched_venue_type": "美术馆"
-    },
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
-      "verified_by": "http_check"
-    },
-    "verified": true,
-    "venue_url": "https://www.a4am.com/",
-    "district": "其他",
-    "links": [
-      {
-        "url": "https://cd.bendibao.com/xiuxian/huodongditu",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
     "title": "清净觉相 佛教艺术系列展",
     "name": "清净觉相 佛教艺术系列展",
     "venue": "知美术馆",
@@ -1723,47 +1681,6 @@ module.exports = [
     ]
   },
   {
-    "title": "墨彩童年——王明明、方楚雄儿童画作品特展",
-    "name": "墨彩童年——王明明、方楚雄儿童画作品特展",
-    "venue": "深圳美术馆（新馆）8号厅",
-    "city": "shenzhen",
-    "start_date": "2026-06-17",
-    "end_date": "2026-08-09",
-    "link": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "url": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "description": "两位国画大师6至18岁幼年原作，童趣花鸟、民俗、山水，看艺术家成长轨迹，亲子美育好去处。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szartm",
-    "booking_method": {
-      "type": "city_aggregated",
-      "app_name": "深圳读书月",
-      "app_type": "wechat_mini_program",
-      "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
-      "platform_url": null,
-      "city": "深圳",
-      "matched_venue_type": "美术馆"
-    },
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
-      "verified_by": "http_check"
-    },
-    "verified": true,
-    "district": "罗湖区",
-    "links": [
-      {
-        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
     "title": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
     "name": "杭州宋城暑期狂欢（泼水+百场演艺+随意节）",
     "venue": "杭州宋城（之江路148号）",
@@ -1801,47 +1718,6 @@ module.exports = [
     "links": [
       {
         "url": "https://hz.bendibao.com/xiuxian/huodongditu",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "国门守护·丹青传承——深圳海关缉私局查获近现代书画文物珍品特展",
-    "name": "国门守护·丹青传承——深圳海关缉私局查获近现代书画文物珍品特展",
-    "venue": "深圳美术馆（新馆）9号厅",
-    "city": "shenzhen",
-    "start_date": "2026-06-18",
-    "end_date": "2026-08-09",
-    "link": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "url": "https://sz.bendibao.com/xiuxian/huodongditu",
-    "description": "深圳海关缉私局查获的近现代书画文物珍品特展，兼具文物价值与普法科普意义。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "szartm",
-    "booking_method": {
-      "type": "city_aggregated",
-      "app_name": "深圳读书月",
-      "app_type": "wechat_mini_program",
-      "search_hint": "微信搜索「深圳读书月」小程序→暑期活动日历",
-      "platform_url": null,
-      "city": "深圳",
-      "matched_venue_type": "美术馆"
-    },
-    "verification": {
-      "status": "auto_checked",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "aggregator",
-      "verified_at": "2026-07-19",
-      "verified_by": "http_check"
-    },
-    "verified": true,
-    "district": "罗湖区",
-    "links": [
-      {
-        "url": "https://sz.bendibao.com/xiuxian/huodongditu",
         "label": "活动详情"
       }
     ]
@@ -2223,29 +2099,6 @@ module.exports = [
     ]
   },
   {
-    "title": "笔墨同心·林墉、苏华作品展",
-    "name": "笔墨同心·林墉、苏华作品展",
-    "venue": "何香凝美术馆 |",
-    "city": "shenzhen",
-    "category": "展览",
-    "description": "描述\n\n全面呈现林墉'霸悍恣丽'的水墨人物风骨与苏华'豪迈雄放'的书画才情。免费免预约。",
-    "fee": "免费需预约",
-    "source": "hxngallery",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "contact": "",
-    "family_friendly": true,
-    "start_date": "2026-06-20",
-    "end_date": "2026-08-09",
-    "district": "南山区",
-    "links": [
-      {
-        "url": "http://m.toutiao.com/group/7658324154139148850/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
     "title": "国宝萌友展",
     "name": "国宝萌友展",
     "venue": "深圳科学技术馆（光明新馆）",
@@ -2267,29 +2120,6 @@ module.exports = [
     "family_friendly": true,
     "source": "szstm",
     "district": "光明区"
-  },
-  {
-    "title": "笔墨同心·林甘泉、萧华作品展",
-    "name": "笔墨同心·林甘泉、萧华作品展",
-    "venue": "何香凝美术馆",
-    "city": "shenzhen",
-    "start_date": "2026-06-20",
-    "end_date": "2026-08-09",
-    "link": "http://m.toutiao.com/group/7658324154139148850/",
-    "url": "http://m.toutiao.com/group/7658324154139148850/",
-    "links": [
-      {
-        "url": "http://m.toutiao.com/group/7658324154139148850/",
-        "label": "活动详情"
-      }
-    ],
-    "description": "全面呈现林甘泉'挥洒淋漓'的水彩人物风格与萧华'华丽绽放'的书画才情。免费免预约。",
-    "category": "展览",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "hxngallery",
-    "district": "南山区"
   },
   {
     "title": "马峦街道“童画童心·共绘美好”儿童书画展",
@@ -19057,6 +18887,201 @@ module.exports = [
     "links": [
       {
         "url": "https://www.sz.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
+  },
+  {
+    "title": "人民公园",
+    "name": "人民公园",
+    "venue": "人民公园",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "城市公园",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.sz.gov.cn/",
+    "url": "https://www.sz.gov.cn/",
+    "venue_url": "https://www.sz.gov.cn/",
+    "description": "月季园、人工湖、老式儿童游乐设施，老牌遛娃公园",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "other_shenzhen",
+    "booking_method": "免预约",
+    "address": "罗湖区人民北路",
+    "metro": "1/3号线老街站",
+    "opening_hours": "6:00-22:00",
+    "age_range": "2-13岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
+  },
+  {
+    "title": "荔枝公园（罗湖片区）",
+    "name": "荔枝公园（罗湖片区）",
+    "venue": "荔枝公园（罗湖片区）",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "城市公园",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.sz.gov.cn/",
+    "url": "https://www.sz.gov.cn/",
+    "venue_url": "https://www.sz.gov.cn/",
+    "description": "环湖步道、荔枝林、大草坪、亲子划船（自费）",
+    "category": "亲子活动",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "other_shenzhen",
+    "booking_method": "免预约",
+    "address": "罗湖区红岭中路",
+    "metro": "2号线大剧院站",
+    "opening_hours": "6:00-22:00",
+    "age_range": "3-15岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.sz.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
+  },
+  {
+    "title": "文锦渡滨河公园",
+    "name": "文锦渡滨河公园",
+    "venue": "文锦渡滨河公园",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "滨河公园",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlh.gov.cn/",
+    "url": "https://www.szlh.gov.cn/",
+    "venue_url": "https://www.szlh.gov.cn/",
+    "description": "跨境河道景观、亲水步道、休闲草坪",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "other_shenzhen",
+    "booking_method": "免预约",
+    "address": "罗湖区文锦渡沿河路",
+    "metro": "9号线文锦站",
+    "opening_hours": "全天开放",
+    "age_range": "3-14岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlh.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
+  },
+  {
+    "title": "草埔社区公园",
+    "name": "草埔社区公园",
+    "venue": "草埔社区公园",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "城市公园",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlh.gov.cn/",
+    "url": "https://www.szlh.gov.cn/",
+    "venue_url": "https://www.szlh.gov.cn/",
+    "description": "社区小型游乐区、大榕树休憩区、就近遛娃",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "other_shenzhen",
+    "booking_method": "免预约",
+    "address": "罗湖区草埔东社区",
+    "metro": "3号线草埔站",
+    "opening_hours": "6:00-22:00",
+    "age_range": "2-12岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlh.gov.cn/",
+        "label": "活动详情"
+      }
+    ]
+  },
+  {
+    "title": "莲塘口袋公园群",
+    "name": "莲塘口袋公园群",
+    "venue": "莲塘口袋公园群",
+    "city": "shenzhen",
+    "district": "罗湖区",
+    "type": "口袋公园",
+    "start_date": "2026-07-19",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlh.gov.cn/",
+    "url": "https://www.szlh.gov.cn/",
+    "venue_url": "https://www.szlh.gov.cn/",
+    "description": "多处迷你口袋公园，幼儿攀爬、沙坑，家门口遛娃",
+    "category": "其他",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "other_shenzhen",
+    "booking_method": "免预约",
+    "address": "罗湖区莲塘街道各社区小微公园",
+    "metro": "8号线莲塘站",
+    "opening_hours": "全天开放",
+    "age_range": "2-10岁",
+    "verification": {
+      "status": "verified",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "government",
+      "verified_at": "2026-07-19",
+      "verified_by": "domain_check"
+    },
+    "verified": false,
+    "links": [
+      {
+        "url": "https://www.szlh.gov.cn/",
         "label": "活动详情"
       }
     ]

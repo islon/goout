@@ -10,10 +10,11 @@
     "fee": "免费",
     "description": "浙江省博物馆是位于杭州的博物馆，主打浙江历史等活动。场馆免费开放（部分特展可能另行收费），地址位于西湖区孤山路；建议出行前通过官方渠道确认开放时间与预约要求。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "浙江历史"
     ],
-    "links": []
+    "status": "curated"
   },
   {
     "name": "浙江省博物馆（之江馆）",
@@ -26,13 +27,14 @@
     "fee": "免费",
     "description": "之江文化中心单体建筑面积最大的场馆，集收藏、保护、研究、展示于一体，有多种数字互动体验项目。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "数字互动",
       "文物展览",
       "之江文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江省博物馆（孤山馆）",
@@ -45,13 +47,14 @@
     "fee": "免费",
     "description": "位于西湖边的博物馆，展示浙江历史文化和艺术藏品，周边风景优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "西湖边",
       "历史文化",
       "艺术藏品",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江自然博物院（杭州馆）",
@@ -64,13 +67,14 @@
     "fee": "免费",
     "description": "以自然生命人为主题，有恐龙骨架、生物标本等展陈，适合亲子自然探索。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "恐龙骨架",
       "生物标本",
       "自然探索",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江省科技馆",
@@ -83,13 +87,14 @@
     "fee": "免费",
     "description": "一至三层为常设展厅，有宇宙遨游、气象万千、海底巡礼、前沿科技等展区，互动体验丰富。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "宇宙遨游",
       "互动体验",
       "前沿科技",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江省地质博物馆",
@@ -102,13 +107,14 @@
     "fee": "免费",
     "description": "展陈面积约6300平方米，设有地质历史厅、矿产资源厅、地质环境厅等，适合地质科普。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "地质历史",
       "矿产资源",
       "地质科普",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江省非物质文化遗产馆",
@@ -121,13 +127,14 @@
     "fee": "免费",
     "description": "中国首座大型区域综合性非物质文化遗产馆，展示浙江非遗文化，有互动体验。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "非遗文化",
       "互动体验",
       "浙江文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "浙江图书馆",
@@ -140,12 +147,13 @@
     "fee": "免费",
     "description": "浙江省大型公共图书馆，有丰富的馆藏资源，适合亲子阅读学习。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读学习",
       "馆藏丰富",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国杭州低碳科技馆",
@@ -158,13 +166,14 @@
     "fee": "免费",
     "description": "以低碳为主题的科技馆，有巨幕影院、儿童乐园、4D小火车、科普活动免费开放。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "低碳主题",
       "巨幕影院",
       "儿童乐园",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州亚运会博物馆",
@@ -177,13 +186,14 @@
     "fee": "免费",
     "description": "展示杭州亚运会相关内容，有互动体验，可了解亚运历史和文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "亚运会",
       "互动体验",
       "体育文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "良渚博物院",
@@ -196,13 +206,14 @@
     "fee": "免费",
     "description": "集收藏、研究、展示良渚文化于一体的考古遗址博物馆，有玉琮等珍贵文物。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "良渚文化",
       "玉琮",
       "考古",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国丝绸博物馆",
@@ -215,13 +226,14 @@
     "fee": "免费",
     "description": "世界上最大的丝绸博物馆，收藏丝绸之路沿线出土的丝绸文物，展示丝绸发展脉络。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "丝绸文化",
       "丝绸之路",
       "文物",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国水利博物馆",
@@ -234,13 +246,14 @@
     "fee": "免费",
     "description": "展示中华民族五千年治水历程，重点展示新中国水利建设成就，夜景灯光漂亮。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "水利历史",
       "治水成就",
       "夜景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国茶叶博物馆",
@@ -253,13 +266,14 @@
     "fee": "免费",
     "description": "我国唯一以茶和茶文化为主题的国家级专题博物馆，分为龙井馆和双峰馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "茶文化",
       "龙井",
       "茶叶",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国湿地博物馆",
@@ -272,13 +286,14 @@
     "fee": "免费",
     "description": "以湿地为主题的国家级博物馆，建筑如同隐藏在西溪的小山丘，展示湿地生态。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地生态",
       "西溪",
       "自然教育",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "中国动漫博物馆",
@@ -291,13 +306,14 @@
     "fee": "免费",
     "description": "动漫专题博物馆，沿着动漫发展史，问候曾经陪伴过的荧屏伙伴，寻找一起度过的岁月。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "动漫历史",
       "荧屏伙伴",
       "互动体验",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州博物馆",
@@ -310,13 +326,14 @@
     "fee": "免费",
     "description": "反映杭州历史变迁的人文类综合性博物馆，馆内陈列丰富，有杭州出土文物精品陈列。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "杭州历史",
       "出土文物",
       "人文",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "良渚古城遗址公园",
@@ -329,13 +346,14 @@
     "fee": "收费",
     "description": "体验和感悟中华五千年文明，涵盖宫殿区、内城与外城，可乘坐观光车游览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "五千年文明",
       "考古遗址",
       "观光车",
       "文化"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州野生动物世界",
@@ -348,12 +366,13 @@
     "fee": "收费",
     "description": "大型野生动物世界，有各种珍稀动物，可自驾或步行游览，适合亲子游玩。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "野生动物",
       "自驾游览",
       "亲子游玩"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州植物园",
@@ -366,13 +385,14 @@
     "fee": "收费",
     "description": "位于西湖边的植物园，有多个专类园，四季花卉不断，适合自然教育和亲子散步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "植物",
       "自然教育",
       "西湖边",
       "四季花卉"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "西溪国家湿地公园",
@@ -385,13 +405,14 @@
     "fee": "收费",
     "description": "国家5A级景区，以自然湿地为特色，可乘船游览，体验江南水乡风情。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地",
       "乘船",
       "江南水乡",
       "5A景区"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "西湖风景名胜区",
@@ -404,13 +425,14 @@
     "fee": "免费",
     "description": "杭州标志性景区，西湖十景闻名天下，可游船、散步、参观周边景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "西湖十景",
       "游船",
       "白堤苏堤",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州乐园",
@@ -423,13 +445,14 @@
     "fee": "收费",
     "description": "大型主题乐园，有刺激项目和儿童区，适合亲子游玩。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "主题乐园",
       "刺激项目",
       "儿童区",
       "亲子"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州少年儿童图书馆",
@@ -442,13 +465,14 @@
     "fee": "免费",
     "description": "专为少年儿童服务的公共图书馆，有丰富的儿童读物和阅读活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "儿童阅读",
       "读物",
       "阅读活动",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州科技馆",
@@ -461,12 +485,13 @@
     "fee": "免费",
     "description": "杭州市级科技馆，有互动科技体验展，适合儿童科学启蒙。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "互动体验",
       "科学启蒙",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州中国茶叶博物馆龙井馆",
@@ -479,12 +504,13 @@
     "fee": "免费",
     "description": "中国茶叶博物馆龙井馆区，展示龙井茶文化和茶叶制作工艺。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "龙井茶文化",
       "茶叶制作",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖博物馆",
@@ -497,12 +523,13 @@
     "fee": "免费",
     "description": "展示西湖历史文化和自然风光，位于西湖边，风景优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "西湖历史",
       "自然风光",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州京杭大运河博物馆",
@@ -515,12 +542,13 @@
     "fee": "免费",
     "description": "展示京杭大运河历史文化，有运河文物、历史资料等展陈。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "运河文化",
       "历史文物",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州工艺美术博物馆",
@@ -533,13 +561,14 @@
     "fee": "免费",
     "description": "展示杭州传统工艺美术，有陶瓷、刺绣、木雕等展品，适合传统文化启蒙。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "传统工艺",
       "陶瓷刺绣",
       "木雕",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州中国湿地博物馆",
@@ -552,13 +581,14 @@
     "fee": "免费",
     "description": "国家级湿地博物馆，展示湿地生态系统和生物多样性，有互动体验。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地生态",
       "生物多样性",
       "互动体验",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州青少年活动中心",
@@ -571,11 +601,12 @@
     "fee": "收费",
     "description": "杭州市青少年校外活动场所，有各种兴趣培训和活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "兴趣培训",
       "青少年活动"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州嘟嘟城",
@@ -588,12 +619,13 @@
     "fee": "收费",
     "description": "儿童职业体验乐园，孩子们可以体验各种职业角色，如医生、警察、消防员等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "职业体验",
       "角色扮演",
       "儿童乐园"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖",
@@ -606,13 +638,14 @@
     "fee": "免费",
     "description": "杭州标志性景点，西湖十景闻名天下，可游船、散步、参观周边景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "西湖十景",
       "游船",
       "白堤苏堤",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州灵隐寺",
@@ -625,12 +658,13 @@
     "fee": "收费",
     "description": "杭州著名的佛教寺庙，有古建筑和自然风光。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "佛教寺庙",
       "古建筑",
       "自然风光"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州雷峰塔",
@@ -643,11 +677,12 @@
     "fee": "收费",
     "description": "杭州著名的古塔，登上塔顶可俯瞰西湖全景。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古塔",
       "俯瞰西湖"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州岳庙",
@@ -660,12 +695,13 @@
     "fee": "收费",
     "description": "纪念民族英雄岳飞的庙宇，展示岳飞生平事迹。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "岳飞",
       "民族英雄",
       "历史"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州六和塔",
@@ -678,12 +714,13 @@
     "fee": "收费",
     "description": "杭州著名的古塔，位于钱塘江畔，可登高望远。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古塔",
       "钱塘江",
       "登高"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州虎跑公园",
@@ -696,12 +733,13 @@
     "fee": "收费",
     "description": "以虎跑泉闻名的公园，有泉水、茶园、自然风光。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "虎跑泉",
       "茶园",
       "自然风光"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州九溪烟树",
@@ -714,6 +752,7 @@
     "fee": "免费",
     "description": "杭州著名的自然景区，有溪流、茶园、瀑布，适合徒步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "溪流",
       "茶园",
@@ -721,7 +760,7 @@
       "徒步",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州云栖竹径",
@@ -734,12 +773,13 @@
     "fee": "收费",
     "description": "以竹林为特色的景区，有石板路、溪流、竹林，环境清幽。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "竹林",
       "清幽",
       "自然风光"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州龙井村",
@@ -752,13 +792,14 @@
     "fee": "免费",
     "description": "杭州著名的龙井茶产地，有茶园、农家、茶文化体验。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "龙井茶",
       "茶园",
       "茶文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州满陇桂雨",
@@ -771,12 +812,13 @@
     "fee": "免费",
     "description": "以桂花闻名的景区，秋季桂花盛开时香气扑鼻。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "桂花",
       "秋季",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州太子湾公园",
@@ -789,13 +831,14 @@
     "fee": "免费",
     "description": "杭州著名的赏花公园，春季樱花和郁金香盛开。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "樱花",
       "郁金香",
       "赏花",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州花港观鱼",
@@ -808,13 +851,14 @@
     "fee": "免费",
     "description": "西湖十景之一，有牡丹园、红鱼池等景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红鱼池",
       "牡丹园",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州苏堤",
@@ -827,13 +871,14 @@
     "fee": "免费",
     "description": "西湖十景之一，苏轼修建的长堤，适合散步和观赏西湖美景。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "苏堤春晓",
       "散步",
       "西湖美景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州白堤",
@@ -846,13 +891,14 @@
     "fee": "免费",
     "description": "西湖十景之一，白居易修建的长堤，有断桥残雪等景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "断桥残雪",
       "散步",
       "西湖美景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州曲院风荷",
@@ -865,13 +911,14 @@
     "fee": "免费",
     "description": "西湖十景之一，夏季荷花盛开，景色优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "荷花",
       "夏季",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州平湖秋月",
@@ -884,13 +931,14 @@
     "fee": "免费",
     "description": "西湖十景之一，秋季赏月的好去处。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "赏月",
       "秋季",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州柳浪闻莺",
@@ -903,13 +951,14 @@
     "fee": "免费",
     "description": "西湖十景之一，有柳树和草坪，适合休闲散步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "柳树",
       "草坪",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州南屏晚钟",
@@ -922,12 +971,13 @@
     "fee": "收费",
     "description": "西湖十景之一，以南屏山和净慈寺钟声闻名。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "净慈寺",
       "钟声",
       "西湖十景"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州双峰插云",
@@ -940,12 +990,13 @@
     "fee": "免费",
     "description": "西湖十景之一，以南高峰和北高峰闻名。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "南北高峰",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州吴山天风",
@@ -958,13 +1009,14 @@
     "fee": "免费",
     "description": "西湖十景之一，位于吴山，可登高远眺西湖。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "吴山",
       "登高",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州涌金公园",
@@ -977,12 +1029,13 @@
     "fee": "免费",
     "description": "位于西湖边的公园，有湖景和休闲设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湖景",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州钱王祠",
@@ -995,12 +1048,13 @@
     "fee": "收费",
     "description": "纪念吴越国王钱镠的祠堂，展示吴越历史文化。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "吴越历史",
       "钱镠",
       "文化"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州鼓楼",
@@ -1013,12 +1067,13 @@
     "fee": "免费",
     "description": "杭州古城的南门城楼，有鼓楼和历史展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古城楼",
       "历史展览",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州河坊街",
@@ -1031,13 +1086,14 @@
     "fee": "免费",
     "description": "杭州著名的历史街区，有传统店铺、特色小吃和老字号。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "历史街区",
       "特色小吃",
       "老字号",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州南宋御街",
@@ -1050,13 +1106,14 @@
     "fee": "免费",
     "description": "南宋时期的皇家御街，有历史建筑和现代商业。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "南宋历史",
       "历史建筑",
       "商业",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州湖滨银泰",
@@ -1069,12 +1126,13 @@
     "fee": "免费",
     "description": "西湖边的大型购物中心，有购物、餐饮、娱乐等设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "购物",
       "餐饮",
       "西湖边"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州武林广场",
@@ -1087,12 +1145,13 @@
     "fee": "免费",
     "description": "杭州的商业中心，有大型商场和文化设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "商业中心",
       "购物",
       "文化"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州运河广场",
@@ -1105,12 +1164,13 @@
     "fee": "免费",
     "description": "位于京杭大运河畔的广场，有运河博物馆和文化设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "大运河",
       "运河博物馆",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州小河直街",
@@ -1123,13 +1183,14 @@
     "fee": "免费",
     "description": "京杭大运河畔的历史街区，有传统建筑和特色小店。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "历史街区",
       "运河",
       "特色小店",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州桥西直街",
@@ -1142,13 +1203,14 @@
     "fee": "免费",
     "description": "京杭大运河畔的历史街区，有博物馆和文创店铺。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "历史街区",
       "运河",
       "博物馆",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州拱宸桥",
@@ -1161,13 +1223,14 @@
     "fee": "免费",
     "description": "京杭大运河上的古桥，是杭州的标志性建筑之一。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "古桥",
       "大运河",
       "地标",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地东区",
@@ -1180,12 +1243,13 @@
     "fee": "收费",
     "description": "西溪国家湿地公园的东区，有湿地景观和文化景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地",
       "自然景观",
       "文化"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地西区",
@@ -1198,12 +1262,13 @@
     "fee": "收费",
     "description": "西溪国家湿地公园的西区，有湿地景观和自然生态。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湿地",
       "自然生态",
       "景观"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州湘湖",
@@ -1216,13 +1281,14 @@
     "fee": "免费",
     "description": "杭州的姊妹湖，有湖景和历史文化景点，适合休闲游玩。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湖景",
       "历史文化",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州极地海洋世界",
@@ -1235,12 +1301,13 @@
     "fee": "收费",
     "description": "大型海洋主题公园，有极地动物、海洋生物和表演。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "极地动物",
       "海洋生物",
       "表演"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州跨湖桥遗址博物馆",
@@ -1253,13 +1320,14 @@
     "fee": "免费",
     "description": "展示跨湖桥遗址文物，包括8000年前的独木舟。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "独木舟",
       "8000年历史",
       "文物",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体中心",
@@ -1272,12 +1340,13 @@
     "fee": "收费",
     "description": "杭州2022年亚运会主会场，有体育场、体育馆等设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "亚运会",
       "体育场",
       "地标"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州滨江公园",
@@ -1290,13 +1359,14 @@
     "fee": "免费",
     "description": "位于钱塘江畔的公园，有江景和绿道，适合骑行和散步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "江景",
       "绿道",
       "骑行",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州梦想小镇",
@@ -1309,12 +1379,13 @@
     "fee": "免费",
     "description": "杭州的创业创新小镇，有创业孵化和文化设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "创业创新",
       "文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州未来科技城",
@@ -1327,12 +1398,13 @@
     "fee": "免费",
     "description": "杭州的科技新城，有现代化建筑和科技企业。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科技",
       "现代化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州临平新城",
@@ -1345,12 +1417,13 @@
     "fee": "免费",
     "description": "杭州临平区的新城，有商业和文化设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "商业",
       "文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州九堡大桥",
@@ -1363,12 +1436,13 @@
     "fee": "免费",
     "description": "横跨钱塘江的大桥，适合观赏江景。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "大桥",
       "江景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州钱江新城",
@@ -1381,12 +1455,13 @@
     "fee": "免费",
     "description": "杭州的新城区，有现代化建筑和城市景观。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "现代化",
       "城市景观",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州城市阳台",
@@ -1399,13 +1474,14 @@
     "fee": "免费",
     "description": "位于钱塘江畔的观景平台，可观赏江景和城市天际线。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "江景",
       "城市天际线",
       "观景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州大剧院",
@@ -1418,12 +1494,13 @@
     "fee": "收费",
     "description": "杭州标志性剧院，举办歌剧、音乐剧、音乐会等演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "歌剧",
       "音乐剧",
       "建筑设计"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州国际会议中心",
@@ -1436,11 +1513,12 @@
     "fee": "收费",
     "description": "杭州大型会议中心，举办各类会议和展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "会议",
       "展览"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体博览城",
@@ -1453,12 +1531,13 @@
     "fee": "收费",
     "description": "集体育、会展、文化于一体的大型综合体。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育",
       "会展",
       "文化"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州白马湖国际会展中心",
@@ -1471,11 +1550,12 @@
     "fee": "收费",
     "description": "举办各类展览和活动，包括动漫节等。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "展览",
       "动漫节"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州之江文化中心",
@@ -1488,13 +1568,14 @@
     "fee": "免费",
     "description": "集博物馆、图书馆、美术馆、非遗馆于一体的文化综合体。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文化综合体",
       "博物馆",
       "图书馆",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州文学馆",
@@ -1507,12 +1588,13 @@
     "fee": "免费",
     "description": "展示浙江文学历史和作品，有文学展览和活动。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文学",
       "展览",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖音乐喷泉",
@@ -1525,12 +1607,13 @@
     "fee": "免费",
     "description": "西湖边的音乐喷泉，每晚有灯光和音乐表演。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "音乐喷泉",
       "灯光表演",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖游船",
@@ -1543,11 +1626,12 @@
     "fee": "收费",
     "description": "杭州西湖游船是位于杭州的公园，主打游船、西湖十景等活动。门票收费，地址位于西湖区西湖；交通：地铁1号线龙翔桥站。建议出行前通过官方渠道确认开放时间与预约要求。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "游船",
       "西湖十景"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖三潭印月",
@@ -1560,12 +1644,13 @@
     "fee": "收费",
     "description": "西湖十景之一，有三座石塔，是西湖的标志性景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "三潭印月",
       "西湖十景",
       "标志性"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖湖心亭",
@@ -1578,12 +1663,13 @@
     "fee": "收费",
     "description": "西湖中的小岛，有湖心亭和古建筑。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "湖心亭",
       "小岛",
       "古建筑"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖阮公墩",
@@ -1596,11 +1682,12 @@
     "fee": "收费",
     "description": "西湖中的小岛，有自然景观和休闲设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "小岛",
       "自然景观"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖杨公堤",
@@ -1613,12 +1700,13 @@
     "fee": "免费",
     "description": "西湖的长堤，有苏堤春晓和曲院风荷等景点。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "长堤",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖苏堤春晓",
@@ -1631,13 +1719,14 @@
     "fee": "免费",
     "description": "西湖十景之一，春季苏堤上柳树发芽，景色优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "春季",
       "柳树",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖断桥残雪",
@@ -1650,13 +1739,14 @@
     "fee": "免费",
     "description": "西湖十景之一，冬季断桥上积雪，景色如画。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "冬季",
       "雪景",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖雷峰夕照",
@@ -1669,12 +1759,13 @@
     "fee": "收费",
     "description": "西湖十景之一，傍晚雷峰塔夕阳映照，景色优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "夕阳",
       "雷峰塔",
       "西湖十景"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖南屏晚钟",
@@ -1687,12 +1778,13 @@
     "fee": "收费",
     "description": "西湖十景之一，南屏山净慈寺的钟声。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "钟声",
       "净慈寺",
       "西湖十景"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖曲院风荷",
@@ -1705,13 +1797,14 @@
     "fee": "免费",
     "description": "西湖十景之一，夏季荷花盛开，景色优美。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "荷花",
       "夏季",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖花港观鱼",
@@ -1724,13 +1817,14 @@
     "fee": "免费",
     "description": "西湖十景之一，有红鱼池和牡丹园。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "红鱼池",
       "牡丹园",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖柳浪闻莺",
@@ -1743,13 +1837,14 @@
     "fee": "免费",
     "description": "西湖十景之一，有柳树和草坪，适合休闲散步。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "柳树",
       "草坪",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖双峰插云",
@@ -1762,12 +1857,13 @@
     "fee": "免费",
     "description": "西湖十景之一，以南高峰和北高峰闻名。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "南北高峰",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖平湖秋月",
@@ -1780,13 +1876,14 @@
     "fee": "免费",
     "description": "西湖十景之一，秋季赏月的好去处。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "赏月",
       "秋季",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西湖吴山天风",
@@ -1799,13 +1896,14 @@
     "fee": "免费",
     "description": "西湖十景之一，位于吴山，可登高远眺西湖。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "吴山",
       "登高",
       "西湖十景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州运河文化广场",
@@ -1818,12 +1916,13 @@
     "fee": "免费",
     "description": "运河边的文化广场，有博物馆和城市景观。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "运河",
       "文化",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州运河夜游",
@@ -1836,12 +1935,13 @@
     "fee": "收费",
     "description": "杭州运河夜游是位于杭州的文化中心，主打夜游、运河、夜景等活动。门票收费，地址位于拱墅区运河；交通：地铁5号线大运河站。建议出行前通过官方渠道确认开放时间与预约要求。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "夜游",
       "运河",
       "夜景"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州运河游船",
@@ -1854,11 +1954,12 @@
     "fee": "收费",
     "description": "杭州运河游船是位于杭州的文化中心，主打游船、运河等活动。门票收费，地址位于拱墅区运河；交通：地铁5号线大运河站。建议出行前通过官方渠道确认开放时间与预约要求。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "游船",
       "运河"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地摇橹船",
@@ -1871,11 +1972,12 @@
     "fee": "收费",
     "description": "西溪湿地摇橹船，可体验湿地风光。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "摇橹船",
       "湿地"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地龙舟赛",
@@ -1888,12 +1990,13 @@
     "fee": "免费",
     "description": "西溪湿地龙舟赛，每年端午节举办。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "龙舟赛",
       "端午节",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地植物园",
@@ -1906,12 +2009,13 @@
     "fee": "免费",
     "description": "西溪湿地内的植物园，展示各种湿地植物。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "植物园",
       "湿地植物",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州西溪湿地博物馆",
@@ -1924,12 +2028,13 @@
     "fee": "免费",
     "description": "展示西溪湿地历史和生态的博物馆。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "博物馆",
       "湿地",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州湘湖游船",
@@ -1942,11 +2047,12 @@
     "fee": "收费",
     "description": "杭州湘湖游船是位于杭州的公园，主打游船、湘湖等活动。门票收费，地址位于萧山区湘湖；交通：地铁1号线湘湖站。建议出行前通过官方渠道确认开放时间与预约要求。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "游船",
       "湘湖"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州湘湖音乐喷泉",
@@ -1959,12 +2065,13 @@
     "fee": "免费",
     "description": "湘湖的音乐喷泉，有灯光和音乐表演。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "音乐喷泉",
       "灯光",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州极地海洋世界海豚表演",
@@ -1977,11 +2084,12 @@
     "fee": "收费",
     "description": "极地海洋世界的海豚表演，精彩有趣。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "海豚表演",
       "精彩"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州极地海洋世界白鲸表演",
@@ -1994,11 +2102,12 @@
     "fee": "收费",
     "description": "极地海洋世界的白鲸表演，温馨感人。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "白鲸表演",
       "温馨"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体中心体育场",
@@ -2011,11 +2120,12 @@
     "fee": "收费",
     "description": "杭州奥体中心的主体育场，举办大型体育赛事和演唱会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育赛事",
       "演唱会"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体中心游泳馆",
@@ -2028,11 +2138,12 @@
     "fee": "收费",
     "description": "杭州奥体中心的游泳馆，有游泳比赛和培训。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "游泳",
       "比赛"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体中心网球中心",
@@ -2045,11 +2156,12 @@
     "fee": "收费",
     "description": "杭州奥体中心的网球中心，举办网球比赛和培训。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "网球",
       "比赛"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州梦想小镇创业大街",
@@ -2062,12 +2174,13 @@
     "fee": "免费",
     "description": "梦想小镇的创业大街，有创业咖啡馆和展示中心。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "创业",
       "咖啡馆",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州未来科技城梦想小镇",
@@ -2080,12 +2193,13 @@
     "fee": "免费",
     "description": "未来科技城的梦想小镇，有创业孵化和文化设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "创业",
       "科技",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州未来科技城学术交流中心",
@@ -2098,11 +2212,12 @@
     "fee": "收费",
     "description": "未来科技城的学术交流中心，举办学术会议和展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "学术会议",
       "展览"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州未来科技城海创园",
@@ -2115,12 +2230,13 @@
     "fee": "免费",
     "description": "未来科技城的海创园，有创业孵化和科技展示。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "创业",
       "科技",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州未来科技城人才公园",
@@ -2133,12 +2249,13 @@
     "fee": "免费",
     "description": "未来科技城的人才公园，有休闲设施和景观。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "公园",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州临平新城体育公园",
@@ -2151,12 +2268,13 @@
     "fee": "免费",
     "description": "临平新城的体育公园，有运动设施和休闲空间。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "体育",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州临平新城文化艺术中心",
@@ -2169,12 +2287,13 @@
     "fee": "免费",
     "description": "临平新城的文化艺术中心，有展览和演出。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文化艺术",
       "展览",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州临平新城市民广场",
@@ -2187,12 +2306,13 @@
     "fee": "免费",
     "description": "临平新城的市民广场，有休闲设施和城市景观。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "广场",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州九堡大桥公园",
@@ -2205,12 +2325,13 @@
     "fee": "免费",
     "description": "九堡大桥附近的公园，有江景和休闲设施。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "江景",
       "休闲",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州钱江新城灯光秀",
@@ -2223,12 +2344,13 @@
     "fee": "免费",
     "description": "钱江新城的灯光秀，每晚有灯光表演。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "灯光秀",
       "夜景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州城市阳台灯光秀",
@@ -2241,12 +2363,13 @@
     "fee": "免费",
     "description": "城市阳台的灯光秀，可观赏钱江新城夜景。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "灯光秀",
       "夜景",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州大剧院歌剧厅",
@@ -2259,11 +2382,12 @@
     "fee": "收费",
     "description": "杭州大剧院的歌剧厅，举办歌剧和音乐会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "歌剧",
       "音乐会"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州大剧院音乐厅",
@@ -2276,11 +2400,12 @@
     "fee": "收费",
     "description": "杭州大剧院的音乐厅，举办交响乐和室内乐音乐会。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "交响乐",
       "室内乐"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州国际会议中心大剧场",
@@ -2293,11 +2418,12 @@
     "fee": "收费",
     "description": "杭州国际会议中心的大剧场，举办大型演出和会议。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "演出",
       "会议"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体博览城网球中心",
@@ -2310,11 +2436,12 @@
     "fee": "收费",
     "description": "奥体博览城的网球中心，举办网球比赛和培训。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "网球",
       "比赛"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州奥体博览城游泳馆",
@@ -2327,11 +2454,12 @@
     "fee": "收费",
     "description": "奥体博览城的游泳馆，有游泳比赛和培训。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "游泳",
       "比赛"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州白马湖国际会展中心展览厅",
@@ -2344,11 +2472,12 @@
     "fee": "收费",
     "description": "白马湖国际会展中心的展览厅，举办各种展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "展览",
       "会展"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州之江文化中心图书馆",
@@ -2361,12 +2490,13 @@
     "fee": "免费",
     "description": "之江文化中心的图书馆，有丰富的馆藏和阅读空间。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "图书馆",
       "阅读",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州之江文化中心博物馆",
@@ -2379,12 +2509,13 @@
     "fee": "免费",
     "description": "之江文化中心的博物馆，展示各种文物和艺术品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "博物馆",
       "文物",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州之江文化中心美术馆",
@@ -2397,12 +2528,13 @@
     "fee": "免费",
     "description": "之江文化中心的美术馆，展示各种美术作品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "美术馆",
       "美术作品",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州之江文化中心科技馆",
@@ -2415,12 +2547,13 @@
     "fee": "免费",
     "description": "之江文化中心的科技馆，有互动体验和科普展览。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "科技馆",
       "互动体验",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州文学馆展览厅",
@@ -2433,12 +2566,13 @@
     "fee": "免费",
     "description": "杭州文学馆的展览厅，展示杭州文学历史和作品。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "文学",
       "展览",
       "免费"
     ],
-    "links": []
+    "status": "auto"
   },
   {
     "name": "杭州文学馆阅读室",
@@ -2451,11 +2585,5925 @@
     "fee": "免费",
     "description": "杭州文学馆的阅读室，有丰富的文学书籍和阅读空间。",
     "official_url": "",
+    "links": [],
     "highlights": [
       "阅读",
       "文学",
       "免费"
     ],
-    "links": []
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的青少年影视放映讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的周末科普活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的探秘演出月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "宋城",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "宋城是位于杭州的演出，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国印学博物馆",
+    "source": "西泠印社",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "由中国印学博物馆与浦东篆刻会主办的篆刻特展，展出99件篆刻作品，于孤山西泠印社开幕，免费开放，适合书法篆刻爱好者。（结束日期估算）",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖区文化馆",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "龙井茶艺/丝绸刺绣，需提前预约。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的精彩体育赛事节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的沉浸式讲座阅读探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的走进体育赛事日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州宋城",
+    "source": "宋城演艺",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "宋城演艺王牌演出《宋城千古情》，以杭州历史为脉络的视听盛宴，每日多场，适合全家观看，需购票入园。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖博物馆的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的体验展览嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西溪湿地",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "研学",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西溪湿地的精彩研学活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "六和塔",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州六和塔的精彩展览活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的儿童科普活动课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的发现亲子活动比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的漫游影视放映季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "烂苹果乐园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "荒诞有趣的小镇，颠倒房屋，奇幻世界。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的经典展览探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "白龙潭景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州近郊瀑布，山林溪水，自然野趣。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "小河直街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "京杭大运河旁历史街区，古运河风情。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州国际博览中心",
+    "source": "杭州市文化广电旅游局",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "八大展厅、九大专题展览、十一项重点活动，发放300万元惠民购书券。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "雷峰塔",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "研学",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州雷峰塔的精彩研学活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的解读影视放映周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的震撼演出发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的沉浸式演出探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的经典影视放映探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的震撼科普活动发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的儿童科普活动课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湖荷花盛开，曲院风荷，夏日美景。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "龙井",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州龙井的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "云栖竹径",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "竹林避暑，清凉一夏，西湖新十景。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州动物园",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "熊猫知识讲座、熊猫绘画比赛、亲子互动游戏。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国扇博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "扇文化展，王星记扇子，手工技艺。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "长乔极地海洋公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州长乔极地海洋公园的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的走进演出日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "南宋官窑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "研学",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州南宋官窑博物馆的精彩研学活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的互动影视放映科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的解读展览周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的精彩亲子活动节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国美术学院美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "中国最高美术学府美术馆，先锋艺术，学生作品展。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的沉浸式影视放映探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的精彩演出节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的趣味亲子活动展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的解读讲座阅读周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的震撼演出发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江自然博物院杭州馆",
+    "source": "浙江自然博物院",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湖文化广场，自然标本恐龙化石，自然科普教育。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国刀剪剑博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国刀剪剑博物馆的精彩演出活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的沉浸式亲子活动探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的探索讲座阅读演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的互动影视放映科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国伞博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "研学",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国伞博物馆的精彩研学活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的儿童演出课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的趣味演出展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的经典体育赛事探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的精彩讲座阅读节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "胡庆余堂中药博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州胡庆余堂中药博物馆的精彩展览活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "京杭大运河杭州景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "运河夜游，灯光夜景，乘船赏运河。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "拱宸桥",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "拱宸桥游船，运河夜景，江南水乡。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "九溪",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州九溪的精彩演出活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的经典演出探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的儿童演出课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州图书馆",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "亲子故事会、绘本创作工作坊、儿童文学讲座。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州野生动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州杭州野生动物园的精彩演出活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的探索亲子活动演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的漫游演出季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的暑期科普活动体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的青少年影视放映讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的青少年演出讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的探索体育赛事演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的儿童展览课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "灵山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "灵山幻境溶洞，山水风光，避暑胜地。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的解读科普活动周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的震撼展览发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的梦幻影视放映之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国杭帮菜博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭帮菜发展史，美食文化，模型菜品展示。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "韩美林艺术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "植物园内，韩美林艺术作品，雕塑绘画陶瓷。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中国京杭大运河博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州中国京杭大运河博物馆的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的走进展览日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的家庭亲子活动研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "天目里",
+    "source": "杭州市文化广电旅游局",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "3大夜主场+10大主题产品+全域联动营销夜游格局。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "湘湖",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "研学",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州湘湖的精彩研学活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的漫游体育赛事季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的暑期展览体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的解读演出周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的趣味亲子活动展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的漫游影视放映季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "虎跑",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州虎跑的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的精彩展览节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的探秘亲子活动月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的漫游展览季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江省博物馆之江馆区",
+    "source": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙博新馆，更大展区更多文物，浙江文化新地标。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的经典科普活动探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的亲子展览工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州浙江美术馆的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的家庭体育赛事研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的梦幻演出之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的走进演出日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的互动讲座阅读科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的探索展览演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江省博物馆武林馆区",
+    "source": "浙江省博物馆",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙江历史文化展，越地长歌，十万年前到近现代。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西溪湿地洪园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "摇橹船游湿地，慢享西溪，诗意水乡。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江省文化馆",
+    "source": "浙江省文化馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙江省文化馆发起的全民艺术惠民活动，遍布各地的公益展演、艺术培训与“文艺赋美”演出，免费参与，适合亲子家庭。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江自然博物院",
+    "source": "浙江自然博物院",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "展出三叶虫、鱼龙、猛犸象化石骨架，配套化石挖掘体验、火山爆发科学实验秀、AR恐龙互动。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的经典亲子活动探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的解读科普活动周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的暑期演出体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的解读亲子活动周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的儿童影视放映课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的体验亲子活动嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的青少年展览讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "浙江省博物馆之江馆",
+    "source": "杭州市文化广电旅游局",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "融合实物文物、数字展陈与沉浸式演出的交互艺术大展。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的精彩亲子活动节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的经典讲座阅读探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的周末影视放映活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖音乐喷泉",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湖边音乐灯光喷泉，每晚定时表演，浪漫夜景。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区青少年宫",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "玉器纹样拓印+陶器制作，分龄段教学。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的探秘演出月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的周末演出活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的体验演出嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的梦幻亲子活动之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的探索科普活动演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "灵隐寺",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州灵隐寺的精彩演出活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的周末讲座阅读活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的青少年亲子活动讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的发现亲子活动比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "岳庙",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州岳庙的精彩展览活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的梦幻展览之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的走进亲子活动日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的沉浸式展览探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的趣味体育赛事展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的周末亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的互动演出科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的探秘科普活动月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的趣味讲座阅读展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "跨湖桥遗址博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "八千年前独木舟，跨湖桥文化，考古遗址。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的互动科普活动科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的沉浸式科普活动探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的漫游讲座阅读季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的精彩展览节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的走进影视放映日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的互动亲子活动科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的亲子影视放映工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的体验展览嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的走进讲座阅读日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "虎跑公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湖三大名泉之一，虎跑梦泉，龙井茶配虎跑水。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的探索演出演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的探秘讲座阅读月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的亲子演出工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的互动体育赛事科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的发现展览比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的趣味影视放映展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的周末展览活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的暑期亲子活动体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西溪湿地公园",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西溪湿地公园是位于杭州的，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的发现影视放映比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "湘湖旅游度假区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "湘湖旅游度假区是位于杭州的展览，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的发现展览比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的儿童亲子活动课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的探秘体育赛事月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的经典讲座阅读探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的暑期体育赛事体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的精彩影视放映节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的震撼影视放映发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的沉浸式演出探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的亲子展览工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "满觉陇",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "满陇桂雨，金秋桂花飘香，赏桂胜地。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的发现体育赛事比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的互动展览科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的趣味影视放映展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "东方文化园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "儒释道三教文化，东方园林，宗教艺术。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的暑期展览体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的走进科普活动日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的家庭演出研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的解读演出周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的震撼亲子活动发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的梦幻科普活动之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "九溪十八涧",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "夏日九溪玩水，溪水清凉，亲子溯溪。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的漫游体育赛事季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的走进讲座阅读日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的青少年科普活动讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区创意园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的探索影视放映演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的儿童体育赛事课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的周末亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的体验体育赛事嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的梦幻展览之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的周末体育赛事活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的探索亲子活动演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的漫游亲子活动季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的儿童讲座阅读课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的解读影视放映周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的漫游亲子活动季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的周末展览活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的儿童影视放映课程，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的家庭科普活动研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的家庭展览研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的趣味体育赛事展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的亲子科普活动工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的互动体育赛事科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的亲子科普活动工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的青少年演出讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的经典展览探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的暑期影视放映体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的经典科普活动探秘，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的家庭讲座阅读研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上城区图书馆（青少年分馆）",
+    "source": "manual",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "每周六10:00，南宋历史情景剧，免费参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的暑期亲子活动体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的体验影视放映嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的亲子讲座阅读工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的发现演出比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的探秘影视放映月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的精彩体育赛事节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区文化中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的体验科普活动嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的震撼讲座阅读发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区美术馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的沉浸式体育赛事探索，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的探索展览演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州余杭区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州余杭区的青少年讲座阅读讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的解读体育赛事周，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "湖滨步行街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "西湖边繁华商业街，夜景灯光秀，美食购物。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的梦幻讲座阅读之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区科技馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的趣味科普活动展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的发现科普活动比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的震撼科普活动发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县体育场",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的亲子亲子活动工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的梦幻体育赛事之旅，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的体验讲座阅读嘉年华，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的探秘影视放映月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的周末体育赛事活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州富阳区体育馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "富阳区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州富阳区的探秘展览月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州淳安县会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "淳安县",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州淳安县的探秘体育赛事月，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区海洋馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的漫游科普活动季，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州上城区青少年宫",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州上城区的震撼体育赛事发现，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州西湖区剧院",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州西湖区的青少年体育赛事讲座，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区艺术中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的亲子体育赛事工作坊，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "体育赛事",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的探索体育赛事演出，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "清河坊街",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "上城区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州历史文化街区，南宋御街，民俗风情。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县植物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的家庭科普活动研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州萧山区文化馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "萧山区",
+    "type": "影视放映",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州萧山区的家庭影视放映研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州滨江区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州滨江区的发现讲座阅读比赛，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州下城区博物馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "下城区",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州下城区的走进科普活动日，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州桐庐县会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "桐庐县",
+    "type": "科普活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州桐庐县的精彩科普活动节，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州临安区动物园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临安区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州临安区的趣味展览展览，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州拱墅区图书馆",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "拱墅区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州拱墅区的家庭演出研学营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州建德市公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "建德市",
+    "type": "讲座阅读",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州建德市的暑期讲座阅读体验营，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州江干区会展中心",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "江干区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州江干区的互动演出科普，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州运河大剧院",
+    "source": "浙江交响乐团",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "浙江交响乐团2026音乐季音乐会，10月23日登陆杭州运河大剧院歌剧厅，演绎“英雄的诗篇”等交响作品，需购票观看。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "超山风景区",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "十里梅花香雪海，中国五大古梅，赏梅胜地。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "太子湾公园",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "展览",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "春季郁金香展，大片郁金香花海，春日盛景。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "龙井村",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "春季采茶体验，明前茶采摘，茶文化体验。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖音乐节",
+    "source": "杭州本地宝",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "演出",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭州最具影响力的音乐节，独立音乐，民谣摇滚。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州图书馆少儿分馆",
+    "source": "杭州图书馆官网",
+    "city": "hangzhou",
+    "district": "",
+    "type": "",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "杭小图看世界系列科普讲座，带领少儿读者探索恐龙时代的奥秘。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州全民健身中心",
+    "source": "hangzhou_gov_杭州全民健身中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "上城区富春路80号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市体育事业发展中心；联系电话：88173503；低收费；服务项目：游泳羽毛球乒乓球",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州游泳健身馆",
+    "source": "hangzhou_gov_杭州游泳健身馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区中山北路572号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市体育事业发展中心；联系电话：85060945；低收费；服务项目：游泳羽毛球乒乓球保龄球搏击",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州大关游泳健身馆",
+    "source": "hangzhou_gov_杭州大关游泳健身馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区大关小区东四苑18号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市体育事业发展中心；联系电话：88315200；免费低收费；服务项目：游泳羽毛球乒乓球健身房",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州体育场",
+    "source": "hangzhou_gov_杭州体育场",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区体育场路169号",
+    "transport": "",
+    "fee": "免费",
+    "description": "管理单位：杭州市体育事业发展中心；联系电话：85196200；免费；服务项目：田径跑道",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州体育馆",
+    "source": "hangzhou_gov_杭州体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区体育场路210号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市体育事业发展中心；联系电话：85179603；免费低收费；服务项目：羽毛球乒乓球壁球篮球",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市陈经纶体育学校",
+    "source": "hangzhou_gov_杭州市陈经纶体育学校",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "西湖区曙光路126号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市体育局；联系电话：87993099；免费低收费；服务项目：游泳田径跑道羽毛球选材培训乒乓球选材培训网球选材培训",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市职工文化中心",
+    "source": "hangzhou_gov_杭州市职工文化中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "上城区东宁路501号",
+    "transport": "",
+    "fee": "低收费",
+    "description": "管理单位：杭州市总工会；联系电话：87895151；低收费；服务项目：篮球、乒乓球、羽毛球、游泳",
+    "official_url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+    "links": [
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hangzhou.gov.cn/art/2024/9/10/art_1228974686_59102310.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市体育事业发展中心杭州体育馆（改建中）",
+    "source": "hangzhou_gov_杭州市体育事业发展中心杭州体育馆_改建中",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "下城区体育场路210号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：乒乓球、户外健身、羽毛球、篮球、壁球、体育舞蹈等（因亚运提升改造工程目前暂停对外开放）",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市体育事业发展中心杭州体育场",
+    "source": "hangzhou_gov_杭州市体育事业发展中心杭州体育场",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "下城区体育场路169号",
+    "transport": "",
+    "fee": "",
+    "description": "杭州市体育事业发展中心杭州体育场是位于杭州的体育中心，面向亲子家庭与青少年常态化开展活动。地址位于下城区体育场路169号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市体育事业发展中心杭州游泳健身馆",
+    "source": "hangzhou_gov_杭州市体育事业发展中心杭州游泳健身馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "下城区中山北路572号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、羽毛球、保龄球、乒乓球、健身健美等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市体育事业发展中心杭州大关游泳健身馆",
+    "source": "hangzhou_gov_杭州市体育事业发展中心杭州大关游泳健身馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区大关小区东四苑18号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、羽毛球、乒乓球、门球、健身健美等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市体育事业发展中心杭州全民健身中心（在建）",
+    "source": "hangzhou_gov_杭州市体育事业发展中心杭州全民健身中心_在建",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "上城区富春路甬江路交叉口北侧",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：（规划设置）游泳、羽毛球、网球、篮球、乒乓球、击剑、健身健美",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "上城区定安路体育中心",
+    "source": "hangzhou_gov_上城区定安路体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "定安路20号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、羽毛球、网球、健身",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "下城区体育中心",
+    "source": "hangzhou_gov_下城区体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "杭州市潮王路8号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：足球、田径、乒乓球、健身、篮球、网球",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "江干区体育中心",
+    "source": "hangzhou_gov_江干区体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "江干区钱潮路12号至16号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：网球，篮球，乒乓球，射箭，健身房，瑜伽，羽毛球，游泳",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "九堡体育中心",
+    "source": "hangzhou_gov_九堡体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "江干区九睦路109号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、乒乓球、篮球、羽毛球、台球、网球、瑜伽，室内AR项目。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "丁兰文体中心",
+    "source": "hangzhou_gov_丁兰文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "江干区临丁路1180号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：乒乓球馆、健身综合馆（瑜伽、搏击、跆拳道、培训室、动感单车、器械健身馆）、篮球馆、羽毛球综合场馆、五人制足球场",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "西湖区文体中心",
+    "source": "hangzhou_gov_西湖区文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "西湖区晴川街217号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：综合馆、羽毛球馆、乒乓球馆、台球馆、射箭馆、网球馆、健身馆、游泳馆、瑜伽馆、舞蹈馆、跆拳道馆、国民体侧馆、空手道馆、太极馆、攀岩馆、足球馆、击剑馆、搏击馆",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "拱墅区体育馆",
+    "source": "hangzhou_gov_拱墅区体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区双荡弄120号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、羽毛球、体育舞蹈等项目。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "拱墅区文体中心",
+    "source": "hangzhou_gov_拱墅区文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "拱墅区草营巷8号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：羽毛球、跆拳道、乒乓球、武林活拳、围棋、老年书画、杭州晟命公益服务中心等项目。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "江南体育中心",
+    "source": "hangzhou_gov_江南体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "滨江区春晓路411号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、乒乓球、羽毛球、篮球、健身房、网球。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "滨江区体育馆",
+    "source": "hangzhou_gov_滨江区体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "滨江区江虹路996号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、羽毛球、乒乓球、笼式足球",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "萧山区体育中心",
+    "source": "hangzhou_gov_萧山区体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "萧山区城厢街道市心南路398号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳、健身、网球、篮球、乒乓球、羽毛球、气排球、台球。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "萧山区临浦镇文体中心（改建中）",
+    "source": "hangzhou_gov_萧山区临浦镇文体中心_改建中",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "萧山区临浦镇人民路22号",
+    "transport": "",
+    "fee": "",
+    "description": "萧山区临浦镇文体中心（改建中）是位于杭州的体育中心，面向亲子家庭与青少年常态化开展活动。地址位于萧山区临浦镇人民路22号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "萧山区瓜沥镇文体中心",
+    "source": "hangzhou_gov_萧山区瓜沥镇文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "萧山区建设四路10778号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：体操、篮球、手球、排球、羽毛球、乒乓球、拳击、柔道、摔跤、跆拳道、举重、击剑、武术",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "萧山区衙前镇文体中心",
+    "source": "hangzhou_gov_萧山区衙前镇文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "萧山区衙前镇萧明线与农运路的西南角。",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、乒乓球、羽毛球、网球",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区体育中心（改建中）",
+    "source": "hangzhou_gov_余杭区体育中心_改建中",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "余杭区南苑街道东湖南路177号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：体育场、体育馆、游泳馆、综合训练馆（现亚运场馆改建中）",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区闲林体艺馆",
+    "source": "hangzhou_gov_余杭区闲林体艺馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "闲林街道方家山路88号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、乒乓球、体质测试",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "富阳区体育中心",
+    "source": "hangzhou_gov_富阳区体育中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "富阳区富春街道桂花西路201号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：乒乓球、跆拳道、瑜伽、动感单车、健美操、器械健身、游泳、篮球、羽毛球、培训室、门球、地掷球、11人制足球等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "临安文体会展中心(改建中)",
+    "source": "hangzhou_gov_临安文体会展中心_改建中",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "锦南新城九州街599号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：游泳，网球，足球，篮球，健身，",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "桐庐县体育馆",
+    "source": "hangzhou_gov_桐庐县体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "城南街道大联路505号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、羽毛球、网球、门球、乒乓球、地掷球等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "桐庐县城北体育健身中心",
+    "source": "hangzhou_gov_桐庐县城北体育健身中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "桐君街道康乐路348号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、羽毛球、网球、门球、乒乓球、地掷球、足球、攀岩、击剑、射击等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "桐庐县分水镇文体中心",
+    "source": "hangzhou_gov_桐庐县分水镇文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "桐庐县分水镇玉华路315号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、羽毛球、健身房、乒乓球、台球、棋牌、跆拳道、网球、足球等。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "桐庐县横村镇文体中心",
+    "source": "hangzhou_gov_桐庐县横村镇文体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "桐庐县横村镇市场路99号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、网球、羽毛球、乒乓球等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "淳安县体育馆",
+    "source": "hangzhou_gov_淳安县体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "淳安县千岛湖镇开发路435号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：篮球、乒乓球、羽毛球、气排球",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "建德市新安江体育馆",
+    "source": "hangzhou_gov_建德市新安江体育馆",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "建德市新安江街道新安东路700号",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：羽毛球、乒乓球、篮球、足球、网球、太极拳（剑）。",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市奥体中心",
+    "source": "hangzhou_gov_杭州市奥体中心",
+    "city": "hangzhou",
+    "district": "",
+    "type": "体育中心",
+    "address": "杭州市萧山区飞虹路",
+    "transport": "",
+    "fee": "",
+    "description": "健身项目：健身，游泳，网球，棒垒球，曲棍球，小球类，田径等",
+    "official_url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+    "links": [
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://ty.hangzhou.gov.cn/art/2020/12/18/art_1694286_58830875.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市西湖区文化馆",
+    "source": "hangzhou_gov_杭州市西湖区文化馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "文化馆",
+    "address": "杭州市西湖区曙光路184号",
+    "transport": "",
+    "fee": "免费",
+    "description": "服务咨询电话：057187997310",
+    "official_url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+    "links": [
+      {
+        "url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市西湖区图书馆",
+    "source": "hangzhou_gov_杭州市西湖区图书馆",
+    "city": "hangzhou",
+    "district": "西湖区",
+    "type": "图书馆",
+    "address": "杭州市西湖区古墩路413-1号",
+    "transport": "",
+    "fee": "免费",
+    "description": "服务咨询电话：057187987713",
+    "official_url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+    "links": [
+      {
+        "url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hzxh.gov.cn/art/2024/3/14/art_1229597552_59036611.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区文化馆",
+    "source": "hangzhou_gov_余杭区文化馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化馆",
+    "address": "杭州市余杭区瓶窑镇崇北街9号",
+    "transport": "",
+    "fee": "免费",
+    "description": "余杭区文化馆位于瓶窑镇崇北街9号。主要负责开展全区文化宣传、公众教育、普及文化艺术；收集、整理民族民间艺术，传承优秀民族民间文化；负责文艺骨干培训工作，开展公益性文化活动；做好全区群众文化艺术活动的组织、指导工作；繁荣群众文艺创作等工作。现有文化驿站、主题展厅、琴房等功能丰富、设施完备的阵地教室，对市民群众免费开放。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区图书馆",
+    "source": "hangzhou_gov_余杭区图书馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "杭州市余杭区瓶窑镇崇北街9号",
+    "transport": "",
+    "fee": "",
+    "description": "余杭区图书馆位于余杭区瓶窑镇崇北街9号，余杭文化中心东楼，与瓶窑镇政府相邻，处于余杭区“两廊一轴、一核三片”核心地带，以及科创大走廊和千年发展轴的交汇地带。馆功能面积约11819.61平方米，目前有书架约430组，座位数约800个，全区馆藏总量135万册（件），是一座集数字化阅读与传统阅读于一体的公共图书馆。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "仓前街道图书分馆",
+    "source": "hangzhou_gov_仓前街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "杭州市余杭区仓兴街300号太炎未来社区梦想中心4楼",
+    "transport": "",
+    "fee": "免费",
+    "description": "学乘书房位于仓前街道300号太炎未来社区梦想中心4楼，面积约为500平方米，共有藏书近3万册，涵盖文学、哲学、社会科学、自然科学、综合性图书、少儿绘本等多品类图书，与市、区图书馆实现“通借通还”，方便市民借阅。馆内分成人阅读区与少儿阅读区，为不同年龄段读者提供良好的阅读氛围，并积极提升服务品质，以满足广大读者增长知识的需求。馆内还配备了茶水吧，电子大屏、投影等硬件设备，设免费WiFi，可供读者自行",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "良渚街道图书分馆",
+    "source": "hangzhou_gov_良渚街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "杭州市余杭区良平街750号",
+    "transport": "",
+    "fee": "",
+    "description": "余杭区文化馆良渚街道分馆（读行侠空间站）坐落在余杭区良渚街道良平街750号良渚街道综合文化站西侧，功能面积为500平方，共2层，阅读座位数100余，藏书15000 册；配备成人阅览区、儿童阅览区、有声阅读室、文创展厅、各主题活动空间等；是一所集阅读、文创、活动主题的图书馆，不仅实行借阅一体、全开放管理模式，提供图书资源查询等服务；还为市民提供图书借阅、文艺活动、亲子活动等公益文化活动；图书馆定期举",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "仁和街道图书分馆",
+    "source": "hangzhou_gov_仁和街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "仁和街道幸福综合体二楼（和旺街22号）",
+    "transport": "",
+    "fee": "",
+    "description": "仁和分馆位于仁和街道幸福综合体二楼（仁和广场东侧、和旺街22号），新馆馆内面积384平方米，功能分区更加合理，设有少儿阅览区和成人阅览区，满足不同年龄段读者的需求。馆内配备了60余个阅读座位，为读者提供舒适的阅读空间。馆内藏书量丰富，多达14000册，涵盖国学经典、名人传记、专业著述、生活散记、少儿读物等多种类型，能够满足不同读者群体的阅读兴趣和求知需求。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "五常街道图书分馆",
+    "source": "hangzhou_gov_五常街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "五常街道党群服务中心西坝路59号2号楼3楼大厅",
+    "transport": "",
+    "fee": "",
+    "description": "五常街道分馆位于余杭区五常街道党群服务中心3楼，阅览座位25个，藏书量达10000余册，内图书馆容涵盖人文社科、社会科学、语言文字以及儿童读物等，可满足不同年龄段群体的阅读需求。五常街道图书馆分馆环境整洁，幽静，文化风味浓郁，藏书、集阅览、借阅还为一体，为亲子以及上班的职场人提供一个“为大脑充电”的空间。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "闲林街道图书分馆",
+    "source": "hangzhou_gov_闲林街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "闲林街道方家山路88号闲林体艺馆二楼",
+    "transport": "",
+    "fee": "",
+    "description": "闲林街道图书分馆坐落于方家山路88号闲林体艺馆二楼，全馆总面积达120平方米，阅览座位30个，配有16台电脑提供电子阅览服务，馆内藏书15000册，涵盖有文学类，少儿类，经济类等多品类图书，图书归类摆放并与区，市图书馆开通“一证通”服务，方便市民借阅，馆内分成人阅读区与少儿阅读区，为不同年龄段读者提供良好的阅读氛围，并积极提升服务品质，以满足广大读者增长知识的需求",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭街道图书分馆",
+    "source": "hangzhou_gov_余杭街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "杭州市余杭区余杭街道安乐路236号",
+    "transport": "",
+    "fee": "免费",
+    "description": "余杭街道图书分馆位于安乐路236号文体服务中心大楼一楼，交通便捷，与区、市图书馆开通“一证通”，实现通借通还，是一所设有无线网络、电子阅览室且免费对外开放的公益性图书馆，面积约150平米，藏书量达30000余册、杂志百余种。图书严格按照中图法开架排序，书籍种类丰富，每年定时更新馆内图书。现有3名图书管理员对其进行管理，余杭街道分馆定期开展各种类型活动，为周边读者营造出良好的全民阅读氛围。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中泰街道图书分馆",
+    "source": "hangzhou_gov_中泰街道图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "杭州市余杭区中泰街道中泰路370号",
+    "transport": "",
+    "fee": "免费",
+    "description": "中泰街道图书分馆建成于2009年，于2013年、2020年进行提升改造，现位于中泰街道中泰路370号南湖大厦辅楼四楼，占地面积约320平方米，馆内藏书一万七千余册，报刊40余种，可供辖区内市民免费借阅。馆内设有少儿借阅区、成人借阅区、读者阅览区、电子阅览室等，馆内宽敞明亮、环境优雅、功能齐全，分馆每年定期购买新书一千余册，开展各类阅读活动满足了各类人群的阅读需求，极大地丰富了群众闲暇时的文化生活。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "百丈镇图书分馆",
+    "source": "hangzhou_gov_百丈镇图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "百丈镇文体活动中心三楼",
+    "transport": "",
+    "fee": "",
+    "description": "百丈分馆初建2003年，于2022年11月搬至新的文体活动中心三楼。位于百丈集镇中心位置、紧邻百丈中心小学、游客服务中心、公交车站，交通便利。馆内面积400平方米，藏书量15000余册。涵盖了文学类、社科类、科普类、教育类、少儿类等书籍，供各类年龄段人群阅读。干净整洁,为读者提供了一个舒适的阅读空间。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "黄湖镇图书分馆",
+    "source": "hangzhou_gov_黄湖镇图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "余杭区黄湖镇迂前南路157-5号",
+    "transport": "",
+    "fee": "",
+    "description": "黄湖分馆位于黄湖镇迂前南路157-5号，黄湖镇文体大楼三楼，于2018年的7月正式运行。图书馆以服务读者为基础，文化为核心，助力推进全民阅读。馆建筑面积大约600平方米，目前拥有藏书20000余册，涵盖文学、哲学、社会科学、自然科学、综合性图书等几大部类。图书馆除了公共阅读区，还设有电子阅览区，可以满足读者不同的阅读方式需求。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "径山镇图书分馆",
+    "source": "hangzhou_gov_径山镇图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "径山镇文体活动中心4楼",
+    "transport": "",
+    "fee": "",
+    "description": "径山分馆设于国家4A级景区“径山景区”的综合性文体活动中心内，与镜潭湖湿地公园、径山花海等景点比邻而立，风景秀美。作为余杭区图书馆径山分馆，径山书房存放了一万五千多册图书，其中包括镇馆之宝《径山藏》等图书，让人们远离城市的喧嚣，享受书香之旅。馆内设有图书自助借还机、喜马拉雅有声书墙等设施，同时配备了互动智慧景区导览系统，方便市民游客随时选用。这家书房由三大区域共同构成，包括中心一楼的24小时自助图",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "鸬鸟镇图书分馆",
+    "source": "hangzhou_gov_鸬鸟镇图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "鸬鸟镇雅城村245号文体大楼二楼",
+    "transport": "",
+    "fee": "",
+    "description": "余杭图书馆鸬鸟分馆（青鸬书房）于2022年1月4日开始运行，青鸬书房位于鸬鸟镇文体大楼二楼，书房设计以开放、共享为基础，以文化为核心，打造多元化的特色书房。书房面积450平方米，总藏书7000余册，包括人文社科类、儿童类公共图书，与余杭区图书馆实现通借通还。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "瓶窑镇图书分馆",
+    "source": "hangzhou_gov_瓶窑镇图书分馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "图书馆",
+    "address": "余杭区瓶窑镇新窑路288号",
+    "transport": "",
+    "fee": "",
+    "description": "瓶窑镇图书分馆，位于瓶窑镇文化艺术中心三楼，内与书画馆比邻，两者相结合更好地便利了周边居民的文化生活。图书馆面积约200平方米，馆藏图书约10000册，馆内干净整洁，窗明几净，非常适合大家前来阅读学习。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭章太炎故居纪念馆（章太炎研究中心）",
+    "source": "hangzhou_gov_余杭章太炎故居纪念馆_章太炎研究中心",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "博物馆",
+    "address": "杭州市余杭区仓前街道仓前塘路59号",
+    "transport": "",
+    "fee": "",
+    "description": "在举世闻名的京杭大运河南端，余杭区仓前街道的余杭塘河畔，曾经诞生过一位中国近代民主主义革命家、思想家和国学大师——章太炎。章太炎（1869—1936），名炳麟，字枚叔，号太炎。他一生“三入牢狱、七被追捕”，为推翻帝制、建立共和作出不可磨灭的贡献。章太炎故居纪念馆位于仓前老街的中段，包括故居本体、游客服务中心、章太炎先生生平展厅、专题展厅、章太炎研究中心和国学讲堂等部分，纪念馆总面积近2700平方米",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭小百花越剧艺术中心（苕溪大剧院）",
+    "source": "hangzhou_gov_余杭小百花越剧艺术中心_苕溪大剧院",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区瓶窑镇崇北街9号",
+    "transport": "",
+    "fee": "",
+    "description": "余杭小百花越剧艺术中心自1953年建团至今已有70年历史，曾以“男女合演，文武兼备”的艺术特色，“小东风”“小百花”越剧团的响亮品牌饮誉大江南北。近年来艺术中心先后演出《第一次亲密接触》《杨乃武》《洪昇》《陆羽问茶》《汉兴未央》《光明吟》《却金亭》《帘卷西风》，广受观众欢迎，引起戏剧界瞩目。先后获第七届全国服务农民服务基层文化建设先进集体、中国越剧艺术节“银奖”、浙江省戏剧节“优秀新剧目大奖”、浙",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭区非遗馆",
+    "source": "hangzhou_gov_余杭区非遗馆",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "博物馆",
+    "address": "崇北街9号余杭文化中心2楼",
+    "transport": "",
+    "fee": "",
+    "description": "余杭区非遗展示馆位于瓶窑镇余杭文化中心二楼，总面积1200平方米，其中室内非遗展陈面积670平方米，非遗专题图书区面积180平方米，室外研学拓展区350平方米。展馆以良渚文化为缘起，根据余杭深厚的历史文化底蕴、独特的地理生态环境，以及在此基础上孕育形成的运河文化、径山文化、苕溪文化等，设定不同的时空场景，打造序厅、第一篇章：禹野来风、第二篇章：长溪当歌、第三篇章：苕水有约、第四篇章：径山问茶及传承",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "良渚街道综合文化站",
+    "source": "hangzhou_gov_良渚街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区良渚街道良平街750号",
+    "transport": "",
+    "fee": "",
+    "description": "良渚街道综合文化站共有两层，建筑面积达到6358.85m²。内设有篮球场、乒乓球室、儿童游乐之家、图书馆、阅览室，舞蹈排练室等场所。给居民的娱乐休闲生活带来了保障。今年开展了良渚街道书画展、“百心群像”摄影展、“共话二十大 翰墨送到家”活动、港华燃气趣味运动会等各色各样的活动，在后续也会利用好文化站的各种设施场所继续开展各种多样性的活动。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "鸬鸟镇乡镇综合文化站",
+    "source": "hangzhou_gov_鸬鸟镇乡镇综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区鸬鸟镇雅城街道245号",
+    "transport": "",
+    "fee": "",
+    "description": "鸬鸟镇乡镇综合文化站位于鸬鸟镇雅城街道245号，建筑面积2600平方米，总投资约2000万元，大楼共4层，一楼设有诗画甜源·遇见鸬鸟展示厅、新时代文明实践所、鸬力同心荟、志愿者之家、青年之家、青春社区、社会组织服务中心；二楼设有青鸬书房、鸬力童趣馆、围鸬乐健坊、围鸬谈心室、鸬力初心站；三楼围鸬活动厅、围鸬舞韵坊、青鸬墨苑；四楼设有鸬力加油站、妇女之家。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "黄湖镇综合文化站",
+    "source": "hangzhou_gov_黄湖镇综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区黄湖镇迂前南路157-5号",
+    "transport": "",
+    "fee": "",
+    "description": "黄湖镇乡镇文化综合站是由原幼儿园改建而成，占地面积10亩左右，其中建筑面积2800㎡，分三层，目前配套有演艺厅、图书馆、舞蹈室、健身房、书画室、培训教室、会议室、室内外乒乓球室、篮球场、五人制足球场，基本能满足全镇百姓的文化生活需求。整个大楼分为溪上·凝心，溪上·未来，溪上·践行，溪上·新风，溪上·观文，溪上·榜样，溪上·印记等几大篇章，入驻有自乐书画室、王慧工作室等黄湖文化品牌，同时还统筹各类文",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "瓶窑镇综合文化站",
+    "source": "hangzhou_gov_瓶窑镇综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区瓶窑镇新窑路288号",
+    "transport": "",
+    "fee": "免费",
+    "description": "瓶窑镇文体艺术中心位于新窑路288号，总建筑面积约 2950平方米，是浙江省特级综合文化站之一。活动中心内设有图书室、电子阅览室、多功能厅、排练厅等，是集公益性和服务性于一体的群众文体活动场所，全年对市民免费开放。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "中泰街道综合文化站",
+    "source": "hangzhou_gov_中泰街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区中泰街道中泰路370号",
+    "transport": "",
+    "fee": "",
+    "description": "中泰街道综合文化站是省特级文化站，文化站位于中泰街道中泰路370号南湖大厦，场馆面积5600平方米，设有展示大厅、非遗展陈馆、5G展示厅、多功能厅、图书馆、舞蹈排练厅、声乐教室、乒乓球室等场馆，室外配有南湖文化广场及停车场，交通十分便利，地铁16号线及公交311、475、474、502等多条公交线路直达，日常开展各类特色活动，满足周边万余名群众的文化需求。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "径山镇乡镇综合文化站",
+    "source": "hangzhou_gov_径山镇乡镇综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区径山镇府后街5号",
+    "transport": "",
+    "fee": "",
+    "description": "径山镇乡镇综合文化站位于径山镇镇政府东北侧，径潭湖南侧。占地15亩，建筑面积15638.27平方米，地下一层，地上四层，计划总投资8794万元。大楼于2019年3月正式开工建设，于2021年5月完工并投入使用。新建大楼内设图书室、篮球场、健身房、书画室、嘉宾室、非遗馆、剧院等，是一个集休闲、娱乐为一体的综合性文体活动中心。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "仁和街道综合文化站",
+    "source": "hangzhou_gov_仁和街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区仁和街道和旺街22号",
+    "transport": "",
+    "fee": "",
+    "description": "仁和街道综合文化站位于仁和广场东侧，建筑面积2000多平方米。文化站设有图书馆、影剧院、非遗展陈馆、健身排练房、会议室等。为辖区群众提供休闲娱乐、健身锻炼、学习阅读等零距离、一站式服务。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "仓前街道综合文化站",
+    "source": "hangzhou_gov_仓前街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区仓前街道仓兴街300号文体活动中心",
+    "transport": "",
+    "fee": "",
+    "description": "仓前街道综合文化站文化阵地与太炎文化广场在同一条仓兴街，与仓前老街太炎24小时图书馆相距500米，文化活动中心用地面积5825㎡，总建筑面积10929.97㎡，建筑以“锦绣”为题，采用穿孔铝板表皮做法将大幅山水长卷铺成开来，画幅取材《余杭看山图》，白天的素雅、夜间的精彩，如同将山水绣于“锦”上，远观可感受长卷气势之宏大，驻足则欣赏铝板构图之精巧。再取“水韵”为神，层叠的屋顶、柔和的天际线，融入了仓",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "闲林街道综合文化站",
+    "source": "hangzhou_gov_闲林街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区闲林街道方家山路88号",
+    "transport": "",
+    "fee": "",
+    "description": "闲林街道综合文化站位于闲林街道方家山路88号，即闲林体艺馆建筑面积7831㎡，是融体育比赛、文艺演出、大型会议、体育文化培训等内容为一体的多功能、综合性场馆。主体建筑三层，一层为各类活动室，二层为中心篮球场和排练厅、图书分馆及辅助用房，三层为看台和辅助用房，看台座位1500个。室外广场汽车泊位75个。2016年浙江省农村文化礼堂第二届“我们的村晚”在此举办，近年来还承办过浙江省青少年跆拳道锦标赛、",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "百丈镇综合文化站",
+    "source": "hangzhou_gov_百丈镇综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区百丈镇百兴路24号",
+    "transport": "",
+    "fee": "",
+    "description": "百丈镇文体中心（综合文化站）坐落于百丈镇百丈街中心位置，和百丈镇中心小学、百丈镇人民政府、百丈村村委以及文化公园紧邻，建筑面积为8500平方米。交通便利，公交车可直达，便于本地群众前来开展各项活动。内设：图书阅览室、非遗展示室、多功能活动室、培训室、排练厅、棋牌室、健身房、剧院等活动场所，活动场所均配备空调。每周开放时间达到56小时。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "五常街道综合文化站",
+    "source": "hangzhou_gov_五常街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区五常街道西坝路59号2号楼",
+    "transport": "",
+    "fee": "",
+    "description": "余杭区五常街道综合文化站位于五常街道西坝路59号2号楼（临时），内设展览厅、音乐室、舞蹈室、多功能室、图书馆等功能场馆，面积共为2000多平方米。五常街道综合文化站致力于为市民提供公益性的各类活动、辅导、成为市民拓展艺术兴趣，丰富居民文化生活的公共文化场所。",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "余杭街道综合文化站",
+    "source": "hangzhou_gov_余杭街道综合文化站",
+    "city": "hangzhou",
+    "district": "余杭区",
+    "type": "文化中心",
+    "address": "杭州市余杭区余杭街道安乐路236号",
+    "transport": "",
+    "fee": "",
+    "description": "余杭街道综合文化站位于余杭街道安乐路236号（成校内），总面积5500方，自2021年8月底起对综合文化站一楼图书馆、二楼非遗展陈馆的整体空间布局进行重新规划和提升改造。目前以全新的面貌向公众开放，升级后的综合文化站按照浙江省特级综合文化站的要求建设运营，集图书馆、非遗展陈馆、羽毛球场、篮球场等室内外多功能场所于一体。综合文化站活动丰富，特色鲜明，每年固定投入10万元专项经费用于购书，每周常设公共",
+    "official_url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+    "links": [
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.yuhang.gov.cn/col/col1229187659/art_2026/art_f79e896367aa494a856928df021a924d.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市滨江区文化馆",
+    "source": "hangzhou_gov_杭州市滨江区文化馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "文化馆",
+    "address": "杭州市滨江区泰安路200号滨江区文化中心5楼",
+    "transport": "",
+    "fee": "免费",
+    "description": "咨询电话：0571-89522120",
+    "official_url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+    "links": [
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市滨江区图书馆",
+    "source": "hangzhou_gov_杭州市滨江区图书馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "图书馆",
+    "address": "杭州市滨江区泰安路200号滨江区文化中心6-8楼",
+    "transport": "",
+    "fee": "免费",
+    "description": "咨询电话：0571-86535229",
+    "official_url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+    "links": [
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "杭州市滨江区非物质文化遗产馆",
+    "source": "hangzhou_gov_杭州市滨江区非物质文化遗产馆",
+    "city": "hangzhou",
+    "district": "滨江区",
+    "type": "文化中心",
+    "address": "杭州市滨江区天官路8号",
+    "transport": "",
+    "fee": "免费",
+    "description": "咨询电话：19229720316",
+    "official_url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+    "links": [
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.hhtz.gov.cn/art/2025/8/1/art_1229778433_4384865.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "区文化馆",
+    "source": "hangzhou_gov_区文化馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "文化馆",
+    "address": "杭州市临平区乔司街道汀兰街239号",
+    "transport": "",
+    "fee": "免费",
+    "description": "区文化馆是位于杭州的文化馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于杭州市临平区乔司街道汀兰街239号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "区图书馆",
+    "source": "hangzhou_gov_区图书馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "临平区藕花洲大街231号、233-241号",
+    "transport": "",
+    "fee": "免费",
+    "description": "区图书馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于临平区藕花洲大街231号、233-241号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "临平博物馆",
+    "source": "hangzhou_gov_临平博物馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "博物馆",
+    "address": "杭州市临平区南苑街道南大街95号",
+    "transport": "",
+    "fee": "免费",
+    "description": "临平博物馆是位于杭州的博物馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于杭州市临平区南苑街道南大街95号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆临平街道分馆（智慧分馆）",
+    "source": "hangzhou_gov_图书馆临平街道分馆_智慧分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "临平街道景山路与邱山大街交叉口",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆临平街道分馆（智慧分馆）是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于临平街道景山路与邱山大街交叉口；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆运河街道分馆",
+    "source": "hangzhou_gov_图书馆运河街道分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "运河街道鹿溪路141号",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆运河街道分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于运河街道鹿溪路141号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆南苑街道分馆",
+    "source": "hangzhou_gov_图书馆南苑街道分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "南苑街道南大街263-5号",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆南苑街道分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于南苑街道南大街263-5号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆星桥街道分馆",
+    "source": "hangzhou_gov_图书馆星桥街道分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "星桥街道文体中心二楼（藕花洲大街西段620号）",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆星桥街道分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于星桥街道文体中心二楼（藕花洲大街西段620号）；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆乔司街道分馆",
+    "source": "hangzhou_gov_图书馆乔司街道分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "乔司街道保庆街74号乔司综合文化大楼二楼",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆乔司街道分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于乔司街道保庆街74号乔司综合文化大楼二楼；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆崇贤街道分馆",
+    "source": "hangzhou_gov_图书馆崇贤街道分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "崇贤街道尚德路39号",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆崇贤街道分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于崇贤街道尚德路39号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆东湖街道分馆（北沙书房）",
+    "source": "hangzhou_gov_图书馆东湖街道分馆_北沙书房",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "东湖街道荷花路150号-158号",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆东湖街道分馆（北沙书房）是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于东湖街道荷花路150号-158号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
+  },
+  {
+    "name": "图书馆塘栖镇分馆",
+    "source": "hangzhou_gov_图书馆塘栖镇分馆",
+    "city": "hangzhou",
+    "district": "临平区",
+    "type": "图书馆",
+    "address": "塘栖镇人民路与文苑路交叉口塘栖镇文体活动中心大楼",
+    "transport": "",
+    "fee": "免费",
+    "description": "图书馆塘栖镇分馆是位于杭州的图书馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于塘栖镇人民路与文苑路交叉口塘栖镇文体活动中心大楼；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+    "links": [
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "杭州政府·场馆详情"
+      },
+      {
+        "url": "https://www.linping.gov.cn/art/2024/8/5/art_1229595444_4288740.html",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto"
   }
 ]
