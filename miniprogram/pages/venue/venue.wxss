@@ -1,7 +1,7 @@
 /* 童行小程序 - 场馆详情页 */
 .venue-page {
   min-height: 100vh;
-  background-color: #FFFDF7;
+  background-color: #FFFFFF;
   padding: 24rpx 24rpx 40rpx;
 }
 
@@ -42,7 +42,7 @@
   font-size: 24rpx;
   font-weight: 600;
   background: var(--sand-100, #FAF5EE);
-  color: #B8895A;
+  color: #004C99;
   border: 1rpx solid #E8DDD0;
   line-height: 1.4;
 }
@@ -67,7 +67,7 @@
 }
 
 .badge-type {
-  background: #F5E6D3;
+  background: #E8E8ED;
   color: #A67B5B;
 }
 
@@ -78,7 +78,7 @@
 
 .badge-fee {
   background: #FFF3E0;
-  color: #D4A373;
+  color: #0066CC;
 }
 
 .info-card {
@@ -94,7 +94,7 @@
   font-weight: 600;
   color: #3D3229;
   margin-bottom: 20rpx;
-  border-left: 6rpx solid #D4A373;
+  border-left: 6rpx solid #0066CC;
   padding-left: 16rpx;
 }
 
@@ -140,7 +140,7 @@
 .copy-link {
   display: inline-block;
   margin-left: 16rpx;
-  color: #D4A373;
+  color: #0066CC;
   font-size: 24rpx;
 }
 
@@ -167,9 +167,9 @@
 }
 
 .addr-actions .copy-link {
-  color: #D4A373;
+  color: #0066CC;
   background: #FFF8F0;
-  border: 1rpx solid #E8D5BC;
+  border: 1rpx solid #4D9FE6;
 }
 
 .map-link {
@@ -197,7 +197,7 @@
   font-weight: 600;
   color: #3D3229;
   margin-bottom: 20rpx;
-  border-left: 6rpx solid #D4A373;
+  border-left: 6rpx solid #0066CC;
   padding-left: 16rpx;
 }
 
@@ -217,14 +217,14 @@
 
 .link-label {
   font-size: 24rpx;
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 600;
   margin-bottom: 8rpx;
 }
 
 .link-url {
   font-size: 22rpx;
-  color: #78716C;
+  color: #6E6E73;
   word-break: break-all;
   line-height: 1.5;
   margin-bottom: 12rpx;
@@ -234,9 +234,9 @@
   align-self: flex-start;
   padding: 8rpx 24rpx;
   font-size: 22rpx;
-  color: #D4A373;
+  color: #0066CC;
   background: #FFF8F0;
-  border: 1rpx solid #E8D5BC;
+  border: 1rpx solid #4D9FE6;
   border-radius: 8rpx;
   line-height: 1.4;
 }
@@ -248,7 +248,7 @@
 .link-hint {
   text-align: center;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 8rpx;
 }
 
@@ -297,7 +297,7 @@
 
 .activity-type {
   padding: 4rpx 12rpx;
-  background: #F5E6D3;
+  background: #E8E8ED;
   color: #A67B5B;
   border-radius: 10rpx;
   font-size: 22rpx;
@@ -326,7 +326,7 @@
 
 .empty-desc {
   font-size: 26rpx;
-  color: #A8A29E;
+  color: #86868B;
   line-height: 1.5;
 }
 
@@ -347,7 +347,7 @@
 
 .feedback-action {
   font-size: 26rpx;
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 500;
 }
 

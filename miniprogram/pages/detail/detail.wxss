@@ -2,7 +2,7 @@
 
 .detail-page {
   min-height: 100vh;
-  background: #FFFDF7;
+  background: #FFFFFF;
   padding: 24rpx;
   padding-bottom: 60rpx;
 }
@@ -13,14 +13,14 @@
   border-radius: 24rpx;
   padding: 36rpx 32rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
 }
 
 .detail-title {
   font-size: 36rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   line-height: 1.4;
   margin-bottom: 20rpx;
 }
@@ -70,7 +70,7 @@
 
 .badge-verify-gray {
   background: #F1F1F0;
-  color: #78716C;
+  color: #6E6E73;
 }
 
 /* 信息卡片 */
@@ -79,15 +79,15 @@
   border-radius: 24rpx;
   padding: 32rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
 }
 
 .info-row {
   display: flex;
   align-items: flex-start;
   padding: 20rpx 0;
-  border-bottom: 2rpx solid #F5F0E8;
+  border-bottom: 2rpx solid #E8E8ED;
 }
 
 .info-row:last-child {
@@ -96,7 +96,7 @@
 
 .info-label {
   font-size: 26rpx;
-  color: #78716C;
+  color: #6E6E73;
   font-weight: 600;
   width: 140rpx;
   flex-shrink: 0;
@@ -104,7 +104,7 @@
 
 .info-value {
   font-size: 26rpx;
-  color: #292524;
+  color: #1D1D1F;
   flex: 1;
   line-height: 1.5;
 }
@@ -131,9 +131,9 @@
 }
 
 .copy-link {
-  color: #D4A373;
+  color: #0066CC;
   background: #FFF8F0;
-  border: 1rpx solid #E8D5BC;
+  border: 1rpx solid #4D9FE6;
 }
 
 .map-link {
@@ -153,14 +153,14 @@
   border-radius: 24rpx;
   padding: 32rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
 }
 
 .desc-title {
   font-size: 28rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   margin-bottom: 16rpx;
 }
 
@@ -178,7 +178,7 @@
 .link-title {
   font-size: 28rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   margin-bottom: 16rpx;
 }
 
@@ -194,14 +194,14 @@
 
 .link-label {
   font-size: 24rpx;
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 600;
   margin-bottom: 8rpx;
 }
 
 .link-url {
   font-size: 22rpx;
-  color: #78716C;
+  color: #6E6E73;
   word-break: break-all;
   line-height: 1.5;
   margin-bottom: 12rpx;
@@ -211,9 +211,9 @@
   align-self: flex-start;
   padding: 8rpx 24rpx;
   font-size: 22rpx;
-  color: #D4A373;
+  color: #0066CC;
   background: #FFF8F0;
-  border: 1rpx solid #E8D5BC;
+  border: 1rpx solid #4D9FE6;
   border-radius: 8rpx;
   line-height: 1.4;
 }
@@ -225,7 +225,7 @@
 .link-hint {
   text-align: center;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 8rpx;
   line-height: 1.5;
 }
@@ -253,9 +253,9 @@
 
 /* 报名入口按钮（主要，渐变色突出） */
 .link-btn-booking {
-  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
+  background: linear-gradient(135deg, #0066CC 0%, #004C99 100%);
   color: #FFFFFF;
-  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+  box-shadow: 0 4rpx 16rpx rgba(0, 102, 204, 0.3);
   flex: 1.4;
 }
 
@@ -266,7 +266,7 @@
 .link-hint {
   text-align: center;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 12rpx;
   line-height: 1.5;
 }
@@ -301,18 +301,18 @@
 .booking-card-title {
   font-size: 26rpx;
   font-weight: 600;
-  color: #B8895A;
+  color: #004C99;
 }
 
 .booking-card-desc {
   font-size: 22rpx;
-  color: #78716C;
+  color: #6E6E73;
   line-height: 1.5;
 }
 
 .booking-card-arrow {
   font-size: 24rpx;
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 600;
   flex-shrink: 0;
 }
@@ -355,7 +355,7 @@
 .remind-title {
   font-size: 30rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   margin-bottom: 6rpx;
 }
 
@@ -425,8 +425,8 @@
   border-radius: 24rpx;
   padding: 32rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
 }
 
 .venue-intro-card.muted {
@@ -444,12 +444,12 @@
 .intro-title {
   font-size: 28rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
 }
 
 .intro-more {
   font-size: 24rpx;
-  color: #D4A373;
+  color: #0066CC;
 }
 
 .intro-name-row {
@@ -479,7 +479,7 @@
   font-size: 24rpx;
   font-weight: 600;
   background: var(--sand-100, #FAF5EE);
-  color: #B8895A;
+  color: #004C99;
   border: 1rpx solid #E8DDD0;
   line-height: 1.4;
 }
@@ -531,7 +531,7 @@
 .intro-btn {
   flex: 1;
   padding: 14rpx 0;
-  background: #D4A373;
+  background: #0066CC;
   color: #FFFFFF;
   border-radius: 12rpx;
   font-size: 24rpx;
@@ -545,8 +545,8 @@
 
 .intro-btn.secondary {
   background: #FFFFFF;
-  color: #D4A373;
-  border: 1rpx solid #D4A373;
+  color: #0066CC;
+  border: 1rpx solid #0066CC;
 }
 
 /* 联系信息 */
@@ -555,14 +555,14 @@
   border-radius: 24rpx;
   padding: 32rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
 }
 
 .contact-title {
   font-size: 28rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   margin-bottom: 16rpx;
 }
 

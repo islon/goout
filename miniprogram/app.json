@@ -8,16 +8,16 @@
     "pages/feedback/feedback"
   ],
   "window": {
-    "navigationBarBackgroundColor": "#D4A373",
+    "navigationBarBackgroundColor": "#FFFFFF",
     "navigationBarTitleText": "童行",
-    "navigationBarTextStyle": "white",
-    "backgroundColor": "#FFFDF7",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#F5F5F7",
     "backgroundTextStyle": "dark",
     "enablePullDownRefresh": true
   },
   "tabBar": {
-    "color": "#A8A29E",
-    "selectedColor": "#D4A373",
+    "color": "#86868B",
+    "selectedColor": "#0066CC",
     "backgroundColor": "#FFFFFF",
     "borderStyle": "white",
     "list": [

@@ -1,7 +1,7 @@
 /* 童行小程序 - 反馈页 */
 .feedback-page {
   min-height: 100vh;
-  background-color: #FFFDF7;
+  background-color: #FFFFFF;
   padding: 24rpx 24rpx 60rpx;
 }
 
@@ -59,7 +59,7 @@
 
 .category-item.active {
   background: #FFF8F0;
-  border-color: #D4A373;
+  border-color: #0066CC;
 }
 
 .category-name {
@@ -69,13 +69,13 @@
 }
 
 .category-item.active .category-name {
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 600;
 }
 
 .category-desc {
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
 }
 
 .content-input {
@@ -93,7 +93,7 @@
 .content-hint {
   text-align: right;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 12rpx;
 }
 
@@ -105,7 +105,7 @@
   text-align: center;
   padding: 24rpx 0;
   background: #FFFFFF;
-  color: #D4A373;
+  color: #0066CC;
   border-radius: 16rpx;
   font-size: 28rpx;
   font-weight: 500;
@@ -115,7 +115,7 @@
 .copy-hint {
   text-align: center;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 12rpx;
 }
 
@@ -126,13 +126,13 @@
 .submit-btn {
   width: 100%;
   padding: 26rpx 0;
-  background: #D4A373;
+  background: #0066CC;
   color: #FFFFFF;
   border-radius: 16rpx;
   font-size: 30rpx;
   font-weight: 600;
   border: none;
-  box-shadow: 0 4rpx 16rpx rgba(212, 163, 115, 0.3);
+  box-shadow: 0 4rpx 16rpx rgba(0, 102, 204, 0.3);
 }
 
 .submit-btn::after {
@@ -142,7 +142,7 @@
 .submit-hint {
   text-align: center;
   font-size: 22rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 16rpx;
   line-height: 1.5;
 }
@@ -191,6 +191,6 @@
 
 .other-action {
   font-size: 24rpx;
-  color: #D4A373;
+  color: #0066CC;
   flex-shrink: 0;
 }

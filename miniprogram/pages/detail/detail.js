@@ -188,7 +188,7 @@ Page({
         content: '通过「' + appName + '」App 报名\n\n' + hint,
         showCancel: false,
         confirmText: '知道了',
-        confirmColor: '#D4A373'
+        confirmColor: '#0066CC'
       });
       return;
     }

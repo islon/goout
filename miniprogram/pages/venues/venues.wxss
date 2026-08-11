@@ -2,7 +2,7 @@
 
 .page {
   min-height: 100vh;
-  background: #FFFDF7;
+  background: #FFFFFF;
   padding-bottom: 40rpx;
 }
 
@@ -10,7 +10,7 @@
 .search-bar {
   background: #FFFFFF;
   padding: 20rpx 24rpx;
-  border-bottom: 2rpx solid #F5F0E8;
+  border-bottom: 2rpx solid #E8E8ED;
   display: flex;
   align-items: center;
   gap: 16rpx;
@@ -34,11 +34,11 @@
 .search-input {
   width: 100%;
   padding: 20rpx 60rpx 20rpx 60rpx;
-  border: 3rpx solid #E7DFD3;
+  border: 3rpx solid #D2D2D7;
   border-radius: 40rpx;
   font-size: 26rpx;
   background: #FFFFFF;
-  color: #292524;
+  color: #1D1D1F;
 }
 
 .search-clear-img {
@@ -53,7 +53,7 @@
 .filter-section {
   background: #FFFFFF;
   padding: 16rpx 24rpx;
-  border-bottom: 2rpx solid #F5F0E8;
+  border-bottom: 2rpx solid #E8E8ED;
 }
 
 .filter-scroll {
@@ -87,10 +87,10 @@
   display: inline-block;
   padding: 10rpx 24rpx;
   background: #FFFFFF;
-  border: 3rpx solid #E7DFD3;
+  border: 3rpx solid #D2D2D7;
   border-radius: 40rpx;
   font-size: 22rpx;
-  color: #78716C;
+  color: #6E6E73;
   white-space: nowrap;
   flex-shrink: 0;
   font-weight: 500;
@@ -98,17 +98,17 @@
 }
 
 .filter-btn.active {
-  background: linear-gradient(135deg, #D4A373 0%, #B8895A 100%);
+  background: linear-gradient(135deg, #0066CC 0%, #004C99 100%);
   color: #FFFFFF;
-  border-color: #D4A373;
-  box-shadow: 0 4rpx 12rpx rgba(212, 163, 115, 0.3);
+  border-color: #0066CC;
+  box-shadow: 0 4rpx 12rpx rgba(0, 102, 204, 0.3);
   font-weight: 600;
 }
 
 .expand-toggle {
   text-align: center;
   font-size: 22rpx;
-  color: #D4A373;
+  color: #0066CC;
   padding: 12rpx 0 4rpx;
   font-weight: 500;
 }
@@ -117,7 +117,7 @@
 .count-info {
   text-align: center;
   font-size: 24rpx;
-  color: #78716C;
+  color: #6E6E73;
   padding: 20rpx 0 12rpx;
 }
 
@@ -132,14 +132,14 @@
   border-radius: 24rpx;
   padding: 28rpx;
   margin-bottom: 20rpx;
-  box-shadow: 0 2rpx 12rpx rgba(212, 163, 115, 0.06);
-  border: 2rpx solid #F5F0E8;
+  box-shadow: 0 2rpx 12rpx rgba(0, 102, 204, 0.06);
+  border: 2rpx solid #E8E8ED;
   transition: all 0.2s;
 }
 
 .venue-card:active {
   transform: scale(0.98);
-  box-shadow: 0 4rpx 20rpx rgba(212, 163, 115, 0.12);
+  box-shadow: 0 4rpx 20rpx rgba(0, 102, 204, 0.12);
 }
 
 .venue-header {
@@ -153,7 +153,7 @@
 .venue-name {
   font-size: 32rpx;
   font-weight: 700;
-  color: #292524;
+  color: #1D1D1F;
   flex: 1;
   line-height: 1.4;
 }
@@ -194,22 +194,22 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 2rpx solid #F5F0E8;
+  border-top: 2rpx solid #E8E8ED;
   padding-top: 16rpx;
 }
 
 .venue-fee {
   font-size: 24rpx;
-  color: #78716C;
+  color: #6E6E73;
 }
 
 .venue-count {
   font-size: 24rpx;
-  color: #A8A29E;
+  color: #86868B;
 }
 
 .venue-count.has {
-  color: #D4A373;
+  color: #0066CC;
   font-weight: 600;
 }
 
@@ -230,11 +230,11 @@
 
 .empty-text {
   font-size: 28rpx;
-  color: #78716C;
+  color: #6E6E73;
 }
 
 .empty-hint {
   font-size: 24rpx;
-  color: #A8A29E;
+  color: #86868B;
   margin-top: 12rpx;
 }
