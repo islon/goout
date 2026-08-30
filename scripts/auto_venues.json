@@ -112786,5 +112786,33 @@
     "aliases": [],
     "status": "auto",
     "activity_count": 0
+  },
+  {
+    "source_code": "sz_taiziwan_art_2026",
+    "name": "太子湾美术馆",
+    "source": "深圳发布",
+    "city": "shenzhen",
+    "district": "南山区",
+    "type": "美术馆",
+    "address": "深圳市南山区太子湾滨海片区（毗邻海上世界文化艺术中心）",
+    "transport": "地铁2号线/12号线海上世界站，步行可达太子湾片区",
+    "fee": "免费需预约",
+    "description": "太子湾美术馆坐落于深圳太子湾滨海片区，毗邻海上世界文化艺术中心，拥有专业展览空间、多功能文化空间及公共活动区域，并配备符合国际标准的艺术品管理设施。将于2026年9月30日正式启幕，开馆展为一位国际重要艺术家在中国的首个大型个展（涵盖绘画、装置、多媒体影像等）。未来将持续推出高品质展览、公共艺术项目、讲座、论坛、放映、表演、工作坊等。",
+    "service_time": "2026年9月30日开馆（暂未开放）",
+    "official_url": "",
+    "links": [
+      {
+        "url": "https://mp.weixin.qq.com/s/D2145bE6oFmX0gVWXPwnZQ",
+        "label": "深圳发布·太子湾美术馆开馆"
+      }
+    ],
+    "highlights": [
+      "美术馆",
+      "南山区",
+      "太子湾"
+    ],
+    "aliases": [],
+    "status": "auto",
+    "activity_count": 0
   }
 ]
