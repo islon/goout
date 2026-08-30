@@ -2971,6 +2971,26 @@ module.exports = [
     "id": "上海迪士尼乐园"
   },
   {
+    "name": "上海汽车博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "博物馆",
+    "address": "嘉定区安亭博园路7565号",
+    "transport": "地铁11号线安亭站",
+    "fee": "收费",
+    "description": "男孩最爱！古董车收藏丰富，可体验儿童驾驶项目。",
+    "official_url": "",
+    "links": [],
+    "highlights": [
+      "古董车",
+      "儿童驾驶",
+      "汽车文化"
+    ],
+    "status": "auto",
+    "id": "上海汽车博物馆"
+  },
+  {
     "name": "徐家汇书院",
     "source": "上海本地宝",
     "city": "shanghai",
@@ -3072,6 +3092,26 @@ module.exports = [
     ],
     "status": "auto",
     "id": "上海美术馆"
+  },
+  {
+    "name": "上海马戏城",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "静安区",
+    "type": "演出场馆",
+    "address": "静安区共和新路2266号",
+    "transport": "地铁1号线上海马戏城站",
+    "fee": "收费",
+    "description": "上海大型马戏表演场馆，有精彩的马戏和杂技表演。",
+    "official_url": "",
+    "links": [],
+    "highlights": [
+      "马戏",
+      "杂技",
+      "表演"
+    ],
+    "status": "auto",
+    "id": "上海马戏城"
   },
   {
     "name": "上海人民公园",
@@ -3490,6 +3530,22 @@ module.exports = [
     "highlights": [],
     "status": "auto",
     "id": "上海动物园"
+  },
+  {
+    "name": "中国航海博物馆",
+    "source": "上海本地宝",
+    "city": "shanghai",
+    "district": "嘉定区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "上海中国航海博物馆的精彩亲子活动活动，适合亲子家庭参与。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto",
+    "id": "中国航海博物馆"
   },
   {
     "name": "中华艺术宫（上海美术馆）",
@@ -4015,6 +4071,22 @@ module.exports = [
     "highlights": [],
     "status": "auto",
     "id": "西安碑林博物馆"
+  },
+  {
+    "name": "大唐西市博物馆",
+    "source": "西安本地宝",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "亲子活动",
+    "address": "",
+    "transport": "",
+    "fee": "免费",
+    "description": "扮演唐代西市商人，使用开元通宝模拟交易丝绸、香料与瓷器，体验古代市井商贸。",
+    "official_url": "",
+    "links": [],
+    "highlights": [],
+    "status": "auto",
+    "id": "大唐西市博物馆"
   },
   {
     "name": "陕西科技馆",
@@ -5102,6 +5174,27 @@ module.exports = [
     "id": "城墙博物馆"
   },
   {
+    "name": "上海中国航海博物馆",
+    "source": "shanghai_gov_museum_5",
+    "city": "shanghai",
+    "district": "浦东新区",
+    "type": "博物馆",
+    "address": "申港大道197号",
+    "transport": "",
+    "fee": "",
+    "description": "上海中国航海博物馆是位于上海的博物馆，面向亲子家庭与青少年常态化开展活动。地址位于申港大道197号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [
+      {
+        "url": "https://whlyj.sh.gov.cn/bwg/20260106/265b828de4394054bdc2e61e1599ed4c.html",
+        "label": "上海政府·场馆目录"
+      }
+    ],
+    "highlights": [],
+    "status": "auto",
+    "id": "上海中国航海博物馆"
+  },
+  {
     "name": "上海天文馆（上海科技馆分馆）",
     "source": "shanghai_gov_museum_21",
     "city": "shanghai",
@@ -5249,6 +5342,27 @@ module.exports = [
     "id": "上海民生现代美术馆"
   },
   {
+    "name": "上海马戏城有限公司",
+    "source": "shanghai_gov_theatre_39",
+    "city": "shanghai",
+    "district": "静安",
+    "type": "演出场馆",
+    "address": "共和新路2266号",
+    "transport": "",
+    "fee": "",
+    "description": "上海马戏城有限公司是位于上海的演出场馆，面向亲子家庭与青少年常态化开展活动。地址位于共和新路2266号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [
+      {
+        "url": "https://whlyj.sh.gov.cn/jyjc/20250924/65721fbdbbf0423fa4fdec4a7c86e1c6.html",
+        "label": "上海政府·场馆目录"
+      }
+    ],
+    "highlights": [],
+    "status": "auto",
+    "id": "上海马戏城有限公司"
+  },
+  {
     "name": "上海野生动物园发展有限公司",
     "source": "shanghai_gov_theatre_112",
     "city": "shanghai",
@@ -5268,6 +5382,52 @@ module.exports = [
     "highlights": [],
     "status": "auto",
     "id": "上海野生动物园发展有限公司"
+  },
+  {
+    "name": "武汉博物馆（武汉市文物交流中心）",
+    "source": "wuhan_gov_1437246",
+    "city": "wuhan",
+    "district": "江汉区",
+    "type": "博物馆",
+    "address": "湖北省武汉市江汉区青年路373号",
+    "transport": "",
+    "fee": "免费",
+    "description": "2001年10月，在武汉市江汉区后襄河畔，一座集东方文化的典雅和现代化功能于一体的历史文化综合类博物馆——武汉博物馆正式对外开放。总建筑面积24093.25平方米，陈列面积6000平方米，库房面积2000平方米。2005年获评国家4A级旅游景区，2008年成为首批国家一级博物馆。2009年经武汉市人民政府批准，武汉市博物馆与武汉市文物商店合并，更名为“武汉博物馆（武汉市文物交流中心）”，实行“两块牌子、一套班子”的管理模式。2017年10月开启二期工程建设，2018年9月下旬",
+    "official_url": "http://www.whmuseum.com.cn",
+    "links": [
+      {
+        "url": "http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/zsdw/202008/t20200827_1437246.shtml",
+        "label": "武汉政府·场馆详情"
+      },
+      {
+        "url": "http://www.whmuseum.com.cn",
+        "label": "官方网站"
+      }
+    ],
+    "highlights": [],
+    "status": "auto",
+    "id": "武汉博物馆（武汉市文物交流中心）"
+  },
+  {
+    "name": "西安大唐西市博物馆",
+    "source": "xian_gov_62d8ba0ef8fd1c4c210ae016",
+    "city": "xian",
+    "district": "莲湖区",
+    "type": "博物馆",
+    "address": "陕西省西安市莲湖区劳动南路118号",
+    "transport": "",
+    "fee": "免费",
+    "description": "西安大唐西市博物馆是位于西安的博物馆，面向亲子家庭与青少年常态化开展活动。场馆免费开放（部分特展可能另行收费），地址位于陕西省西安市莲湖区劳动南路118号；建议出行前通过官方渠道确认开放时间与预约要求。",
+    "official_url": "",
+    "links": [
+      {
+        "url": "https://www.xa.gov.cn/gk/wtly/ssml/62d8ba0ef8fd1c4c210ae016.html",
+        "label": "西安政府·场馆详情"
+      }
+    ],
+    "highlights": [],
+    "status": "auto",
+    "id": "西安大唐西市博物馆"
   },
   {
     "name": "西安市城市影像博物馆",
@@ -6924,26 +7084,6 @@ module.exports = [
     "id": "乐高探索中心"
   },
   {
-    "name": "上海汽车博物馆",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "嘉定区",
-    "type": "博物馆",
-    "address": "嘉定区安亭博园路7565号",
-    "transport": "地铁11号线安亭站",
-    "fee": "收费",
-    "description": "男孩最爱！古董车收藏丰富，可体验儿童驾驶项目。",
-    "official_url": "",
-    "links": [],
-    "highlights": [
-      "古董车",
-      "儿童驾驶",
-      "汽车文化"
-    ],
-    "status": "auto",
-    "id": "上海汽车博物馆"
-  },
-  {
     "name": "东方明珠塔",
     "source": "上海本地宝",
     "city": "shanghai",
@@ -7211,26 +7351,6 @@ module.exports = [
     "id": "上海音乐厅"
   },
   {
-    "name": "上海马戏城",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "静安区",
-    "type": "演出场馆",
-    "address": "静安区共和新路2266号",
-    "transport": "地铁1号线上海马戏城站",
-    "fee": "收费",
-    "description": "上海大型马戏表演场馆，有精彩的马戏和杂技表演。",
-    "official_url": "",
-    "links": [],
-    "highlights": [
-      "马戏",
-      "杂技",
-      "表演"
-    ],
-    "status": "auto",
-    "id": "上海马戏城"
-  },
-  {
     "name": "上海儿童艺术剧场",
     "source": "上海本地宝",
     "city": "shanghai",
@@ -7446,65 +7566,6 @@ module.exports = [
     ],
     "status": "auto",
     "id": "上海外滩"
-  },
-  {
-    "name": "上海陆家嘴",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "浦东新区",
-    "type": "文化中心",
-    "address": "浦东新区陆家嘴",
-    "transport": "地铁2号线陆家嘴站",
-    "fee": "免费",
-    "description": "上海金融中心，有东方明珠、上海中心、金茂大厦等建筑。",
-    "official_url": "",
-    "links": [],
-    "highlights": [
-      "金融中心",
-      "地标建筑",
-      "免费"
-    ],
-    "status": "auto",
-    "id": "上海陆家嘴"
-  },
-  {
-    "name": "上海南京东路步行街",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区南京东路",
-    "transport": "地铁1/2/8号线人民广场站",
-    "fee": "免费",
-    "description": "上海著名的商业步行街，有购物、餐饮、娱乐等。",
-    "official_url": "",
-    "links": [],
-    "highlights": [
-      "购物",
-      "餐饮",
-      "商业"
-    ],
-    "status": "auto",
-    "id": "上海南京东路步行街"
-  },
-  {
-    "name": "上海淮海中路",
-    "source": "上海本地宝",
-    "city": "shanghai",
-    "district": "黄浦区",
-    "type": "文化中心",
-    "address": "黄浦区淮海中路",
-    "transport": "地铁10号线陕西南路站",
-    "fee": "免费",
-    "description": "上海著名的商业街，有高端购物和特色建筑。",
-    "official_url": "",
-    "links": [],
-    "highlights": [
-      "高端购物",
-      "特色建筑"
-    ],
-    "status": "auto",
-    "id": "上海淮海中路"
   },
   {
     "name": "国家动物博物馆",
@@ -13831,38 +13892,6 @@ module.exports = [
     "id": "武汉江夏区公园"
   },
   {
-    "name": "锦里沟",
-    "source": "武汉本地宝",
-    "city": "wuhan",
-    "district": "黄陂区",
-    "type": "演出",
-    "address": "",
-    "transport": "",
-    "fee": "免费",
-    "description": "土家风情体验，土家歌舞与吊脚楼文化。",
-    "official_url": "",
-    "links": [],
-    "highlights": [],
-    "status": "auto",
-    "id": "锦里沟"
-  },
-  {
-    "name": "大唐西市博物馆",
-    "source": "西安本地宝",
-    "city": "xian",
-    "district": "莲湖区",
-    "type": "亲子活动",
-    "address": "",
-    "transport": "",
-    "fee": "免费",
-    "description": "扮演唐代西市商人，使用开元通宝模拟交易丝绸、香料与瓷器，体验古代市井商贸。",
-    "official_url": "",
-    "links": [],
-    "highlights": [],
-    "status": "auto",
-    "id": "大唐西市博物馆"
-  },
-  {
     "name": "兴庆宫公园",
     "source": "西安本地宝",
     "city": "xian",
@@ -14901,22 +14930,6 @@ module.exports = [
     "highlights": [],
     "status": "auto",
     "id": "西安阎良区剧院"
-  },
-  {
-    "name": "西安高陵区博物馆",
-    "source": "西安本地宝",
-    "city": "xian",
-    "district": "高陵区",
-    "type": "展览",
-    "address": "",
-    "transport": "",
-    "fee": "免费",
-    "description": "西安高陵区的互动展览科普，适合亲子家庭参与。",
-    "official_url": "",
-    "links": [],
-    "highlights": [],
-    "status": "auto",
-    "id": "西安高陵区博物馆"
   },
   {
     "name": "珠海大剧院",

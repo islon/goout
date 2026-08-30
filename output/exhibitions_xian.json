@@ -20028,5 +20028,40 @@
       "verified_by": "http_check"
     },
     "verified": true
+  },
+  {
+    "title": "色如天相 器传千秋——湖北·十堰绿松石文化展",
+    "name": "色如天相 器传千秋——湖北·十堰绿松石文化展",
+    "venue": "西安大唐西市博物馆",
+    "city": "xian",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-17",
+    "link": "https://wwj.shaanxi.gov.cn/sy/dtyw/tzgg/zlyg/202607/t20260715_3656979.html",
+    "url": "https://wwj.shaanxi.gov.cn/sy/dtyw/tzgg/zlyg/202607/t20260715_3656979.html",
+    "description": "西安大唐西市博物馆联合十堰市博物馆推出馆际交流特展，以绿松石为线索呈现秦楚玉石文明。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "陕西省文物局",
+    "district": "莲湖区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "西安本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「西安本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "西安",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
   }
 ]

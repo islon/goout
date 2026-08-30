@@ -3,6 +3,76 @@
 // 注：线上数据走 GitHub raw 实时拉取，本文件仅断网兜底。
 module.exports = [
   {
+    "title": "勇毅前行——中国汽车拓疆者饶斌主题展",
+    "name": "勇毅前行——中国汽车拓疆者饶斌主题展",
+    "venue": "上海汽车博物馆",
+    "city": "shanghai",
+    "start_date": "2025-04-25",
+    "end_date": "2045-04-25",
+    "link": "https://www.shautomuseum.com/exhibition",
+    "url": "https://www.shautomuseum.com/exhibition",
+    "description": "以人、车、城三位一体叙事解读中国汽车工业奠基人饶斌的拓疆历程。",
+    "category": "展览",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "上海汽车博物馆官网",
+    "district": "嘉定区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "上海本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「上海本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "沸腾之心——例数经典车上的发动机",
+    "name": "沸腾之心——例数经典车上的发动机",
+    "venue": "上海汽车博物馆",
+    "city": "shanghai",
+    "start_date": "2025-11-01",
+    "end_date": "2026-11-30",
+    "link": "https://www.shautomuseum.com/exhibition",
+    "url": "https://www.shautomuseum.com/exhibition",
+    "description": "以车用发动机为叙事题材，展出9辆经典车并打开引擎盖展示内部构造。",
+    "category": "展览",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "上海汽车博物馆官网",
+    "district": "嘉定区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "上海本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「上海本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "壁上万千——山西宋金壁画中的众生气象",
     "name": "壁上万千——山西宋金壁画中的众生气象",
     "venue": "南山博物馆一层一号展厅",
@@ -561,6 +631,41 @@ module.exports = [
     "district": "宝安区"
   },
   {
+    "title": "双星耀世——三星堆与金沙遗址古蜀文明展",
+    "name": "双星耀世——三星堆与金沙遗址古蜀文明展",
+    "venue": "中国国家博物馆",
+    "city": "beijing",
+    "start_date": "2026-02-04",
+    "end_date": "2026-10-11",
+    "link": "https://m.bj.bendibao.com/tour/354937.html",
+    "url": "https://m.bj.bendibao.com/tour/354937.html",
+    "description": "汇集三星堆与金沙遗址200余件套文物，金面具、太阳神鸟金饰限时展出，系统呈现古蜀文明。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "北京本地宝",
+    "district": "东城区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "北京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「北京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "北京",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
     "name": "尼罗河的赠礼——古埃及文物与数字艺术体验展",
     "venue": "南越王博物院",
@@ -699,6 +804,41 @@ module.exports = [
     "district": "光明区"
   },
   {
+    "title": "红楼探园",
+    "name": "红楼探园",
+    "venue": "中国园林博物馆",
+    "city": "beijing",
+    "start_date": "2026-04-21",
+    "end_date": "2027-02-28",
+    "link": "https://bj.bendibao.com/xiuxian/2026421/382135.shtm",
+    "url": "https://bj.bendibao.com/xiuxian/2026421/382135.shtm",
+    "description": "园博馆年度重磅大展，首个全节令超长展期主题展，以《红楼梦》解读中国古典园林。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "北京本地宝",
+    "district": "丰台区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "北京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「北京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "北京",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
     "name": "光明文化馆总分馆联动活动-“周周有好戏”惠民展演活动",
     "venue": "光明区马田街道综合性文化服务中心",
@@ -720,6 +860,41 @@ module.exports = [
     "family_friendly": false,
     "source": "光明区马田街道综合性文化服务中心",
     "district": "光明区"
+  },
+  {
+    "title": "十年筑梦 法治同行——公益法律服务平台十周年成果展",
+    "name": "十年筑梦 法治同行——公益法律服务平台十周年成果展",
+    "venue": "深圳图书馆",
+    "city": "shenzhen",
+    "start_date": "2026-04-23",
+    "end_date": "2026-12-31",
+    "link": "https://www.szlib.org.cn/",
+    "url": "https://www.szlib.org.cn/",
+    "description": "深圳图书馆中心馆五楼法律专题区长期展，回顾公益法律服务平台十年成果。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "深圳图书馆官网",
+    "district": "福田区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "深圳本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「深圳本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "深圳",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "知齐者，徐君也 徐悲鸿藏齐白石艺术研究展",
@@ -829,6 +1004,41 @@ module.exports = [
       "http_status": 200,
       "source_type": "official",
       "verified_at": "2026-08-12",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "ERA时空之旅2",
+    "name": "ERA时空之旅2",
+    "venue": "上海马戏城",
+    "city": "shanghai",
+    "start_date": "2026-04-29",
+    "end_date": "2026-10-31",
+    "link": "https://www.shanghaimaxicheng.com/?lang=zh",
+    "url": "https://www.shanghaimaxicheng.com/?lang=zh",
+    "description": "上海杂技超级多媒体梦幻剧，2026年9月排期34场视听盛宴。",
+    "category": "演出",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": false,
+    "source": "上海马戏城官网",
+    "district": "静安区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "上海本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「上海本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "剧场"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
       "verified_by": "http_check"
     },
     "verified": true
@@ -1448,6 +1658,111 @@ module.exports = [
         "label": "活动详情"
       }
     ]
+  },
+  {
+    "title": "巴国春秋（基本陈列升级）",
+    "name": "巴国春秋（基本陈列升级）",
+    "venue": "重庆中国三峡博物馆(重庆博物馆)",
+    "city": "chongqing",
+    "start_date": "2026-06-01",
+    "end_date": "2026-12-31",
+    "link": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "url": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "description": "三峡博物馆2026年焕新升级的基本陈列，以巴地先民、巴国礼乐等篇章系统呈现巴国历史与文明，2楼展厅。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆市人民政府（2026年博物馆展陈计划）",
+    "district": "渝中区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "高峡平湖（基本陈列升级）",
+    "name": "高峡平湖（基本陈列升级）",
+    "venue": "重庆中国三峡博物馆(重庆博物馆)",
+    "city": "chongqing",
+    "start_date": "2026-06-01",
+    "end_date": "2026-12-31",
+    "link": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "url": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "description": "聚焦三峡工程从蓝图到现实的全过程，运用实物与多媒体互动阐释人水和谐，2楼展厅。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆市人民政府（2026年博物馆展陈计划）",
+    "district": "渝中区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "钟鼓喤喤——历代音乐文物展",
+    "name": "钟鼓喤喤——历代音乐文物展",
+    "venue": "湖北省博物馆",
+    "city": "wuhan",
+    "start_date": "2026-06-01",
+    "end_date": "2026-10-31",
+    "link": "https://hbww.org.cn/lszl/p/11447.html",
+    "url": "https://hbww.org.cn/lszl/p/11447.html",
+    "description": "湖北省博物馆2026年原创临展，集中展出历代以宫廷乐器为主的音乐文物，展现礼乐文明。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "湖北省博物馆官网",
+    "district": "武昌区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "南京城墙博物馆“考古新发现”特展",
@@ -2100,6 +2415,76 @@ module.exports = [
     "verified": true
   },
   {
+    "title": "幻兽录——奇异生物观察指南（跨越山海·寻找东西方传说中的奇幻生物）",
+    "name": "幻兽录——奇异生物观察指南（跨越山海·寻找东西方传说中的奇幻生物）",
+    "venue": "重庆中国三峡博物馆(重庆博物馆)",
+    "city": "chongqing",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-18",
+    "link": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "url": "https://wap.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/wh/zlyjzyg/202601/t20260120_15339800.html",
+    "description": "汇集200余件中外文物与VR技术，探寻丝绸之路沿线神话幻想生物的演变，1楼展厅。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "重庆市人民政府（2026年博物馆展陈计划）",
+    "district": "渝中区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "重庆本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「重庆本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "重庆",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "邮轮出游记——青少年科普展",
+    "name": "邮轮出游记——青少年科普展",
+    "venue": "上海中国航海博物馆",
+    "city": "shanghai",
+    "start_date": "2026-06-18",
+    "end_date": "2026-09-20",
+    "link": "https://news.museum.cn/article/e077c3f9cec1421ca194c39b1a886242",
+    "url": "https://news.museum.cn/article/e077c3f9cec1421ca194c39b1a886242",
+    "description": "以国产大型邮轮建造为核心，展示我国大型邮轮自主设计建造的突破成果。",
+    "category": "展览",
+    "fee": "需购票",
+    "contact": "",
+    "family_friendly": true,
+    "source": "中国博物馆协会",
+    "district": "浦东新区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "上海本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「上海本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "呀路古热带植物园第十一届泼水节",
     "name": "呀路古热带植物园第十一届泼水节",
     "venue": "北京呀路古热带植物园",
@@ -2238,6 +2623,41 @@ module.exports = [
     "family_friendly": true,
     "source": "szstm",
     "district": "光明区"
+  },
+  {
+    "title": "溥博渊泉——汪菊渊学术思想展",
+    "name": "溥博渊泉——汪菊渊学术思想展",
+    "venue": "中国园林博物馆",
+    "city": "beijing",
+    "start_date": "2026-06-22",
+    "end_date": "2026-12-31",
+    "link": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+    "url": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+    "description": "园林名家系列展，以近300件展品呈现汪菊渊先生生平成就与园林文化。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "北京日报",
+    "district": "丰台区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "北京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「北京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "北京",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "title": "马峦街道“童画童心·共绘美好”儿童书画展",
@@ -4879,6 +5299,111 @@ module.exports = [
     "district": "其他"
   },
   {
+    "title": "“月球南极资源站”装置艺术群",
+    "name": "“月球南极资源站”装置艺术群",
+    "venue": "北京天文馆",
+    "city": "beijing",
+    "start_date": "2026-07-01",
+    "end_date": "2026-12-31",
+    "link": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+    "url": "https://xinwen.bjd.com.cn/content/s6a45d672e4b0e45f3fd3f228.html",
+    "description": "户外公共艺术装置群，围绕月球阳光、水冰、氧气展开科普艺术创作。",
+    "category": "休闲展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "北京日报",
+    "district": "西城区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "北京本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「北京本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "北京",
+      "matched_venue_type": "展览"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "八十五载，一纸童心——上海少年儿童图书馆少儿阅读服务纪念展",
+    "name": "八十五载，一纸童心——上海少年儿童图书馆少儿阅读服务纪念展",
+    "venue": "上海少年儿童图书馆",
+    "city": "shanghai",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "link": "https://stock.10jqka.com.cn/20260629/c677800745.shtml",
+    "url": "https://stock.10jqka.com.cn/20260629/c677800745.shtml",
+    "description": "85周年馆庆暑期阅读季特展，长风馆展出，回顾少儿阅读服务历程。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "乐游上海",
+    "district": "长宁区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "上海本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「上海本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "上海",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "克里姆林宫的瑰宝：从彼得一世到叶卡捷琳娜二世",
+    "name": "克里姆林宫的瑰宝：从彼得一世到叶卡捷琳娜二世",
+    "venue": "湖北省博物馆",
+    "city": "wuhan",
+    "start_date": "2026-07-01",
+    "end_date": "2026-10-31",
+    "link": "https://hbww.org.cn/lszl/p/11447.html",
+    "url": "https://hbww.org.cn/lszl/p/11447.html",
+    "description": "展出莫斯科克里姆林宫博物馆藏16至19世纪珍贵文物129件（组），呈现俄罗斯宫廷生活。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "湖北省博物馆官网",
+    "district": "武昌区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "气球王国——比利时国宝漫画百年庆典",
     "name": "气球王国——比利时国宝漫画百年庆典",
     "venue": "光明文化艺术中心美术馆",
@@ -6932,6 +7457,41 @@ module.exports = [
     "verified": true
   },
   {
+    "title": "印象·梵高：沉浸式数字艺术展",
+    "name": "印象·梵高：沉浸式数字艺术展",
+    "venue": "广东省博物馆",
+    "city": "guangzhou",
+    "start_date": "2026-07-15",
+    "end_date": "2026-10-25",
+    "link": "https://whly.gd.gov.cn/service_new/hdyg/content/post_4948012.html",
+    "url": "https://whly.gd.gov.cn/service_new/hdyg/content/post_4948012.html",
+    "description": "广东省博物馆首次沉浸式数字艺术大展，高精度动态投影串联梵高全阶段经典作品。",
+    "category": "展览",
+    "fee": "免费需预约",
+    "contact": "",
+    "family_friendly": true,
+    "source": "广东省文化和旅游厅",
+    "district": "天河区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "广州本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「广州本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "广州",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "aggregator",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
     "title": "历史的星辉 长安画派与海派绘画研究展",
     "name": "历史的星辉 长安画派与海派绘画研究展",
     "venue": "上海美术馆（中华艺术宫）",
@@ -7639,6 +8199,41 @@ module.exports = [
       "http_status": 200,
       "source_type": "aggregator",
       "verified_at": "2026-08-12",
+      "verified_by": "http_check"
+    },
+    "verified": true
+  },
+  {
+    "title": "色如天相 器传千秋——湖北·十堰绿松石文化展",
+    "name": "色如天相 器传千秋——湖北·十堰绿松石文化展",
+    "venue": "西安大唐西市博物馆",
+    "city": "xian",
+    "start_date": "2026-07-17",
+    "end_date": "2026-10-17",
+    "link": "https://wwj.shaanxi.gov.cn/sy/dtyw/tzgg/zlyg/202607/t20260715_3656979.html",
+    "url": "https://wwj.shaanxi.gov.cn/sy/dtyw/tzgg/zlyg/202607/t20260715_3656979.html",
+    "description": "西安大唐西市博物馆联合十堰市博物馆推出馆际交流特展，以绿松石为线索呈现秦楚玉石文明。",
+    "category": "展览",
+    "fee": "收费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "陕西省文物局",
+    "district": "莲湖区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "西安本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「西安本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "西安",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
       "verified_by": "http_check"
     },
     "verified": true
@@ -9316,6 +9911,41 @@ module.exports = [
     },
     "verified": true,
     "category": "亲子活动"
+  },
+  {
+    "title": "丹青遗韵 妙手生花——北方草原古代壁画艺术精品展",
+    "name": "丹青遗韵 妙手生花——北方草原古代壁画艺术精品展",
+    "venue": "武汉博物馆",
+    "city": "wuhan",
+    "start_date": "2026-07-18",
+    "end_date": "2026-09-20",
+    "link": "https://news.museum.cn/article/985bd6ce76d9450d8cd2b5eb236d4f07",
+    "url": "https://news.museum.cn/article/985bd6ce76d9450d8cd2b5eb236d4f07",
+    "description": "武汉博物馆与鄂尔多斯市博物院联合主办，采用壁画“摹制”专利技术呈现北方草原壁画精品。",
+    "category": "展览",
+    "fee": "免费",
+    "contact": "",
+    "family_friendly": true,
+    "source": "博物馆中国",
+    "district": "江汉区",
+    "booking_method": {
+      "type": "city_aggregated",
+      "app_name": "武汉本地宝",
+      "app_type": "wechat_mini_program",
+      "search_hint": "微信搜索「武汉本地宝」公众号→活动汇总",
+      "platform_url": null,
+      "city": "武汉",
+      "matched_venue_type": "美术馆"
+    },
+    "verification": {
+      "status": "auto_checked",
+      "link_reachable": true,
+      "http_status": 200,
+      "source_type": "official",
+      "verified_at": "2026-08-30",
+      "verified_by": "http_check"
+    },
+    "verified": true
   },
   {
     "name": "欢乐北京蓝色港湾亲子活动",
@@ -19320,708 +19950,6 @@ module.exports = [
     "links": [
       {
         "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "三洲田森林24h书房",
-    "name": "三洲田森林24h书房",
-    "venue": "三洲田森林24h书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "三洲田24h山林书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "山林地质、植物科普自助阅读",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "三洲田游客中心",
-    "metro": "公交M199",
-    "opening_hours": "全天24h",
-    "age_range": "5-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "盐田港党群24h书房",
-    "name": "盐田港党群24h书房",
-    "venue": "盐田港党群24h书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "盐田港24h港口书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "港口、船舶科普书籍阅读",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "盐田港配套党群楼",
-    "metro": "8号线盐田港西站",
-    "opening_hours": "全天24h",
-    "age_range": "6-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "北山社区24小时书房",
-    "name": "北山社区24小时书房",
-    "venue": "北山社区24小时书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "北山24h生态书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "山地水库自然科普读物",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "盐田北山文化中心",
-    "metro": "8号线北山站",
-    "opening_hours": "全天24h",
-    "age_range": "4-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "中英街党群24h书房",
-    "name": "中英街党群24h书房",
-    "venue": "中英街党群24h书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "中英街24h双语书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "双语跨境、边境历史绘本",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "中英街入口",
-    "metro": "8号线沙头角站",
-    "opening_hours": "全天24h",
-    "age_range": "0-14岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "海山美术24小时书房",
-    "name": "海山美术24小时书房",
-    "venue": "海山美术24小时书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "海山艺术24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "美术绘画、少儿美育画册",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "海山文化中心",
-    "metro": "8号线海山站",
-    "opening_hours": "全天24h",
-    "age_range": "3-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "沙头角疍家主题书房",
-    "name": "沙头角疍家主题书房",
-    "venue": "沙头角疍家主题书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "沙头角疍家24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "渔家民俗、海洋生活专题书籍",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "海滨步道党群点",
-    "metro": "8号线海山站",
-    "opening_hours": "全天24h",
-    "age_range": "3-14岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "梅沙湿地24小时书房",
-    "name": "梅沙湿地24小时书房",
-    "venue": "梅沙湿地24小时书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "梅沙候鸟24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "鸟类、滩涂生态科普藏书",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "大梅沙湿地旁",
-    "metro": "8号线大梅沙站",
-    "opening_hours": "全天24h",
-    "age_range": "4-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "盐田街道党群24h阅读点",
-    "name": "盐田街道党群24h阅读点",
-    "venue": "盐田街道党群24h阅读点",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "盐田街道24h社区书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "港口工业少儿科普读物",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "盐田港西片区",
-    "metro": "8号线盐田港西站",
-    "opening_hours": "全天24h",
-    "age_range": "6-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "北山社区口袋书房",
-    "name": "北山社区口袋书房",
-    "venue": "北山社区口袋书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "北山口袋24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "低龄幼儿绘本专属阅读角",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "北山居民片区",
-    "metro": "8号线北山站",
-    "opening_hours": "全天24h",
-    "age_range": "0-12岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "海山公园配套自助书房",
-    "name": "海山公园配套自助书房",
-    "venue": "海山公园配套自助书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "海山公园24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "公园休闲亲子阅读空间",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "海山公园内",
-    "metro": "8号线海山站",
-    "opening_hours": "全天24h",
-    "age_range": "3-13岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "沙头角老城社区书房",
-    "name": "沙头角老城社区书房",
-    "venue": "沙头角老城社区书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "沙头角老城24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "老城历史、岭南民俗绘本",
-    "category": "讲座阅读",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "沙头角老街区",
-    "metro": "8号线海山站",
-    "opening_hours": "全天24h",
-    "age_range": "4-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "三洲田红色24h书房",
-    "name": "三洲田红色24h书房",
-    "venue": "三洲田红色24h书房",
-    "city": "shenzhen",
-    "district": "其他",
-    "type": "三洲田首义24h书房",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "venue_url": "https://www.ytlib.yantian.org.cn/col/24h/",
-    "description": "红色革命、近代史专题藏书",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "线上预约",
-    "address": "三洲田纪念馆旁",
-    "metro": "公交M199",
-    "opening_hours": "全天24h",
-    "age_range": "7-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "official",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.ytlib.yantian.org.cn/col/24h/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "大梅沙海滨公园",
-    "name": "大梅沙海滨公园",
-    "venue": "大梅沙海滨公园",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "滨海综合公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.sz.gov.cn/",
-    "url": "https://www.sz.gov.cn/",
-    "venue_url": "https://www.sz.gov.cn/",
-    "description": "免费沙滩、海水浴场、儿童游乐沙池、滨海骑行道",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约，旺季限流",
-    "address": "盐田区大梅沙盐梅路9号",
-    "metro": "8号线大梅沙站",
-    "opening_hours": "6:00-22:00",
-    "age_range": "2-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.sz.gov.cn/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "小梅沙滨海公园（外围公益区）",
-    "name": "小梅沙滨海公园（外围公益区）",
-    "venue": "小梅沙滨海公园（外围公益区）",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "小众滨海公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.yantian.gov.cn/",
-    "url": "https://www.yantian.gov.cn/",
-    "venue_url": "https://www.yantian.gov.cn/",
-    "description": "平缓滩涂、观海栈道、小型儿童游乐区",
-    "category": "亲子活动",
-    "fee": "部分免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约",
-    "address": "盐田区小梅沙路",
-    "metro": "8号线小梅沙站",
-    "opening_hours": "全天开放",
-    "age_range": "3-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.yantian.gov.cn/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "沙头角海滨栈道公园",
-    "name": "沙头角海滨栈道公园",
-    "venue": "沙头角海滨栈道公园",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "城市滨海公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://sthjj.sz.gov.cn/",
-    "url": "https://sthjj.sz.gov.cn/",
-    "venue_url": "https://sthjj.sz.gov.cn/",
-    "description": "19.5公里滨海绿道、观景平台、日落打卡、亲子骑行",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约",
-    "address": "盐田区海景二路全线",
-    "metro": "8号线海山站",
-    "opening_hours": "全天开放",
-    "age_range": "2-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://sthjj.sz.gov.cn/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "三洲田森林公园",
-    "name": "三洲田森林公园",
-    "venue": "三洲田森林公园",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "森林郊野公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.sz.gov.cn/",
-    "url": "https://www.sz.gov.cn/",
-    "venue_url": "https://www.sz.gov.cn/",
-    "description": "山林徒步、水库湖泊、自然植物观察、红色研学点位",
-    "category": "其他",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约",
-    "address": "盐田区三洲田片区",
-    "metro": "公交M199",
-    "opening_hours": "6:00-19:00",
-    "age_range": "4-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.sz.gov.cn/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "海山公园",
-    "name": "海山公园",
-    "venue": "海山公园",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "山体休闲公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://www.yantian.gov.cn/",
-    "url": "https://www.yantian.gov.cn/",
-    "venue_url": "https://www.yantian.gov.cn/",
-    "description": "平缓登山道、大草坪、儿童无动力乐园、山海观景台",
-    "category": "亲子活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约",
-    "address": "盐田区海山路",
-    "metro": "8号线海山站",
-    "opening_hours": "6:00-22:00",
-    "age_range": "2-14岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://www.yantian.gov.cn/",
-        "label": "活动详情"
-      }
-    ]
-  },
-  {
-    "title": "大梅沙红树林湿地公园",
-    "name": "大梅沙红树林湿地公园",
-    "venue": "大梅沙红树林湿地公园",
-    "city": "shenzhen",
-    "district": "盐田区",
-    "type": "湿地生态公园",
-    "start_date": "2026-07-19",
-    "end_date": "2026-12-31",
-    "link": "https://sthjj.sz.gov.cn/",
-    "url": "https://sthjj.sz.gov.cn/",
-    "venue_url": "https://sthjj.sz.gov.cn/",
-    "description": "红树林滩涂、候鸟观测、潮汐科普、自然课堂",
-    "category": "科普活动",
-    "fee": "免费",
-    "contact": "",
-    "family_friendly": true,
-    "source": "other_shenzhen",
-    "booking_method": "免预约",
-    "address": "盐田区大梅沙北侧",
-    "metro": "8号线大梅沙站",
-    "opening_hours": "全天开放",
-    "age_range": "3-15岁",
-    "verification": {
-      "status": "verified",
-      "link_reachable": true,
-      "http_status": 200,
-      "source_type": "government",
-      "verified_at": "2026-07-19",
-      "verified_by": "domain_check"
-    },
-    "verified": false,
-    "links": [
-      {
-        "url": "https://sthjj.sz.gov.cn/",
         "label": "活动详情"
       }
     ]
